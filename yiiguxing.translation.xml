@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="658" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="elevation" />
       <item value="môn học" />
       <item value="moon hocj" />
       <item value="moon" />
@@ -53,7 +54,6 @@
       <item value="active day screen" />
       <item value="[ +837 ms] Eflutter (29099): [ERROR:flutterlibuiui_dart_state.cc(186)] Unhandled Exception: Unhandled error Could not find a generator for route RouteSettings(&quot;active_day_screen&quot;, null) in the _WidgetsAppState." />
       <item value="must be immutable" />
-      <item value="This class (or a class that this class inherits from) is marked as '@immutable', but one or more of its instance" />
     </histories>
     <option name="languageScores">
       <map>
