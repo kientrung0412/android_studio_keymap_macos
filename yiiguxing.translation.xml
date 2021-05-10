@@ -1,9 +1,15 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="509" />
+    <option name="newTranslationDialogWidth" value="507" />
     <option name="newTranslationDialogX" value="658" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="điểm" />
+      <item value="đ" />
+      <item value="dieemd" />
+      <item value="mark" />
+      <item value="mar" />
+      <item value="The ownership chain for the RenderObject that received the incompatible parent data was:" />
       <item value="Keystore was tampered with, or password was incorrect" />
       <item value="indicator Size" />
       <item value="false" />
@@ -48,12 +54,6 @@
       <item value="hoạt động trong ngày" />
       <item value="hoạt động " />
       <item value="Student Assessment" />
-      <item value="Unable to determine application id: com.android.tools.idea.run.ApkProvisionException: No outputs for the main artifact of variant: debug" />
-      <item value="Nâng cấp đăng ký thực đơn" />
-      <item value="Nâng cấp đăng ký thược đơn" />
-      <item value="Nâng cấp đăng ký th" />
-      <item value="Nâng cấp đăng ký" />
-      <item value="Upgrade subscriptions" />
     </histories>
     <option name="languageScores">
       <map>
