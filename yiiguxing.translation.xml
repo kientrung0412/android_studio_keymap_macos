@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="658" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="is Active" />
+      <item value="is Accepted" />
+      <item value="get Tab Indicator Count" />
       <item value="fetch Compensate Data" />
       <item value="elevation" />
       <item value="môn học" />
@@ -51,9 +54,6 @@
       <item value="b" />
       <item value="kiể" />
       <item value="hàng ngày" />
-      <item value="Either the assertion indicates an error in the framework itself, or we should provide substantially more information in this error message to help you determine and fix the underlying cause." />
-      <item value="active day screen" />
-      <item value="[ +837 ms] Eflutter (29099): [ERROR:flutterlibuiui_dart_state.cc(186)] Unhandled Exception: Unhandled error Could not find a generator for route RouteSettings(&quot;active_day_screen&quot;, null) in the _WidgetsAppState." />
     </histories>
     <option name="languageScores">
       <map>
