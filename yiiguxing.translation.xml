@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="658" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="must be immutable" />
       <item value="The element type 'List&lt;Widget&gt;' can't be assigned to the list type 'Widget'. (Documentation)" />
       <item value="báo cáo học tập" />
       <item value="báo ca" />
@@ -53,7 +54,6 @@
       <item value="ac" />
       <item value="điểm chuyên cần" />
       <item value="attendance score" />
-      <item value="điểm danh ăn" />
     </histories>
     <option name="languageScores">
       <map>
