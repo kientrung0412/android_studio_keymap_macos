@@ -6,8 +6,10 @@
         <entry key="..\:/OMT/BacGiang/KO/BG_KO_Teacher/app/src/main/res/drawable/logo.xml" value="0.1" />
         <entry key="..\:/OMT/CO/co_parent_v3/app/src/main/res/layout/activity_survey_detail.xml" value="0.1" />
         <entry key="..\:/OMT/CO/co_parent_v3/app/src/main/res/layout/item_survey.xml" value="0.1" />
+        <entry key="..\:/OMT/CO/co_teacher/app/src/main/res/layout/activity_absent_detail.xml" value="0.1" />
         <entry key="..\:/OMT/CO/co_teacher/app/src/main/res/layout/activity_attendance.xml" value="0.36" />
         <entry key="..\:/OMT/CO/co_teacher/app/src/main/res/layout/activity_homework.xml" value="0.1" />
+        <entry key="..\:/OMT/CO/co_teacher/app/src/main/res/layout/activity_super.xml" value="0.1" />
         <entry key="..\:/OMT/CO/co_teacher/app/src/main/res/layout/fragment_attendance_come.xml" value="0.365625" />
         <entry key="..\:/OMT/CO/co_teacher/app/src/main/res/layout/item_student_attendance.xml" value="0.365625" />
         <entry key="..\:/OMT/KO/KO_Manager/app/src/main/res/layout/item_diligence_attendance_result.xml" value="0.1" />
