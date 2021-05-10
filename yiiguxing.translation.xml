@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="658" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="grade" />
+      <item value="grade&#10;" />
+      <item value="Sổ điểm &amp; Báo cáo" />
+      <item value="Gradebook &amp; Report" />
       <item value="A RenderFlex overflowed by 43 pixels on the bottom.&#10;" />
       <item value="A RenderFlex overflowed by 43 pixels on the bottom." />
       <item value="Điểm văn minh" />
@@ -50,10 +54,6 @@
       <item value="Nâng cấp đă " />
       <item value="Nâng cấp  " />
       <item value="Upgrade subscription " />
-      <item value="Upgrade subscription đa" />
-      <item value="Upgrade subscription đăng " />
-      <item value="Upgrade subscription re" />
-      <item value="Upgrade subscription to eat" />
     </histories>
     <option name="languageScores">
       <map>
@@ -76,7 +76,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620183190083" />
+    <option name="lastTrimTime" value="1620616277843" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
