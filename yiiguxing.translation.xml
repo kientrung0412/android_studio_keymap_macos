@@ -1,9 +1,16 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="450" />
+    <option name="newTranslationDialogWidth" value="509" />
     <option name="newTranslationDialogX" value="658" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="false" />
+      <item value="fales" />
+      <item value="f" />
+      <item value="Sai lầm" />
+      <item value="wrong" />
+      <item value="sai" />
+      <item value="To introduce a Material widget, you can either directly include one, or use a widget that contains Material itself, such as a Card, Dialog, Drawer, or Scaffold." />
       <item value="grade" />
       <item value="grade&#10;" />
       <item value="Sổ điểm &amp; Báo cáo" />
@@ -47,13 +54,6 @@
       <item value="Upgrade subscriptions" />
       <item value="Nâng cấp đăng ký ăn" />
       <item value="Nâng cấp đăng ký a" />
-      <item value="Nâng cấp đăng ký ăn " />
-      <item value="Nâng cấp đăng ký  " />
-      <item value="Nâng cấp đăng ký " />
-      <item value="Nâng cấp đăng  " />
-      <item value="Nâng cấp đă " />
-      <item value="Nâng cấp  " />
-      <item value="Upgrade subscription " />
     </histories>
     <option name="languageScores">
       <map>
