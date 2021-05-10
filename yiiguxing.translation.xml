@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="658" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="Usually, this means that the Expanded widget has the wrong ancestor RenderObjectWidget. Typically, Expanded widgets are placed directly inside Flex widgets." />
       <item value="The ParentDataWidget Expanded(flex: 1) wants to apply ParentData of type FlexParentData to a RenderObject, which has been set up to accept ParentData of incompatible type BoxParentData." />
       <item value="điểm" />
       <item value="đ" />
@@ -53,7 +54,6 @@
       <item value="late" />
       <item value="Active Day Initial" />
       <item value="hoạt động trong ngày" />
-      <item value="hoạt động " />
     </histories>
     <option name="languageScores">
       <map>
