@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="658" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="initialized" />
       <item value="điểm" />
       <item value="Bóa cáo học tập" />
       <item value="baos " />
@@ -53,7 +54,6 @@
       <item value="Gradebook &amp; Report" />
       <item value="A RenderFlex overflowed by 43 pixels on the bottom.&#10;" />
       <item value="A RenderFlex overflowed by 43 pixels on the bottom." />
-      <item value="Điểm văn minh" />
     </histories>
     <option name="languageScores">
       <map>
