@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="658" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="Too many positional arguments" />
       <item value="side" />
       <item value="The exception occurred during the creation of type DiligenceBloc." />
       <item value="Tried to read a provider that threw during the creation of its value." />
@@ -53,7 +54,6 @@
       <item value="is Accepted" />
       <item value="get Tab Indicator Count" />
       <item value="fetch Compensate Data" />
-      <item value="elevation" />
     </histories>
     <option name="languageScores">
       <map>
