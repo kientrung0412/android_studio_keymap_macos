@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="658" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="max Grade" />
       <item value="is not a subtype of type" />
       <item value="Unhandled error type" />
       <item value="Unhandled error type 'SchoolYearWeeksLoaded' is not a subtype of type 'GradebookReportEvent' of 'event' occurred in Instance of 'GradeBookReportBloc'." />
@@ -53,7 +54,6 @@
       <item value="đ" />
       <item value="dieemd" />
       <item value="mark" />
-      <item value="mar" />
     </histories>
     <option name="languageScores">
       <map>
