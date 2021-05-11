@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="658" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="is not a subtype of type" />
+      <item value="Unhandled error type" />
+      <item value="Unhandled error type 'SchoolYearWeeksLoaded' is not a subtype of type 'GradebookReportEvent' of 'event' occurred in Instance of 'GradeBookReportBloc'." />
+      <item value="[ +157 ms] Eflutter (21599): [ERROR:flutterlibuiui_dart_state.cc(186)] Unhandled Exception: Unhandled error type 'SchoolYearWeeksLoaded' is not a subtype of type 'GradebookReportEvent' of 'data' occurred in Instance of 'GradeBookReportBloc'." />
+      <item value="Try correcting the name to match an existing function, or define a method or function named 'NetworkError'." />
+      <item value="Network Error" />
       <item value="reduce" />
       <item value="current" />
       <item value="previous" />
@@ -48,12 +54,6 @@
       <item value="dieemd" />
       <item value="mark" />
       <item value="mar" />
-      <item value="The ownership chain for the RenderObject that received the incompatible parent data was:" />
-      <item value="Keystore was tampered with, or password was incorrect" />
-      <item value="indicator Size" />
-      <item value="false" />
-      <item value="fales" />
-      <item value="f" />
     </histories>
     <option name="languageScores">
       <map>
