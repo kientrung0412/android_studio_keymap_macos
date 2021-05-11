@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="658" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="current" />
+      <item value="previous" />
       <item value="Null check operator used on a null value" />
       <item value="The non-nullable local variable 'schoolYearWeeksSelect' must be assigned before it can be used." />
       <item value="The element type 'SchoolYearWeeks?' can't be assigned to the list type 'Object'. (Documentation)" />
@@ -52,8 +54,6 @@
       <item value="fales" />
       <item value="f" />
       <item value="Sai lầm" />
-      <item value="wrong" />
-      <item value="sai" />
     </histories>
     <option name="languageScores">
       <map>
