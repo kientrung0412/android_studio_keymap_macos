@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="658" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="The exception occurred during the creation of type GradebookReportBloc." />
+      <item value="Bad state: Tried to read a provider that threw during the creation of its value." />
       <item value="{@template equatable_props} The list of properties that will be used to determine whether two instances are equal. {@endtemplate}" />
       <item value="initialized" />
       <item value="điểm" />
@@ -52,8 +54,6 @@
       <item value="grade" />
       <item value="grade&#10;" />
       <item value="Sổ điểm &amp; Báo cáo" />
-      <item value="Gradebook &amp; Report" />
-      <item value="A RenderFlex overflowed by 43 pixels on the bottom.&#10;" />
     </histories>
     <option name="languageScores">
       <map>
