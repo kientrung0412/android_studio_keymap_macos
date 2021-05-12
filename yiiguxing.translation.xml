@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="658" />
     <option name="newTranslationDialogY" value="339" />
     <histories>
+      <item value="vacation history" />
       <item value="hình tròn" />
       <item value="hinhf tronf" />
       <item value="Too many positional arguments" />
@@ -53,7 +54,6 @@
       <item value="medication" />
       <item value="prescriptions" />
       <item value="is Active" />
-      <item value="is Accepted" />
     </histories>
     <option name="languageScores">
       <map>
