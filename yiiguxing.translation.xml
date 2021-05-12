@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1076" />
     <option name="newTranslationDialogY" value="461" />
     <histories>
+      <item value="Vertical viewport was given unbounded height." />
+      <item value="RenderFlex children have non-zero flex but incoming height constraints are unbounded." />
       <item value="elevation" />
       <item value="Attendance" />
       <item value="DUploadTask: Failed to upload: 3 due to Access Denied (Service: Amazon S3; Status Code: 403; Error Code: AccessDenied; Request ID: QDP863T63TZM12R8)" />
@@ -52,8 +54,6 @@
       <item value="The default value of an optional parameter must be constant. (Documentation)" />
       <item value="fill Range" />
       <item value="The exception occurred during the creation of type GradebookReportBloc." />
-      <item value="Bad state: Tried to read a provider that threw during the creation of its value." />
-      <item value="{@template equatable_props} The list of properties that will be used to determine whether two instances are equal. {@endtemplate}" />
     </histories>
     <option name="languageScores">
       <map>
