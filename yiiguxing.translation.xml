@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1076" />
     <option name="newTranslationDialogY" value="461" />
     <histories>
+      <item value="The widget shown in the expanded state" />
+      <item value="Builds an Expandable object, optional" />
       <item value="collapsed" />
       <item value="Vertical viewport was given unbounded height." />
       <item value="RenderFlex children have non-zero flex but incoming height constraints are unbounded." />
@@ -52,8 +54,6 @@
       <item value="Null check operator used on a null value" />
       <item value="The non-nullable local variable 'schoolYearWeeksSelect' must be assigned before it can be used." />
       <item value="The element type 'SchoolYearWeeks?' can't be assigned to the list type 'Object'. (Documentation)" />
-      <item value="The default value of an optional parameter must be constant. (Documentation)" />
-      <item value="fill Range" />
     </histories>
     <option name="languageScores">
       <map>
