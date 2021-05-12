@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1076" />
     <option name="newTranslationDialogY" value="461" />
     <histories>
+      <item value="DUploadTask: Failed to upload: 3 due to Access Denied (Service: Amazon S3; Status Code: 403; Error Code: AccessDenied; Request ID: QDP863T63TZM12R8)" />
       <item value="state ò province&#10;" />
       <item value="state ò provi" />
       <item value="state ò " />
@@ -53,7 +54,6 @@
       <item value="{@template equatable_props} The list of properties that will be used to determine whether two instances are equal. {@endtemplate}" />
       <item value="initialized" />
       <item value="điểm" />
-      <item value="Bóa cáo học tập" />
     </histories>
     <option name="languageScores">
       <map>
