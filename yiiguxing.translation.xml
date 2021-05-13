@@ -1,9 +1,19 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="576" />
+    <option name="newTranslationDialogWidth" value="570" />
     <option name="newTranslationDialogX" value="1076" />
     <option name="newTranslationDialogY" value="461" />
     <histories>
+      <item value="màu cam" />
+      <item value="mauf cammau" />
+      <item value="mauf cam" />
+      <item value="attendance history" />
+      <item value="attendance history sử" />
+      <item value="lịch sử tham dự" />
+      <item value="lịch sử chuyên cần" />
+      <item value="lichj suwr chuyee" />
+      <item value="lichj suwr chuyeen" />
+      <item value="lic" />
       <item value="chuyên cần" />
       <item value="chuyeen " />
       <item value="Leave" />
@@ -44,16 +54,6 @@
       <item value="diligence" />
       <item value="chuyên cần&#10;" />
       <item value="class type" />
-      <item value="term assessment" />
-      <item value="max Grade" />
-      <item value="is not a subtype of type" />
-      <item value="Unhandled error type" />
-      <item value="Unhandled error type 'SchoolYearWeeksLoaded' is not a subtype of type 'GradebookReportEvent' of 'event' occurred in Instance of 'GradeBookReportBloc'." />
-      <item value="[ +157 ms] Eflutter (21599): [ERROR:flutterlibuiui_dart_state.cc(186)] Unhandled Exception: Unhandled error type 'SchoolYearWeeksLoaded' is not a subtype of type 'GradebookReportEvent' of 'data' occurred in Instance of 'GradeBookReportBloc'." />
-      <item value="Try correcting the name to match an existing function, or define a method or function named 'NetworkError'." />
-      <item value="Network Error" />
-      <item value="reduce" />
-      <item value="current" />
     </histories>
     <option name="languageScores">
       <map>
