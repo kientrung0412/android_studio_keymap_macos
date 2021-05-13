@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1076" />
     <option name="newTranslationDialogY" value="461" />
     <histories>
+      <item value="Equatable" />
       <item value="màu cam" />
       <item value="mauf cammau" />
       <item value="mauf cam" />
@@ -53,7 +54,6 @@
       <item value="Tried to read a provider that threw during the creation of its value. The exception occurred during the creation of type DiligenceBloc." />
       <item value="diligence" />
       <item value="chuyên cần&#10;" />
-      <item value="class type" />
     </histories>
     <option name="languageScores">
       <map>
