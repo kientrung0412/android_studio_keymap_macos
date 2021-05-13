@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="489" />
+    <option name="newTranslationDialogWidth" value="576" />
     <option name="newTranslationDialogX" value="1076" />
     <option name="newTranslationDialogY" value="461" />
     <histories>
+      <item value="chuyên cần" />
+      <item value="chuyeen " />
       <item value="Leave" />
       <item value="nghỉ học" />
       <item value="The widget shown in the expanded state" />
@@ -52,8 +54,6 @@
       <item value="Network Error" />
       <item value="reduce" />
       <item value="current" />
-      <item value="previous" />
-      <item value="Null check operator used on a null value" />
     </histories>
     <option name="languageScores">
       <map>
