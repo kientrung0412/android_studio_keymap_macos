@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1076" />
     <option name="newTranslationDialogY" value="461" />
     <histories>
+      <item value="Incorrect use of ParentDataWidget." />
       <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0." />
       <item value="&gt; No matching configuration of project :commentModule was found. The consumer was configured to find an API of a component, as well as attribute 'com.android.build.api.attributes.BuildTypeAttr' with value 'debug' but:" />
       <item value="disturb&#10;" />
@@ -53,7 +54,6 @@
       <item value="hình tròn" />
       <item value="hinhf tronf" />
       <item value="Too many positional arguments" />
-      <item value="side" />
     </histories>
     <option name="languageScores">
       <map>
