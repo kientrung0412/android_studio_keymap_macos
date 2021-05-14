@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1076" />
     <option name="newTranslationDialogY" value="461" />
     <histories>
+      <item value="&gt; No matching configuration of project :commentModule was found. The consumer was configured to find an API of a component, as well as attribute 'com.android.build.api.attributes.BuildTypeAttr' with value 'debug' but:" />
       <item value="disturb&#10;" />
       <item value="&gt; No matching configuration of project :attendance_module was found. The consumer was configured to find an API of a component, as well as attribute 'com.android.build.api.attributes.BuildTypeAttr' with value 'debug' but:" />
       <item value="Caused by: android.content.res.ResourcesNotFoundException: File resdrawablesplash.xml from drawable resource ID 0x7f080454" />
@@ -53,7 +54,6 @@
       <item value="Too many positional arguments" />
       <item value="side" />
       <item value="The exception occurred during the creation of type DiligenceBloc." />
-      <item value="Tried to read a provider that threw during the creation of its value." />
     </histories>
     <option name="languageScores">
       <map>
