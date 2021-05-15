@@ -1,9 +1,15 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="570" />
+    <option name="newTranslationDialogWidth" value="568" />
     <option name="newTranslationDialogX" value="1076" />
     <option name="newTranslationDialogY" value="461" />
     <histories>
+      <item value="Quên mật khẩu" />
+      <item value="Forgot password" />
+      <item value="quên mật khẩu" />
+      <item value="quên mât" />
+      <item value="quên ma" />
+      <item value="quê" />
       <item value="Incorrect use of ParentDataWidget." />
       <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0." />
       <item value="&gt; No matching configuration of project :commentModule was found. The consumer was configured to find an API of a component, as well as attribute 'com.android.build.api.attributes.BuildTypeAttr' with value 'debug' but:" />
@@ -48,12 +54,6 @@
       <item value="organiza" />
       <item value="organi" />
       <item value="orga" />
-      <item value="or" />
-      <item value="ỏ" />
-      <item value="vacation history" />
-      <item value="hình tròn" />
-      <item value="hinhf tronf" />
-      <item value="Too many positional arguments" />
     </histories>
     <option name="languageScores">
       <map>
