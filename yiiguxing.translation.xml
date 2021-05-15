@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1076" />
     <option name="newTranslationDialogY" value="461" />
     <histories>
+      <item value="inset Padding" />
       <item value="Quên mật khẩu" />
       <item value="Forgot password" />
       <item value="quên mật khẩu" />
@@ -53,7 +54,6 @@
       <item value="organization" />
       <item value="organiza" />
       <item value="organi" />
-      <item value="orga" />
     </histories>
     <option name="languageScores">
       <map>
@@ -76,7 +76,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620616277843" />
+    <option name="lastTrimTime" value="1621051798064" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
