@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1076" />
     <option name="newTranslationDialogY" value="461" />
     <histories>
+      <item value="thưviện" />
       <item value="he view is not a child of CoordinatorLayout" />
       <item value="ScrollView can host only one direct child" />
       <item value="Course" />
@@ -53,7 +54,6 @@
       <item value="s" />
       <item value="sat" />
       <item value="organizational unit" />
-      <item value="organizationnal unit" />
     </histories>
     <option name="languageScores">
       <map>
