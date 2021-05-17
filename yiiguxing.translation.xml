@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1076" />
     <option name="newTranslationDialogY" value="461" />
     <histories>
+      <item value="resolve Activity" />
+      <item value="Save a file: path for use with ACTION_VIEW intents" />
       <item value="thưviện" />
       <item value="he view is not a child of CoordinatorLayout" />
       <item value="ScrollView can host only one direct child" />
@@ -52,8 +54,6 @@
       <item value="state " />
       <item value="sta" />
       <item value="s" />
-      <item value="sat" />
-      <item value="organizational unit" />
     </histories>
     <option name="languageScores">
       <map>
