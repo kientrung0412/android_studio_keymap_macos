@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1076" />
     <option name="newTranslationDialogY" value="461" />
     <histories>
+      <item value="with matching arguments declared in class" />
       <item value="Couldn't find meta-data for provider with authority com.example.android.fileprovider" />
       <item value="resolve Activity" />
       <item value="Save a file: path for use with ACTION_VIEW intents" />
@@ -53,7 +54,6 @@
       <item value="state ò provi" />
       <item value="state ò " />
       <item value="state " />
-      <item value="sta" />
     </histories>
     <option name="languageScores">
       <map>
