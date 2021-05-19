@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="564" />
+    <option name="newTranslationDialogWidth" value="560" />
     <option name="newTranslationDialogX" value="1076" />
     <option name="newTranslationDialogY" value="461" />
     <histories>
+      <item value="The list of properties that will be used to determine whether two instances are equal." />
+      <item value="gốc" />
+      <item value="tiết học" />
+      <item value="têi" />
       <item value="Unhandled Exception: Null check operator used on a null value" />
       <item value="đổi" />
       <item value="The specified Android SDK Build Tools version (29.0.3) is ignored, as it is below the minimum supported version (30.0.2) for Android Gradle Plugin 4.2.0." />
@@ -50,10 +54,6 @@
       <item value="attendance history sử" />
       <item value="lịch sử tham dự" />
       <item value="lịch sử chuyên cần" />
-      <item value="lichj suwr chuyee" />
-      <item value="lichj suwr chuyeen" />
-      <item value="lic" />
-      <item value="chuyên cần" />
     </histories>
     <option name="languageScores">
       <map>
