@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="1076" />
     <option name="newTranslationDialogY" value="461" />
     <histories>
+      <item value="Eflutter ( 5644): [ERROR:flutterlibuiui_dart_state.cc(186)] Unhandled Exception: Unhandled error type 'String' is not a subtype of type 'int' of 'index' occurred in Instance of 'DiligenceBloc'." />
+      <item value="Unhandled error type 'String' is not a subtype of type 'int' of 'index' occurred in Instance of 'DiligenceBloc'." />
+      <item value="Unhandled error type 'String' is not a subtype of type 'int' of 'index' occurred in Instance of 'DiligenceBloc'" />
       <item value="The list of properties that will be used to determine whether two instances are equal." />
       <item value="gốc" />
       <item value="tiết học" />
@@ -51,9 +54,6 @@
       <item value="mauf cammau" />
       <item value="mauf cam" />
       <item value="attendance history" />
-      <item value="attendance history sử" />
-      <item value="lịch sử tham dự" />
-      <item value="lịch sử chuyên cần" />
     </histories>
     <option name="languageScores">
       <map>
