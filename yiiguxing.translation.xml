@@ -1,12 +1,15 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="554" />
+    <option name="newTranslationDialogWidth" value="552" />
     <option name="newTranslationDialogX" value="1076" />
     <option name="newTranslationDialogY" value="461" />
     <histories>
+      <item value="cảnh báo" />
+      <item value="c" />
+      <item value="ca" />
+      <item value="canhr c" />
       <item value="tạo" />
       <item value="taoj" />
-      <item value="cảnh báo" />
       <item value="can" />
       <item value="canhr" />
       <item value="canhr baos" />
@@ -51,9 +54,6 @@
       <item value="Forgot password" />
       <item value="quên mật khẩu" />
       <item value="quên mât" />
-      <item value="quên ma" />
-      <item value="quê" />
-      <item value="Incorrect use of ParentDataWidget." />
     </histories>
     <option name="languageScores">
       <map>
