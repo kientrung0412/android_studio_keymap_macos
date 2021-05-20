@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1076" />
     <option name="newTranslationDialogY" value="461" />
     <histories>
+      <item value="Eflutter (16215): [ERROR:flutterlibuiui_dart_state.cc(186)] Unhandled Exception: Unhandled error Bad state: No element occurred in Instance of 'DiligenceBloc'." />
       <item value="cảnh báo" />
       <item value="c" />
       <item value="ca" />
@@ -53,7 +54,6 @@
       <item value="Quên mật khẩu" />
       <item value="Forgot password" />
       <item value="quên mật khẩu" />
-      <item value="quên mât" />
     </histories>
     <option name="languageScores">
       <map>
