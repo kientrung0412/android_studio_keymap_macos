@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="558" />
+    <option name="newTranslationDialogWidth" value="556" />
     <option name="newTranslationDialogX" value="1076" />
     <option name="newTranslationDialogY" value="461" />
     <histories>
+      <item value="cảnh báo" />
+      <item value="can" />
+      <item value="canhr" />
+      <item value="canhr baos" />
       <item value="gốc" />
       <item value="gô" />
       <item value="previous" />
@@ -50,10 +54,6 @@
       <item value="Incorrect use of ParentDataWidget." />
       <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0." />
       <item value="&gt; No matching configuration of project :commentModule was found. The consumer was configured to find an API of a component, as well as attribute 'com.android.build.api.attributes.BuildTypeAttr' with value 'debug' but:" />
-      <item value="disturb&#10;" />
-      <item value="&gt; No matching configuration of project :attendance_module was found. The consumer was configured to find an API of a component, as well as attribute 'com.android.build.api.attributes.BuildTypeAttr' with value 'debug' but:" />
-      <item value="Caused by: android.content.res.ResourcesNotFoundException: File resdrawablesplash.xml from drawable resource ID 0x7f080454" />
-      <item value="Equatable" />
     </histories>
     <option name="languageScores">
       <map>
