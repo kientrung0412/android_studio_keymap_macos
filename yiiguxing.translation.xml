@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1076" />
     <option name="newTranslationDialogY" value="461" />
     <histories>
+      <item value="When SmartRefresher is init,it will call requestRefresh at once" />
       <item value="Valid value range is empty: 0" />
       <item value="tiếng anh" />
       <item value="PREF KEY CURRENT LANGUAGE" />
@@ -53,7 +54,6 @@
       <item value="ScrollView can host only one direct child" />
       <item value="Course" />
       <item value="ASSESSMENT BOTH" />
-      <item value="and provides access to focus information and actions to its descendant widgets." />
     </histories>
     <option name="languageScores">
       <map>
