@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1076" />
     <option name="newTranslationDialogY" value="461" />
     <histories>
+      <item value="vacation history widget" />
       <item value="Try correcting the name to match an existing function, or define a method or function named" />
       <item value="'SelectDayAbsentBus' isn't a function. (Documentation)" />
       <item value="The method 'build' isn't defined in a superclass of 'DetailAbsentScreen'. (Documentation)" />
@@ -53,7 +54,6 @@
       <item value="Couldn't find meta-data for provider with authority com.example.android.fileprovider" />
       <item value="resolve Activity" />
       <item value="Save a file: path for use with ACTION_VIEW intents" />
-      <item value="thưviện" />
     </histories>
     <option name="languageScores">
       <map>
