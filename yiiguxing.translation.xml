@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1076" />
     <option name="newTranslationDialogY" value="461" />
     <histories>
+      <item value="The method 'build' isn't defined in a superclass of 'DetailAbsentScreen'. (Documentation)" />
       <item value="If this widget is always nested in a scrollable widget there is no need to use a viewport because there will always be enough vertical space for the children. In this case, consider using a Column instead. Otherwise, consider using the &quot;shrinkWrap&quot; property (or a ShrinkWrappingViewport) to size the height of the viewport to the sum of the heights of its children." />
       <item value="When SmartRefresher is init,it will call requestRefresh at once" />
       <item value="Valid value range is empty: 0" />
@@ -53,7 +54,6 @@
       <item value="thưviện" />
       <item value="he view is not a child of CoordinatorLayout" />
       <item value="ScrollView can host only one direct child" />
-      <item value="Course" />
     </histories>
     <option name="languageScores">
       <map>
