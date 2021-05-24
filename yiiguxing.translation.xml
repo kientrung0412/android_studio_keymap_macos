@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="546" />
+    <option name="newTranslationDialogWidth" value="544" />
     <option name="newTranslationDialogX" value="1076" />
     <option name="newTranslationDialogY" value="461" />
     <histories>
+      <item value="lọc" />
       <item value="Bài tậpvề " />
       <item value="Bài" />
       <item value="HOME" />
@@ -53,7 +54,6 @@
       <item value="The specified Android SDK Build Tools version (29.0.3) is ignored, as it is below the minimum supported version (30.0.2) for Android Gradle Plugin 4.2.0." />
       <item value="Cannot declare interface App\Repositories\Eloquent\Bus\BusAbsentRepositoryInterface, because the name is already in use (500 Internal Server Error)" />
       <item value="absent period" />
-      <item value="ngôn ngữ" />
     </histories>
     <option name="languageScores">
       <map>
