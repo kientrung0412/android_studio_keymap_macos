@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="1076" />
     <option name="newTranslationDialogY" value="461" />
     <histories>
+      <item value="thống kê học viên" />
+      <item value="thống kê " />
+      <item value="descendant Focusability" />
       <item value="báo cáo học viên" />
       <item value="báo cai" />
       <item value="diligent" />
@@ -51,9 +54,6 @@
       <item value="is not in the buffer pool" />
       <item value="Assignment Grades" />
       <item value="Field 'apiRepository' has already been initialized." />
-      <item value="thnahf coong" />
-      <item value="Unhandled Exception: RangeError (index): Invalid value: Only valid value is 0: 1" />
-      <item value="with matching arguments declared in class" />
     </histories>
     <option name="languageScores">
       <map>
