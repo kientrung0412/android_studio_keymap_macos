@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1076" />
     <option name="newTranslationDialogY" value="461" />
     <histories>
+      <item value="use Course" />
       <item value="đánh giá hàng ngày" />
       <item value="đnhs giá hàng ngày" />
       <item value="đnhs giá hnahf" />
@@ -53,7 +54,6 @@
       <item value="lấy " />
       <item value="LANG" />
       <item value="baos " />
-      <item value="identical" />
     </histories>
     <option name="languageScores">
       <map>
