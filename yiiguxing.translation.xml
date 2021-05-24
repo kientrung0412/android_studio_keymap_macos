@@ -1,9 +1,18 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="550" />
+    <option name="newTranslationDialogWidth" value="548" />
     <option name="newTranslationDialogX" value="1076" />
     <option name="newTranslationDialogY" value="461" />
     <histories>
+      <item value="refund" />
+      <item value="refun" />
+      <item value="refune" />
+      <item value="rèun" />
+      <item value="re" />
+      <item value="Hoàn trả" />
+      <item value="H" />
+      <item value="Hong" />
+      <item value="hoanf trat" />
       <item value="The Flutter directory is not a clone of the GitHub project. The flutter tool requires Git in order to operate properly; to set up Flutter, run the following command:" />
       <item value="course Id" />
       <item value="thống kê học viên" />
@@ -45,15 +54,6 @@
       <item value="têi" />
       <item value="Unhandled Exception: Null check operator used on a null value" />
       <item value="đổi" />
-      <item value="The specified Android SDK Build Tools version (29.0.3) is ignored, as it is below the minimum supported version (30.0.2) for Android Gradle Plugin 4.2.0." />
-      <item value="Cannot declare interface App\Repositories\Eloquent\Bus\BusAbsentRepositoryInterface, because the name is already in use (500 Internal Server Error)" />
-      <item value="absent period" />
-      <item value="ngôn ngữ" />
-      <item value="lấy " />
-      <item value="LANG" />
-      <item value="baos " />
-      <item value="identical" />
-      <item value="is not in the buffer pool" />
     </histories>
     <option name="languageScores">
       <map>
