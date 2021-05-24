@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="550" />
+    <option name="newTranslationDialogWidth" value="548" />
     <option name="newTranslationDialogX" value="1076" />
     <option name="newTranslationDialogY" value="461" />
     <histories>
+      <item value="đánh giá hàng ngày" />
+      <item value="đnhs giá hàng ngày" />
+      <item value="đnhs giá hnahf" />
+      <item value="đ" />
       <item value="Android-added: (internal only): ISO 639-3 generic code for undetermined languages." />
       <item value="đơn vị" />
       <item value="unit" />
@@ -50,10 +54,6 @@
       <item value="LANG" />
       <item value="baos " />
       <item value="identical" />
-      <item value="is not in the buffer pool" />
-      <item value="Assignment Grades" />
-      <item value="Field 'apiRepository' has already been initialized." />
-      <item value="thnahf coong" />
     </histories>
     <option name="languageScores">
       <map>
