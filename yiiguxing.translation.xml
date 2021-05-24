@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1076" />
     <option name="newTranslationDialogY" value="461" />
     <histories>
+      <item value="The Flutter directory is not a clone of the GitHub project. The flutter tool requires Git in order to operate properly; to set up Flutter, run the following command:" />
       <item value="course Id" />
       <item value="thống kê học viên" />
       <item value="thống kê " />
@@ -53,7 +54,6 @@
       <item value="baos " />
       <item value="identical" />
       <item value="is not in the buffer pool" />
-      <item value="Assignment Grades" />
     </histories>
     <option name="languageScores">
       <map>
