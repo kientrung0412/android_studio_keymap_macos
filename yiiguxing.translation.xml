@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="1076" />
     <option name="newTranslationDialogY" value="461" />
     <histories>
+      <item value="Could not find the correct Provider&lt;HomeworkCubit&gt; above this BlocBuilder&lt;HomeworkCubit, HomeworkState&gt; Widget" />
+      <item value="If none of these solutions work, consider asking for help on StackOverflow:" />
+      <item value="gốc" />
+      <item value="data Orinal" />
       <item value="food" />
       <item value="meals" />
       <item value="meal" />
@@ -50,10 +54,6 @@
       <item value="can" />
       <item value="canhr" />
       <item value="canhr baos" />
-      <item value="gốc" />
-      <item value="gô" />
-      <item value="previous" />
-      <item value="Eflutter ( 9335): [ERROR:flutterlibuiui_dart_state.cc(186)] Unhandled Exception: RangeError (index): Invalid value: Valid value range is empty: 0" />
     </histories>
     <option name="languageScores">
       <map>
