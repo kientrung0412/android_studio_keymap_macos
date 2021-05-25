@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1076" />
     <option name="newTranslationDialogY" value="461" />
     <histories>
+      <item value="previous" />
       <item value="Could not find the correct Provider&lt;HomeworkCubit&gt; above this BlocBuilder&lt;HomeworkCubit, HomeworkState&gt; Widget" />
       <item value="If none of these solutions work, consider asking for help on StackOverflow:" />
       <item value="gốc" />
@@ -53,7 +54,6 @@
       <item value="taoj" />
       <item value="can" />
       <item value="canhr" />
-      <item value="canhr baos" />
     </histories>
     <option name="languageScores">
       <map>
