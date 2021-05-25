@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1076" />
     <option name="newTranslationDialogY" value="461" />
     <histories>
+      <item value="Homework Initial" />
       <item value="luôn luôn" />
       <item value="l" />
       <item value="bold" />
@@ -53,7 +54,6 @@
       <item value="ddee" />
       <item value="Eflutter ( 5644): [ERROR:flutterlibuiui_dart_state.cc(186)] Unhandled Exception: Unhandled error type 'String' is not a subtype of type 'int' of 'index' occurred in Instance of 'DiligenceBloc'." />
       <item value="Unhandled error type 'String' is not a subtype of type 'int' of 'index' occurred in Instance of 'DiligenceBloc'." />
-      <item value="Unhandled error type 'String' is not a subtype of type 'int' of 'index' occurred in Instance of 'DiligenceBloc'" />
     </histories>
     <option name="languageScores">
       <map>
