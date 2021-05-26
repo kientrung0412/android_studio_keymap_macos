@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="540" />
+    <option name="newTranslationDialogWidth" value="538" />
     <option name="newTranslationDialogX" value="1076" />
     <option name="newTranslationDialogY" value="461" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Detector" />
+      <item value="Gesture " />
+      <item value="Gesture Detector" />
       <item value="unrestricted" />
       <item value="replace" />
       <item value="controls Hide Time" />
@@ -51,9 +55,6 @@
       <item value="Android-added: (internal only): ISO 639-3 generic code for undetermined languages." />
       <item value="đơn vị" />
       <item value="unit" />
-      <item value="đơn vị tiền" />
-      <item value="diligent" />
-      <item value="vacation history widget" />
     </histories>
     <option name="languageScores">
       <map>
