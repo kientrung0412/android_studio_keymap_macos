@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1076" />
     <option name="newTranslationDialogY" value="461" />
     <histories>
+      <item value="Nội dung cần học" />
+      <item value="Nội dung cần học&#10;" />
       <item value="If this message did not help you determine the problem, consider using debugDumpRenderTree():" />
       <item value="If none of the above helps enough to fix this problem, please don't hesitate to file a bug:" />
       <item value="RenderFlex children have non-zero flex but incoming height constraints are unbounded." />
@@ -52,8 +54,6 @@
       <item value="When SmartRefresher is init,it will call requestRefresh at once" />
       <item value="Valid value range is empty: 0" />
       <item value="tiếng anh" />
-      <item value="A fixed-length list of 8-bit unsigned integers. For long lists, this implementation can be considerably more space- and time-efficient than the default [List] implementation. Integers stored in the list are truncated to their low eight bits, interpreted as an unsigned 8-bit integer with values in the range 0 to 255." />
-      <item value="Eflutter (16215): [ERROR:flutterlibuiui_dart_state.cc(186)] Unhandled Exception: Unhandled error Bad state: No element occurred in Instance of 'DiligenceBloc'." />
     </histories>
     <option name="languageScores">
       <map>
