@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1076" />
     <option name="newTranslationDialogY" value="461" />
     <histories>
+      <item value="replace" />
       <item value="controls Hide Time" />
       <item value="controls Configuration" />
       <item value="fill" />
@@ -53,7 +54,6 @@
       <item value="diligent" />
       <item value="vacation history widget" />
       <item value="Try correcting the name to match an existing function, or define a method or function named" />
-      <item value="'SelectDayAbsentBus' isn't a function. (Documentation)" />
     </histories>
     <option name="languageScores">
       <map>
