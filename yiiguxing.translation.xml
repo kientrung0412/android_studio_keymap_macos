@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1076" />
     <option name="newTranslationDialogY" value="461" />
     <histories>
+      <item value="absolute" />
       <item value="answers" />
       <item value="lọc" />
       <item value="locj" />
@@ -53,7 +54,6 @@
       <item value="ca" />
       <item value="canhr c" />
       <item value="tạo" />
-      <item value="taoj" />
     </histories>
     <option name="languageScores">
       <map>
