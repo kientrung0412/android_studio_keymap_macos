@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="1076" />
     <option name="newTranslationDialogY" value="461" />
     <histories>
+      <item value="If this message did not help you determine the problem, consider using debugDumpRenderTree():" />
+      <item value="If none of the above helps enough to fix this problem, please don't hesitate to file a bug:" />
+      <item value="RenderFlex children have non-zero flex but incoming height constraints are unbounded." />
+      <item value="Consider setting mainAxisSize to MainAxisSize.min and using FlexFit.loose fits for the flexible children (using Flexible rather than Expanded). This will allow the flexible children to size themselves to less than the infinite remaining space they would otherwise be forced to take, and then will cause the RenderFlex to shrink-wrap the children rather than expanding to fit the maximum constraints provided by the parent." />
       <item value="extension From Mime" />
       <item value="absolute" />
       <item value="answers" />
@@ -50,10 +54,6 @@
       <item value="tiếng anh" />
       <item value="A fixed-length list of 8-bit unsigned integers. For long lists, this implementation can be considerably more space- and time-efficient than the default [List] implementation. Integers stored in the list are truncated to their low eight bits, interpreted as an unsigned 8-bit integer with values in the range 0 to 255." />
       <item value="Eflutter (16215): [ERROR:flutterlibuiui_dart_state.cc(186)] Unhandled Exception: Unhandled error Bad state: No element occurred in Instance of 'DiligenceBloc'." />
-      <item value="cảnh báo" />
-      <item value="c" />
-      <item value="ca" />
-      <item value="canhr c" />
     </histories>
     <option name="languageScores">
       <map>
