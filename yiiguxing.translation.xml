@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="1076" />
     <option name="newTranslationDialogY" value="461" />
     <histories>
+      <item value="controls Hide Time" />
+      <item value="controls Configuration" />
+      <item value="fill" />
+      <item value="device Orientations On Full Screen" />
       <item value="dependencies" />
       <item value="Nội dung cần học" />
       <item value="Nội dung cần học&#10;" />
@@ -50,10 +54,6 @@
       <item value="vacation history widget" />
       <item value="Try correcting the name to match an existing function, or define a method or function named" />
       <item value="'SelectDayAbsentBus' isn't a function. (Documentation)" />
-      <item value="The method 'build' isn't defined in a superclass of 'DetailAbsentScreen'. (Documentation)" />
-      <item value="If this widget is always nested in a scrollable widget there is no need to use a viewport because there will always be enough vertical space for the children. In this case, consider using a Column instead. Otherwise, consider using the &quot;shrinkWrap&quot; property (or a ShrinkWrappingViewport) to size the height of the viewport to the sum of the heights of its children." />
-      <item value="When SmartRefresher is init,it will call requestRefresh at once" />
-      <item value="Valid value range is empty: 0" />
     </histories>
     <option name="languageScores">
       <map>
