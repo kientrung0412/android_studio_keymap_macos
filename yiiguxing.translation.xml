@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="536" />
+    <option name="newTranslationDialogWidth" value="534" />
     <option name="newTranslationDialogX" value="1076" />
     <option name="newTranslationDialogY" value="461" />
-    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value=" is not fully merged.&#10;" />
+      <item value=" is not fully merged." />
       <item value="câu lạc bộ ngoại" />
       <item value="chart" />
       <item value="mây" />
@@ -53,8 +54,6 @@
       <item value="đánh " />
       <item value="đa" />
       <item value="đabn" />
-      <item value="PREF KEY CURRENT LANGUAGE" />
-      <item value="Bài tậpvề " />
     </histories>
     <option name="languageScores">
       <map>
