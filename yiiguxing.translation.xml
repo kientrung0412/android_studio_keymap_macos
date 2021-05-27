@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="A value of type 'BaseNoAppBarCubit' can't be returned from the method 'buildAppBar' because it has a return" />
       <item value="Duration" />
       <item value="Sổ điểm&#10;và báo cáo" />
       <item value="Nội dung&#10;cần học" />
@@ -53,7 +54,6 @@
       <item value="unrestricted" />
       <item value="replace" />
       <item value="controls Hide Time" />
-      <item value="controls Configuration" />
     </histories>
     <option name="languageScores">
       <map>
