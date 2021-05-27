@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="461" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="shrink" />
       <item value="defer To Child" />
       <item value="translucent" />
       <item value="behavior" />
@@ -54,7 +55,6 @@
       <item value="đánh giá hàng ngày" />
       <item value="đnhs giá hàng ngày" />
       <item value="đnhs giá hnahf" />
-      <item value="đ" />
     </histories>
     <option name="languageScores">
       <map>
