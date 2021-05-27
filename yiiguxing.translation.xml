@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1076" />
     <option name="newTranslationDialogY" value="461" />
     <histories>
+      <item value="translucent" />
+      <item value="opaque" />
       <item value="Paint the box decoration in front of the children." />
       <item value="Paint the box decoration behind the children." />
       <item value="circular" />
@@ -29,7 +31,6 @@
       <item value="clound" />
       <item value="shrink" />
       <item value="defer To Child" />
-      <item value="translucent" />
       <item value="behavior" />
       <item value="Detector" />
       <item value="Gesture " />
@@ -53,7 +54,6 @@
       <item value="lọc" />
       <item value="locj" />
       <item value="previous" />
-      <item value="Could not find the correct Provider&lt;HomeworkCubit&gt; above this BlocBuilder&lt;HomeworkCubit, HomeworkState&gt; Widget" />
     </histories>
     <option name="languageScores">
       <map>
