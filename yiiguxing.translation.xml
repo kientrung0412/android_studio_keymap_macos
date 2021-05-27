@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="524" />
+    <option name="newTranslationDialogWidth" value="520" />
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="activity&#10;" />
+      <item value="thuộc tính" />
+      <item value="th" />
+      <item value="thược " />
       <item value="pinned" />
       <item value="floating" />
       <item value="stretch" />
@@ -50,10 +54,6 @@
       <item value="clound" />
       <item value="shrink" />
       <item value="defer To Child" />
-      <item value="behavior" />
-      <item value="Detector" />
-      <item value="Gesture " />
-      <item value="Gesture Detector" />
     </histories>
     <option name="languageScores">
       <map>
