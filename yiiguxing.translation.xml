@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="initial Refresh" />
       <item value="The argument type 'List&lt;Widget&gt;' can't be assigned to the parameter type 'Widget'. (Documentation)" />
       <item value="mặc định" />
       <item value="mạc định" />
@@ -53,7 +54,6 @@
       <item value=" is not fully merged." />
       <item value="câu lạc bộ ngoại" />
       <item value="chart" />
-      <item value="mây" />
     </histories>
     <option name="languageScores">
       <map>
