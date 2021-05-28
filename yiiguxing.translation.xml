@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="520" />
+    <option name="newTranslationDialogWidth" value="518" />
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="mặc định" />
+      <item value="mạc định" />
+      <item value="macj" />
+      <item value="defau" />
       <item value="activity&#10;" />
       <item value="thuộc tính" />
       <item value="th" />
@@ -50,10 +54,6 @@
       <item value="chart" />
       <item value="mây" />
       <item value="maya" />
-      <item value="clou" />
-      <item value="clound" />
-      <item value="shrink" />
-      <item value="defer To Child" />
     </histories>
     <option name="languageScores">
       <map>
