@@ -1,9 +1,15 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="518" />
+    <option name="newTranslationDialogWidth" value="514" />
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="register" />
+      <item value="रिजिस्टर" />
+      <item value="Rigistor" />
+      <item value="đăng ký lớp ngoại khóa" />
+      <item value="đăng ký lớp ngoại hóa" />
+      <item value="đang" />
       <item value="initial Refresh" />
       <item value="The argument type 'List&lt;Widget&gt;' can't be assigned to the parameter type 'Widget'. (Documentation)" />
       <item value="mặc định" />
@@ -48,12 +54,6 @@
       <item value="các hoạt động ngoại khóa" />
       <item value="các " />
       <item value="extracurricular activities" />
-      <item value="hoạt đôngg" />
-      <item value="hoa" />
-      <item value=" is not fully merged.&#10;" />
-      <item value=" is not fully merged." />
-      <item value="câu lạc bộ ngoại" />
-      <item value="chart" />
     </histories>
     <option name="languageScores">
       <map>
