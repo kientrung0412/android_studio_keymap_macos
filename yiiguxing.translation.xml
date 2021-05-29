@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="The argument type 'List&lt;int&gt;' can't be assigned to the parameter type 'int?'. (Documentation)" />
       <item value="register" />
       <item value="रिजिस्टर" />
       <item value="Rigistor" />
@@ -53,7 +54,6 @@
       <item value="ghi" />
       <item value="các hoạt động ngoại khóa" />
       <item value="các " />
-      <item value="extracurricular activities" />
     </histories>
     <option name="languageScores">
       <map>
