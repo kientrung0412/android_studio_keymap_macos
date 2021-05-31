@@ -1,9 +1,14 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="510" />
+    <option name="newTranslationDialogWidth" value="508" />
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="The [Axis] to restrict this draggable's movement, if specified." />
+      <item value="bong bóng" />
+      <item value="bong b" />
+      <item value="bong bongs" />
+      <item value="      right: 0,&#10;" />
       <item value="direction" />
       <item value="distance" />
       <item value="tạo " />
@@ -49,11 +54,6 @@
       <item value="th" />
       <item value="thược " />
       <item value="pinned" />
-      <item value="floating" />
-      <item value="stretch" />
-      <item value="A value of type 'BaseNoAppBarCubit' can't be returned from the method 'buildAppBar' because it has a return" />
-      <item value="Duration" />
-      <item value="Sổ điểm&#10;và báo cáo" />
     </histories>
     <option name="languageScores">
       <map>
