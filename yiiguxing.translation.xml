@@ -1,9 +1,19 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="514" />
+    <option name="newTranslationDialogWidth" value="512" />
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="was Accepted" />
+      <item value="velocity" />
+      <item value="mặc định&#10;" />
+      <item value="mặ định&#10;" />
+      <item value="mặc&#10; định&#10;" />
+      <item value="mạc định&#10;" />
+      <item value="mạc định" />
+      <item value="mạc đ" />
+      <item value="macj ddinh" />
+      <item value="Defaut" />
       <item value="reverse Duration" />
       <item value="clip Behavior" />
       <item value="These invalid constraints were provided to RenderDecoratedBox's layout() function by the following function, which probably computed the invalid constraints in question:" />
@@ -29,7 +39,6 @@
       <item value="initial Refresh" />
       <item value="The argument type 'List&lt;Widget&gt;' can't be assigned to the parameter type 'Widget'. (Documentation)" />
       <item value="mặc định" />
-      <item value="mạc định" />
       <item value="macj" />
       <item value="defau" />
       <item value="activity&#10;" />
@@ -45,15 +54,6 @@
       <item value="Nội dung&#10;cần học" />
       <item value="Thông tin&#10;sức khoẻ" />
       <item value="Câu lạc bộ&#10;ngoại khóa" />
-      <item value="Club&#10;extra-curricular" />
-      <item value="Câu lạc bộ&#10;ngoại khoá" />
-      <item value="Evaluate" />
-      <item value="Đánh giá&#10;hành vi" />
-      <item value="Học phí" />
-      <item value="Chuyên cần" />
-      <item value="Khảo sát" />
-      <item value="khaor sats" />
-      <item value="Lịch học&#10;và sự kiện" />
     </histories>
     <option name="languageScores">
       <map>
