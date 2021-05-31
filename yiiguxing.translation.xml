@@ -4,8 +4,9 @@
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
-      <item value="tạo " />
+      <item value="direction" />
       <item value="distance" />
+      <item value="tạo " />
       <item value="was Accepted" />
       <item value="velocity" />
       <item value="mặc định&#10;" />
@@ -53,7 +54,6 @@
       <item value="A value of type 'BaseNoAppBarCubit' can't be returned from the method 'buildAppBar' because it has a return" />
       <item value="Duration" />
       <item value="Sổ điểm&#10;và báo cáo" />
-      <item value="Nội dung&#10;cần học" />
     </histories>
     <option name="languageScores">
       <map>
