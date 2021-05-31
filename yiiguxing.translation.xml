@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="512" />
+    <option name="newTranslationDialogWidth" value="510" />
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="tạo " />
       <item value="distance" />
       <item value="was Accepted" />
       <item value="velocity" />
@@ -53,7 +54,6 @@
       <item value="Duration" />
       <item value="Sổ điểm&#10;và báo cáo" />
       <item value="Nội dung&#10;cần học" />
-      <item value="Thông tin&#10;sức khoẻ" />
     </histories>
     <option name="languageScores">
       <map>
