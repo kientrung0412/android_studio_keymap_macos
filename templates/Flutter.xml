@@ -5,4 +5,8 @@
       <option name="DART" value="true" />
     </context>
   </template>
+  <template name="toStr" value="@override&#10;String toString() {&#10;return $toString$;&#10;}&#10;" description="To String Override" toReformat="true" toShortenFQNames="true">
+    <variable name="toString" expression="$toString$" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
 </templateSet>
