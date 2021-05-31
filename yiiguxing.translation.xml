@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="homeroom Class" />
+      <item value="current" />
+      <item value="previous" />
+      <item value="use Course" />
       <item value="Defines how compact the list tile's layout will be." />
       <item value="dense" />
       <item value="This radio button is considered selected if its [value] matches the" />
@@ -50,10 +54,6 @@
       <item value="Paint the box decoration behind the children." />
       <item value="circular" />
       <item value="hoạt động ngoại khóa" />
-      <item value="hoạt động ngoại " />
-      <item value="hoạt động ngoại hóa" />
-      <item value="hoạt động" />
-      <item value="ho" />
     </histories>
     <option name="languageScores">
       <map>
@@ -76,7 +76,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621917477680" />
+    <option name="lastTrimTime" value="1622433730480" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
