@@ -1,9 +1,14 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="508" />
+    <option name="newTranslationDialogWidth" value="506" />
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="bản phát hành ứng dụng từng khu vực" />
+      <item value="bản phát hành ứng dung" />
+      <item value="bản phát hành ứng dungh" />
+      <item value="bản phát " />
+      <item value="bản " />
       <item value="The [Axis] to restrict this draggable's movement, if specified." />
       <item value="bong bóng" />
       <item value="bong b" />
@@ -49,11 +54,6 @@
       <item value="mặc định" />
       <item value="macj" />
       <item value="defau" />
-      <item value="activity&#10;" />
-      <item value="thuộc tính" />
-      <item value="th" />
-      <item value="thược " />
-      <item value="pinned" />
     </histories>
     <option name="languageScores">
       <map>
