@@ -5,18 +5,4 @@
       <option name="DART" value="true" />
     </context>
   </template>
-  <template name="animatedBldr" value="AnimatedBuilder(&#10;  animation: $animationController$,&#10;  child: $childWidget$,&#10;  builder: (BuildContext context, Widget child) {&#10;    return $buildWidget$;&#10;  },&#10;);" description="New AnimatedBuilder" toReformat="true" toShortenFQNames="true">
-    <variable name="animationController" expression="&quot;animationController&quot;" defaultValue="" alwaysStopAt="true" />
-    <variable name="childWidget" expression="&quot;childWidget&quot;" defaultValue="" alwaysStopAt="true" />
-    <variable name="buildWidget" expression="&quot;buildWidget&quot;" defaultValue="" alwaysStopAt="true" />
-    <context />
-  </template>
-  <template name="toStr" value="@override&#10;String toString() {&#10;return $toString$;&#10;}&#10;" description="To String Override" toReformat="true" toShortenFQNames="true">
-    <variable name="toString" expression="$toString$" defaultValue="" alwaysStopAt="true" />
-    <context />
-  </template>
-  <template name="stl" value="class $NAME$ extends StatefulWidget {&#10;  @override&#10;  Widget build(BuildContext context) {&#10;    return Container($END$);&#10;  }&#10;}&#10;" description="Create StatefulWidget Widget" toReformat="true" toShortenFQNames="true">
-    <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
-  </template>
 </templateSet>
