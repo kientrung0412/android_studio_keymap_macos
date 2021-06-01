@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="506" />
+    <option name="newTranslationDialogWidth" value="504" />
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="bỏ lọc" />
+      <item value="bỏ " />
       <item value="bản phát hành ứng dụng từng khu vực" />
       <item value="bản phát hành ứng dung" />
       <item value="bản phát hành ứng dungh" />
@@ -52,8 +54,6 @@
       <item value="initial Refresh" />
       <item value="The argument type 'List&lt;Widget&gt;' can't be assigned to the parameter type 'Widget'. (Documentation)" />
       <item value="mặc định" />
-      <item value="macj" />
-      <item value="defau" />
     </histories>
     <option name="languageScores">
       <map>
