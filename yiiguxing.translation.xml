@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="dense" />
       <item value="bỏ lọc" />
       <item value="bỏ " />
       <item value="bản phát hành ứng dụng từng khu vực" />
@@ -41,7 +42,6 @@
       <item value="previous" />
       <item value="use Course" />
       <item value="Defines how compact the list tile's layout will be." />
-      <item value="dense" />
       <item value="This radio button is considered selected if its [value] matches the" />
       <item value="The value represented by this radio button." />
       <item value="The argument type 'List&lt;int&gt;' can't be assigned to the parameter type 'int?'. (Documentation)" />
