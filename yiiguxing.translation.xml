@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="502" />
+    <option name="newTranslationDialogWidth" value="500" />
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="total payment" />
+      <item value=" học phí " />
       <item value="chiều ngang" />
       <item value="chiều ng" />
       <item value="chiều nga" />
@@ -52,8 +54,6 @@
       <item value="These invalid constraints were provided to RenderDecoratedBox's layout() function by the following function, which probably computed the invalid constraints in question:" />
       <item value="curve" />
       <item value="The named parameter 'vsync' is required, but there's no corresponding argument. (Documentation)" />
-      <item value="Null check operator used on a null value" />
-      <item value="Each child must be laid out exactly once." />
     </histories>
     <option name="languageScores">
       <map>
