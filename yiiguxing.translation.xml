@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="Refund amount" />
       <item value="must be immutable" />
       <item value="điểm danh" />
       <item value="dense" />
@@ -53,7 +54,6 @@
       <item value="đăng ký lớp ngoại khóa" />
       <item value="đăng ký lớp ngoại hóa" />
       <item value="đang" />
-      <item value="initial Refresh" />
     </histories>
     <option name="languageScores">
       <map>
