@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="CLASSIFICATION DEEP PRESS" />
       <item value="Invalid main APK outputs : EarlySyncBuildOutput(type=com.android.build.gradle.internal.scope.InternalArtifactTypeAPK@67699dd3, apkType=MAIN, filtersData=[], version=0, output=D:\OMT\CO\co_teacher\app\build\outputs\apk\center\debug\app-center-debug.apk),EarlySyncBuildOutput(type=com.android.build.gradle.internal.scope.InternalArtifactTypeAPK@67699dd3, apkType=MAIN, filtersData=[], version=0, output=D:\OMT\CO\co_teacher\app\build\outputs\apk\center\debug\output-metadata.json)" />
       <item value="Unclosed character class" />
       <item value="SRC ANCHOR TYPE" />
@@ -53,7 +54,6 @@
       <item value="previous" />
       <item value="use Course" />
       <item value="Defines how compact the list tile's layout will be." />
-      <item value="This radio button is considered selected if its [value] matches the" />
     </histories>
     <option name="languageScores">
       <map>
