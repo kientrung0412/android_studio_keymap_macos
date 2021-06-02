@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="504" />
+    <option name="newTranslationDialogWidth" value="502" />
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="other" />
+      <item value="othor" />
       <item value="Refund amount" />
       <item value="must be immutable" />
       <item value="điểm danh" />
@@ -52,8 +54,6 @@
       <item value="रिजिस्टर" />
       <item value="Rigistor" />
       <item value="đăng ký lớp ngoại khóa" />
-      <item value="đăng ký lớp ngoại hóa" />
-      <item value="đang" />
     </histories>
     <option name="languageScores">
       <map>
