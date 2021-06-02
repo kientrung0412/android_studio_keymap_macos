@@ -24,7 +24,11 @@
         <entry key="..\:/OMT/CO/co_teacher/app/src/main/res/layout/activity_super.xml" value="0.1" />
         <entry key="..\:/OMT/CO/co_teacher/app/src/main/res/layout/fragment_attendance_come.xml" value="0.365625" />
         <entry key="..\:/OMT/CO/co_teacher/app/src/main/res/layout/item_dashboard_type_1.xml" value="0.365625" />
+        <entry key="..\:/OMT/CO/co_teacher/app/src/main/res/layout/item_layout_infomation.xml" value="0.35" />
+        <entry key="..\:/OMT/CO/co_teacher/app/src/main/res/layout/item_layout_vertical.xml" value="0.2869791666666667" />
+        <entry key="..\:/OMT/CO/co_teacher/app/src/main/res/layout/item_layout_webview_content.xml" value="0.2869791666666667" />
         <entry key="..\:/OMT/CO/co_teacher/app/src/main/res/layout/item_student_attendance.xml" value="0.365625" />
+        <entry key="..\:/OMT/CO/co_teacher/app/src/main/res/layout/timetable_detail_fragment.xml" value="0.35" />
         <entry key="..\:/OMT/KO/KO_Attendance/src/main/res/drawable/logo.xml" value="0.21927083333333333" />
         <entry key="..\:/OMT/KO/KO_Attendance/src/main/res/drawable/logomark_light.xml" value="0.15572916666666667" />
         <entry key="..\:/OMT/KO/KO_Manager/app/src/main/res/layout/item_diligence_attendance_result.xml" value="0.1" />
