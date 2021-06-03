@@ -5,4 +5,8 @@
       <option name="DART" value="true" />
     </context>
   </template>
+  <template name="didChangeD" value="@override &#10; void didChangeDependencies(){ &#10; super.didChangeDependencies(); &#10; $body$ &#10;}&#10;" description="didChangeDependencies" toReformat="true" toShortenFQNames="true">
+    <variable name="body" expression="$body$" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
 </templateSet>
