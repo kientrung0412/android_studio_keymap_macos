@@ -1,9 +1,14 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="494" />
+    <option name="newTranslationDialogWidth" value="492" />
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="hủy bộ lọc" />
+      <item value="hủy " />
+      <item value="huy" />
+      <item value="ỏ" />
+      <item value="ỏ " />
       <item value="Slaveforged" />
       <item value="nô lệ" />
       <item value="nô " />
@@ -49,11 +54,6 @@
       <item value="bong bóng" />
       <item value="bong b" />
       <item value="bong bongs" />
-      <item value="      right: 0,&#10;" />
-      <item value="direction" />
-      <item value="distance" />
-      <item value="tạo " />
-      <item value="was Accepted" />
     </histories>
     <option name="languageScores">
       <map>
