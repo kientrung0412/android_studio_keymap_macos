@@ -1,9 +1,17 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="500" />
+    <option name="newTranslationDialogWidth" value="498" />
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="semeter" />
+      <item value="register semeter" />
+      <item value="register_semeter" />
+      <item value="register schedule" />
+      <item value="register_schedule" />
+      <item value="daftar semester" />
+      <item value="daftar semeter" />
+      <item value="registe_semeter" />
       <item value="total payment" />
       <item value=" học phí " />
       <item value="chiều ngang" />
@@ -46,14 +54,6 @@
       <item value="mặc&#10; định&#10;" />
       <item value="mạc định&#10;" />
       <item value="mạc định" />
-      <item value="mạc đ" />
-      <item value="macj ddinh" />
-      <item value="Defaut" />
-      <item value="reverse Duration" />
-      <item value="clip Behavior" />
-      <item value="These invalid constraints were provided to RenderDecoratedBox's layout() function by the following function, which probably computed the invalid constraints in question:" />
-      <item value="curve" />
-      <item value="The named parameter 'vsync' is required, but there's no corresponding argument. (Documentation)" />
     </histories>
     <option name="languageScores">
       <map>
