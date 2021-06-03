@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="malformed" />
       <item value="semeter" />
       <item value="register semeter" />
       <item value="register_semeter" />
@@ -53,7 +54,6 @@
       <item value="mặ định&#10;" />
       <item value="mặc&#10; định&#10;" />
       <item value="mạc định&#10;" />
-      <item value="mạc định" />
     </histories>
     <option name="languageScores">
       <map>
