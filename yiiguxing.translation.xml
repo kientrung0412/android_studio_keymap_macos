@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="498" />
+    <option name="newTranslationDialogWidth" value="496" />
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="nô lệ" />
+      <item value="nô " />
+      <item value="nô" />
+      <item value="no" />
       <item value="malformed" />
       <item value="semeter" />
       <item value="register semeter" />
@@ -50,10 +54,6 @@
       <item value="tạo " />
       <item value="was Accepted" />
       <item value="velocity" />
-      <item value="mặc định&#10;" />
-      <item value="mặ định&#10;" />
-      <item value="mặc&#10; định&#10;" />
-      <item value="mạc định&#10;" />
     </histories>
     <option name="languageScores">
       <map>
