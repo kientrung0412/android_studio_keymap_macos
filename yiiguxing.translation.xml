@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="496" />
+    <option name="newTranslationDialogWidth" value="494" />
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="Slaveforged" />
       <item value="nô lệ" />
       <item value="nô " />
       <item value="nô" />
@@ -53,7 +54,6 @@
       <item value="distance" />
       <item value="tạo " />
       <item value="was Accepted" />
-      <item value="velocity" />
     </histories>
     <option name="languageScores">
       <map>
