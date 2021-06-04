@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="cache Extent" />
       <item value="chưa làm" />
       <item value="chưa lma" />
       <item value="bài tập tự luận" />
@@ -53,7 +54,6 @@
       <item value="dense" />
       <item value="bỏ lọc" />
       <item value="bỏ " />
-      <item value="bản phát hành ứng dụng từng khu vực" />
     </histories>
     <option name="languageScores">
       <map>
