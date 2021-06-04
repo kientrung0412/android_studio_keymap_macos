@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="427" />
     <histories>
+      <item value="Course Quizzes" />
+      <item value="Course Activities" />
+      <item value="Course Elearning Assignments" />
       <item value="bài giảng" />
       <item value="cache Extent" />
       <item value="chưa làm" />
@@ -51,9 +54,6 @@
       <item value="othor" />
       <item value="Refund amount" />
       <item value="must be immutable" />
-      <item value="điểm danh" />
-      <item value="dense" />
-      <item value="bỏ lọc" />
     </histories>
     <option name="languageScores">
       <map>
