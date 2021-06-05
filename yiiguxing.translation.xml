@@ -3,7 +3,10 @@
     <option name="newTranslationDialogWidth" value="480" />
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="427" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="add Automatic Keepalives" />
+      <item value="add Automatic Keep Alives" />
       <item value="Nội dung bài giảng" />
       <item value="bảng" />
       <item value="ba" />
@@ -52,8 +55,6 @@
       <item value="CLASSIFICATION DEEP PRESS" />
       <item value="Invalid main APK outputs : EarlySyncBuildOutput(type=com.android.build.gradle.internal.scope.InternalArtifactTypeAPK@67699dd3, apkType=MAIN, filtersData=[], version=0, output=D:\OMT\CO\co_teacher\app\build\outputs\apk\center\debug\app-center-debug.apk),EarlySyncBuildOutput(type=com.android.build.gradle.internal.scope.InternalArtifactTypeAPK@67699dd3, apkType=MAIN, filtersData=[], version=0, output=D:\OMT\CO\co_teacher\app\build\outputs\apk\center\debug\output-metadata.json)" />
       <item value="Unclosed character class" />
-      <item value="SRC ANCHOR TYPE" />
-      <item value="Clickable View Accessibility" />
     </histories>
     <option name="languageScores">
       <map>
