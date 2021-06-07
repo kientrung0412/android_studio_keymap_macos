@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="427" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="This happens because you used a `BuildContext` that does not include the provider" />
       <item value="max Grade" />
       <item value="grade" />
       <item value="assignment At" />
@@ -54,7 +55,6 @@
       <item value="total payment" />
       <item value=" học phí " />
       <item value="chiều ngang" />
-      <item value="chiều ng" />
     </histories>
     <option name="languageScores">
       <map>
