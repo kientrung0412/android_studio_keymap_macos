@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="427" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Bad state: Tried to read a provider that threw during the creation of its value. The exception occurred during the creation of type LearningContentCubit." />
+      <item value="Error: Could not find the correct Provider&lt;LearningContentCubit&gt; above this LearningContentScreen Widget" />
       <item value="This happens because you used a `BuildContext` that does not include the provider" />
       <item value="max Grade" />
       <item value="grade" />
@@ -53,8 +55,6 @@
       <item value="daftar semeter" />
       <item value="registe_semeter" />
       <item value="total payment" />
-      <item value=" học phí " />
-      <item value="chiều ngang" />
     </histories>
     <option name="languageScores">
       <map>
