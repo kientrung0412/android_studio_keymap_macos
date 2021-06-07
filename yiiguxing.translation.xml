@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="427" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="max Grade" />
+      <item value="grade" />
       <item value="assignment At" />
       <item value="An API that allows you to override the default style for any HTML element" />
       <item value="point" />
@@ -53,8 +55,6 @@
       <item value=" học phí " />
       <item value="chiều ngang" />
       <item value="chiều ng" />
-      <item value="chiều nga" />
-      <item value="Hozital" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1622433730480" />
+    <option name="lastTrimTime" value="1623033651076" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
