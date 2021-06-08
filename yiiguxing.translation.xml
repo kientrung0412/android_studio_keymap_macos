@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="427" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Unhandled Exception: Instance of 'NonDataResponse'" />
+      <item value="Unhandled" />
       <item value="text Direction" />
       <item value="get subjects" />
       <item value="consider using `builder` like so:" />
@@ -53,8 +55,6 @@
       <item value="register semeter" />
       <item value="register_semeter" />
       <item value="register schedule" />
-      <item value="register_schedule" />
-      <item value="daftar semester" />
     </histories>
     <option name="languageScores">
       <map>
