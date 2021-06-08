@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="427" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="E: Predicate 5980654721335871649 dropping data for dimension key (10)0x2010101-&gt;10135[I] (10)0x30000-&gt;CMWakeLock[S]" />
       <item value="Unhandled Exception: Instance of 'NonDataResponse'" />
       <item value="Unhandled" />
       <item value="text Direction" />
@@ -54,7 +55,6 @@
       <item value="semeter" />
       <item value="register semeter" />
       <item value="register_semeter" />
-      <item value="register schedule" />
     </histories>
     <option name="languageScores">
       <map>
