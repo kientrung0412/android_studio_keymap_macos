@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="427" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The body might complete normally, causing 'null' to be returned, but the return type is a potentially non" />
       <item value="Act" />
       <item value="Hành động" />
       <item value="Han" />
@@ -54,7 +55,6 @@
       <item value="Slaveforged" />
       <item value="nô lệ" />
       <item value="nô " />
-      <item value="nô" />
     </histories>
     <option name="languageScores">
       <map>
