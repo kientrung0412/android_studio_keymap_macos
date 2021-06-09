@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="427" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Eflutter (32263): [ERROR:flutterlibuiui_dart_state.cc(199)] Unhandled Exception: RangeError (index): Invalid value: Not in inclusive range 0..4: 5" />
       <item value="Unhandled" />
       <item value="The body might complete normally, causing 'null' to be returned, but the return type is a potentially non" />
       <item value="The method '[]' was called on null." />
@@ -54,7 +55,6 @@
       <item value="hủy " />
       <item value="huy" />
       <item value="ỏ" />
-      <item value="ỏ " />
     </histories>
     <option name="languageScores">
       <map>
