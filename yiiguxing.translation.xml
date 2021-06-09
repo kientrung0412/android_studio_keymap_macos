@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="427" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="required" />
+      <item value="on Result" />
       <item value="The type 'Callback' is declared with 0 type parameters, but 1 type arguments were given. (Documentation)" />
       <item value="đáp án" />
       <item value="đáp á" />
@@ -53,8 +55,6 @@
       <item value="Course Quizzes" />
       <item value="Course Activities" />
       <item value="Course Elearning Assignments" />
-      <item value="cache Extent" />
-      <item value="chưa làm" />
     </histories>
     <option name="languageScores">
       <map>
