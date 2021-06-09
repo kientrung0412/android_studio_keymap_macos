@@ -1,10 +1,20 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="478" />
+    <option name="newTranslationDialogWidth" value="474" />
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="427" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The type 'Callback' is declared with 0 type parameters, but 1 type arguments were given. (Documentation)" />
+      <item value="đáp án" />
+      <item value="đáp á" />
+      <item value="đáp nă" />
+      <item value="dáp án" />
+      <item value="dáp áp" />
+      <item value="ke" />
+      <item value="câu hỏi" />
+      <item value="c" />
+      <item value="caau " />
       <item value="Eflutter (32263): [ERROR:flutterlibuiui_dart_state.cc(199)] Unhandled Exception: RangeError (index): Invalid value: Not in inclusive range 0..4: 5" />
       <item value="Unhandled" />
       <item value="The body might complete normally, causing 'null' to be returned, but the return type is a potentially non" />
@@ -45,16 +55,6 @@
       <item value="Course Elearning Assignments" />
       <item value="cache Extent" />
       <item value="chưa làm" />
-      <item value="chưa lma" />
-      <item value="bài tập tự luận" />
-      <item value="bài tập tự luộn" />
-      <item value="baif " />
-      <item value="course weeks" />
-      <item value="identical" />
-      <item value="hủy bộ lọc" />
-      <item value="hủy " />
-      <item value="huy" />
-      <item value="ỏ" />
     </histories>
     <option name="languageScores">
       <map>
