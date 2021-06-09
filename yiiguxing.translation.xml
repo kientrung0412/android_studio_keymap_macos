@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="427" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Unexpected end of input (at character 1)" />
       <item value="required" />
       <item value="on Result" />
       <item value="The type 'Callback' is declared with 0 type parameters, but 1 type arguments were given. (Documentation)" />
@@ -54,7 +55,6 @@
       <item value="taif lieeuj" />
       <item value="Course Quizzes" />
       <item value="Course Activities" />
-      <item value="Course Elearning Assignments" />
     </histories>
     <option name="languageScores">
       <map>
