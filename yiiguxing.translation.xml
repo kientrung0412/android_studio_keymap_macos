@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="427" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The method '[]' was called on null." />
+      <item value="No Such Method Error" />
       <item value="Unhandled Exception" />
       <item value="The body might complete normally, causing 'null' to be returned, but the return type is a potentially non" />
       <item value="Act" />
@@ -53,8 +55,6 @@
       <item value="huy" />
       <item value="ỏ" />
       <item value="ỏ " />
-      <item value="Slaveforged" />
-      <item value="nô lệ" />
     </histories>
     <option name="languageScores">
       <map>
