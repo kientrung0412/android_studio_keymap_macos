@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="172" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="splash Color" />
+      <item value="Contact Screen" />
       <item value="Liên hệ" />
       <item value="danh bạ" />
       <item value="initial Refresh" />
@@ -54,8 +56,6 @@
       <item value="point" />
       <item value="total Point" />
       <item value="pass Point" />
-      <item value="add Automatic Keepalives" />
-      <item value="add Automatic Keep Alives" />
     </histories>
     <option name="languageScores">
       <map>
