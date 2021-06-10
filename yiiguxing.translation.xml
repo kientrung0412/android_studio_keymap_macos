@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="172" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="radio Semester" />
+      <item value="schedule" />
       <item value="properties Activity" />
       <item value="Stack Overflow" />
       <item value="ouldn't infer type parameter 'T'. Tried to infer 'ExtracurricularActivitiesDetailResponse' for 'T' which doesn't work: Type parameter 'T' is declared to extend 'BaseResponse' producing 'BaseResponse'. The type 'ExtracurricularActivitiesDetailResponse' was inferred from: Parameter 'value' declared as 'T' but argument is 'ExtracurricularActivitiesDetailResponse'. Parameter 'onSuccess' declared as 'dynamic Function(T)' but argument is 'Null Function(Object?)'. Consider passing explicit type argument(s) to the generic." />
@@ -54,8 +56,6 @@
       <item value="bảng" />
       <item value="ba" />
       <item value="bài giảng" />
-      <item value="bìa giảng" />
-      <item value="tài liệu" />
     </histories>
     <option name="languageScores">
       <map>
