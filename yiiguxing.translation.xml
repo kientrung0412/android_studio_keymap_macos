@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="172" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Stack Overflow" />
       <item value="ouldn't infer type parameter 'T'. Tried to infer 'ExtracurricularActivitiesDetailResponse' for 'T' which doesn't work: Type parameter 'T' is declared to extend 'BaseResponse' producing 'BaseResponse'. The type 'ExtracurricularActivitiesDetailResponse' was inferred from: Parameter 'value' declared as 'T' but argument is 'ExtracurricularActivitiesDetailResponse'. Parameter 'onSuccess' declared as 'dynamic Function(T)' but argument is 'Null Function(Object?)'. Consider passing explicit type argument(s) to the generic." />
       <item value="Unexpected end of input (at character 1)" />
       <item value="required" />
@@ -55,7 +56,6 @@
       <item value="bìa giảng" />
       <item value="tài liệu" />
       <item value="taif lieeuj" />
-      <item value="Course Quizzes" />
     </histories>
     <option name="languageScores">
       <map>
