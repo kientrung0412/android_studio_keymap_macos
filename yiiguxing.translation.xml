@@ -1,11 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="1095" />
+    <option name="newTranslationDialogWidth" value="1093" />
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="172" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Liên hệ" />
+      <item value="danh bạ" />
       <item value="initial Refresh" />
       <item value="type 'Null' is not a subtype of type 'String' of 'function result'" />
       <item value="radio Semester" />
@@ -54,8 +56,6 @@
       <item value="pass Point" />
       <item value="add Automatic Keepalives" />
       <item value="add Automatic Keep Alives" />
-      <item value="Nội dung bài giảng" />
-      <item value="bảng" />
     </histories>
     <option name="languageScores">
       <map>
