@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="172" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="obscure Text" />
       <item value="splash Color" />
       <item value="Contact Screen" />
       <item value="Liên hệ" />
@@ -55,7 +56,6 @@
       <item value="An API that allows you to override the default style for any HTML element" />
       <item value="point" />
       <item value="total Point" />
-      <item value="pass Point" />
     </histories>
     <option name="languageScores">
       <map>
