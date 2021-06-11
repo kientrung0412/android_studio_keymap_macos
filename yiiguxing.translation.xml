@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="172" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Unimplemented handling of missing static target" />
       <item value="mặc đinh" />
       <item value="mặc đinhk" />
       <item value="m" />
@@ -55,7 +56,6 @@
       <item value="E: Predicate 5980654721335871649 dropping data for dimension key (10)0x2010101-&gt;10135[I] (10)0x30000-&gt;CMWakeLock[S]" />
       <item value="Unhandled Exception: Instance of 'NonDataResponse'" />
       <item value="text Direction" />
-      <item value="get subjects" />
     </histories>
     <option name="languageScores">
       <map>
