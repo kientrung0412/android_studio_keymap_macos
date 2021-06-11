@@ -6,8 +6,8 @@
     <option name="newTranslationDialogY" value="172" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="get Data Manager().store Notifications(response.get Data());" />
       <item value="prepare Success Response" />
+      <item value="get Data Manager().store Notifications(response.get Data());" />
       <item value="store Notifications" />
       <item value="handle Notification If Need" />
       <item value="get Post Get Notification" />
