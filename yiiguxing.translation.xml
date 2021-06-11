@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="172" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Not in inclusive range 0..3: 4" />
       <item value="floating Label Behavior" />
       <item value="obscure Text" />
       <item value="splash Color" />
@@ -55,7 +56,6 @@
       <item value="grade" />
       <item value="assignment At" />
       <item value="An API that allows you to override the default style for any HTML element" />
-      <item value="point" />
     </histories>
     <option name="languageScores">
       <map>
