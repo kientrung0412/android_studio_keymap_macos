@@ -1,11 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="1091" />
+    <option name="newTranslationDialogWidth" value="1089" />
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="172" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="mặc đinh" />
+      <item value="mặc đinhk" />
+      <item value="m" />
       <item value="When the exception was thrown, this was the stack:" />
       <item value="======== Exception caught by image resource service ================================================" />
       <item value="chức vụ" />
@@ -53,9 +56,6 @@
       <item value="Unhandled Exception: Instance of 'NonDataResponse'" />
       <item value="text Direction" />
       <item value="get subjects" />
-      <item value="consider using `builder` like so:" />
-      <item value="Bad state: Tried to read a provider that threw during the creation of its value. The exception occurred during the creation of type LearningContentCubit." />
-      <item value="Error: Could not find the correct Provider&lt;LearningContentCubit&gt; above this LearningContentScreen Widget" />
     </histories>
     <option name="languageScores">
       <map>
