@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="172" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="mark As Read" />
       <item value="prepare Success Response" />
       <item value="get Data Manager().store Notifications(response.get Data());" />
       <item value="store Notifications" />
@@ -55,7 +56,6 @@
       <item value="câu hỏi" />
       <item value="c" />
       <item value="caau " />
-      <item value="Eflutter (32263): [ERROR:flutterlibuiui_dart_state.cc(199)] Unhandled Exception: RangeError (index): Invalid value: Not in inclusive range 0..4: 5" />
     </histories>
     <option name="languageScores">
       <map>
