@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="172" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="store Current Student Id" />
       <item value="mark As Read" />
       <item value="prepare Success Response" />
       <item value="get Data Manager().store Notifications(response.get Data());" />
@@ -55,7 +56,6 @@
       <item value="ke" />
       <item value="câu hỏi" />
       <item value="c" />
-      <item value="caau " />
     </histories>
     <option name="languageScores">
       <map>
