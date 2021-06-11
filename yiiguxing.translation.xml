@@ -1,11 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="1089" />
+    <option name="newTranslationDialogWidth" value="1085" />
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="172" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="symbols from string in dart" />
+      <item value="bỏ qua dấu" />
+      <item value="omit the mark" />
+      <item value="bỏ dấu " />
+      <item value="bỏ d" />
       <item value="Unimplemented handling of missing static target" />
       <item value="mặc đinh" />
       <item value="mặc đinhk" />
@@ -51,11 +56,6 @@
       <item value="Act" />
       <item value="Hành động" />
       <item value="Han" />
-      <item value="Hanhf ddoongj" />
-      <item value="ignore" />
-      <item value="E: Predicate 5980654721335871649 dropping data for dimension key (10)0x2010101-&gt;10135[I] (10)0x30000-&gt;CMWakeLock[S]" />
-      <item value="Unhandled Exception: Instance of 'NonDataResponse'" />
-      <item value="text Direction" />
     </histories>
     <option name="languageScores">
       <map>
