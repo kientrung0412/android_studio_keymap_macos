@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="172" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="vacation history widget" />
       <item value="symbols from string in dart" />
       <item value="bỏ qua dấu" />
       <item value="omit the mark" />
@@ -55,7 +56,6 @@
       <item value="Unhandled Exception" />
       <item value="Act" />
       <item value="Hành động" />
-      <item value="Han" />
     </histories>
     <option name="languageScores">
       <map>
