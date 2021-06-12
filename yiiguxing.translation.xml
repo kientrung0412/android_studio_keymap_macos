@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="172" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="This will reset your device to its default factory settings." />
       <item value="thêm giới tính thứ 3" />
       <item value="them giới tính thứ 3" />
       <item value="them giới tính thứ " />
@@ -55,7 +56,6 @@
       <item value="Contact Screen" />
       <item value="Liên hệ" />
       <item value="danh bạ" />
-      <item value="initial Refresh" />
     </histories>
     <option name="languageScores">
       <map>
