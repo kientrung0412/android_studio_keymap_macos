@@ -67,7 +67,10 @@
         <entry key="..\:/OMT/KO/KO_Parent/android/app/src/main/res/menu/menu_notification.xml" value="0.365625" />
         <entry key="..\:/OMT/KO/KO_Parent/android/app/src/main/res/menu/menu_server.xml" value="0.365625" />
         <entry key="..\:/OMT/KO/KO_Parent/android/app/src/main/res/xml/file_paths.xml" value="0.35" />
+        <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/account_edit_content_view.xml" value="0.2994791666666667" />
+        <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/accout_header_view.xml" value="0.2994791666666667" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/activity_attendance.xml" value="0.2526041666666667" />
+        <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/activity_edit_account_info.xml" value="0.2994791666666667" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/activity_medicine_note_detail_v2.xml" value="0.365625" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/dialog_note_refuse_medicine.xml" value="0.27760416666666665" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/dialog_voice_rec.xml" value="0.365625" />
@@ -75,6 +78,7 @@
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/fragment_home.xml" value="1.0" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/item_medicine_note_v2.xml" value="0.36" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/item_photo.xml" value="0.365625" />
+        <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/item_student.xml" value="0.365625" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/item_student_attendance.xml" value="0.35185185185185186" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/item_student_daily_assessment.xml" value="0.365625" />
         <entry key="..\:/OMT/Lib/WebView/Source/library/src/main/res/layout/activity_advance_webview.xml" value="0.1" />
