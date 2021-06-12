@@ -1,11 +1,29 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="1085" />
+    <option name="newTranslationDialogWidth" value="1083" />
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="172" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="thêm giới tính thứ 3" />
+      <item value="them giới tính thứ 3" />
+      <item value="them giới tính thứ " />
+      <item value="mail" />
+      <item value="giới tính" />
+      <item value="giơi" />
+      <item value="Quan hệ tình dục động vật 3" />
+      <item value="Animal sex 3" />
+      <item value="Giới tính thú 3" />
+      <item value="Giới tính" />
+      <item value="Giới " />
+      <item value="G" />
+      <item value="gioaiws" />
+      <item value="remove store noti" />
+      <item value="remove store" />
+      <item value="remove st" />
+      <item value="remove stỏe" />
+      <item value="remove" />
       <item value="store Current Student Id" />
       <item value="mark As Read" />
       <item value="prepare Success Response" />
@@ -38,24 +56,6 @@
       <item value="Liên hệ" />
       <item value="danh bạ" />
       <item value="initial Refresh" />
-      <item value="type 'Null' is not a subtype of type 'String' of 'function result'" />
-      <item value="radio Semester" />
-      <item value="schedule" />
-      <item value="properties Activity" />
-      <item value="Stack Overflow" />
-      <item value="ouldn't infer type parameter 'T'. Tried to infer 'ExtracurricularActivitiesDetailResponse' for 'T' which doesn't work: Type parameter 'T' is declared to extend 'BaseResponse' producing 'BaseResponse'. The type 'ExtracurricularActivitiesDetailResponse' was inferred from: Parameter 'value' declared as 'T' but argument is 'ExtracurricularActivitiesDetailResponse'. Parameter 'onSuccess' declared as 'dynamic Function(T)' but argument is 'Null Function(Object?)'. Consider passing explicit type argument(s) to the generic." />
-      <item value="Unexpected end of input (at character 1)" />
-      <item value="required" />
-      <item value="on Result" />
-      <item value="The type 'Callback' is declared with 0 type parameters, but 1 type arguments were given. (Documentation)" />
-      <item value="đáp án" />
-      <item value="đáp á" />
-      <item value="đáp nă" />
-      <item value="dáp án" />
-      <item value="dáp áp" />
-      <item value="ke" />
-      <item value="câu hỏi" />
-      <item value="c" />
     </histories>
     <option name="languageScores">
       <map>
