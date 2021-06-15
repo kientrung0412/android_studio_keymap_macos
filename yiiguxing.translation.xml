@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="172" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="can answer text" />
       <item value="is draft" />
       <item value="is_draft" />
       <item value="Trust anchor for certification path not found." />
@@ -55,7 +56,6 @@
       <item value="When the exception was thrown, this was the stack:" />
       <item value="======== Exception caught by image resource service ================================================" />
       <item value="chức vụ" />
-      <item value="chức " />
     </histories>
     <option name="languageScores">
       <map>
