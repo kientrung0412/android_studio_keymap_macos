@@ -1,11 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="1079" />
+    <option name="newTranslationDialogWidth" value="1077" />
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="172" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is draft" />
+      <item value="is_draft" />
       <item value="Trust anchor for certification path not found." />
       <item value="get Surveys" />
       <item value="hoạt động ngoại khóa" />
@@ -54,8 +56,6 @@
       <item value="======== Exception caught by image resource service ================================================" />
       <item value="chức vụ" />
       <item value="chức " />
-      <item value="chư" />
-      <item value="Not in inclusive range 0..3: 4" />
     </histories>
     <option name="languageScores">
       <map>
