@@ -1,11 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="1077" />
+    <option name="newTranslationDialogWidth" value="1075" />
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="172" />
-    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Đáp lại" />
+      <item value="reply" />
+      <item value="trả lời" />
+      <item value="chả lời" />
+      <item value="chả " />
       <item value="can answer text" />
       <item value="is draft" />
       <item value="is_draft" />
@@ -51,11 +55,6 @@
       <item value="bỏ d" />
       <item value="Unimplemented handling of missing static target" />
       <item value="mặc đinh" />
-      <item value="mặc đinhk" />
-      <item value="m" />
-      <item value="When the exception was thrown, this was the stack:" />
-      <item value="======== Exception caught by image resource service ================================================" />
-      <item value="chức vụ" />
     </histories>
     <option name="languageScores">
       <map>
