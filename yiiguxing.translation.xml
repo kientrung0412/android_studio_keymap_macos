@@ -89,5 +89,6 @@
     <option name="overrideFont" value="true" />
     <option name="phoneticFontFamily" value="Lucida Sans Unicode" />
     <option name="primaryFontFamily" value="Courier New" />
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
