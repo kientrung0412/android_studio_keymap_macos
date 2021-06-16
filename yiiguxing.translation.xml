@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="172" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="s not referring to any views in this layout" />
       <item value="từ chối" />
       <item value="xóa danh sách học thử" />
       <item value="xóa danh sách " />
@@ -55,7 +56,6 @@
       <item value="get Post Get Notification" />
       <item value="mark Notification As Read" />
       <item value="mark All Read" />
-      <item value="vacation history widget" />
     </histories>
     <option name="languageScores">
       <map>
