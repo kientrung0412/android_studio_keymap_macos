@@ -1,11 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="1073" />
+    <option name="newTranslationDialogWidth" value="1071" />
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="172" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="xóa danh sách học thử" />
+      <item value="xóa danh sách " />
       <item value="previous Index" />
       <item value="If this is null and [automaticallyImplyLeading] is set to true, the [AppBar] will imply an appropriate widget. For example, if the [AppBar] is in a [Scaffold] that also has a [Drawer], the [Scaffold] will fill this widget with an [IconButton] that opens the drawer (using [Icons.menu]). If there's no [Drawer] and the parent [Navigator] can go back, the [AppBar] will use a [BackButton] that calls [Navigator.maybePop]." />
       <item value="câu hỏi" />
@@ -54,8 +56,6 @@
       <item value="mark All Read" />
       <item value="vacation history widget" />
       <item value="symbols from string in dart" />
-      <item value="bỏ qua dấu" />
-      <item value="omit the mark" />
     </histories>
     <option name="languageScores">
       <map>
