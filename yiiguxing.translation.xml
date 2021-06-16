@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="172" />
     <histories>
+      <item value="The method 'read' isn't defined for the type 'BuildContext'. (Documentation)" />
       <item value="The argument type 'Object' can't be assigned to the parameter type 'String'. (Documentation)" />
       <item value="s not referring to any views in this layout" />
       <item value="từ chối" />
@@ -54,7 +55,6 @@
       <item value="store Notifications" />
       <item value="handle Notification If Need" />
       <item value="get Post Get Notification" />
-      <item value="mark Notification As Read" />
     </histories>
     <option name="languageScores">
       <map>
