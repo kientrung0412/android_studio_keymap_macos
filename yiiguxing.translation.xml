@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="172" />
     <histories>
+      <item value="APPROVED FILE" />
+      <item value="BEHAVIOR" />
+      <item value="HOMEROOM CLASS DAILY COMMENT" />
+      <item value="ELEARNING ASSIGNMENT FOR STUDENT" />
       <item value="spill" />
       <item value="s" />
       <item value="sipll" />
@@ -51,10 +55,6 @@
       <item value="remove st" />
       <item value="remove stỏe" />
       <item value="remove" />
-      <item value="store Current Student Id" />
-      <item value="mark As Read" />
-      <item value="prepare Success Response" />
-      <item value="get Data Manager().store Notifications(response.get Data());" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623467818453" />
+    <option name="lastTrimTime" value="1623905604365" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
