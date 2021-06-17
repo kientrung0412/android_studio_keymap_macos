@@ -1,10 +1,19 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="1067" />
+    <option name="newTranslationDialogWidth" value="1063" />
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="172" />
     <histories>
+      <item value="Try adding a case clause for the missing constant, or adding a default clause." />
+      <item value="missing enum constant in switch" />
+      <item value="xin nghỉ" />
+      <item value="Nhận xét hàng ngày" />
+      <item value="Nhận xét hanh" />
+      <item value="Nhận" />
+      <item value="nhanj" />
+      <item value="THông báo" />
+      <item value="THông bóa" />
       <item value="RECEIPT ALERT" />
       <item value="APPROVED FILE" />
       <item value="BEHAVIOR" />
@@ -46,15 +55,6 @@
       <item value="giơi" />
       <item value="Quan hệ tình dục động vật 3" />
       <item value="Animal sex 3" />
-      <item value="Giới tính thú 3" />
-      <item value="Giới tính" />
-      <item value="Giới " />
-      <item value="G" />
-      <item value="gioaiws" />
-      <item value="remove store noti" />
-      <item value="remove store" />
-      <item value="remove st" />
-      <item value="remove stỏe" />
     </histories>
     <option name="languageScores">
       <map>
