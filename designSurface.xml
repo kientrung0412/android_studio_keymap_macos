@@ -5,6 +5,7 @@
         <entry key="..\:/OMT/BacGiang/KO/BG_KO_Manager/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
         <entry key="..\:/OMT/BacGiang/KO/BG_KO_Teacher/app/src/main/res/drawable/ic_logo_tint_free.xml" value="0.3807291666666667" />
         <entry key="..\:/OMT/BacGiang/KO/BG_KO_Teacher/app/src/main/res/drawable/logo.xml" value="0.1" />
+        <entry key="..\:/OMT/CO/co_parent_v3/app/src/main/res/layout-v28/item_home_evaluation.xml" value="0.365625" />
         <entry key="..\:/OMT/CO/co_parent_v3/app/src/main/res/layout/activity_create_support.xml" value="0.33" />
         <entry key="..\:/OMT/CO/co_parent_v3/app/src/main/res/layout/activity_post_detail.xml" value="0.3101851851851852" />
         <entry key="..\:/OMT/CO/co_parent_v3/app/src/main/res/layout/activity_support.xml" value="0.365625" />
@@ -17,7 +18,7 @@
         <entry key="..\:/OMT/CO/co_parent_v3/app/src/main/res/layout/item_appointment_date.xml" value="0.365625" />
         <entry key="..\:/OMT/CO/co_parent_v3/app/src/main/res/layout/item_bill.xml" value="0.365625" />
         <entry key="..\:/OMT/CO/co_parent_v3/app/src/main/res/layout/item_contract.xml" value="0.365625" />
-        <entry key="..\:/OMT/CO/co_parent_v3/app/src/main/res/layout/item_home_evaluation.xml" value="0.23072916666666668" />
+        <entry key="..\:/OMT/CO/co_parent_v3/app/src/main/res/layout/item_home_evaluation.xml" value="0.67" />
         <entry key="..\:/OMT/CO/co_parent_v3/app/src/main/res/layout/item_refund.xml" value="0.365625" />
         <entry key="..\:/OMT/CO/co_parent_v3/app/src/main/res/layout/item_reserve.xml" value="0.365625" />
         <entry key="..\:/OMT/CO/co_parent_v3/app/src/main/res/layout/item_survey.xml" value="0.1" />
