@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="1063" />
+    <option name="newTranslationDialogWidth" value="1061" />
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="172" />
     <histories>
+      <item value="Attachments" />
+      <item value="Tệp đính kèm" />
+      <item value="overview" />
       <item value="exercise" />
       <item value="append" />
       <item value="FINANCE RECEIVABLES" />
@@ -52,9 +55,6 @@
       <item value="This will reset your device to its default factory settings." />
       <item value="thêm giới tính thứ 3" />
       <item value="them giới tính thứ 3" />
-      <item value="them giới tính thứ " />
-      <item value="mail" />
-      <item value="giới tính" />
     </histories>
     <option name="languageScores">
       <map>
