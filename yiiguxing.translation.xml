@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="172" />
     <histories>
+      <item value="The package devtools is already activated at newest available version.&#10;To recompile executables, first run `global decativate devtools`.&#10;Installed executable devtools.&#10;Warning: Executable &quot;devtools&quot; runs &quot;bin\devtools.dart&quot;, which was not found in devtools.&#10;Activated devtools 2.3.3.&#10;" />
+      <item value=" Executable &quot;devtools&quot; runs &quot;bin\devtools.dart&quot;, which was not found in devtools.&#10;Activated devtools 2.3.3.&#10;" />
       <item value="Either the assertion indicates an error in the framework itself, or we should provide substantially more information in this error message to help you determine and fix the underlying cause. In either case, please report this assertion by filing a bug on GitHub:" />
       <item value="ngôn ngữ" />
       <item value="ngôn ngũ" />
@@ -53,8 +55,6 @@
       <item value="can answer text" />
       <item value="is draft" />
       <item value="is_draft" />
-      <item value="Trust anchor for certification path not found." />
-      <item value="get Surveys" />
     </histories>
     <option name="languageScores">
       <map>
