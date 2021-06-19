@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="172" />
     <histories>
+      <item value="Either the assertion indicates an error in the framework itself, or we should provide substantially more information in this error message to help you determine and fix the underlying cause. In either case, please report this assertion by filing a bug on GitHub:" />
       <item value="ngôn ngữ" />
       <item value="ngôn ngũ" />
       <item value="Nhận xét" />
@@ -54,7 +55,6 @@
       <item value="is_draft" />
       <item value="Trust anchor for certification path not found." />
       <item value="get Surveys" />
-      <item value="hoạt động ngoại khóa" />
     </histories>
     <option name="languageScores">
       <map>
