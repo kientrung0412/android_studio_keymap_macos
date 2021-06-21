@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="1051" />
+    <option name="newTranslationDialogWidth" value="1049" />
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="172" />
     <histories>
+      <item value="Bạn chưa chọn ngày nghỉ" />
+      <item value="You have not selected a leave date" />
+      <item value="Bạn chưa chọn ngày xin nghỉ" />
       <item value="Conditions must have a static type of 'bool'. (Documentation)" />
       <item value="câu hỏi đa cấp" />
       <item value="multi-level question" />
@@ -52,9 +55,6 @@
       <item value="s" />
       <item value="sipll" />
       <item value="The method 'read' isn't defined for the type 'BuildContext'. (Documentation)" />
-      <item value="The argument type 'Object' can't be assigned to the parameter type 'String'. (Documentation)" />
-      <item value="s not referring to any views in this layout" />
-      <item value="từ chối" />
     </histories>
     <option name="languageScores">
       <map>
