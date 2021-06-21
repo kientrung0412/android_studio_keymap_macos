@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="172" />
     <histories>
+      <item value="No image meets the size requirements of a thumbnail image" />
       <item value="Bạn chưa chọn ngày nghỉ" />
       <item value="You have not selected a leave date" />
       <item value="Bạn chưa chọn ngày xin nghỉ" />
@@ -54,7 +55,6 @@
       <item value="spill" />
       <item value="s" />
       <item value="sipll" />
-      <item value="The method 'read' isn't defined for the type 'BuildContext'. (Documentation)" />
     </histories>
     <option name="languageScores">
       <map>
