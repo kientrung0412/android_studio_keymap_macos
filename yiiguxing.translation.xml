@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="1055" />
+    <option name="newTranslationDialogWidth" value="1053" />
     <option name="newTranslationDialogX" value="665" />
     <option name="newTranslationDialogY" value="172" />
     <histories>
+      <item value="câu hỏi phụ" />
+      <item value="câu " />
+      <item value="semantics Value" />
       <item value="bản nháp" />
       <item value="origin" />
       <item value="Deactivated package devtools 2.3.3.&#10;" />
@@ -52,9 +55,6 @@
       <item value="câu hỏi" />
       <item value="caau" />
       <item value="Đáp lại" />
-      <item value="reply" />
-      <item value="trả lời" />
-      <item value="chả lời" />
     </histories>
     <option name="languageScores">
       <map>
