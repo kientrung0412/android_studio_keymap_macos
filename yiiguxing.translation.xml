@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="1045" />
+    <option name="newTranslationDialogWidth" value="1043" />
     <option name="newTranslationDialogX" value="873" />
     <option name="newTranslationDialogY" value="560" />
     <histories>
+      <item value="đẹp" />
+      <item value="đe" />
+      <item value="dd" />
+      <item value="dde" />
       <item value="đăng ký" />
       <item value=" đăng ký" />
       <item value="hủy đăng ký" />
@@ -51,10 +55,6 @@
       <item value="exercise" />
       <item value="append" />
       <item value="FINANCE RECEIVABLES" />
-      <item value="Try adding a case clause for the missing constant, or adding a default clause." />
-      <item value="missing enum constant in switch" />
-      <item value="xin nghỉ" />
-      <item value="Nhận xét hàng ngày" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623905604365" />
+    <option name="lastTrimTime" value="1624345796253" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
