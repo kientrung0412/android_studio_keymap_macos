@@ -1,10 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="1047" />
-    <option name="newTranslationDialogX" value="962" />
+    <option name="newTranslationDialogWidth" value="1045" />
+    <option name="newTranslationDialogX" value="873" />
     <option name="newTranslationDialogY" value="560" />
     <histories>
+      <item value="đăng ký" />
+      <item value=" đăng ký" />
+      <item value="hủy đăng ký" />
+      <item value="hủy " />
+      <item value="hủy đa" />
+      <item value="huyr d" />
       <item value="contact" />
       <item value="dependOnInheritedWidgetOfExactType&lt;_LocalizationsScope&gt;() or dependOnInheritedElement() was called before _DialogHotlineState.initState() completed." />
       <item value="The current" />
@@ -49,12 +55,6 @@
       <item value="missing enum constant in switch" />
       <item value="xin nghỉ" />
       <item value="Nhận xét hàng ngày" />
-      <item value="Nhận xét hanh" />
-      <item value="Nhận" />
-      <item value="nhanj" />
-      <item value="THông báo" />
-      <item value="THông bóa" />
-      <item value="RECEIPT ALERT" />
     </histories>
     <option name="languageScores">
       <map>
