@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="873" />
     <option name="newTranslationDialogY" value="560" />
     <histories>
+      <item value="Multiple widgets used the same GlobalKey." />
       <item value="aspectRatio" />
       <item value="has already been initialized." />
       <item value="is reference information" />
@@ -54,7 +55,6 @@
       <item value="Deactivated package devtools 2.3.3." />
       <item value="The package devtools is already activated at newest available version.&#10;To recompile executables, first run `global decativate devtools`.&#10;Installed executable devtools.&#10;Warning: Executable &quot;devtools&quot; runs &quot;bin\devtools.dart&quot;, which was not found in devtools.&#10;Activated devtools 2.3.3.&#10;" />
       <item value=" Executable &quot;devtools&quot; runs &quot;bin\devtools.dart&quot;, which was not found in devtools.&#10;Activated devtools 2.3.3.&#10;" />
-      <item value="Either the assertion indicates an error in the framework itself, or we should provide substantially more information in this error message to help you determine and fix the underlying cause. In either case, please report this assertion by filing a bug on GitHub:" />
     </histories>
     <option name="languageScores">
       <map>
