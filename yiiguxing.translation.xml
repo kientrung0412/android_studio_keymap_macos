@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="873" />
     <option name="newTranslationDialogY" value="560" />
     <histories>
+      <item value="orientation" />
       <item value="Sao chép" />
       <item value="'Lời nhắn" />
       <item value="đẹp" />
@@ -54,7 +55,6 @@
       <item value="Attachments" />
       <item value="Tệp đính kèm" />
       <item value="overview" />
-      <item value="exercise" />
     </histories>
     <option name="languageScores">
       <map>
