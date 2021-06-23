@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="873" />
     <option name="newTranslationDialogY" value="560" />
     <histories>
+      <item value="page Snapping" />
+      <item value="enlarge Center Page" />
+      <item value="initialized" />
+      <item value="The following assertion was thrown building HomeScreen(dirty, state: _HomeScreenState4ade7):" />
+      <item value="_needs Layout" />
       <item value="Multiple widgets used the same GlobalKey." />
       <item value="aspectRatio" />
       <item value="has already been initialized." />
@@ -50,11 +55,6 @@
       <item value="câu " />
       <item value="semantics Value" />
       <item value="bản nháp" />
-      <item value="origin" />
-      <item value="Deactivated package devtools 2.3.3.&#10;" />
-      <item value="Deactivated package devtools 2.3.3." />
-      <item value="The package devtools is already activated at newest available version.&#10;To recompile executables, first run `global decativate devtools`.&#10;Installed executable devtools.&#10;Warning: Executable &quot;devtools&quot; runs &quot;bin\devtools.dart&quot;, which was not found in devtools.&#10;Activated devtools 2.3.3.&#10;" />
-      <item value=" Executable &quot;devtools&quot; runs &quot;bin\devtools.dart&quot;, which was not found in devtools.&#10;Activated devtools 2.3.3.&#10;" />
     </histories>
     <option name="languageScores">
       <map>
