@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="873" />
     <option name="newTranslationDialogY" value="560" />
     <histories>
+      <item value="landscape" />
       <item value="ngôn ngũ" />
       <item value="create at" />
       <item value="Hết hạn" />
@@ -54,7 +55,6 @@
       <item value="Nhận xét" />
       <item value="Điểm danh" />
       <item value="muster" />
-      <item value="fee" />
     </histories>
     <option name="languageScores">
       <map>
