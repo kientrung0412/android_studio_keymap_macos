@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="1043" />
+    <option name="newTranslationDialogWidth" value="1041" />
     <option name="newTranslationDialogX" value="873" />
     <option name="newTranslationDialogY" value="560" />
     <histories>
+      <item value="ngôn ngũ" />
+      <item value="create at" />
+      <item value="Hết hạn" />
+      <item value="expired" />
       <item value="orientation" />
       <item value="Sao chép" />
       <item value="'Lời nhắn" />
@@ -47,14 +51,10 @@
       <item value=" Executable &quot;devtools&quot; runs &quot;bin\devtools.dart&quot;, which was not found in devtools.&#10;Activated devtools 2.3.3.&#10;" />
       <item value="Either the assertion indicates an error in the framework itself, or we should provide substantially more information in this error message to help you determine and fix the underlying cause. In either case, please report this assertion by filing a bug on GitHub:" />
       <item value="ngôn ngữ" />
-      <item value="ngôn ngũ" />
       <item value="Nhận xét" />
       <item value="Điểm danh" />
       <item value="muster" />
       <item value="fee" />
-      <item value="Attachments" />
-      <item value="Tệp đính kèm" />
-      <item value="overview" />
     </histories>
     <option name="languageScores">
       <map>
