@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="873" />
     <option name="newTranslationDialogY" value="560" />
     <histories>
+      <item value="translucent" />
       <item value="Chức năng chung" />
       <item value="General function" />
       <item value="The relevant error-causing widget was:" />
@@ -54,7 +55,6 @@
       <item value=" đa cấp" />
       <item value="đa cấp" />
       <item value="đa" />
-      <item value="is Answered" />
     </histories>
     <option name="languageScores">
       <map>
