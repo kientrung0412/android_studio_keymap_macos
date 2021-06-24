@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="873" />
     <option name="newTranslationDialogY" value="560" />
     <histories>
+      <item value="The relevant error-causing widget was:" />
+      <item value="bubble speech" />
       <item value="page Snapping" />
       <item value="enlarge Center Page" />
       <item value="initialized" />
@@ -53,8 +55,6 @@
       <item value="is Answered" />
       <item value="câu hỏi phụ" />
       <item value="câu " />
-      <item value="semantics Value" />
-      <item value="bản nháp" />
     </histories>
     <option name="languageScores">
       <map>
