@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="1035" />
+    <option name="newTranslationDialogWidth" value="1033" />
     <option name="newTranslationDialogX" value="873" />
     <option name="newTranslationDialogY" value="560" />
     <histories>
+      <item value="search" />
+      <item value="seảch" />
       <item value="translucent" />
       <item value="Chức năng chung" />
       <item value="General function" />
@@ -53,8 +55,6 @@
       <item value="câu hỏi đa cấp" />
       <item value="multi-level question" />
       <item value=" đa cấp" />
-      <item value="đa cấp" />
-      <item value="đa" />
     </histories>
     <option name="languageScores">
       <map>
