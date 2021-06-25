@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="873" />
     <option name="newTranslationDialogY" value="560" />
     <histories>
+      <item value="language" />
       <item value="search" />
       <item value="seảch" />
       <item value="translucent" />
@@ -54,7 +55,6 @@
       <item value="Conditions must have a static type of 'bool'. (Documentation)" />
       <item value="câu hỏi đa cấp" />
       <item value="multi-level question" />
-      <item value=" đa cấp" />
     </histories>
     <option name="languageScores">
       <map>
