@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="873" />
     <option name="newTranslationDialogY" value="560" />
     <histories>
+      <item value="should Repaint" />
       <item value="BoxConstraints forces an infinite height." />
       <item value="language" />
       <item value="search" />
@@ -54,7 +55,6 @@
       <item value="You have not selected a leave date" />
       <item value="Bạn chưa chọn ngày xin nghỉ" />
       <item value="Conditions must have a static type of 'bool'. (Documentation)" />
-      <item value="câu hỏi đa cấp" />
     </histories>
     <option name="languageScores">
       <map>
