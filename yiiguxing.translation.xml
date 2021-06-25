@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="1033" />
+    <option name="newTranslationDialogWidth" value="1031" />
     <option name="newTranslationDialogX" value="873" />
     <option name="newTranslationDialogY" value="560" />
     <histories>
+      <item value="nháp" />
+      <item value="nha" />
+      <item value="is Dart" />
       <item value="should Repaint" />
       <item value="BoxConstraints forces an infinite height." />
       <item value="language" />
@@ -52,9 +55,6 @@
       <item value="s" />
       <item value="No image meets the size requirements of a thumbnail image" />
       <item value="Bạn chưa chọn ngày nghỉ" />
-      <item value="You have not selected a leave date" />
-      <item value="Bạn chưa chọn ngày xin nghỉ" />
-      <item value="Conditions must have a static type of 'bool'. (Documentation)" />
     </histories>
     <option name="languageScores">
       <map>
