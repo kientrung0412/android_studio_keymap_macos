@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="1031" />
+    <option name="newTranslationDialogWidth" value="1029" />
     <option name="newTranslationDialogX" value="873" />
     <option name="newTranslationDialogY" value="560" />
     <histories>
+      <item value="suggest id&#10;" />
+      <item value="suggest_id&#10;" />
+      <item value="suggest_id" />
       <item value="answered" />
       <item value="nháp" />
       <item value="nha" />
@@ -52,9 +55,6 @@
       <item value="The current" />
       <item value="so sánh" />
       <item value="so sanh" />
-      <item value="so sanhs" />
-      <item value="s" />
-      <item value="No image meets the size requirements of a thumbnail image" />
     </histories>
     <option name="languageScores">
       <map>
