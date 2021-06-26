@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="873" />
     <option name="newTranslationDialogY" value="560" />
     <histories>
+      <item value="allow" />
+      <item value="threshold" />
       <item value="suggest id&#10;" />
       <item value="suggest_id&#10;" />
       <item value="suggest_id" />
@@ -53,8 +55,6 @@
       <item value="contact" />
       <item value="dependOnInheritedWidgetOfExactType&lt;_LocalizationsScope&gt;() or dependOnInheritedElement() was called before _DialogHotlineState.initState() completed." />
       <item value="The current" />
-      <item value="so sánh" />
-      <item value="so sanh" />
     </histories>
     <option name="languageScores">
       <map>
