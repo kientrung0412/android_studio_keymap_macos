@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="254" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="defined" />
       <item value="Click and Drag to move student to another group" />
       <item value="Students who have not joined a group" />
       <item value="Treat" />
@@ -55,7 +56,6 @@
       <item value=" đăng ký" />
       <item value="hủy đăng ký" />
       <item value="hủy " />
-      <item value="hủy đa" />
     </histories>
     <option name="languageScores">
       <map>
