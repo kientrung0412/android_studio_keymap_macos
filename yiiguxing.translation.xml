@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="254" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Password must be at least 6 characters long" />
       <item value="Invalid constant value" />
       <item value="301 Moved Permanently" />
       <item value="Code reset password is invalid" />
@@ -55,7 +56,6 @@
       <item value="đẹp" />
       <item value="đe" />
       <item value="dd" />
-      <item value="dde" />
     </histories>
     <option name="languageScores">
       <map>
