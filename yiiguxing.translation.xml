@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="254" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Code reset password is invalid" />
       <item value="handle More Than Five Image Per Post" />
       <item value="defined" />
       <item value="Click and Drag to move student to another group" />
@@ -55,7 +56,6 @@
       <item value="dde" />
       <item value="đăng ký" />
       <item value=" đăng ký" />
-      <item value="hủy đăng ký" />
     </histories>
     <option name="languageScores">
       <map>
