@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="286" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="immutable" />
       <item value="thành công" />
       <item value="th" />
       <item value="thna" />
@@ -55,7 +56,6 @@
       <item value="Hết hạn" />
       <item value="expired" />
       <item value="orientation" />
-      <item value="Sao chép" />
     </histories>
     <option name="languageScores">
       <map>
