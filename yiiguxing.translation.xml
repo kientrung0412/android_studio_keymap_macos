@@ -1,11 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="1027" />
-    <option name="newTranslationDialogX" value="766" />
-    <option name="newTranslationDialogY" value="254" />
+    <option name="newTranslationDialogWidth" value="1025" />
+    <option name="newTranslationDialogX" value="745" />
+    <option name="newTranslationDialogY" value="286" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="thành công" />
+      <item value="th" />
+      <item value="thna" />
+      <item value="ither zero or 2 or more [DropdownMenuItem]s were detected with the same value" />
       <item value="language" />
       <item value="Password must be at least 6 characters long" />
       <item value="Invalid constant value" />
@@ -52,10 +56,6 @@
       <item value="expired" />
       <item value="orientation" />
       <item value="Sao chép" />
-      <item value="'Lời nhắn" />
-      <item value="đẹp" />
-      <item value="đe" />
-      <item value="dd" />
     </histories>
     <option name="languageScores">
       <map>
