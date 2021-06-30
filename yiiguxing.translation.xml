@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="286" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="for&#10;" />
+      <item value="fỏ" />
       <item value="A function body must be provided." />
       <item value="immutable" />
       <item value="thành công" />
@@ -54,8 +56,6 @@
       <item value="landscape" />
       <item value="ngôn ngũ" />
       <item value="create at" />
-      <item value="Hết hạn" />
-      <item value="expired" />
     </histories>
     <option name="languageScores">
       <map>
