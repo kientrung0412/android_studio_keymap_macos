@@ -1,11 +1,18 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="1023" />
+    <option name="newTranslationDialogWidth" value="1021" />
     <option name="newTranslationDialogX" value="745" />
     <option name="newTranslationDialogY" value="286" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Promotion" />
+      <item value="góc phụ huynh" />
+      <item value="góc phụ " />
+      <item value="góc p" />
+      <item value="góc pị" />
+      <item value="góc " />
+      <item value="conner" />
       <item value="thành công" />
       <item value="&gt; Could not resolve all task dependencies for configuration ':app:debugCompileClasspath'." />
       <item value="Could not determine the dependencies of task ':app:compileDebugJavaWithJavac'." />
@@ -49,13 +56,6 @@
       <item value="bubble speech" />
       <item value="page Snapping" />
       <item value="enlarge Center Page" />
-      <item value="initialized" />
-      <item value="The following assertion was thrown building HomeScreen(dirty, state: _HomeScreenState4ade7):" />
-      <item value="_needs Layout" />
-      <item value="Multiple widgets used the same GlobalKey." />
-      <item value="aspectRatio" />
-      <item value="has already been initialized." />
-      <item value="is reference information" />
     </histories>
     <option name="languageScores">
       <map>
