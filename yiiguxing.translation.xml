@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="286" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="&gt; Could not resolve all task dependencies for configuration ':app:debugCompileClasspath'." />
+      <item value="Could not determine the dependencies of task ':app:compileDebugJavaWithJavac'." />
       <item value="Overview" />
       <item value="dependOnInheritedWidgetOfExactType&lt;_LocalizationsScope&gt;() or dependOnInheritedElement() was called before _ItemSubjectContentState.initState() completed." />
       <item value="for&#10;" />
@@ -54,8 +56,6 @@
       <item value="aspectRatio" />
       <item value="has already been initialized." />
       <item value="is reference information" />
-      <item value="is_reference_information" />
-      <item value="landscape" />
     </histories>
     <option name="languageScores">
       <map>
