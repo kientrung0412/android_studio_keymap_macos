@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="286" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="dependOnInheritedWidgetOfExactType&lt;_LocalizationsScope&gt;() or dependOnInheritedElement() was called before _ItemSubjectContentState.initState() completed." />
       <item value="for&#10;" />
       <item value="fỏ" />
       <item value="A function body must be provided." />
@@ -55,7 +56,6 @@
       <item value="is_reference_information" />
       <item value="landscape" />
       <item value="ngôn ngũ" />
-      <item value="create at" />
     </histories>
     <option name="languageScores">
       <map>
