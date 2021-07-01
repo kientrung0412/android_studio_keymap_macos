@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="286" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="copy To Realm Or Update" />
+      <item value="begin Transaction" />
+      <item value="is In Transaction" />
       <item value="nháp" />
       <item value="Promotion" />
       <item value="góc phụ huynh" />
@@ -53,9 +56,6 @@
       <item value="Chức năng chung" />
       <item value="General function" />
       <item value="The relevant error-causing widget was:" />
-      <item value="bubble speech" />
-      <item value="page Snapping" />
-      <item value="enlarge Center Page" />
     </histories>
     <option name="languageScores">
       <map>
