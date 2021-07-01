@@ -1,11 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="1019" />
+    <option name="newTranslationDialogWidth" value="1017" />
     <option name="newTranslationDialogX" value="745" />
     <option name="newTranslationDialogY" value="286" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ngủ" />
+      <item value="Array initializer expected" />
       <item value="copy To Realm Or Update" />
       <item value="begin Transaction" />
       <item value="is In Transaction" />
@@ -54,8 +56,6 @@
       <item value="seảch" />
       <item value="translucent" />
       <item value="Chức năng chung" />
-      <item value="General function" />
-      <item value="The relevant error-causing widget was:" />
     </histories>
     <option name="languageScores">
       <map>
