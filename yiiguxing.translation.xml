@@ -1,11 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="1015" />
+    <option name="newTranslationDialogWidth" value="1013" />
     <option name="newTranslationDialogX" value="745" />
     <option name="newTranslationDialogY" value="286" />
-    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Dialog Store Draft" />
       <item value="Attempt to invoke interface method" />
       <item value="nháp" />
       <item value="ghi chứ" />
@@ -55,7 +55,6 @@
       <item value="should Repaint" />
       <item value="BoxConstraints forces an infinite height." />
       <item value="search" />
-      <item value="seảch" />
     </histories>
     <option name="languageScores">
       <map>
