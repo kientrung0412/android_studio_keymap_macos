@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="286" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Attempt to invoke interface method" />
       <item value="nháp" />
       <item value="ghi chứ" />
       <item value="ngủ" />
@@ -55,7 +56,6 @@
       <item value="BoxConstraints forces an infinite height." />
       <item value="search" />
       <item value="seảch" />
-      <item value="translucent" />
     </histories>
     <option name="languageScores">
       <map>
