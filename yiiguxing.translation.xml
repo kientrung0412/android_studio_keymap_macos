@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="745" />
     <option name="newTranslationDialogY" value="286" />
     <histories>
+      <item value="diff In Millies" />
       <item value="origin Data" />
       <item value="cancelable" />
       <item value="vn.omt.kidsonline.teacher.ui.DialogSaveDataCallBack' is not public in 'vn.omt.kidsonline.teacher.ui'. Cannot be accessed from outside package" />
@@ -54,7 +55,6 @@
       <item value="suggest_id&#10;" />
       <item value="suggest_id" />
       <item value="answered" />
-      <item value="nha" />
     </histories>
     <option name="languageScores">
       <map>
