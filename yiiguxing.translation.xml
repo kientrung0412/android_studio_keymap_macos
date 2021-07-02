@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="745" />
     <option name="newTranslationDialogY" value="286" />
     <histories>
+      <item value="vn.omt.kidsonline.teacher.ui.DialogSaveDataCallBack' is not public in 'vn.omt.kidsonline.teacher.ui'. Cannot be accessed from outside package" />
+      <item value="Non Constant Resource Id" />
       <item value="Dialog Store Draft" />
       <item value="Attempt to invoke interface method" />
       <item value="nháp" />
@@ -53,8 +55,6 @@
       <item value="nha" />
       <item value="is Dart" />
       <item value="should Repaint" />
-      <item value="BoxConstraints forces an infinite height." />
-      <item value="search" />
     </histories>
     <option name="languageScores">
       <map>
