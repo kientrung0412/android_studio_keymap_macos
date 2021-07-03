@@ -108,12 +108,14 @@
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/dialog_voice_rec.xml" value="0.365625" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/fragment_attendance_come.xml" value="0.2526041666666667" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/fragment_home.xml" value="1.0" />
+        <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/fragment_learn.xml" value="0.2916666666666667" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/item_medicine_note_v2.xml" value="0.36" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/item_photo.xml" value="0.365625" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/item_student.xml" value="0.365625" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/item_student_attendance.xml" value="0.35185185185185186" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/item_student_attendance_late.xml" value="0.38645833333333335" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/item_student_daily_assessment.xml" value="0.365625" />
+        <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/item_student_learn.xml" value="0.38645833333333335" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/item_student_sleep.xml" value="0.38645833333333335" />
         <entry key="..\:/OMT/Lib/WebView/Source/library/src/main/res/layout/activity_advance_webview.xml" value="0.1" />
         <entry key="..\:/OMT/Lib/comment_module/src/main/res/drawable-v24/ic_youtube.xml" value="0.1" />
