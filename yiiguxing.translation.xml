@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="745" />
     <option name="newTranslationDialogY" value="286" />
     <histories>
+      <item value="public class StudentSleep extends NotableStudent {" />
       <item value="is finished" />
       <item value="disabled quick assessment" />
       <item value="is Already Assessment" />
@@ -54,7 +55,6 @@
       <item value="for&#10;" />
       <item value="fỏ" />
       <item value="A function body must be provided." />
-      <item value="immutable" />
     </histories>
     <option name="languageScores">
       <map>
