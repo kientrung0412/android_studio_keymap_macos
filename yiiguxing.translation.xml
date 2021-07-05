@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="745" />
     <option name="newTranslationDialogY" value="286" />
     <histories>
+      <item value="is finished" />
+      <item value="disabled quick assessment" />
+      <item value="is Already Assessment" />
       <item value="có thay đổi" />
       <item value="có " />
       <item value="Buổi chiều" />
@@ -52,9 +55,6 @@
       <item value="fỏ" />
       <item value="A function body must be provided." />
       <item value="immutable" />
-      <item value="th" />
-      <item value="thna" />
-      <item value="ither zero or 2 or more [DropdownMenuItem]s were detected with the same value" />
     </histories>
     <option name="languageScores">
       <map>
