@@ -1,10 +1,21 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="1013" />
+    <option name="newTranslationDialogWidth" value="1007" />
     <option name="newTranslationDialogX" value="745" />
     <option name="newTranslationDialogY" value="286" />
     <histories>
+      <item value="Buổi chiều" />
+      <item value="Buổi chiêi" />
+      <item value="Buổi chiuề" />
+      <item value="Buồi" />
+      <item value="Buổic chiuề" />
+      <item value="Buổi sáng" />
+      <item value="Học cả ngày" />
+      <item value="Study all day" />
+      <item value="Học cả ngày&#10;" />
+      <item value="Hocj ca" />
+      <item value="Hocj car n" />
       <item value="temp" />
       <item value="show Learns" />
       <item value="show Advance Learn" />
@@ -44,17 +55,6 @@
       <item value="ither zero or 2 or more [DropdownMenuItem]s were detected with the same value" />
       <item value="language" />
       <item value="Password must be at least 6 characters long" />
-      <item value="Invalid constant value" />
-      <item value="301 Moved Permanently" />
-      <item value="Code reset password is invalid" />
-      <item value="handle More Than Five Image Per Post" />
-      <item value="defined" />
-      <item value="Click and Drag to move student to another group" />
-      <item value="Students who have not joined a group" />
-      <item value="Treat" />
-      <item value="Treat Ungraded as 0" />
-      <item value="allow" />
-      <item value="threshold" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1624855613835" />
+    <option name="lastTrimTime" value="1625451200180" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
