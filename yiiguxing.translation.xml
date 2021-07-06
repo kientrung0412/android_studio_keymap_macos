@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="1005" />
+    <option name="newTranslationDialogWidth" value="1003" />
     <option name="newTranslationDialogX" value="745" />
     <option name="newTranslationDialogY" value="286" />
     <histories>
+      <item value="gốc" />
+      <item value="goocs" />
+      <item value="orinal" />
       <item value="DINNING" />
       <item value="@return &lt;code&gt;true&lt;code&gt; iff the collections contain the same elements with the same cardinalities." />
       <item value="public class StudentSleep extends NotableStudent {" />
@@ -52,9 +55,6 @@
       <item value="thành công" />
       <item value="&gt; Could not resolve all task dependencies for configuration ':app:debugCompileClasspath'." />
       <item value="Could not determine the dependencies of task ':app:compileDebugJavaWithJavac'." />
-      <item value="Overview" />
-      <item value="dependOnInheritedWidgetOfExactType&lt;_LocalizationsScope&gt;() or dependOnInheritedElement() was called before _ItemSubjectContentState.initState() completed." />
-      <item value="for&#10;" />
     </histories>
     <option name="languageScores">
       <map>
