@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="745" />
     <option name="newTranslationDialogY" value="286" />
     <histories>
+      <item value="show Notification" />
       <item value="auto Mirrored" />
       <item value="set Translucent For Image View In Fragment" />
       <item value="origin" />
@@ -54,7 +55,6 @@
       <item value="Promotion" />
       <item value="góc phụ huynh" />
       <item value="góc phụ " />
-      <item value="góc p" />
     </histories>
     <option name="languageScores">
       <map>
