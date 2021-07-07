@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="745" />
     <option name="newTranslationDialogY" value="286" />
     <histories>
+      <item value="Invalid value: Only valid value is" />
       <item value="Something is broken. Please let us know what you were doing when this error occurred. Iflutter (18254): We will fix it as soon as possible. Sorry for any inconvenience caused." />
       <item value="show Notification" />
       <item value="auto Mirrored" />
@@ -54,7 +55,6 @@
       <item value="begin Transaction" />
       <item value="is In Transaction" />
       <item value="Promotion" />
-      <item value="góc phụ huynh" />
     </histories>
     <option name="languageScores">
       <map>
