@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="745" />
     <option name="newTranslationDialogY" value="286" />
     <histories>
+      <item value="outside Builder" />
+      <item value="selected Day Predicate" />
       <item value="s already declared in this scope." />
       <item value="weekday" />
       <item value="Seleced" />
@@ -53,8 +55,6 @@
       <item value="diff In Millies" />
       <item value="origin Data" />
       <item value="cancelable" />
-      <item value="vn.omt.kidsonline.teacher.ui.DialogSaveDataCallBack' is not public in 'vn.omt.kidsonline.teacher.ui'. Cannot be accessed from outside package" />
-      <item value="Non Constant Resource Id" />
     </histories>
     <option name="languageScores">
       <map>
