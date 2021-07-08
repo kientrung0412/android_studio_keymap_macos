@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="745" />
     <option name="newTranslationDialogY" value="286" />
     <histories>
+      <item value="Seleced" />
       <item value="iterable" />
       <item value="comparator" />
       <item value="comparable" />
@@ -54,7 +55,6 @@
       <item value="Non Constant Resource Id" />
       <item value="Dialog Store Draft" />
       <item value="Attempt to invoke interface method" />
-      <item value="nháp" />
     </histories>
     <option name="languageScores">
       <map>
