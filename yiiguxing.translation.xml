@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="745" />
     <option name="newTranslationDialogY" value="286" />
     <histories>
+      <item value="iterable" />
+      <item value="comparator" />
+      <item value="comparable" />
       <item value="Something is broken. Please let us know what you were doing when this error occurred. Iflutter (19260): We will fix it as soon as possible. Sorry for any inconvenience caused." />
       <item value="enable Pull Down" />
       <item value="transaction" />
@@ -52,9 +55,6 @@
       <item value="Dialog Store Draft" />
       <item value="Attempt to invoke interface method" />
       <item value="nháp" />
-      <item value="ghi chứ" />
-      <item value="ngủ" />
-      <item value="Array initializer expected" />
     </histories>
     <option name="languageScores">
       <map>
