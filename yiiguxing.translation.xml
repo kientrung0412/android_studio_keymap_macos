@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="745" />
     <option name="newTranslationDialogY" value="286" />
     <histories>
+      <item value="enable Pull Down" />
       <item value="transaction" />
       <item value="If none of these solutions work, consider asking for help on StackOverflow:" />
       <item value="Invalid value: Only valid value is" />
@@ -54,7 +55,6 @@
       <item value="ngủ" />
       <item value="Array initializer expected" />
       <item value="copy To Realm Or Update" />
-      <item value="begin Transaction" />
     </histories>
     <option name="languageScores">
       <map>
