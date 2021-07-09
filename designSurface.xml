@@ -77,9 +77,23 @@
         <entry key="..\:/OMT/KO/KO_Attendance/app/src/main/res/layout/account_edit_content_view.xml" value="0.365625" />
         <entry key="..\:/OMT/KO/KO_Attendance/app/src/main/res/layout/fragment_account.xml" value="0.16203703703703703" />
         <entry key="..\:/OMT/KO/KO_Attendance/app/src/main/res/layout/fragment_menu.xml" value="0.1" />
+        <entry key="..\:/OMT/KO/KO_Attendance/src/main/res/drawable/action_delete_grey.xml" value="0.4015625" />
+        <entry key="..\:/OMT/KO/KO_Attendance/src/main/res/drawable/bg_album_type.xml" value="0.4015625" />
         <entry key="..\:/OMT/KO/KO_Attendance/src/main/res/drawable/logo.xml" value="0.21927083333333333" />
         <entry key="..\:/OMT/KO/KO_Attendance/src/main/res/drawable/logomark_light.xml" value="0.15572916666666667" />
+        <entry key="..\:/OMT/KO/KO_Attendance/src/main/res/layout/account_edit_content_view.xml" value="0.38645833333333335" />
+        <entry key="..\:/OMT/KO/KO_Attendance/src/main/res/layout/account_zoom_view.xml" value="0.38645833333333335" />
+        <entry key="..\:/OMT/KO/KO_Attendance/src/main/res/layout/accout_header_view.xml" value="0.38645833333333335" />
+        <entry key="..\:/OMT/KO/KO_Attendance/src/main/res/layout/activity_attendance_with_faces.xml" value="0.38645833333333335" />
+        <entry key="..\:/OMT/KO/KO_Attendance/src/main/res/layout/activity_contact.xml" value="0.38645833333333335" />
+        <entry key="..\:/OMT/KO/KO_Attendance/src/main/res/layout/activity_image_uploading.xml" value="0.38645833333333335" />
+        <entry key="..\:/OMT/KO/KO_Attendance/src/main/res/layout/activity_introduction.xml" value="0.38645833333333335" />
         <entry key="..\:/OMT/KO/KO_Attendance/src/main/res/layout/activity_login.xml" value="0.1875" />
+        <entry key="..\:/OMT/KO/KO_Attendance/src/main/res/layout/activity_transporters.xml" value="0.38645833333333335" />
+        <entry key="..\:/OMT/KO/KO_Attendance/src/main/res/layout/dialog_pick_school_get_otp.xml" value="0.38645833333333335" />
+        <entry key="..\:/OMT/KO/KO_Attendance/src/main/res/layout/dialog_student_detail.xml" value="0.38645833333333335" />
+        <entry key="..\:/OMT/KO/KO_Attendance/src/main/res/layout/edit_account_zoom.xml" value="0.38645833333333335" />
+        <entry key="..\:/OMT/KO/KO_Attendance/src/main/res/layout/framgment_notification.xml" value="0.1" />
         <entry key="..\:/OMT/KO/KO_Attendance/src/main/res/mipmap-anydpi-v26/logo.xml" value="0.3907407407407407" />
         <entry key="..\:/OMT/KO/KO_Manager/app/src/main/res/layout/account_edit_content_view.xml" value="0.365625" />
         <entry key="..\:/OMT/KO/KO_Manager/app/src/main/res/layout/item_diligence_attendance_result.xml" value="0.1" />
