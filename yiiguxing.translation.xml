@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="745" />
     <option name="newTranslationDialogY" value="286" />
     <histories>
+      <item value="Avoid using unnecessary statements. (Documentation)" />
       <item value="dimension" />
       <item value="description" />
       <item value="outside Builder" />
@@ -54,7 +55,6 @@
       <item value="show Learns" />
       <item value="show Advance Learn" />
       <item value="io.reactivex.exceptions.UndeliverableException: The exception could not be delivered to the consumer because it has already canceleddisposed the flow or the exception has nowhere to go to begin with. Further reading: https:github.comReactiveXRxJavawikiWhat's-different-in-2.0error-handling | java.lang.IndexOutOfBoundsException: Index: 2, Size: 2" />
-      <item value="diff In Millies" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1625451200180" />
+    <option name="lastTrimTime" value="1625893253525" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
