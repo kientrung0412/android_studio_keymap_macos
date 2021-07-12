@@ -1,11 +1,22 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="1003" />
+    <option name="newTranslationDialogWidth" value="999" />
     <option name="newTranslationDialogX" value="745" />
     <option name="newTranslationDialogY" value="286" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="điểm danh" />
+      <item value="manager" />
+      <item value="Manager" />
+      <item value="Mana" />
+      <item value="Hành chính" />
+      <item value="Administration" />
+      <item value="Quản trị" />
+      <item value="Quản tr" />
+      <item value="Quản" />
+      <item value="Qu" />
+      <item value="quanr trij" />
       <item value="Initial state, which can be triggered loading more by gesture pull up" />
       <item value="pull up load" />
       <item value="release to load more" />
@@ -45,17 +56,6 @@
       <item value="disabled quick assessment" />
       <item value="is Already Assessment" />
       <item value="có thay đổi" />
-      <item value="có " />
-      <item value="Buổi chiều" />
-      <item value="Buổi chiêi" />
-      <item value="Buổi chiuề" />
-      <item value="Buồi" />
-      <item value="Buổic chiuề" />
-      <item value="Buổi sáng" />
-      <item value="Học cả ngày" />
-      <item value="Study all day" />
-      <item value="Học cả ngày&#10;" />
-      <item value="Hocj ca" />
     </histories>
     <option name="languageScores">
       <map>
