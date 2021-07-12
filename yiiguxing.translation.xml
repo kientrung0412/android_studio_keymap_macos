@@ -4,7 +4,12 @@
     <option name="newTranslationDialogWidth" value="1003" />
     <option name="newTranslationDialogX" value="745" />
     <option name="newTranslationDialogY" value="286" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Initial state, which can be triggered loading more by gesture pull up" />
+      <item value="pull up load" />
+      <item value="release to load more" />
+      <item value="No more Data" />
       <item value="RenderFlex children have non-zero flex but incoming height constraints are unbounded." />
       <item value="Avoid using unnecessary statements. (Documentation)" />
       <item value="dimension" />
@@ -51,10 +56,6 @@
       <item value="Study all day" />
       <item value="Học cả ngày&#10;" />
       <item value="Hocj ca" />
-      <item value="Hocj car n" />
-      <item value="temp" />
-      <item value="show Learns" />
-      <item value="show Advance Learn" />
     </histories>
     <option name="languageScores">
       <map>
