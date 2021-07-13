@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="286" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="reverse" />
       <item value="Widgets that mix AutomaticKeepAliveClientMixin into their State must call super.build() but must ignore the return value of the superclass." />
       <item value="remove" />
       <item value="điểm danh" />
@@ -55,7 +56,6 @@
       <item value="@return &lt;code&gt;true&lt;code&gt; iff the collections contain the same elements with the same cardinalities." />
       <item value="public class StudentSleep extends NotableStudent {" />
       <item value="is finished" />
-      <item value="disabled quick assessment" />
     </histories>
     <option name="languageScores">
       <map>
