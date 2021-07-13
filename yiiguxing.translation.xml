@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="286" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="remove" />
       <item value="điểm danh" />
       <item value="manager" />
       <item value="Manager" />
@@ -55,7 +56,6 @@
       <item value="is finished" />
       <item value="disabled quick assessment" />
       <item value="is Already Assessment" />
-      <item value="có thay đổi" />
     </histories>
     <option name="languageScores">
       <map>
