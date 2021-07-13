@@ -1,11 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="997" />
+    <option name="newTranslationDialogWidth" value="993" />
     <option name="newTranslationDialogX" value="745" />
     <option name="newTranslationDialogY" value="286" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="lọc" />
+      <item value="locj" />
+      <item value="phản hồi" />
+      <item value="phản hôi" />
       <item value="Tried to read a provider that threw during the creation of its value" />
       <item value="Quản lý yêu cầu" />
       <item value="Q" />
@@ -52,10 +56,6 @@
       <item value="show Notification" />
       <item value="auto Mirrored" />
       <item value="set Translucent For Image View In Fragment" />
-      <item value="origin" />
-      <item value="portrait" />
-      <item value="Nhận xét tuần" />
-      <item value="Nhận xe" />
     </histories>
     <option name="languageScores">
       <map>
