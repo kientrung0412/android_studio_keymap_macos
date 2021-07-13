@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="286" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Tried to read a provider that threw during the creation of its value" />
       <item value="Quản lý yêu cầu" />
       <item value="Q" />
       <item value="QUản" />
@@ -55,7 +56,6 @@
       <item value="portrait" />
       <item value="Nhận xét tuần" />
       <item value="Nhận xe" />
-      <item value="gốc" />
     </histories>
     <option name="languageScores">
       <map>
