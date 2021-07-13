@@ -1,11 +1,17 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="999" />
+    <option name="newTranslationDialogWidth" value="997" />
     <option name="newTranslationDialogX" value="745" />
     <option name="newTranslationDialogY" value="286" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Quản lý yêu cầu" />
+      <item value="Q" />
+      <item value="QUản" />
+      <item value="Quản lý đơn hàng" />
+      <item value="Order Management" />
+      <item value="Quản lý đơn" />
       <item value="reverse" />
       <item value="Widgets that mix AutomaticKeepAliveClientMixin into their State must call super.build() but must ignore the return value of the superclass." />
       <item value="remove" />
@@ -50,12 +56,6 @@
       <item value="Nhận xét tuần" />
       <item value="Nhận xe" />
       <item value="gốc" />
-      <item value="goocs" />
-      <item value="orinal" />
-      <item value="DINNING" />
-      <item value="@return &lt;code&gt;true&lt;code&gt; iff the collections contain the same elements with the same cardinalities." />
-      <item value="public class StudentSleep extends NotableStudent {" />
-      <item value="is finished" />
     </histories>
     <option name="languageScores">
       <map>
