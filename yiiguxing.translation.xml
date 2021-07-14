@@ -1,11 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="993" />
+    <option name="newTranslationDialogWidth" value="991" />
     <option name="newTranslationDialogX" value="745" />
     <option name="newTranslationDialogY" value="286" />
-    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="createred" />
       <item value="lọc" />
       <item value="locj" />
       <item value="phản hồi" />
@@ -55,7 +55,6 @@
       <item value="Something is broken. Please let us know what you were doing when this error occurred. Iflutter (18254): We will fix it as soon as possible. Sorry for any inconvenience caused." />
       <item value="show Notification" />
       <item value="auto Mirrored" />
-      <item value="set Translucent For Image View In Fragment" />
     </histories>
     <option name="languageScores">
       <map>
