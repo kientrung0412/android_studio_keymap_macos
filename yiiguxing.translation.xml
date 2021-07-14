@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="745" />
     <option name="newTranslationDialogY" value="286" />
     <histories>
+      <item value="no Such Method" />
+      <item value="history" />
       <item value="Unable to determine application id: com.android.tools.idea.run.ApkProvisionException: No outputs for the main artifact of variant: debug" />
       <item value="Abstract classes can't be instantiated. (Documentation)" />
       <item value="_CreatedTicketScreenState is a SingleTickerProviderStateMixin but multiple tickers were created." />
@@ -53,8 +55,6 @@
       <item value="iterable" />
       <item value="comparator" />
       <item value="comparable" />
-      <item value="Something is broken. Please let us know what you were doing when this error occurred. Iflutter (19260): We will fix it as soon as possible. Sorry for any inconvenience caused." />
-      <item value="enable Pull Down" />
     </histories>
     <option name="languageScores">
       <map>
