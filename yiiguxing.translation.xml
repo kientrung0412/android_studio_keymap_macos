@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="745" />
     <option name="newTranslationDialogY" value="286" />
     <histories>
+      <item value="Abstract classes can't be instantiated. (Documentation)" />
       <item value="_CreatedTicketScreenState is a SingleTickerProviderStateMixin but multiple tickers were created." />
       <item value="initialized" />
       <item value="This happens because you used a `BuildContext` that does not include the provider" />
@@ -54,7 +55,6 @@
       <item value="Something is broken. Please let us know what you were doing when this error occurred. Iflutter (19260): We will fix it as soon as possible. Sorry for any inconvenience caused." />
       <item value="enable Pull Down" />
       <item value="transaction" />
-      <item value="If none of these solutions work, consider asking for help on StackOverflow:" />
     </histories>
     <option name="languageScores">
       <map>
