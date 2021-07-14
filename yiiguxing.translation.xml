@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="745" />
     <option name="newTranslationDialogY" value="286" />
     <histories>
+      <item value="reverse" />
       <item value="Unimplemented Error" />
       <item value="Each child must be laid out exactly once." />
       <item value="no Such Method" />
@@ -27,7 +28,6 @@
       <item value="Quản lý đơn hàng" />
       <item value="Order Management" />
       <item value="Quản lý đơn" />
-      <item value="reverse" />
       <item value="Widgets that mix AutomaticKeepAliveClientMixin into their State must call super.build() but must ignore the return value of the superclass." />
       <item value="remove" />
       <item value="điểm danh" />
