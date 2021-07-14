@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="745" />
     <option name="newTranslationDialogY" value="286" />
     <histories>
+      <item value="Unimplemented Error" />
+      <item value="Each child must be laid out exactly once." />
       <item value="no Such Method" />
       <item value="history" />
       <item value="Unable to determine application id: com.android.tools.idea.run.ApkProvisionException: No outputs for the main artifact of variant: debug" />
@@ -53,8 +55,6 @@
       <item value="weekday" />
       <item value="Seleced" />
       <item value="iterable" />
-      <item value="comparator" />
-      <item value="comparable" />
     </histories>
     <option name="languageScores">
       <map>
