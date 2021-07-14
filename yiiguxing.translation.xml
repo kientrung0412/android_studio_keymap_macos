@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="745" />
     <option name="newTranslationDialogY" value="286" />
     <histories>
+      <item value="fast Out Slow In" />
       <item value="reverse" />
       <item value="Unimplemented Error" />
       <item value="Each child must be laid out exactly once." />
@@ -54,7 +55,6 @@
       <item value="s already declared in this scope." />
       <item value="weekday" />
       <item value="Seleced" />
-      <item value="iterable" />
     </histories>
     <option name="languageScores">
       <map>
