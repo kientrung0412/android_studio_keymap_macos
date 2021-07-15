@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="745" />
     <option name="newTranslationDialogY" value="286" />
     <histories>
+      <item value="draft" />
       <item value="fast Out Slow In" />
       <item value="reverse" />
       <item value="Unimplemented Error" />
@@ -54,7 +55,6 @@
       <item value="selected Day Predicate" />
       <item value="s already declared in this scope." />
       <item value="weekday" />
-      <item value="Seleced" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1625893253525" />
+    <option name="lastTrimTime" value="1626331192656" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
