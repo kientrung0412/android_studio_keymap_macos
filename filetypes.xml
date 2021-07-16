@@ -7,7 +7,6 @@
       <mapping pattern="fvm" type="PLAIN_TEXT" />
       <mapping pattern=".flutter-plugins-dependencies" type="PLAIN_TEXT" />
       <mapping ext="news" type="PLAIN_TEXT" />
-      <mapping pattern=".analysis_options" type="YAML" />
     </extensionMap>
   </component>
 </application>
