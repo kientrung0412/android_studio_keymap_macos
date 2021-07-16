@@ -3,10 +3,6 @@
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="news-wal" type="Native" />
-      <mapping pattern="fvm" type="PLAIN_TEXT" />
-      <mapping pattern=".flutter-plugins-dependencies" type="PLAIN_TEXT" />
-      <mapping ext="news" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
