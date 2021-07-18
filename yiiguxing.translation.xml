@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="745" />
     <option name="newTranslationDialogY" value="286" />
     <histories>
+      <item value="LateInitializationError: Field 'dio' has not been initialized." />
       <item value="internal" />
       <item value="_internal" />
       <item value="điểm danh" />
@@ -54,7 +55,6 @@
       <item value="Quản" />
       <item value="Qu" />
       <item value="quanr trij" />
-      <item value="Initial state, which can be triggered loading more by gesture pull up" />
     </histories>
     <option name="languageScores">
       <map>
