@@ -1,10 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="987" />
+    <option name="newTranslationDialogWidth" value="983" />
     <option name="newTranslationDialogX" value="745" />
     <option name="newTranslationDialogY" value="286" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="categories" />
+      <item value="categorys" />
+      <item value="tác giả" />
+      <item value="tác " />
+      <item value="manga" />
       <item value="LateInitializationError: Field 'dio' has not been initialized." />
       <item value="internal" />
       <item value="_internal" />
@@ -50,11 +56,6 @@
       <item value="Mana" />
       <item value="Hành chính" />
       <item value="Administration" />
-      <item value="Quản trị" />
-      <item value="Quản tr" />
-      <item value="Quản" />
-      <item value="Qu" />
-      <item value="quanr trij" />
     </histories>
     <option name="languageScores">
       <map>
