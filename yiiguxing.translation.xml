@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="745" />
     <option name="newTranslationDialogY" value="286" />
     <histories>
+      <item value="Sliver Fill Remaining" />
       <item value="Curved Animation" />
       <item value="The distance can be omitted, to create a unit vector (distance = 1.0)." />
       <item value="Creates an offset. The first argument sets [dx], the horizontal component," />
@@ -54,7 +55,6 @@
       <item value="Widgets that mix AutomaticKeepAliveClientMixin into their State must call super.build() but must ignore the return value of the superclass." />
       <item value="remove" />
       <item value="manager" />
-      <item value="Manager" />
     </histories>
     <option name="languageScores">
       <map>
