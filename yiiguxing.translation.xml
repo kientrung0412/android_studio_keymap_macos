@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="745" />
     <option name="newTranslationDialogY" value="286" />
     <histories>
+      <item value="Curved Animation" />
       <item value="The distance can be omitted, to create a unit vector (distance = 1.0)." />
       <item value="Creates an offset. The first argument sets [dx], the horizontal component," />
       <item value="The following assertion was thrown building RawGestureDetector-[LabeledGlobalKey&lt;RawGestureDetectorState&gt;73e11](state: RawGestureDetectorStatef6e7a(gestures: &lt;none&gt;, behavior: opaque)):" />
@@ -54,7 +55,6 @@
       <item value="remove" />
       <item value="manager" />
       <item value="Manager" />
-      <item value="Mana" />
     </histories>
     <option name="languageScores">
       <map>
