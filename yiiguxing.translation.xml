@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="745" />
     <option name="newTranslationDialogY" value="286" />
     <histories>
+      <item value="The following assertion was thrown building RawGestureDetector-[LabeledGlobalKey&lt;RawGestureDetectorState&gt;73e11](state: RawGestureDetectorStatef6e7a(gestures: &lt;none&gt;, behavior: opaque)):" />
+      <item value="The offending constraints were: BoxConstraints(0.0&lt;=w&lt;=Infinity, h=-8.9; NOT NORMALIZED)" />
       <item value="BoxConstraints has a negative minimum height." />
       <item value="The relevant error-causing widget was:" />
       <item value="NORMALIZED" />
@@ -53,8 +55,6 @@
       <item value="Administration" />
       <item value="Quản trị" />
       <item value="Quản tr" />
-      <item value="Quản" />
-      <item value="Qu" />
     </histories>
     <option name="languageScores">
       <map>
