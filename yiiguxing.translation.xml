@@ -11,6 +11,8 @@
       <item value="The relevant error-causing widget was:" />
       <item value="NORMALIZED" />
       <item value="The offending constraints were: BoxConstraints(0.0&lt;=w&lt;=Infinity, h=-10.9; NOT NORMALIZED)" />
+      <item value="LateInitializationError: Field 'dio' has not been initialized." />
+      <item value="internal" />
       <item value="điểm danh" />
       <item value="d" />
       <item value="attendance" />
@@ -55,6 +57,9 @@
       <item value="Administration" />
       <item value="Quản trị" />
       <item value="Quản tr" />
+      <item value="Quản" />
+      <item value="Qu" />
+      <item value="quanr trij" />
     </histories>
     <option name="languageScores">
       <map>
