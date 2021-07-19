@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="745" />
     <option name="newTranslationDialogY" value="286" />
     <histories>
+      <item value="BoxConstraints has a negative minimum height." />
+      <item value="The relevant error-causing widget was:" />
+      <item value="NORMALIZED" />
+      <item value="The offending constraints were: BoxConstraints(0.0&lt;=w&lt;=Infinity, h=-10.9; NOT NORMALIZED)" />
       <item value="điểm danh" />
       <item value="d" />
       <item value="attendance" />
@@ -51,10 +55,6 @@
       <item value="Quản tr" />
       <item value="Quản" />
       <item value="Qu" />
-      <item value="quanr trij" />
-      <item value="Initial state, which can be triggered loading more by gesture pull up" />
-      <item value="pull up load" />
-      <item value="release to load more" />
     </histories>
     <option name="languageScores">
       <map>
