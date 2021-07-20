@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="745" />
     <option name="newTranslationDialogY" value="286" />
     <histories>
+      <item value="generate Spans" />
       <item value="HTML had 38 top level elements but 1 expected Eflutter (24220): 0 new Element.html (package:htmldom.dart:524:7)" />
       <item value="HTML had 38 top level elements but 1 expected" />
       <item value="hotline warning" />
@@ -54,7 +55,6 @@
       <item value="Q" />
       <item value="QUản" />
       <item value="Quản lý đơn hàng" />
-      <item value="Order Management" />
     </histories>
     <option name="languageScores">
       <map>
