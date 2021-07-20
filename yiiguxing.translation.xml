@@ -1,10 +1,20 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="987" />
+    <option name="newTranslationDialogWidth" value="983" />
     <option name="newTranslationDialogX" value="745" />
     <option name="newTranslationDialogY" value="286" />
     <histories>
+      <item value="genres&#10;" />
+      <item value="genres" />
+      <item value="Converts each element to a [String] and concatenates the strings." />
+      <item value="Parameter&#10;" />
+      <item value="Parameter" />
+      <item value="params" />
+      <item value="commonlit" />
+      <item value="commont" />
+      <item value="c" />
+      <item value="fliter List Mangas" />
       <item value="generate Spans" />
       <item value="HTML had 38 top level elements but 1 expected Eflutter (24220): 0 new Element.html (package:htmldom.dart:524:7)" />
       <item value="HTML had 38 top level elements but 1 expected" />
@@ -45,16 +55,6 @@
       <item value="initialized" />
       <item value="This happens because you used a `BuildContext` that does not include the provider" />
       <item value="correct" />
-      <item value="createred" />
-      <item value="lọc" />
-      <item value="locj" />
-      <item value="phản hồi" />
-      <item value="phản hôi" />
-      <item value="Tried to read a provider that threw during the creation of its value" />
-      <item value="Quản lý yêu cầu" />
-      <item value="Q" />
-      <item value="QUản" />
-      <item value="Quản lý đơn hàng" />
     </histories>
     <option name="languageScores">
       <map>
