@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="851" />
     <option name="newTranslationDialogY" value="817" />
     <histories>
+      <item value="decrypt" />
       <item value="descendant Focusability" />
       <item value="blocks Descendants" />
       <item value="Màn hình khuyết" />
@@ -54,7 +55,6 @@
       <item value="_CreatedTicketScreenState is a SingleTickerProviderStateMixin but multiple tickers were created." />
       <item value="initialized" />
       <item value="This happens because you used a `BuildContext` that does not include the provider" />
-      <item value="correct" />
     </histories>
     <option name="languageScores">
       <map>
