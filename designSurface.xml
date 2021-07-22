@@ -157,11 +157,16 @@
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/drawable/splash.xml" value="0.4015625" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/account_edit_content_view.xml" value="0.2994791666666667" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/accout_header_view.xml" value="0.2994791666666667" />
+        <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/activity_about.xml" value="0.38645833333333335" />
+        <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/activity_album.xml" value="0.38645833333333335" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/activity_album_detail.xml" value="0.221875" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/activity_attendance.xml" value="0.2526041666666667" />
+        <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/activity_create_message.xml" value="0.38645833333333335" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/activity_edit_account_info.xml" value="0.2994791666666667" />
+        <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/activity_launch_screen.xml" value="0.38645833333333335" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/activity_medicine_note_detail_v2.xml" value="0.365625" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/activity_pick_emoticons.xml" value="0.38645833333333335" />
+        <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/activity_post_detail.xml" value="0.38645833333333335" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/activity_quick_assessment.xml" value="0.38645833333333335" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/activity_weekend_assessment_detail.xml" value="0.23148148148148148" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/dialog_note_refuse_medicine.xml" value="0.27760416666666665" />
