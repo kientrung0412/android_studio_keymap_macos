@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="985" />
+    <option name="newTranslationDialogWidth" value="983" />
     <option name="newTranslationDialogX" value="851" />
-    <option name="newTranslationDialogY" value="817" />
+    <option name="newTranslationDialogY" value="573" />
     <histories>
+      <item value="đồng hồ" />
+      <item value="đồng " />
+      <item value="ddon" />
       <item value="Unreachable statement" />
       <item value="assignments" />
       <item value="decrypt" />
@@ -52,9 +55,6 @@
       <item value="Each child must be laid out exactly once." />
       <item value="no Such Method" />
       <item value="history" />
-      <item value="Unable to determine application id: com.android.tools.idea.run.ApkProvisionException: No outputs for the main artifact of variant: debug" />
-      <item value="Abstract classes can't be instantiated. (Documentation)" />
-      <item value="_CreatedTicketScreenState is a SingleTickerProviderStateMixin but multiple tickers were created." />
     </histories>
     <option name="languageScores">
       <map>
