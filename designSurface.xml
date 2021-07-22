@@ -159,7 +159,7 @@
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/accout_header_view.xml" value="0.2994791666666667" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/activity_about.xml" value="0.38645833333333335" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/activity_album.xml" value="0.38645833333333335" />
-        <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/activity_album_detail.xml" value="0.221875" />
+        <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/activity_album_detail.xml" value="0.38645833333333335" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/activity_attendance.xml" value="0.2526041666666667" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/activity_create_message.xml" value="0.38645833333333335" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/activity_edit_account_info.xml" value="0.2994791666666667" />
@@ -192,6 +192,7 @@
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/menu/menu_edit_delete.xml" value="0.34375" />
         <entry key="..\:/OMT/Lib/WebView/Source/library/src/main/res/layout/activity_advance_webview.xml" value="0.1" />
         <entry key="..\:/OMT/Lib/comment_module/src/main/res/drawable-v24/ic_youtube.xml" value="0.1" />
+        <entry key="..\:/OMT/Lib/comment_module/src/main/res/layout/comment_footer.xml" value="0.39739583333333334" />
         <entry key="..\:/OMT/Lib/comment_module/src/main/res/layout/item_comment_reply_child.xml" value="0.35185185185185186" />
         <entry key="..\:/OMT/Lib/comment_module/src/main/res/layout/layout_write_comment.xml" value="0.33645833333333336" />
         <entry key="..\:/OMT/Lib/comment_module/src/main/res/layout/video_thumbnail.xml" value="0.1" />
