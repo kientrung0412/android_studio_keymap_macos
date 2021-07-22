@@ -1,11 +1,19 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="985" />
+    <option name="newTranslationDialogWidth" value="983" />
     <option name="newTranslationDialogX" value="851" />
-    <option name="newTranslationDialogY" value="817" />
+    <option name="newTranslationDialogY" value="573" />
     <histories>
-      <item value="pipe" />
+      <item value="is Post Creating" />
+      <item value="was liked" />
+      <item value="IViewTarget: Glide treats LayoutParams.WRAP_CONTENT as a request for an image the size of this device's screen dimensions. If you want to load the original image and are ok with the corresponding memory cost and OOMs (depending on the input size), use override(Target.SIZE_ORIGINAL). Otherwise, use LayoutParams.MATCH_PARENT, set layout_width and layout_height to fixed dimension, or use .override() with fixed dimensions." />
+      <item value="Use Compat Loading For Drawables" />
+      <item value="signature" />
+      <item value="đồng hồ" />
+      <item value="đồng " />
+      <item value="ddon" />
+      <item value="Unreachable statement" />
       <item value="assignments" />
       <item value="decrypt" />
       <item value="descendant Focusability" />
@@ -47,14 +55,6 @@
       <item value="Pick Emoticon Activity" />
       <item value="draft" />
       <item value="fast Out Slow In" />
-      <item value="reverse" />
-      <item value="Unimplemented Error" />
-      <item value="Each child must be laid out exactly once." />
-      <item value="no Such Method" />
-      <item value="history" />
-      <item value="Unable to determine application id: com.android.tools.idea.run.ApkProvisionException: No outputs for the main artifact of variant: debug" />
-      <item value="Abstract classes can't be instantiated. (Documentation)" />
-      <item value="_CreatedTicketScreenState is a SingleTickerProviderStateMixin but multiple tickers were created." />
     </histories>
     <option name="languageScores">
       <map>
