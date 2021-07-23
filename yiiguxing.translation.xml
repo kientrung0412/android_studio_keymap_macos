@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="851" />
     <option name="newTranslationDialogY" value="573" />
     <histories>
+      <item value="set Retain Instance" />
       <item value="set Translucent For Image View In Fragment" />
       <item value="is Post Creating" />
       <item value="was liked" />
@@ -54,7 +55,6 @@
       <item value="Suspicious call to 'List.indexOf'" />
       <item value="Suspicious" />
       <item value="Pick Emoticon Activity" />
-      <item value="draft" />
     </histories>
     <option name="languageScores">
       <map>

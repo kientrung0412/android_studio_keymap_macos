@@ -75,6 +75,7 @@
         <entry key="..\:/OMT/CO/co_parent_v3/app/src/main/res/layout/item_survey.xml" value="0.33611111111111114" />
         <entry key="..\:/OMT/CO/co_parent_v3/app/src/main/res/xml/settings.xml" value="0.38051282051282054" />
         <entry key="..\:/OMT/CO/co_teacher/app/src/main/res/layout/activity_absent_detail.xml" value="0.1" />
+        <entry key="..\:/OMT/CO/co_teacher/app/src/main/res/layout/activity_album_slide_show.xml" value="0.38645833333333335" />
         <entry key="..\:/OMT/CO/co_teacher/app/src/main/res/layout/activity_attendance.xml" value="0.36" />
         <entry key="..\:/OMT/CO/co_teacher/app/src/main/res/layout/activity_edit_home_work.xml" value="0.38645833333333335" />
         <entry key="..\:/OMT/CO/co_teacher/app/src/main/res/layout/activity_homework.xml" value="0.1" />
@@ -83,6 +84,7 @@
         <entry key="..\:/OMT/CO/co_teacher/app/src/main/res/layout/activity_time_table_details.xml" value="0.35" />
         <entry key="..\:/OMT/CO/co_teacher/app/src/main/res/layout/fragment_attendance_come.xml" value="0.365625" />
         <entry key="..\:/OMT/CO/co_teacher/app/src/main/res/layout/fragment_timetable_info.xml" value="0.2109375" />
+        <entry key="..\:/OMT/CO/co_teacher/app/src/main/res/layout/image_fullscreen_preview.xml" value="0.2833333333333333" />
         <entry key="..\:/OMT/CO/co_teacher/app/src/main/res/layout/item_dashboard_type_1.xml" value="0.365625" />
         <entry key="..\:/OMT/CO/co_teacher/app/src/main/res/layout/item_layout_infomation.xml" value="0.35" />
         <entry key="..\:/OMT/CO/co_teacher/app/src/main/res/layout/item_layout_vertical.xml" value="0.2869791666666667" />
@@ -175,11 +177,12 @@
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/activity_pick_emoticons.xml" value="0.38645833333333335" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/activity_post_detail.xml" value="0.38645833333333335" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/activity_quick_assessment.xml" value="0.38645833333333335" />
+        <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/activity_sleep.xml" value="0.38645833333333335" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/activity_weekend_assessment_detail.xml" value="0.23148148148148148" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/base_toolbar.xml" value="0.39739583333333334" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/dialog_note_refuse_medicine.xml" value="0.27760416666666665" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/dialog_save_date.xml" value="0.38645833333333335" />
-        <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/dialog_voice_rec.xml" value="0.365625" />
+        <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/dialog_voice_rec.xml" value="0.38645833333333335" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/fragment_attendance_come.xml" value="0.2526041666666667" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/fragment_home.xml" value="1.0" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/fragment_learn.xml" value="0.2916666666666667" />
@@ -188,6 +191,7 @@
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/item_photo.xml" value="0.365625" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/item_post.xml" value="0.38645833333333335" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/item_quick_assessment.xml" value="0.38645833333333335" />
+        <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/item_quick_sleep.xml" value="0.38645833333333335" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/item_student.xml" value="0.365625" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/item_student_attendance.xml" value="0.35185185185185186" />
         <entry key="..\:/OMT/KO/KO_Teacher/app/src/main/res/layout/item_student_attendance_late.xml" value="0.38645833333333335" />
