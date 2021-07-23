@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="851" />
     <option name="newTranslationDialogY" value="573" />
     <histories>
+      <item value="@param size The width and height to use." />
       <item value="@return 0 on successful execution, 255 on user cancel, other non-zero codes on error" />
       <item value="Chất lượng" />
       <item value="chaat slwuongj" />
@@ -54,7 +55,6 @@
       <item value="d" />
       <item value="attendance" />
       <item value="Điểm danh" />
-      <item value="SS" />
     </histories>
     <option name="languageScores">
       <map>
