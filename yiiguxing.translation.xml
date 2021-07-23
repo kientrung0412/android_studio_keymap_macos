@@ -1,10 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="983" />
+    <option name="newTranslationDialogWidth" value="981" />
     <option name="newTranslationDialogX" value="851" />
     <option name="newTranslationDialogY" value="573" />
     <histories>
+      <item value="@return 0 on successful execution, 255 on user cancel, other non-zero codes on error" />
+      <item value="Chất lượng" />
+      <item value="chaat slwuongj" />
+      <item value="cg" />
+      <item value="Down Grade Image" />
       <item value="set Retain Instance" />
       <item value="set Translucent For Image View In Fragment" />
       <item value="is Post Creating" />
@@ -50,11 +55,6 @@
       <item value="attendance" />
       <item value="Điểm danh" />
       <item value="SS" />
-      <item value="ddieem" />
-      <item value="Education" />
-      <item value="Suspicious call to 'List.indexOf'" />
-      <item value="Suspicious" />
-      <item value="Pick Emoticon Activity" />
     </histories>
     <option name="languageScores">
       <map>
