@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="201" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Account" />
       <item value="Error: Could not find the correct Provider&lt;BaseCubit&lt;BaseState&gt;&gt; above this BlocListener&lt;BaseCubit&lt;BaseState&gt;, BaseState&gt; Widget" />
       <item value="This happens because you used a `BuildContext` that does not include the provider" />
       <item value="The argument type 'String?' can't be assigned to the parameter type 'String'. (Documentation)" />
@@ -55,7 +56,6 @@
       <item value="đồng " />
       <item value="ddon" />
       <item value="Unreachable statement" />
-      <item value="assignments" />
     </histories>
     <option name="languageScores">
       <map>
