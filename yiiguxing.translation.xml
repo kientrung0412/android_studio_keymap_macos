@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="851" />
     <option name="newTranslationDialogY" value="573" />
     <histories>
+      <item value="FAILURE: Build failed with an exception." />
+      <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0." />
+      <item value="C:\Users\nguye\App Data\Roaming\Pub\Cache\hosted\pub.dartlang.org\firebase analytics-5.0.16\android" />
+      <item value="ssertion failed:" />
+      <item value="There is no previously recorded version for channel &quot;stable&quot;." />
       <item value="@param size The width and height to use." />
       <item value="@return 0 on successful execution, 255 on user cancel, other non-zero codes on error" />
       <item value="Chất lượng" />
@@ -50,11 +55,6 @@
       <item value="NORMALIZED" />
       <item value="The offending constraints were: BoxConstraints(0.0&lt;=w&lt;=Infinity, h=-10.9; NOT NORMALIZED)" />
       <item value="LateInitializationError: Field 'dio' has not been initialized." />
-      <item value="internal" />
-      <item value="điểm danh" />
-      <item value="d" />
-      <item value="attendance" />
-      <item value="Điểm danh" />
     </histories>
     <option name="languageScores">
       <map>
