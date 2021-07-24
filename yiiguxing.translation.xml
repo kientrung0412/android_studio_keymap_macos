@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="977" />
+    <option name="newTranslationDialogWidth" value="975" />
     <option name="newTranslationDialogX" value="851" />
     <option name="newTranslationDialogY" value="533" />
     <histories>
+      <item value="Named parameters can't start with an underscore. (Documentation)" />
+      <item value="mặc định" />
+      <item value="mac" />
       <item value="Abstract classes can't be instantiated. (Documentation)" />
       <item value="thông báo" />
       <item value="Thành công" />
@@ -52,9 +55,6 @@
       <item value="Curved Animation" />
       <item value="The distance can be omitted, to create a unit vector (distance = 1.0)." />
       <item value="Creates an offset. The first argument sets [dx], the horizontal component," />
-      <item value="The following assertion was thrown building RawGestureDetector-[LabeledGlobalKey&lt;RawGestureDetectorState&gt;73e11](state: RawGestureDetectorStatef6e7a(gestures: &lt;none&gt;, behavior: opaque)):" />
-      <item value="The offending constraints were: BoxConstraints(0.0&lt;=w&lt;=Infinity, h=-8.9; NOT NORMALIZED)" />
-      <item value="BoxConstraints has a negative minimum height." />
     </histories>
     <option name="languageScores">
       <map>
