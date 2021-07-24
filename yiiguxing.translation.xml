@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="981" />
+    <option name="newTranslationDialogWidth" value="977" />
     <option name="newTranslationDialogX" value="851" />
-    <option name="newTranslationDialogY" value="573" />
+    <option name="newTranslationDialogY" value="533" />
     <histories>
+      <item value="thông báo" />
+      <item value="Thành công" />
+      <item value="thanhf c" />
       <item value="FAILURE: Build failed with an exception." />
       <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0." />
       <item value="C:\Users\nguye\App Data\Roaming\Pub\Cache\hosted\pub.dartlang.org\firebase analytics-5.0.16\android" />
@@ -52,9 +55,6 @@
       <item value="The offending constraints were: BoxConstraints(0.0&lt;=w&lt;=Infinity, h=-8.9; NOT NORMALIZED)" />
       <item value="BoxConstraints has a negative minimum height." />
       <item value="The relevant error-causing widget was:" />
-      <item value="NORMALIZED" />
-      <item value="The offending constraints were: BoxConstraints(0.0&lt;=w&lt;=Infinity, h=-10.9; NOT NORMALIZED)" />
-      <item value="LateInitializationError: Field 'dio' has not been initialized." />
     </histories>
     <option name="languageScores">
       <map>
