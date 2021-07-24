@@ -1,10 +1,19 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="975" />
+    <option name="newTranslationDialogWidth" value="971" />
     <option name="newTranslationDialogX" value="851" />
     <option name="newTranslationDialogY" value="533" />
     <histories>
+      <item value="xử lý" />
+      <item value="sử lý " />
+      <item value="sử lý l" />
+      <item value="sử lý laod" />
+      <item value="sử lý load" />
+      <item value="Hành dộng" />
+      <item value="hanhf " />
+      <item value="Active" />
+      <item value="'C' doesn't conform to the bound 'BlocBase&lt;S&gt;' of the type parameter 'B'. (Documentation)" />
       <item value="Named parameters can't start with an underscore. (Documentation)" />
       <item value="mặc định" />
       <item value="mac" />
@@ -46,15 +55,6 @@
       <item value="Màn hình tai thỏ" />
       <item value="Màn hình tai " />
       <item value="Màn hình " />
-      <item value="aminf hinhf tai " />
-      <item value="HTML had 38 top level elements but 1 expected Eflutter (24220): 0 new Element.html (package:htmldom.dart:524:7)" />
-      <item value="HTML had 38 top level elements but 1 expected" />
-      <item value="hotline warning" />
-      <item value="Eflutter (16315): [ERROR:flutterlibuiui_dart_state.cc(199)] Unhandled Exception: Looking up a deactivated widget's ancestor is unsafe." />
-      <item value="Sliver Fill Remaining" />
-      <item value="Curved Animation" />
-      <item value="The distance can be omitted, to create a unit vector (distance = 1.0)." />
-      <item value="Creates an offset. The first argument sets [dx], the horizontal component," />
     </histories>
     <option name="languageScores">
       <map>
