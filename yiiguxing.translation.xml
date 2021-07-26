@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="Eflutter (11094): [ERROR:flutterlibuiui_dart_state.cc(199)] Unhandled Exception: [coreno-app] No Firebase App '[DEFAULT]' has been created - call Firebase.initializeApp()" />
       <item value="xác nhận" />
       <item value="xax" />
       <item value="device" />
@@ -54,7 +55,6 @@
       <item value="set Retain Instance" />
       <item value="set Translucent For Image View In Fragment" />
       <item value="is Post Creating" />
-      <item value="was liked" />
     </histories>
     <option name="languageScores">
       <map>
