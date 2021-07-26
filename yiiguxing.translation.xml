@@ -1,11 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="967" />
+    <option name="newTranslationDialogWidth" value="965" />
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
-    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="device" />
+      <item value="divice" />
+      <item value="thiết bị" />
+      <item value="thiết " />
       <item value="The widget builder for the default route of the tab view" />
       <item value="Account" />
       <item value="Error: Could not find the correct Provider&lt;BaseCubit&lt;BaseState&gt;&gt; above this BlocListener&lt;BaseCubit&lt;BaseState&gt;, BaseState&gt; Widget" />
@@ -52,10 +55,6 @@
       <item value="was liked" />
       <item value="IViewTarget: Glide treats LayoutParams.WRAP_CONTENT as a request for an image the size of this device's screen dimensions. If you want to load the original image and are ok with the corresponding memory cost and OOMs (depending on the input size), use override(Target.SIZE_ORIGINAL). Otherwise, use LayoutParams.MATCH_PARENT, set layout_width and layout_height to fixed dimension, or use .override() with fixed dimensions." />
       <item value="Use Compat Loading For Drawables" />
-      <item value="signature" />
-      <item value="đồng hồ" />
-      <item value="đồng " />
-      <item value="ddon" />
     </histories>
     <option name="languageScores">
       <map>
@@ -78,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1626803504507" />
+    <option name="lastTrimTime" value="1627271754844" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
