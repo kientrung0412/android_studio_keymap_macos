@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="965" />
+    <option name="newTranslationDialogWidth" value="963" />
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="xác nhận" />
+      <item value="xax" />
       <item value="device" />
       <item value="divice" />
       <item value="thiết bị" />
@@ -53,8 +55,6 @@
       <item value="set Translucent For Image View In Fragment" />
       <item value="is Post Creating" />
       <item value="was liked" />
-      <item value="IViewTarget: Glide treats LayoutParams.WRAP_CONTENT as a request for an image the size of this device's screen dimensions. If you want to load the original image and are ok with the corresponding memory cost and OOMs (depending on the input size), use override(Target.SIZE_ORIGINAL). Otherwise, use LayoutParams.MATCH_PARENT, set layout_width and layout_height to fixed dimension, or use .override() with fixed dimensions." />
-      <item value="Use Compat Loading For Drawables" />
     </histories>
     <option name="languageScores">
       <map>
