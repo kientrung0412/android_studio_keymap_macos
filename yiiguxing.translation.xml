@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="Horizontal viewport was given unbounded height." />
       <item value="header" />
       <item value="hearder" />
       <item value="BoxConstraints forces an infinite width." />
@@ -54,7 +55,6 @@
       <item value="Abstract classes can't be instantiated. (Documentation)" />
       <item value="thông báo" />
       <item value="Thành công" />
-      <item value="thanhf c" />
     </histories>
     <option name="languageScores">
       <map>
