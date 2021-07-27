@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="header" />
+      <item value="hearder" />
       <item value="BoxConstraints forces an infinite width." />
       <item value="BoxConstraints forces an infinite height." />
       <item value="RenderFlex children have non-zero flex but incoming width constraints are unbounded." />
@@ -53,8 +55,6 @@
       <item value="thông báo" />
       <item value="Thành công" />
       <item value="thanhf c" />
-      <item value="FAILURE: Build failed with an exception." />
-      <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0." />
     </histories>
     <option name="languageScores">
       <map>
