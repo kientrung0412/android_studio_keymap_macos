@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="BoxConstraints forces an infinite width." />
       <item value="BoxConstraints forces an infinite height." />
       <item value="RenderFlex children have non-zero flex but incoming width constraints are unbounded." />
       <item value="Null check operator used on a null value" />
@@ -54,7 +55,6 @@
       <item value="thanhf c" />
       <item value="FAILURE: Build failed with an exception." />
       <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0." />
-      <item value="C:\Users\nguye\App Data\Roaming\Pub\Cache\hosted\pub.dartlang.org\firebase analytics-5.0.16\android" />
     </histories>
     <option name="languageScores">
       <map>
