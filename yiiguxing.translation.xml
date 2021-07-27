@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="mutual" />
+      <item value="mutu" />
       <item value="lo" />
       <item value="_itemHomeroomClass" />
       <item value="lớp chủ nhiệm" />
@@ -53,8 +55,6 @@
       <item value="ssertion failed:" />
       <item value="There is no previously recorded version for channel &quot;stable&quot;." />
       <item value="@param size The width and height to use." />
-      <item value="@return 0 on successful execution, 255 on user cancel, other non-zero codes on error" />
-      <item value="Chất lượng" />
     </histories>
     <option name="languageScores">
       <map>
