@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="961" />
+    <option name="newTranslationDialogWidth" value="959" />
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="is approved" />
+      <item value="is_approved" />
       <item value="Some input files use or override a deprecated API" />
       <item value="alive" />
       <item value="Horizontal viewport was given unbounded height." />
@@ -53,8 +55,6 @@
       <item value="'C' doesn't conform to the bound 'BlocBase&lt;S&gt;' of the type parameter 'B'. (Documentation)" />
       <item value="Named parameters can't start with an underscore. (Documentation)" />
       <item value="mặc định" />
-      <item value="mac" />
-      <item value="Abstract classes can't be instantiated. (Documentation)" />
     </histories>
     <option name="languageScores">
       <map>
