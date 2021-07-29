@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="Some input files use or override a deprecated API" />
       <item value="alive" />
       <item value="Horizontal viewport was given unbounded height." />
       <item value="header" />
@@ -54,7 +55,6 @@
       <item value="mặc định" />
       <item value="mac" />
       <item value="Abstract classes can't be instantiated. (Documentation)" />
-      <item value="thông báo" />
     </histories>
     <option name="languageScores">
       <map>
