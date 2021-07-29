@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="to accurately determine whether [builder] should be called again." />
+      <item value="Note: the selected value must be immutable in order for [BlocSelector]" />
+      <item value="Unnecessary builds are prevented if the selected value does not change." />
+      <item value="filter updates by selecting a new value based on the bloc state." />
+      <item value="[BlocSelector] is analogous to [BlocBuilder] but allows developers to" />
       <item value="is approved" />
       <item value="is_approved" />
       <item value="Some input files use or override a deprecated API" />
@@ -50,11 +55,6 @@
       <item value="sử lý laod" />
       <item value="sử lý load" />
       <item value="Hành dộng" />
-      <item value="hanhf " />
-      <item value="Active" />
-      <item value="'C' doesn't conform to the bound 'BlocBase&lt;S&gt;' of the type parameter 'B'. (Documentation)" />
-      <item value="Named parameters can't start with an underscore. (Documentation)" />
-      <item value="mặc định" />
     </histories>
     <option name="languageScores">
       <map>
