@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="959" />
+    <option name="newTranslationDialogWidth" value="957" />
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="bade " />
+      <item value="bade" />
+      <item value="bade&#10;" />
       <item value="no Such Method" />
       <item value="to accurately determine whether [builder] should be called again." />
       <item value="Note: the selected value must be immutable in order for [BlocSelector]" />
@@ -52,9 +55,6 @@
       <item value="show Sucssec" />
       <item value="xử lý" />
       <item value="sử lý " />
-      <item value="sử lý l" />
-      <item value="sử lý laod" />
-      <item value="sử lý load" />
     </histories>
     <option name="languageScores">
       <map>
