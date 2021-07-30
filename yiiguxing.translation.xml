@@ -1,10 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="953" />
+    <option name="newTranslationDialogWidth" value="951" />
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="Khai báo" />
+      <item value="Declare" />
+      <item value="Khai báo " />
+      <item value="Khai " />
+      <item value="Khai náo " />
+      <item value="K" />
       <item value="not a thing" />
       <item value="not a letter" />
       <item value="không một thư gi" />
@@ -49,12 +55,6 @@
       <item value="lớp chủ nghiệm" />
       <item value="horizontal" />
       <item value="If none of these solutions work, consider asking for help on StackOverflow:" />
-      <item value="Eflutter (11094): [ERROR:flutterlibuiui_dart_state.cc(199)] Unhandled Exception: [coreno-app] No Firebase App '[DEFAULT]' has been created - call Firebase.initializeApp()" />
-      <item value="xác nhận" />
-      <item value="xax" />
-      <item value="device" />
-      <item value="divice" />
-      <item value="thiết bị" />
     </histories>
     <option name="languageScores">
       <map>
