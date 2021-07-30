@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="alternate" />
       <item value="bade " />
       <item value="bade" />
       <item value="bade&#10;" />
@@ -54,7 +55,6 @@
       <item value="ucssec" />
       <item value="show Sucssec" />
       <item value="xử lý" />
-      <item value="sử lý " />
     </histories>
     <option name="languageScores">
       <map>
