@@ -1,10 +1,24 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="957" />
+    <option name="newTranslationDialogWidth" value="953" />
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="not a thing" />
+      <item value="not a letter" />
+      <item value="không một thư gi" />
+      <item value="not a " />
+      <item value="not " />
+      <item value="no" />
+      <item value="vô tội" />
+      <item value="innocent" />
+      <item value="vô tội mà" />
+      <item value="vô tội " />
+      <item value="arrested" />
+      <item value="arested" />
+      <item value="ares" />
+      <item value="ar" />
       <item value="if Present" />
       <item value="alternate" />
       <item value="bade " />
@@ -41,20 +55,6 @@
       <item value="device" />
       <item value="divice" />
       <item value="thiết bị" />
-      <item value="thiết " />
-      <item value="The widget builder for the default route of the tab view" />
-      <item value="Account" />
-      <item value="Error: Could not find the correct Provider&lt;BaseCubit&lt;BaseState&gt;&gt; above this BlocListener&lt;BaseCubit&lt;BaseState&gt;, BaseState&gt; Widget" />
-      <item value="This happens because you used a `BuildContext` that does not include the provider" />
-      <item value="The argument type 'String?' can't be assigned to the parameter type 'String'. (Documentation)" />
-      <item value="setState() or markNeedsBuild() called during build." />
-      <item value="The following assertion was thrown building Home(dirty):" />
-      <item value="Material specific features such as [showDialog] and [showMenu], and widgets such as [Tooltip], [PopupMenuButton], also require a [Navigator] to properly function." />
-      <item value="message" />
-      <item value="Success" />
-      <item value="Sucssec" />
-      <item value="ucssec" />
-      <item value="show Sucssec" />
     </histories>
     <option name="languageScores">
       <map>
