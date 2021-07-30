@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="Failed to notify build listener." />
+      <item value="Initialization" />
       <item value="Tôi nên khai báo controller ở state hay " />
       <item value="Tôi nên khai báo controller ở state hay" />
       <item value="Tôi nên khai báo controller ở state " />
@@ -53,8 +55,6 @@
       <item value="[BlocSelector] is analogous to [BlocBuilder] but allows developers to" />
       <item value="is approved" />
       <item value="is_approved" />
-      <item value="Some input files use or override a deprecated API" />
-      <item value="alive" />
     </histories>
     <option name="languageScores">
       <map>
