@@ -11,6 +11,5 @@
     <variable name="title" expression="&quot;title&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="content" expression="&quot;dialogBody&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="buttonText" expression="&quot;buttonText&quot;" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
 </templateSet>
