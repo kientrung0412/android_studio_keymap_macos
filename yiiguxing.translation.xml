@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="Mark as read" />
       <item value="cơ bản" />
       <item value="upgrade vesion" />
       <item value="[custom] while mask type is custom, maskColor should not be null" />
@@ -54,7 +55,6 @@
       <item value="bade&#10;" />
       <item value="no Such Method" />
       <item value="to accurately determine whether [builder] should be called again." />
-      <item value="Note: the selected value must be immutable in order for [BlocSelector]" />
     </histories>
     <option name="languageScores">
       <map>
