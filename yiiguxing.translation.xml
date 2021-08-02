@@ -1,60 +1,60 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="981" />
-    <option name="newTranslationDialogX" value="851" />
-    <option name="newTranslationDialogY" value="573" />
+    <option name="newTranslationDialogWidth" value="951" />
+    <option name="newTranslationDialogX" value="775" />
+    <option name="newTranslationDialogY" value="201" />
     <histories>
-      <item value="FAILURE: Build failed with an exception." />
-      <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0." />
-      <item value="C:\Users\nguye\App Data\Roaming\Pub\Cache\hosted\pub.dartlang.org\firebase analytics-5.0.16\android" />
-      <item value="ssertion failed:" />
-      <item value="There is no previously recorded version for channel &quot;stable&quot;." />
-      <item value="@param size The width and height to use." />
-      <item value="@return 0 on successful execution, 255 on user cancel, other non-zero codes on error" />
-      <item value="Chất lượng" />
-      <item value="chaat slwuongj" />
-      <item value="cg" />
-      <item value="Down Grade Image" />
-      <item value="set Retain Instance" />
-      <item value="set Translucent For Image View In Fragment" />
-      <item value="is Post Creating" />
-      <item value="was liked" />
-      <item value="IViewTarget: Glide treats LayoutParams.WRAP_CONTENT as a request for an image the size of this device's screen dimensions. If you want to load the original image and are ok with the corresponding memory cost and OOMs (depending on the input size), use override(Target.SIZE_ORIGINAL). Otherwise, use LayoutParams.MATCH_PARENT, set layout_width and layout_height to fixed dimension, or use .override() with fixed dimensions." />
-      <item value="Use Compat Loading For Drawables" />
-      <item value="signature" />
-      <item value="đồng hồ" />
-      <item value="đồng " />
-      <item value="ddon" />
-      <item value="Unreachable statement" />
-      <item value="assignments" />
-      <item value="decrypt" />
-      <item value="descendant Focusability" />
-      <item value="blocks Descendants" />
-      <item value="Màn hình khuyết" />
-      <item value="Màn hình khuyê" />
-      <item value="Màn hình kh" />
-      <item value="Màn hình k" />
-      <item value="Màn hình kuyê" />
-      <item value="Màn hình tai thỏ" />
-      <item value="Màn hình tai " />
-      <item value="Màn hình " />
-      <item value="aminf hinhf tai " />
-      <item value="HTML had 38 top level elements but 1 expected Eflutter (24220): 0 new Element.html (package:htmldom.dart:524:7)" />
-      <item value="HTML had 38 top level elements but 1 expected" />
-      <item value="hotline warning" />
-      <item value="Eflutter (16315): [ERROR:flutterlibuiui_dart_state.cc(199)] Unhandled Exception: Looking up a deactivated widget's ancestor is unsafe." />
-      <item value="Sliver Fill Remaining" />
-      <item value="Curved Animation" />
-      <item value="The distance can be omitted, to create a unit vector (distance = 1.0)." />
-      <item value="Creates an offset. The first argument sets [dx], the horizontal component," />
-      <item value="The following assertion was thrown building RawGestureDetector-[LabeledGlobalKey&lt;RawGestureDetectorState&gt;73e11](state: RawGestureDetectorStatef6e7a(gestures: &lt;none&gt;, behavior: opaque)):" />
-      <item value="The offending constraints were: BoxConstraints(0.0&lt;=w&lt;=Infinity, h=-8.9; NOT NORMALIZED)" />
-      <item value="BoxConstraints has a negative minimum height." />
-      <item value="The relevant error-causing widget was:" />
-      <item value="NORMALIZED" />
-      <item value="The offending constraints were: BoxConstraints(0.0&lt;=w&lt;=Infinity, h=-10.9; NOT NORMALIZED)" />
-      <item value="LateInitializationError: Field 'dio' has not been initialized." />
+      <item value="Material specific features such as [showDialog] and [showMenu], and widgets" />
+      <item value="&gt; Could not resolve io.flutter:armeabi_v7a_release:1.0.0-2f0af3715217a0c2ada72c717d4ed9178d68f6ed." />
+      <item value="Failed to notify build listener." />
+      <item value="Initialization" />
+      <item value="Tôi nên khai báo controller ở state hay " />
+      <item value="Tôi nên khai báo controller ở state hay" />
+      <item value="Tôi nên khai báo controller ở state " />
+      <item value="Tôi nên khai báo controller ở s" />
+      <item value="Tôi nên khai báo controller ở sat" />
+      <item value="Tôi nên khai báo controller " />
+      <item value="Tôi nên khai báo con" />
+      <item value="Tôi nên khai báo contr" />
+      <item value="Tôi nên khởi tạo" />
+      <item value="I should initialize" />
+      <item value="tôi nên khởi tạo " />
+      <item value="tôi nên kho" />
+      <item value="tôi nên " />
+      <item value="tôi " />
+      <item value="Declaring " />
+      <item value="Khai báo" />
+      <item value="Declare" />
+      <item value="Khai báo " />
+      <item value="Khai " />
+      <item value="Khai náo " />
+      <item value="K" />
+      <item value="not a thing" />
+      <item value="not a letter" />
+      <item value="không một thư gi" />
+      <item value="not a " />
+      <item value="not " />
+      <item value="no" />
+      <item value="vô tội" />
+      <item value="innocent" />
+      <item value="vô tội mà" />
+      <item value="vô tội " />
+      <item value="arrested" />
+      <item value="arested" />
+      <item value="ares" />
+      <item value="ar" />
+      <item value="if Present" />
+      <item value="alternate" />
+      <item value="bade " />
+      <item value="bade" />
+      <item value="bade&#10;" />
+      <item value="no Such Method" />
+      <item value="to accurately determine whether [builder] should be called again." />
+      <item value="Note: the selected value must be immutable in order for [BlocSelector]" />
+      <item value="Unnecessary builds are prevented if the selected value does not change." />
+      <item value="filter updates by selecting a new value based on the bloc state." />
+      <item value="[BlocSelector] is analogous to [BlocBuilder] but allows developers to" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1626803504507" />
+    <option name="lastTrimTime" value="1627870217049" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
