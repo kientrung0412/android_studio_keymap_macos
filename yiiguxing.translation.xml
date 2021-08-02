@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="đến" />
+      <item value="ddee" />
+      <item value="total" />
       <item value="Mark as read" />
       <item value="cơ bản" />
       <item value="upgrade vesion" />
@@ -52,9 +55,6 @@
       <item value="alternate" />
       <item value="bade " />
       <item value="bade" />
-      <item value="bade&#10;" />
-      <item value="no Such Method" />
-      <item value="to accurately determine whether [builder] should be called again." />
     </histories>
     <option name="languageScores">
       <map>
