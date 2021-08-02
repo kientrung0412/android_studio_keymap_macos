@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="Material specific features such as [showDialog] and [showMenu], and widgets" />
       <item value="&gt; Could not resolve io.flutter:armeabi_v7a_release:1.0.0-2f0af3715217a0c2ada72c717d4ed9178d68f6ed." />
       <item value="Failed to notify build listener." />
       <item value="Initialization" />
@@ -54,7 +55,6 @@
       <item value="Unnecessary builds are prevented if the selected value does not change." />
       <item value="filter updates by selecting a new value based on the bloc state." />
       <item value="[BlocSelector] is analogous to [BlocBuilder] but allows developers to" />
-      <item value="is approved" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627271754844" />
+    <option name="lastTrimTime" value="1627870217049" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
