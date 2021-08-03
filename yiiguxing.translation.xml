@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="to redirect to a secure protocol (like HTTPS) or allow insecure protocols" />
       <item value="&gt; Keystore file not set for signing config release" />
       <item value="extra Answer" />
       <item value="wear" />
@@ -54,7 +55,6 @@
       <item value="arrested" />
       <item value="arested" />
       <item value="ares" />
-      <item value="ar" />
     </histories>
     <option name="languageScores">
       <map>
