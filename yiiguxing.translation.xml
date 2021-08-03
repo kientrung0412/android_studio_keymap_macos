@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="&gt; No matching configuration of project :faceTracker was found. The consumer was configured to find an API of a component, as well as attribute 'com.android.build.api.attributes.BuildTypeAttr' with value 'debug' but:" />
+      <item value="&gt; Could not resolve project :faceTracker." />
       <item value="The consumer was configured to find a runtime of a component" />
       <item value="&gt; No matching configuration of project :faceTracker was found. The consumer was configured to find a runtime of a component, as well as attribute 'com.android.build.api.attributes.BuildTypeAttr' with value 'debug' but:" />
       <item value="Project directory 'D:\OMT\BacGiang\ko_bg_dd_2\app' is not part of the build defined by settings file 'D:\OMT\BacGiang\ko_bg_dd_2\settings.gradle'. If this is an unrelated build, it must have its own settings file." />
@@ -53,8 +55,6 @@
       <item value="no" />
       <item value="vô tội" />
       <item value="innocent" />
-      <item value="vô tội mà" />
-      <item value="vô tội " />
     </histories>
     <option name="languageScores">
       <map>
