@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="Signing with the debug keys for now, so `flutter run --release` works." />
       <item value="FAILURE: Build failed with an exception." />
       <item value="&gt; No matching configuration of project :faceTracker was found. The consumer was configured to find an API of a component, as well as attribute 'com.android.build.api.attributes.BuildTypeAttr' with value 'debug' but:" />
       <item value="&gt; Could not resolve project :faceTracker." />
@@ -54,7 +55,6 @@
       <item value="not a " />
       <item value="not " />
       <item value="no" />
-      <item value="vô tội" />
     </histories>
     <option name="languageScores">
       <map>
