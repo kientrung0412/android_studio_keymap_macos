@@ -1,10 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="949" />
+    <option name="newTranslationDialogWidth" value="947" />
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="navigation" />
+      <item value="chuyển hướng" />
+      <item value="chuyển " />
+      <item value="ch" />
+      <item value="chuyeenr" />
       <item value="redus\" />
       <item value="redus" />
       <item value="re" />
@@ -50,11 +55,6 @@
       <item value="Declare" />
       <item value="Khai báo " />
       <item value="Khai " />
-      <item value="Khai náo " />
-      <item value="K" />
-      <item value="not a thing" />
-      <item value="not a letter" />
-      <item value="không một thư gi" />
     </histories>
     <option name="languageScores">
       <map>
