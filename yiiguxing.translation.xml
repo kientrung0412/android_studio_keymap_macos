@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="reason" />
       <item value="navigation" />
       <item value="chuyển hướng" />
       <item value="chuyển " />
@@ -54,7 +55,6 @@
       <item value="Khai báo" />
       <item value="Declare" />
       <item value="Khai báo " />
-      <item value="Khai " />
     </histories>
     <option name="languageScores">
       <map>
