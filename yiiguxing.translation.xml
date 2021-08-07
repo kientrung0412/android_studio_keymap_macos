@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="- None of the consumable configurations have attributes." />
+      <item value="Could not determine the dependencies of task ':app:compileDebugJavaWithJavac'." />
       <item value="điểm danh" />
       <item value="dd" />
       <item value="quản lý" />
@@ -53,8 +55,6 @@
       <item value="Tôi nên khởi tạo" />
       <item value="I should initialize" />
       <item value="tôi nên khởi tạo " />
-      <item value="tôi nên kho" />
-      <item value="tôi nên " />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627870217049" />
+    <option name="lastTrimTime" value="1628309008305" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
