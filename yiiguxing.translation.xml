@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="Plugin version (1.4.0) is not the same as library version (1.5.21)" />
       <item value="&gt; No matching configuration of project :flutter was found. The consumer was configured to find an API of a component, as well as attribute 'com.android.build.api.attributes.BuildTypeAttr' with value 'debug' but:" />
       <item value="- None of the consumable configurations have attributes." />
       <item value="Could not determine the dependencies of task ':app:compileDebugJavaWithJavac'." />
@@ -54,7 +55,6 @@
       <item value="Tôi nên khai báo con" />
       <item value="Tôi nên khai báo contr" />
       <item value="Tôi nên khởi tạo" />
-      <item value="I should initialize" />
     </histories>
     <option name="languageScores">
       <map>
