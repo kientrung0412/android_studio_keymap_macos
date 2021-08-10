@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="WSystem.err: com.google.gson.stream.MalformedJsonException: Expected value at line 1 column 244 path" />
+      <item value="Unable to resolve host &quot;mnvn.ko.edu.vnapi&quot;: No address associated with hostname" />
       <item value="not found for signing config 'externalOverride'." />
       <item value="ETrungnk: handlerError: java.lang.NullPointerException: Attempt to invoke virtual method 'io.reactivex.Single io.reactivex.Single.subscribeOn(io.reactivex.Scheduler)' on a null object reference" />
       <item value="Accessing hidden method LcomandroidorgconscryptConscryptEngineSocket;-&gt;setUseSessionTickets(Z)V (greylist-max-q,core-platform-api, reflection, denied)" />
@@ -53,8 +55,6 @@
       <item value="Tôi nên khai báo controller ở state hay" />
       <item value="Tôi nên khai báo controller ở state " />
       <item value="Tôi nên khai báo controller ở s" />
-      <item value="Tôi nên khai báo controller ở sat" />
-      <item value="Tôi nên khai báo controller " />
     </histories>
     <option name="languageScores">
       <map>
