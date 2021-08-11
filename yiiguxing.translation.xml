@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="status" />
+      <item value="com.google.firebase.database.DatabaseException: Class java.util.Map has generic type parameters, please use GenericTypeIndicator instead" />
+      <item value="Raw use of parameterized class 'Map'" />
       <item value="java.lang.IllegalArgumentException: No Retrofit annotation found. (parameter 1)" />
       <item value="Evn.omt.kidsonline.teacher.ui.attendanceActivity.come.AttendanceComeFragment: No onEvent method" />
       <item value="WSystem.err: com.google.gson.stream.MalformedJsonException: Expected value at line 1 column 244 path" />
@@ -52,9 +55,6 @@
       <item value="Material specific features such as [showDialog] and [showMenu], and widgets" />
       <item value="&gt; Could not resolve io.flutter:armeabi_v7a_release:1.0.0-2f0af3715217a0c2ada72c717d4ed9178d68f6ed." />
       <item value="Failed to notify build listener." />
-      <item value="Initialization" />
-      <item value="Tôi nên khai báo controller ở state hay " />
-      <item value="Tôi nên khai báo controller ở state hay" />
     </histories>
     <option name="languageScores">
       <map>
