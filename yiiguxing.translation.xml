@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="evidence" />
+      <item value="unsubscribe" />
       <item value="current" />
       <item value="Timetable Period" />
       <item value="cần câu" />
@@ -53,8 +55,6 @@
       <item value="FAILURE: Build failed with an exception." />
       <item value="&gt; No matching configuration of project :faceTracker was found. The consumer was configured to find an API of a component, as well as attribute 'com.android.build.api.attributes.BuildTypeAttr' with value 'debug' but:" />
       <item value="&gt; Could not resolve project :faceTracker." />
-      <item value="The consumer was configured to find a runtime of a component" />
-      <item value="&gt; No matching configuration of project :faceTracker was found. The consumer was configured to find a runtime of a component, as well as attribute 'com.android.build.api.attributes.BuildTypeAttr' with value 'debug' but:" />
     </histories>
     <option name="languageScores">
       <map>
