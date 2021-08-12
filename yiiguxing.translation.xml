@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="945" />
+    <option name="newTranslationDialogWidth" value="943" />
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="kết quả" />
+      <item value="kết q" />
+      <item value="kết qya" />
       <item value="Upgrading event feature" />
       <item value="No survey questions" />
       <item value="Returns true if all elements match the given [predicate] or if the" />
@@ -52,9 +55,6 @@
       <item value="to redirect to a secure protocol (like HTTPS) or allow insecure protocols" />
       <item value="&gt; Keystore file not set for signing config release" />
       <item value="extra Answer" />
-      <item value="wear" />
-      <item value="we" />
-      <item value="đến" />
     </histories>
     <option name="languageScores">
       <map>
