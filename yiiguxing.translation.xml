@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="Error: Could not find the correct Provider&lt;DetailExtraActivityCubit&gt; above this BlocBuilder&lt;DetailExtraActivityCubit, DetailExtraActivityState&gt; Widget" />
       <item value="đăng ký" />
       <item value="registration" />
       <item value="đăng" />
@@ -54,7 +55,6 @@
       <item value="redus\" />
       <item value="redus" />
       <item value="re" />
-      <item value="Signing with the debug keys for now, so `flutter run --release` works." />
     </histories>
     <option name="languageScores">
       <map>
