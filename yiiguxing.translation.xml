@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="Returns true if all elements match the given [predicate] or if the" />
+      <item value="collection is empty" />
       <item value="current" />
       <item value="previous" />
       <item value="The expression doesn't evaluate to a function, so it can't be invoked. (Documentation)" />
@@ -53,8 +55,6 @@
       <item value="đến" />
       <item value="ddee" />
       <item value="total" />
-      <item value="Mark as read" />
-      <item value="cơ bản" />
     </histories>
     <option name="languageScores">
       <map>
