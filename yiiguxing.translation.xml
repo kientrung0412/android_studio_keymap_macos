@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="201" />
     <histories>
       <item value="previous" />
+      <item value="current" />
       <item value="Absent request" />
       <item value="status" />
       <item value="com.google.firebase.database.DatabaseException: Class java.util.Map has generic type parameters, please use GenericTypeIndicator instead" />
@@ -54,7 +55,6 @@
       <item value="cơ bản" />
       <item value="upgrade vesion" />
       <item value="[custom] while mask type is custom, maskColor should not be null" />
-      <item value="Material specific features such as [showDialog] and [showMenu], and widgets" />
     </histories>
     <option name="languageScores">
       <map>
