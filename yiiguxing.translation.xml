@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="Upgrading event feature" />
+      <item value="No survey questions" />
       <item value="Returns true if all elements match the given [predicate] or if the" />
       <item value="collection is empty" />
       <item value="current" />
@@ -53,8 +55,6 @@
       <item value="wear" />
       <item value="we" />
       <item value="đến" />
-      <item value="ddee" />
-      <item value="total" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1628309008305" />
+    <option name="lastTrimTime" value="1628741783113" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
