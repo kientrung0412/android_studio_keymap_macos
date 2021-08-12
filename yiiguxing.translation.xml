@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="941" />
+    <option name="newTranslationDialogWidth" value="939" />
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="đăng ký" />
+      <item value="registration" />
+      <item value="đăng" />
       <item value="evidence" />
       <item value="unsubscribe" />
       <item value="current" />
@@ -52,9 +55,6 @@
       <item value="redus" />
       <item value="re" />
       <item value="Signing with the debug keys for now, so `flutter run --release` works." />
-      <item value="FAILURE: Build failed with an exception." />
-      <item value="&gt; No matching configuration of project :faceTracker was found. The consumer was configured to find an API of a component, as well as attribute 'com.android.build.api.attributes.BuildTypeAttr' with value 'debug' but:" />
-      <item value="&gt; Could not resolve project :faceTracker." />
     </histories>
     <option name="languageScores">
       <map>
