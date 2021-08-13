@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="has leaked window" />
+      <item value="EWindowManager: android.view.WindowLeaked: Activity vn.omt.kidsonline.parent.ui.login.LoginActivity has leaked window DecorView@1295681[LoginActivity] that was originally added here" />
       <item value="Error: Could not find the correct Provider&lt;DetailExtraActivityCubit&gt; above this BlocBuilder&lt;DetailExtraActivityCubit, DetailExtraActivityState&gt; Widget" />
       <item value="đăng ký" />
       <item value="registration" />
@@ -53,8 +55,6 @@
       <item value="ch" />
       <item value="chuyeenr" />
       <item value="redus\" />
-      <item value="redus" />
-      <item value="re" />
     </histories>
     <option name="languageScores">
       <map>
