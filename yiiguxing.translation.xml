@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="Installation failed due to: 'Failed to commit install session 980976641 with command cmd package install-commit 980976641. Error: INSTALL_FAILED_CONFLICTING_PROVIDER: Scanning Failed.: Can't install because provider name com.example.android.fileprovide (in package codepro.kidsonline.debug) is already used by codepro.kidsonline'" />
+      <item value="Installation via USB is disabled." />
       <item value="&gt; Keystore file not set for signing config release" />
       <item value="has leaked window" />
       <item value="EWindowManager: android.view.WindowLeaked: Activity vn.omt.kidsonline.parent.ui.login.LoginActivity has leaked window DecorView@1295681[LoginActivity] that was originally added here" />
@@ -53,8 +55,6 @@
       <item value="navigation" />
       <item value="chuyển hướng" />
       <item value="chuyển " />
-      <item value="ch" />
-      <item value="chuyeenr" />
     </histories>
     <option name="languageScores">
       <map>
