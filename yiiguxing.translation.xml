@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="Estatsd: Predicate 5980654721335871649 dropping data for dimension key (10)0x2010101-&gt;10611[I] (10)0x30000-&gt;launch[S]" />
       <item value="Installation failed due to: 'Failed to commit install session 980976641 with command cmd package install-commit 980976641. Error: INSTALL_FAILED_CONFLICTING_PROVIDER: Scanning Failed.: Can't install because provider name com.example.android.fileprovide (in package codepro.kidsonline.debug) is already used by codepro.kidsonline'" />
       <item value="Installation via USB is disabled." />
       <item value="&gt; Keystore file not set for signing config release" />
@@ -54,7 +55,6 @@
       <item value="reason" />
       <item value="navigation" />
       <item value="chuyển hướng" />
-      <item value="chuyển " />
     </histories>
     <option name="languageScores">
       <map>
