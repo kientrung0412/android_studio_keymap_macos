@@ -1,10 +1,38 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="939" />
+    <option name="newTranslationDialogWidth" value="935" />
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="trên mọi máy tính" />
+      <item value="trên mọi m" />
+      <item value="trên mọi " />
+      <item value="trong mỗi máy tính" />
+      <item value="in every pc" />
+      <item value="in every " />
+      <item value="in ever" />
+      <item value="it only happens with left mouse" />
+      <item value="nó chỉ xảy ra với chuột trái" />
+      <item value="nó chỉ xảy ra với chuột " />
+      <item value="nó chỉ xảy ra với c" />
+      <item value="nó chỉ xảy ra " />
+      <item value="nó chỉ xảy " />
+      <item value="tôi đã thử hết" />
+      <item value="tôi đã " />
+      <item value="nó chỉ" />
+      <item value="nó " />
+      <item value="nó" />
+      <item value="Tôi muốn được bảo hành G604" />
+      <item value="Tôi muốn được bảo hành G603" />
+      <item value="Tôi muốn được bảo hành G60" />
+      <item value="Tôi muốn được bảo hành G" />
+      <item value="Tôi muốn được bảo hành " />
+      <item value="Tôi muốn được bảo hành" />
+      <item value="Tôi muốn đư" />
+      <item value="Tôi " />
+      <item value="tôi muốn đưuocj abor hanh" />
+      <item value="tôi muốn đưuocj abor hanhg" />
       <item value="Commentable" />
       <item value="Returns the absolute value of an {@code int} value." />
       <item value="Unable to resolve module `react-native-slider` from `app\screens\book\readBook.js`: react-native-slider could not be found within the project." />
@@ -27,34 +55,6 @@
       <item value="caa" />
       <item value="kết quả" />
       <item value="kết q" />
-      <item value="kết qya" />
-      <item value="Upgrading event feature" />
-      <item value="No survey questions" />
-      <item value="Returns true if all elements match the given [predicate] or if the" />
-      <item value="collection is empty" />
-      <item value="previous" />
-      <item value="The expression doesn't evaluate to a function, so it can't be invoked. (Documentation)" />
-      <item value="This property can be set from a listener added to this" />
-      <item value="Absent request" />
-      <item value="status" />
-      <item value="com.google.firebase.database.DatabaseException: Class java.util.Map has generic type parameters, please use GenericTypeIndicator instead" />
-      <item value="Raw use of parameterized class 'Map'" />
-      <item value="java.lang.IllegalArgumentException: No Retrofit annotation found. (parameter 1)" />
-      <item value="Evn.omt.kidsonline.teacher.ui.attendanceActivity.come.AttendanceComeFragment: No onEvent method" />
-      <item value="WSystem.err: com.google.gson.stream.MalformedJsonException: Expected value at line 1 column 244 path" />
-      <item value="Unable to resolve host &quot;mnvn.ko.edu.vnapi&quot;: No address associated with hostname" />
-      <item value="not found for signing config 'externalOverride'." />
-      <item value="ETrungnk: handlerError: java.lang.NullPointerException: Attempt to invoke virtual method 'io.reactivex.Single io.reactivex.Single.subscribeOn(io.reactivex.Scheduler)' on a null object reference" />
-      <item value="Accessing hidden method LcomandroidorgconscryptConscryptEngineSocket;-&gt;setUseSessionTickets(Z)V (greylist-max-q,core-platform-api, reflection, denied)" />
-      <item value="Plugin version (1.4.0) is not the same as library version (1.5.21)" />
-      <item value="&gt; No matching configuration of project :flutter was found. The consumer was configured to find an API of a component, as well as attribute 'com.android.build.api.attributes.BuildTypeAttr' with value 'debug' but:" />
-      <item value="- None of the consumable configurations have attributes." />
-      <item value="Could not determine the dependencies of task ':app:compileDebugJavaWithJavac'." />
-      <item value="điểm danh" />
-      <item value="dd" />
-      <item value="quản lý" />
-      <item value="manage" />
-      <item value="mana" />
     </histories>
     <option name="languageScores">
       <map>
