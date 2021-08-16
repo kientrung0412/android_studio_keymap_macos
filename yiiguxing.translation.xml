@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{codepro.kidsonline.debugvn.omt.kidsonline.parent.ui.tickets.medicineNote.create.medicineManager.MedicineManagerActivity}: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean vn.omt.kidsonline.parent.data.model.base.Policy.useStrict()' on a null object reference" />
       <item value="trên mọi máy tính" />
       <item value="trên mọi m" />
       <item value="trên mọi " />
@@ -54,7 +55,6 @@
       <item value="c" />
       <item value="caa" />
       <item value="kết quả" />
-      <item value="kết q" />
     </histories>
     <option name="languageScores">
       <map>
