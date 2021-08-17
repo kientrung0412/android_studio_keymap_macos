@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="Commentable" />
       <item value="collided" />
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{codepro.kidsonline.debugvn.omt.kidsonline.parent.ui.tickets.medicineNote.create.medicineManager.MedicineManagerActivity}: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean vn.omt.kidsonline.parent.data.model.base.Policy.useStrict()' on a null object reference" />
       <item value="trên mọi máy tính" />
@@ -35,7 +36,6 @@
       <item value="Tôi " />
       <item value="tôi muốn đưuocj abor hanh" />
       <item value="tôi muốn đưuocj abor hanhg" />
-      <item value="Commentable" />
       <item value="Returns the absolute value of an {@code int} value." />
       <item value="Unable to resolve module `react-native-slider` from `app\screens\book\readBook.js`: react-native-slider could not be found within the project." />
       <item value="Estatsd: Predicate 5980654721335871649 dropping data for dimension key (10)0x2010101-&gt;10611[I] (10)0x30000-&gt;launch[S]" />
