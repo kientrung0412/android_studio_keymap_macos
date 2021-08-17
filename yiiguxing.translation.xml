@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="Interaction Fragment" />
       <item value="Commentable" />
       <item value="collided" />
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{codepro.kidsonline.debugvn.omt.kidsonline.parent.ui.tickets.medicineNote.create.medicineManager.MedicineManagerActivity}: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean vn.omt.kidsonline.parent.data.model.base.Policy.useStrict()' on a null object reference" />
@@ -54,7 +55,6 @@
       <item value="Timetable Period" />
       <item value="cần câu" />
       <item value="c" />
-      <item value="caa" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1628741783113" />
+    <option name="lastTrimTime" value="1629187252782" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
