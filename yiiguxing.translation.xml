@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="Student Message" />
       <item value="Corner Post Detail" />
       <item value="set Use Encryption" />
       <item value="absent Id" />
@@ -54,7 +55,6 @@
       <item value="đăng" />
       <item value="evidence" />
       <item value="unsubscribe" />
-      <item value="current" />
     </histories>
     <option name="languageScores">
       <map>
