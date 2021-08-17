@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="Corner Post Detail" />
       <item value="set Use Encryption" />
       <item value="absent Id" />
       <item value="Interaction Fragment" />
@@ -54,7 +55,6 @@
       <item value="evidence" />
       <item value="unsubscribe" />
       <item value="current" />
-      <item value="Timetable Period" />
     </histories>
     <option name="languageScores">
       <map>
