@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="set Nested Scrolling Enabled" />
       <item value="@return An object for managing disconnect operations at this location" />
       <item value="Provides access to disconnect operations at this location" />
       <item value="Term Assessment" />
@@ -54,7 +55,6 @@
       <item value="Installation failed due to: 'Failed to commit install session 980976641 with command cmd package install-commit 980976641. Error: INSTALL_FAILED_CONFLICTING_PROVIDER: Scanning Failed.: Can't install because provider name com.example.android.fileprovide (in package codepro.kidsonline.debug) is already used by codepro.kidsonline'" />
       <item value="Installation via USB is disabled." />
       <item value="&gt; Keystore file not set for signing config release" />
-      <item value="has leaked window" />
     </histories>
     <option name="languageScores">
       <map>
