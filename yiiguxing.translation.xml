@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="accepted" />
       <item value="Variable 'callback' might not have been initialized" />
       <item value="Provides access to disconnect operations at this location" />
       <item value="on Disconnect" />
@@ -54,7 +55,6 @@
       <item value="Returns the absolute value of an {@code int} value." />
       <item value="Unable to resolve module `react-native-slider` from `app\screens\book\readBook.js`: react-native-slider could not be found within the project." />
       <item value="Estatsd: Predicate 5980654721335871649 dropping data for dimension key (10)0x2010101-&gt;10611[I] (10)0x30000-&gt;launch[S]" />
-      <item value="Installation failed due to: 'Failed to commit install session 980976641 with command cmd package install-commit 980976641. Error: INSTALL_FAILED_CONFLICTING_PROVIDER: Scanning Failed.: Can't install because provider name com.example.android.fileprovide (in package codepro.kidsonline.debug) is already used by codepro.kidsonline'" />
     </histories>
     <option name="languageScores">
       <map>
