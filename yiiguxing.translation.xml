@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="support target" />
       <item value="feedback" />
       <item value="&lt;p&gt;The method {@code nextInt} is implemented by class {@code Random}" />
       <item value="Returns the next pseudorandom, uniformly distributed {@code int}" />
@@ -54,7 +55,6 @@
       <item value="Tôi muốn được bảo hành" />
       <item value="Tôi muốn đư" />
       <item value="Tôi " />
-      <item value="tôi muốn đưuocj abor hanh" />
     </histories>
     <option name="languageScores">
       <map>
