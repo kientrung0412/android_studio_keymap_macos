@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="No Such Element Exception" />
       <item value="get Unread Attendance Notification" />
       <item value="comparing" />
       <item value="Comparators" />
@@ -54,7 +55,6 @@
       <item value="nó chỉ xảy ra với chuột trái" />
       <item value="nó chỉ xảy ra với chuột " />
       <item value="nó chỉ xảy ra với c" />
-      <item value="nó chỉ xảy ra " />
     </histories>
     <option name="languageScores">
       <map>
