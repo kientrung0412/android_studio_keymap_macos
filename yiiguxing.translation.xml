@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="prepare Success Response" />
       <item value="The bloodless dissipates" />
       <item value="bloodless" />
       <item value="Talon Witch" />
@@ -54,7 +55,6 @@
       <item value="tôi đã thử hết" />
       <item value="tôi đã " />
       <item value="nó chỉ" />
-      <item value="nó " />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1629187252782" />
+    <option name="lastTrimTime" value="1629688815278" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
