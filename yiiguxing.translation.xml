@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="Đánh giấu" />
       <item value="thành công" />
       <item value="thanh" />
       <item value="No Such Element Exception" />
@@ -54,7 +55,6 @@
       <item value="in every " />
       <item value="in ever" />
       <item value="it only happens with left mouse" />
-      <item value="nó chỉ xảy ra với chuột trái" />
     </histories>
     <option name="languageScores">
       <map>
