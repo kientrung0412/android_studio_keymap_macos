@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="did not meet" />
       <item value="Đánh giấu" />
       <item value="thành công" />
       <item value="thanh" />
@@ -54,7 +55,6 @@
       <item value="in every pc" />
       <item value="in every " />
       <item value="in ever" />
-      <item value="it only happens with left mouse" />
     </histories>
     <option name="languageScores">
       <map>
