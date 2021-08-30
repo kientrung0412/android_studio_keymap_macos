@@ -1,10 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="931" />
+    <option name="newTranslationDialogWidth" value="929" />
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="Người giám hộ" />
+      <item value="Người giám " />
+      <item value="Người " />
+      <item value="Ngươ" />
+      <item value="nguowif" />
+      <item value="b" />
       <item value="get Child Id" />
       <item value="Guardian" />
       <item value="WSystem.err: java.lang.ClassCastException: android.widget.FrameLayoutLayoutParams cannot be cast to androidx.recyclerview.widget.RecyclerViewLayoutParams" />
@@ -49,12 +55,6 @@
       <item value="set Use Encryption" />
       <item value="absent Id" />
       <item value="Interaction Fragment" />
-      <item value="Commentable" />
-      <item value="collided" />
-      <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{codepro.kidsonline.debugvn.omt.kidsonline.parent.ui.tickets.medicineNote.create.medicineManager.MedicineManagerActivity}: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean vn.omt.kidsonline.parent.data.model.base.Policy.useStrict()' on a null object reference" />
-      <item value="trên mọi máy tính" />
-      <item value="trên mọi m" />
-      <item value="trên mọi " />
     </histories>
     <option name="languageScores">
       <map>
