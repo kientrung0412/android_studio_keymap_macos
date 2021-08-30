@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="get Child Id" />
       <item value="Guardian" />
       <item value="WSystem.err: java.lang.ClassCastException: android.widget.FrameLayoutLayoutParams cannot be cast to androidx.recyclerview.widget.RecyclerViewLayoutParams" />
       <item value="Apps targeting Android 12 and higher are required to specify an explicit value for `android:exported` when the corresponding component has an intent filter defined. See https:developer.android.comguidetopicsmanifestactivity-elementexported for details." />
@@ -54,7 +55,6 @@
       <item value="trên mọi máy tính" />
       <item value="trên mọi m" />
       <item value="trên mọi " />
-      <item value="trong mỗi máy tính" />
     </histories>
     <option name="languageScores">
       <map>
