@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="config" />
       <item value="Người giám hộ" />
       <item value="Người giám " />
       <item value="Người " />
@@ -54,7 +55,6 @@
       <item value="Corner Post Detail" />
       <item value="set Use Encryption" />
       <item value="absent Id" />
-      <item value="Interaction Fragment" />
     </histories>
     <option name="languageScores">
       <map>
