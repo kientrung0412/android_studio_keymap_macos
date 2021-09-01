@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="was accepted" />
       <item value="@return true if this view can be scrolled in the specified direction, false otherwise." />
       <item value="@param direction Negative to check scrolling up, positive to check scrolling down." />
       <item value="Check if this view can be scrolled vertically in a certain direction." />
@@ -54,7 +55,6 @@
       <item value="Term Assessment" />
       <item value="@param cb The callback that acts as a gateway to the backing list data" />
       <item value="Calculates the list of update operations that can covert one list into the other one." />
-      <item value="calculate Diff" />
     </histories>
     <option name="languageScores">
       <map>
