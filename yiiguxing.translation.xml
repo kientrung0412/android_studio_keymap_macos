@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="Caused by: java.lang.IllegalArgumentException: No injector factory bound for Class&lt;com.kidsonline.manager.ui.post.detail.PostDetailWebViewActivity&gt;" />
+      <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.kidsonline.manager.debugcom.kidsonline.manager.ui.post.detail.PostDetailWebViewActivity}: java.lang.IllegalArgumentException: No injector factory bound for Class&lt;com.kidsonline.manager.ui.post.detail.PostDetailWebViewActivity&gt;" />
       <item value="config" />
       <item value="Người giám hộ" />
       <item value="Người giám " />
@@ -53,8 +55,6 @@
       <item value="WSystem.err: java.lang.NullPointerException: Attempt to invoke interface method 'java.lang.Object[] java.util.Collection.toArray()' on a null object reference" />
       <item value="Student Message" />
       <item value="Corner Post Detail" />
-      <item value="set Use Encryption" />
-      <item value="absent Id" />
     </histories>
     <option name="languageScores">
       <map>
