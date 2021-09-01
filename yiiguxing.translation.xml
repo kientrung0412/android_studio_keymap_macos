@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="929" />
+    <option name="newTranslationDialogWidth" value="927" />
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="Thông báo xóa bài viết" />
+      <item value="Thông báo " />
+      <item value="thoong baos " />
+      <item value="noo" />
       <item value="was accepted" />
       <item value="@return true if this view can be scrolled in the specified direction, false otherwise." />
       <item value="@param direction Negative to check scrolling up, positive to check scrolling down." />
@@ -51,10 +55,6 @@
       <item value="Provides access to disconnect operations at this location" />
       <item value="on Disconnect" />
       <item value="set Nested Scrolling Enabled" />
-      <item value="@return An object for managing disconnect operations at this location" />
-      <item value="Term Assessment" />
-      <item value="@param cb The callback that acts as a gateway to the backing list data" />
-      <item value="Calculates the list of update operations that can covert one list into the other one." />
     </histories>
     <option name="languageScores">
       <map>
