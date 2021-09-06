@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="is Use Face Recognition" />
       <item value="Attendance Not Detect With Face Activity" />
       <item value="thermometer Bridge" />
       <item value="Thông báo xóa bài viết" />
@@ -54,7 +55,6 @@
       <item value="DAttendanceWithFacePresenter.java: [onError:197]onError() called with: e = [com.amazonaws.AmazonServiceException: 1 validation error detected: Value 'mnvn.dev.faces .125' at 'collectionId' failed to satisfy constraint: Member must satisfy regular expression pattern: [a-zA-Z0-9_.\-]+ (Service: AmazonRekognition; Status Code: 400; Error Code: ValidationException; Request ID: 193333aa-1aa8-4f4e-bcd4-823b16909583)]" />
       <item value="accepted" />
       <item value="Variable 'callback' might not have been initialized" />
-      <item value="Provides access to disconnect operations at this location" />
     </histories>
     <option name="languageScores">
       <map>
