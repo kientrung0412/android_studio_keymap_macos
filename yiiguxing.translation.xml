@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="invoke" />
+      <item value="component 1" />
       <item value="detect Face" />
       <item value="PERMISSION GRANTED" />
       <item value="Face detector dependencies are not yet available" />
@@ -53,8 +55,6 @@
       <item value="Talon Brawler" />
       <item value="What is this?! I am fading from reality" />
       <item value="support target" />
-      <item value="feedback" />
-      <item value="&lt;p&gt;The method {@code nextInt} is implemented by class {@code Random}" />
     </histories>
     <option name="languageScores">
       <map>
