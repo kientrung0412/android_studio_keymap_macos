@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="Attendance Not Detect With Face Activity" />
       <item value="thermometer Bridge" />
       <item value="Thông báo xóa bài viết" />
       <item value="Thông báo " />
@@ -54,7 +55,6 @@
       <item value="accepted" />
       <item value="Variable 'callback' might not have been initialized" />
       <item value="Provides access to disconnect operations at this location" />
-      <item value="on Disconnect" />
     </histories>
     <option name="languageScores">
       <map>
