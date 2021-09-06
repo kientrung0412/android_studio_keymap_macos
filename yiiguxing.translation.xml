@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="separator" />
       <item value="Could not copy bitmap to parcel blob" />
       <item value="elector function which always provides the smallest resolution." />
       <item value="Method call expected" />
@@ -54,7 +55,6 @@
       <item value="Non Constant Resource Id" />
       <item value="prepare Success Response" />
       <item value="The bloodless dissipates" />
-      <item value="bloodless" />
     </histories>
     <option name="languageScores">
       <map>
