@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="Face detector dependencies are not yet available" />
       <item value="Camera Face Check" />
       <item value="is Use Face Recognition" />
       <item value="Attendance Not Detect With Face Activity" />
@@ -54,7 +55,6 @@
       <item value="&lt;p&gt;The method {@code nextInt} is implemented by class {@code Random}" />
       <item value="Returns the next pseudorandom, uniformly distributed {@code int}" />
       <item value="DAttendanceWithFacePresenter.java: [onError:197]onError() called with: e = [com.amazonaws.AmazonServiceException: 1 validation error detected: Value 'mnvn.dev.faces .125' at 'collectionId' failed to satisfy constraint: Member must satisfy regular expression pattern: [a-zA-Z0-9_.\-]+ (Service: AmazonRekognition; Status Code: 400; Error Code: ValidationException; Request ID: 193333aa-1aa8-4f4e-bcd4-823b16909583)]" />
-      <item value="accepted" />
     </histories>
     <option name="languageScores">
       <map>
