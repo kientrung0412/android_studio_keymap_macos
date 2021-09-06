@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="front" />
+      <item value="@return Selector function which always provides the biggest resolution." />
+      <item value="frame Processor" />
+      <item value="exposure Compensation" />
+      <item value="focus Mode" />
       <item value="invoke" />
       <item value="component 1" />
       <item value="detect Face" />
@@ -50,11 +55,6 @@
       <item value="Talon Witch" />
       <item value="Witch" />
       <item value="tiếng việt" />
-      <item value="vietnam" />
-      <item value="english" />
-      <item value="Talon Brawler" />
-      <item value="What is this?! I am fading from reality" />
-      <item value="support target" />
     </histories>
     <option name="languageScores">
       <map>
