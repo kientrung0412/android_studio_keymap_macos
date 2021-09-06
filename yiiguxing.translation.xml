@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="thermometer Bridge" />
       <item value="Thông báo xóa bài viết" />
       <item value="Thông báo " />
       <item value="thoong baos " />
@@ -54,7 +55,6 @@
       <item value="Variable 'callback' might not have been initialized" />
       <item value="Provides access to disconnect operations at this location" />
       <item value="on Disconnect" />
-      <item value="set Nested Scrolling Enabled" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630321449583" />
+    <option name="lastTrimTime" value="1630895842201" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
