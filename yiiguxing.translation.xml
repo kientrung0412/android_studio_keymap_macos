@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="set Alert Temp" />
       <item value="more Face Detected" />
       <item value="detect Face In Image" />
       <item value="on Photo Taken" />
@@ -54,7 +55,6 @@
       <item value="did not meet" />
       <item value="Đánh giấu" />
       <item value="thành công" />
-      <item value="thanh" />
     </histories>
     <option name="languageScores">
       <map>
