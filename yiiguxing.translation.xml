@@ -1,10 +1,36 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="927" />
+    <option name="newTranslationDialogWidth" value="925" />
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="set Alert Temp" />
+      <item value="more Face Detected" />
+      <item value="detect Face In Image" />
+      <item value="on Photo Taken" />
+      <item value="Use Compat Loading For Drawables" />
+      <item value="kết nối" />
+      <item value="nhiệt kế" />
+      <item value="nhiệt " />
+      <item value="separator" />
+      <item value="Could not copy bitmap to parcel blob" />
+      <item value="elector function which always provides the smallest resolution." />
+      <item value="Method call expected" />
+      <item value="front" />
+      <item value="@return Selector function which always provides the biggest resolution." />
+      <item value="frame Processor" />
+      <item value="exposure Compensation" />
+      <item value="focus Mode" />
+      <item value="invoke" />
+      <item value="component 1" />
+      <item value="detect Face" />
+      <item value="PERMISSION GRANTED" />
+      <item value="Face detector dependencies are not yet available" />
+      <item value="Camera Face Check" />
+      <item value="is Use Face Recognition" />
+      <item value="Attendance Not Detect With Face Activity" />
+      <item value="thermometer Bridge" />
       <item value="Thông báo xóa bài viết" />
       <item value="Thông báo " />
       <item value="thoong baos " />
@@ -29,32 +55,6 @@
       <item value="did not meet" />
       <item value="Đánh giấu" />
       <item value="thành công" />
-      <item value="thanh" />
-      <item value="No Such Element Exception" />
-      <item value="get Unread Attendance Notification" />
-      <item value="comparing" />
-      <item value="Comparators" />
-      <item value="Non Constant Resource Id" />
-      <item value="prepare Success Response" />
-      <item value="The bloodless dissipates" />
-      <item value="bloodless" />
-      <item value="Talon Witch" />
-      <item value="Witch" />
-      <item value="tiếng việt" />
-      <item value="vietnam" />
-      <item value="english" />
-      <item value="Talon Brawler" />
-      <item value="What is this?! I am fading from reality" />
-      <item value="support target" />
-      <item value="feedback" />
-      <item value="&lt;p&gt;The method {@code nextInt} is implemented by class {@code Random}" />
-      <item value="Returns the next pseudorandom, uniformly distributed {@code int}" />
-      <item value="DAttendanceWithFacePresenter.java: [onError:197]onError() called with: e = [com.amazonaws.AmazonServiceException: 1 validation error detected: Value 'mnvn.dev.faces .125' at 'collectionId' failed to satisfy constraint: Member must satisfy regular expression pattern: [a-zA-Z0-9_.\-]+ (Service: AmazonRekognition; Status Code: 400; Error Code: ValidationException; Request ID: 193333aa-1aa8-4f4e-bcd4-823b16909583)]" />
-      <item value="accepted" />
-      <item value="Variable 'callback' might not have been initialized" />
-      <item value="Provides access to disconnect operations at this location" />
-      <item value="on Disconnect" />
-      <item value="set Nested Scrolling Enabled" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630321449583" />
+    <option name="lastTrimTime" value="1630895842201" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
