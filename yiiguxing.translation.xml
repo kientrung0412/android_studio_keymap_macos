@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="detect Face In Image" />
       <item value="on Photo Taken" />
       <item value="Use Compat Loading For Drawables" />
       <item value="kết nối" />
@@ -54,7 +55,6 @@
       <item value="thành công" />
       <item value="thanh" />
       <item value="No Such Element Exception" />
-      <item value="get Unread Attendance Notification" />
     </histories>
     <option name="languageScores">
       <map>
