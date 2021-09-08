@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="invoke" />
       <item value="Failed to convert to modern format file descriptor" />
       <item value="Invalid path for original media format file" />
       <item value="dawn" />
@@ -31,7 +32,6 @@
       <item value="frame Processor" />
       <item value="exposure Compensation" />
       <item value="focus Mode" />
-      <item value="invoke" />
       <item value="component 1" />
       <item value="detect Face" />
       <item value="PERMISSION GRANTED" />
