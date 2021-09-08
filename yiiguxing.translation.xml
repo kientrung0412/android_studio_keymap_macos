@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="Failed to convert to modern format file descriptor" />
+      <item value="Invalid path for original media format file" />
+      <item value="dawn" />
+      <item value="Writing exception to parcel" />
       <item value="nhi" />
       <item value="tv classification" />
       <item value="accept Attendance Result" />
@@ -51,10 +55,6 @@
       <item value="Người giám " />
       <item value="Người " />
       <item value="Ngươ" />
-      <item value="nguowif" />
-      <item value="b" />
-      <item value="get Child Id" />
-      <item value="Guardian" />
     </histories>
     <option name="languageScores">
       <map>
