@@ -1,10 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="925" />
+    <option name="newTranslationDialogWidth" value="923" />
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="environment temperature" />
+      <item value="nhiệt độ môi trường" />
+      <item value="nhiệt đ" />
+      <item value="nh" />
+      <item value="Thermograph" />
       <item value="invoke" />
       <item value="Failed to convert to modern format file descriptor" />
       <item value="Invalid path for original media format file" />
@@ -50,11 +55,6 @@
       <item value="Check if this view can be scrolled vertically in a certain direction." />
       <item value="Caused by: java.lang.IllegalArgumentException: No injector factory bound for Class&lt;com.kidsonline.manager.ui.post.detail.PostDetailWebViewActivity&gt;" />
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.kidsonline.manager.debugcom.kidsonline.manager.ui.post.detail.PostDetailWebViewActivity}: java.lang.IllegalArgumentException: No injector factory bound for Class&lt;com.kidsonline.manager.ui.post.detail.PostDetailWebViewActivity&gt;" />
-      <item value="config" />
-      <item value="Người giám hộ" />
-      <item value="Người giám " />
-      <item value="Người " />
-      <item value="Ngươ" />
     </histories>
     <option name="languageScores">
       <map>
