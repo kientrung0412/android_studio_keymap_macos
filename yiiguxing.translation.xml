@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="923" />
+    <option name="newTranslationDialogWidth" value="921" />
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="dấu nháy" />
+      <item value="dấu nha" />
+      <item value="đáu" />
       <item value="being here means, dot has been inserted check if the amount of digits is right" />
       <item value="being here means, that a number has been inserted after the dot check if the amount of digits is right" />
       <item value="being here means, that a number has" />
@@ -52,9 +55,6 @@
       <item value="is Use Face Recognition" />
       <item value="Attendance Not Detect With Face Activity" />
       <item value="thermometer Bridge" />
-      <item value="Thông báo xóa bài viết" />
-      <item value="Thông báo " />
-      <item value="thoong baos " />
     </histories>
     <option name="languageScores">
       <map>
