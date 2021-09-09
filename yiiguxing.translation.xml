@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="Set Text I 18 n" />
       <item value="dấu nháy" />
       <item value="dấu nha" />
       <item value="đáu" />
@@ -54,7 +55,6 @@
       <item value="Camera Face Check" />
       <item value="is Use Face Recognition" />
       <item value="Attendance Not Detect With Face Activity" />
-      <item value="thermometer Bridge" />
     </histories>
     <option name="languageScores">
       <map>
