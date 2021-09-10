@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="alternate" />
       <item value="initially Expanded" />
       <item value="leading" />
       <item value="hợp đồng" />
@@ -54,7 +55,6 @@
       <item value="@return Selector function which always provides the biggest resolution." />
       <item value="frame Processor" />
       <item value="exposure Compensation" />
-      <item value="focus Mode" />
     </histories>
     <option name="languageScores">
       <map>
