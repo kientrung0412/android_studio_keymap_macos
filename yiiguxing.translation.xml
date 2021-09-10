@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="EDITABLE" />
       <item value="java.lang.IllegalArgumentException: Unable to create @Body converter for class vn.omt.kidsonline.parent.data.model.attendance.come.AttendanceCome (parameter 1)" />
       <item value="alternate" />
       <item value="initially Expanded" />
@@ -54,7 +55,6 @@
       <item value="Method call expected" />
       <item value="front" />
       <item value="@return Selector function which always provides the biggest resolution." />
-      <item value="frame Processor" />
     </histories>
     <option name="languageScores">
       <map>
