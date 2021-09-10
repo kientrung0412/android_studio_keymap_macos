@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="initially Expanded" />
+      <item value="leading" />
       <item value="hợp đồng" />
       <item value="hợp đông" />
       <item value="hợp" />
@@ -53,8 +55,6 @@
       <item value="frame Processor" />
       <item value="exposure Compensation" />
       <item value="focus Mode" />
-      <item value="component 1" />
-      <item value="detect Face" />
     </histories>
     <option name="languageScores">
       <map>
