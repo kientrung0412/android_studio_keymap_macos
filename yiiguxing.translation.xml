@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="IMPORTANT: Due to the static usage of this class this" />
+      <item value="OPAQUE" />
+      <item value="get Opacity" />
       <item value="EDITABLE" />
       <item value="java.lang.IllegalArgumentException: Unable to create @Body converter for class vn.omt.kidsonline.parent.data.model.attendance.come.AttendanceCome (parameter 1)" />
       <item value="alternate" />
@@ -52,9 +55,6 @@
       <item value="separator" />
       <item value="Could not copy bitmap to parcel blob" />
       <item value="elector function which always provides the smallest resolution." />
-      <item value="Method call expected" />
-      <item value="front" />
-      <item value="@return Selector function which always provides the biggest resolution." />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630895842201" />
+    <option name="lastTrimTime" value="1631415457595" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
