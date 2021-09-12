@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="Spanned" />
       <item value="dend" />
       <item value="Draw Allocation" />
       <item value="IMPORTANT: Due to the static usage of this class this" />
@@ -54,7 +55,6 @@
       <item value="kết nối" />
       <item value="nhiệt kế" />
       <item value="nhiệt " />
-      <item value="separator" />
     </histories>
     <option name="languageScores">
       <map>
