@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="confidence" />
+      <item value="similarity" />
       <item value="WSystem.err: java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no colon was found" />
       <item value="quốc gia" />
       <item value="quốc " />
@@ -53,8 +55,6 @@
       <item value="tv classification" />
       <item value="accept Attendance Result" />
       <item value="inished loading Bitmap from LOCAL for" />
-      <item value="subscribe On" />
-      <item value="set Alert Temp" />
     </histories>
     <option name="languageScores">
       <map>
