@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="native Symbol Upload Enabled" />
       <item value="force Refresh" />
       <item value="forceRefresh" />
       <item value="confidence" />
@@ -54,7 +55,6 @@
       <item value="dawn" />
       <item value="Writing exception to parcel" />
       <item value="nhi" />
-      <item value="tv classification" />
     </histories>
     <option name="languageScores">
       <map>
