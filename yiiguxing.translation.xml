@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="quốc gia" />
+      <item value="quốc " />
+      <item value="qu" />
+      <item value="check Register" />
       <item value="is not a sibling in the same ConstraintLayout" />
       <item value="Digits Key Listener" />
       <item value="Spanned" />
@@ -51,10 +55,6 @@
       <item value="subscribe On" />
       <item value="set Alert Temp" />
       <item value="more Face Detected" />
-      <item value="detect Face In Image" />
-      <item value="on Photo Taken" />
-      <item value="Use Compat Loading For Drawables" />
-      <item value="kết nối" />
     </histories>
     <option name="languageScores">
       <map>
