@@ -5,9 +5,9 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="force Refresh" />
       <item value="&gt; com.android.build.gradle.internal.crash.ExternalApiUsageException: org.gradle.api.GradleException: Crashlytics could not determine unstripped native library directories for project ':app', variant Release. These are required for generating symbol files when NDK build tasks cannot be automatically inferred. Please specify unstrippedNativeLibsDir in the firebaseCrashlytics extension." />
       <item value="native Symbol Upload Enabled" />
-      <item value="force Refresh" />
       <item value="forceRefresh" />
       <item value="confidence" />
       <item value="similarity" />
