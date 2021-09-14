@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="notify" />
       <item value="Task is not yet complete" />
       <item value="force Refresh" />
       <item value="&gt; com.android.build.gradle.internal.crash.ExternalApiUsageException: org.gradle.api.GradleException: Crashlytics could not determine unstripped native library directories for project ':app', variant Release. These are required for generating symbol files when NDK build tasks cannot be automatically inferred. Please specify unstrippedNativeLibsDir in the firebaseCrashlytics extension." />
@@ -54,7 +55,6 @@
       <item value="invoke" />
       <item value="Failed to convert to modern format file descriptor" />
       <item value="Invalid path for original media format file" />
-      <item value="dawn" />
     </histories>
     <option name="languageScores">
       <map>
