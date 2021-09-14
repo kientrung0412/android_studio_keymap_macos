@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="simple Sum Confidence" />
+      <item value="sum Confidence" />
+      <item value="simple Sum Similarity" />
+      <item value="sum Similarity" />
       <item value="notify" />
       <item value="Task is not yet complete" />
       <item value="force Refresh" />
@@ -51,10 +55,6 @@
       <item value="nhiệt độ môi trường" />
       <item value="nhiệt đ" />
       <item value="nh" />
-      <item value="Thermograph" />
-      <item value="invoke" />
-      <item value="Failed to convert to modern format file descriptor" />
-      <item value="Invalid path for original media format file" />
     </histories>
     <option name="languageScores">
       <map>
