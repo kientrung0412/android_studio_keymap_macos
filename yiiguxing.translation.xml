@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="No cached version of io.realm:realm-gradle-plugin:10.1.2 available for offline mode." />
       <item value="bé hơn" />
       <item value="measurement" />
       <item value="Detection" />
@@ -54,7 +55,6 @@
       <item value="if deleting, source is empty and deleting can't break anything" />
       <item value="replace" />
       <item value="Sets the width of the TextView to be at most {@code maxEms} wide." />
-      <item value="environment temperature" />
     </histories>
     <option name="languageScores">
       <map>
