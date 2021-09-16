@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="917" />
+    <option name="newTranslationDialogWidth" value="915" />
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="yêu cầu" />
+      <item value="yêu câ" />
       <item value="DONT FINISH TASK WITH ACTIVITY" />
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{codepro.kidsonline.debugvn.omt.kidsonline.parent.ui.login.LoginActivity}: java.lang.NullPointerException: Attempt to invoke interface method 'void vn.omt.kidsonline.parent.ui.login.LoginView.setDisposable(io.reactivex.disposables.Disposable)' on a null object reference" />
       <item value="- None of the consumable configurations have attributes." />
@@ -53,8 +55,6 @@
       <item value="đáu" />
       <item value="being here means, dot has been inserted check if the amount of digits is right" />
       <item value="being here means, that a number has been inserted after the dot check if the amount of digits is right" />
-      <item value="being here means, that a number has" />
-      <item value="Find the position of the decimal" />
     </histories>
     <option name="languageScores">
       <map>
