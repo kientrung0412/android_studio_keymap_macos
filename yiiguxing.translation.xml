@@ -1,10 +1,25 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="917" />
+    <option name="newTranslationDialogWidth" value="915" />
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="cancelable" />
+      <item value="yêu cầu" />
+      <item value="yêu câ" />
+      <item value="DONT FINISH TASK WITH ACTIVITY" />
+      <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{codepro.kidsonline.debugvn.omt.kidsonline.parent.ui.login.LoginActivity}: java.lang.NullPointerException: Attempt to invoke interface method 'void vn.omt.kidsonline.parent.ui.login.LoginView.setDisposable(io.reactivex.disposables.Disposable)' on a null object reference" />
+      <item value="- None of the consumable configurations have attributes." />
+      <item value="No cached version of io.realm:realm-gradle-plugin:10.1.2 available for offline mode." />
+      <item value="bé hơn" />
+      <item value="measurement" />
+      <item value="Detection" />
+      <item value="simple Sum Confidence" />
+      <item value="sum Confidence" />
+      <item value="simple Sum Similarity" />
+      <item value="sum Similarity" />
+      <item value="notify" />
       <item value="Task is not yet complete" />
       <item value="force Refresh" />
       <item value="&gt; com.android.build.gradle.internal.crash.ExternalApiUsageException: org.gradle.api.GradleException: Crashlytics could not determine unstripped native library directories for project ':app', variant Release. These are required for generating symbol files when NDK build tasks cannot be automatically inferred. Please specify unstrippedNativeLibsDir in the firebaseCrashlytics extension." />
@@ -40,21 +55,6 @@
       <item value="dấu nha" />
       <item value="đáu" />
       <item value="being here means, dot has been inserted check if the amount of digits is right" />
-      <item value="being here means, that a number has been inserted after the dot check if the amount of digits is right" />
-      <item value="being here means, that a number has" />
-      <item value="Find the position of the decimal" />
-      <item value="if deleting, source is empty and deleting can't break anything" />
-      <item value="replace" />
-      <item value="Sets the width of the TextView to be at most {@code maxEms} wide." />
-      <item value="environment temperature" />
-      <item value="nhiệt độ môi trường" />
-      <item value="nhiệt đ" />
-      <item value="nh" />
-      <item value="Thermograph" />
-      <item value="invoke" />
-      <item value="Failed to convert to modern format file descriptor" />
-      <item value="Invalid path for original media format file" />
-      <item value="dawn" />
     </histories>
     <option name="languageScores">
       <map>
