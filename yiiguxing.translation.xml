@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="915" />
+    <option name="newTranslationDialogWidth" value="913" />
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="You must only take attendance one person at a time" />
+      <item value="You mus only take attendance one person at a time" />
+      <item value="You can only take attendance one person at a time" />
       <item value="Unclosed files for the types 'io.realm.com_kidsonline_manager_model_diligence_StudentRealmProxy'; these types will not undergo annotation processing" />
       <item value="unit" />
       <item value="cancelable" />
@@ -52,9 +55,6 @@
       <item value="hợp" />
       <item value="họp" />
       <item value="EXTRACURRICULAR" />
-      <item value="Set Text I 18 n" />
-      <item value="dấu nháy" />
-      <item value="dấu nha" />
     </histories>
     <option name="languageScores">
       <map>
