@@ -1,9 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
+      <removed_mapping ext="klib" type="ARCHIVE" />
       <mapping ext="news-wal" type="Native" />
       <mapping pattern="fvm" type="PLAIN_TEXT" />
       <mapping pattern=".flutter-plugins-dependencies" type="PLAIN_TEXT" />
