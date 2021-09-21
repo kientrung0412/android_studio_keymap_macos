@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="quốc tế" />
+      <item value="quốc té" />
+      <item value="quốc " />
+      <item value="vùng" />
+      <item value="vun" />
+      <item value="roaming" />
       <item value="regis" />
       <item value="re" />
       <item value="quốc gia" />
@@ -38,7 +44,6 @@
       <item value="confidence" />
       <item value="similarity" />
       <item value="WSystem.err: java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no colon was found" />
-      <item value="quốc " />
       <item value="qu" />
       <item value="check Register" />
       <item value="is not a sibling in the same ConstraintLayout" />
@@ -50,11 +55,6 @@
       <item value="OPAQUE" />
       <item value="get Opacity" />
       <item value="EDITABLE" />
-      <item value="java.lang.IllegalArgumentException: Unable to create @Body converter for class vn.omt.kidsonline.parent.data.model.attendance.come.AttendanceCome (parameter 1)" />
-      <item value="alternate" />
-      <item value="initially Expanded" />
-      <item value="leading" />
-      <item value="hợp đồng" />
     </histories>
     <option name="languageScores">
       <map>
