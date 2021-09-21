@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="regis" />
+      <item value="re" />
       <item value="quốc gia" />
       <item value="observe On" />
       <item value="prepare Language" />
@@ -53,8 +55,6 @@
       <item value="initially Expanded" />
       <item value="leading" />
       <item value="hợp đồng" />
-      <item value="hợp đông" />
-      <item value="hợp" />
     </histories>
     <option name="languageScores">
       <map>
