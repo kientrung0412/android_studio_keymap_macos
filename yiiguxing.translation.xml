@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="913" />
+    <option name="newTranslationDialogWidth" value="911" />
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="quốc gia" />
       <item value="observe On" />
       <item value="prepare Language" />
       <item value="You must only take attendance one person at a time" />
@@ -35,7 +36,6 @@
       <item value="confidence" />
       <item value="similarity" />
       <item value="WSystem.err: java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no colon was found" />
-      <item value="quốc gia" />
       <item value="quốc " />
       <item value="qu" />
       <item value="check Register" />
