@@ -1,10 +1,17 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="915" />
+    <option name="newTranslationDialogWidth" value="913" />
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="observe On" />
+      <item value="prepare Language" />
+      <item value="You must only take attendance one person at a time" />
+      <item value="You mus only take attendance one person at a time" />
+      <item value="You can only take attendance one person at a time" />
+      <item value="Unclosed files for the types 'io.realm.com_kidsonline_manager_model_diligence_StudentRealmProxy'; these types will not undergo annotation processing" />
+      <item value="unit" />
       <item value="cancelable" />
       <item value="yêu cầu" />
       <item value="yêu câ" />
@@ -48,13 +55,6 @@
       <item value="hợp đồng" />
       <item value="hợp đông" />
       <item value="hợp" />
-      <item value="họp" />
-      <item value="EXTRACURRICULAR" />
-      <item value="Set Text I 18 n" />
-      <item value="dấu nháy" />
-      <item value="dấu nha" />
-      <item value="đáu" />
-      <item value="being here means, dot has been inserted check if the amount of digits is right" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1631415457595" />
+    <option name="lastTrimTime" value="1631869293224" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
