@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="Dialog Select" />
       <item value="Restricted Api" />
       <item value="stroke" />
       <item value="quốc tế" />
@@ -54,7 +55,6 @@
       <item value="dend" />
       <item value="Draw Allocation" />
       <item value="IMPORTANT: Due to the static usage of this class this" />
-      <item value="OPAQUE" />
     </histories>
     <option name="languageScores">
       <map>
