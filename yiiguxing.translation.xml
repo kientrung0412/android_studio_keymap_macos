@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="prepare Login" />
       <item value="Quốc tế" />
       <item value="làm ơn" />
       <item value="Wrote" />
@@ -54,7 +55,6 @@
       <item value="check Register" />
       <item value="is not a sibling in the same ConstraintLayout" />
       <item value="Digits Key Listener" />
-      <item value="Spanned" />
     </histories>
     <option name="languageScores">
       <map>
