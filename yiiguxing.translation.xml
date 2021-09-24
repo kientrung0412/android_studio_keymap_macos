@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="911" />
+    <option name="newTranslationDialogWidth" value="909" />
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="làm ơn" />
       <item value="Wrote" />
       <item value="Dialog Select" />
       <item value="Restricted Api" />
@@ -54,7 +55,6 @@
       <item value="Digits Key Listener" />
       <item value="Spanned" />
       <item value="dend" />
-      <item value="Draw Allocation" />
     </histories>
     <option name="languageScores">
       <map>
