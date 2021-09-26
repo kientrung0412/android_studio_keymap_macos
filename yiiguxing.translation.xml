@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="909" />
+    <option name="newTranslationDialogWidth" value="907" />
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="TEACHER ABSENT REQUEST" />
+      <item value="staff_dining" />
+      <item value="staff dining" />
       <item value="prepare Login" />
       <item value="Quốc tế" />
       <item value="làm ơn" />
@@ -52,9 +55,6 @@
       <item value="similarity" />
       <item value="WSystem.err: java.lang.IllegalArgumentException: Expected URL scheme 'http' or 'https' but no colon was found" />
       <item value="qu" />
-      <item value="check Register" />
-      <item value="is not a sibling in the same ConstraintLayout" />
-      <item value="Digits Key Listener" />
     </histories>
     <option name="languageScores">
       <map>
