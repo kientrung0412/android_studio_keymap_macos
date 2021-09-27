@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="ALREADY ACCEPTED" />
       <item value="Additional feature to display student body temperature" />
       <item value="Bổ sung tính năng hiển thi thân nhiệt học sinh" />
       <item value="TEACHER ABSENT REQUEST" />
@@ -54,7 +55,6 @@
       <item value="native Symbol Upload Enabled" />
       <item value="forceRefresh" />
       <item value="confidence" />
-      <item value="similarity" />
     </histories>
     <option name="languageScores">
       <map>
