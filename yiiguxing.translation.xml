@@ -1,10 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="905" />
+    <option name="newTranslationDialogWidth" value="903" />
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="cấu trúc" />
+      <item value="cấu " />
+      <item value="caaus " />
+      <item value="ca" />
+      <item value="caa" />
       <item value="already Learned" />
       <item value="learning" />
       <item value="ALREADY ACCEPTED" />
@@ -50,11 +55,6 @@
       <item value="sum Confidence" />
       <item value="simple Sum Similarity" />
       <item value="sum Similarity" />
-      <item value="notify" />
-      <item value="Task is not yet complete" />
-      <item value="force Refresh" />
-      <item value="&gt; com.android.build.gradle.internal.crash.ExternalApiUsageException: org.gradle.api.GradleException: Crashlytics could not determine unstripped native library directories for project ':app', variant Release. These are required for generating symbol files when NDK build tasks cannot be automatically inferred. Please specify unstrippedNativeLibsDir in the firebaseCrashlytics extension." />
-      <item value="native Symbol Upload Enabled" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1632302178793" />
+    <option name="lastTrimTime" value="1632739104497" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
