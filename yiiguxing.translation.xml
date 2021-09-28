@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="903" />
-    <option name="newTranslationDialogX" value="775" />
-    <option name="newTranslationDialogY" value="201" />
+    <option name="newTranslationDialogWidth" value="901" />
+    <option name="newTranslationDialogX" value="2589" />
+    <option name="newTranslationDialogY" value="396" />
     <histories>
+      <item value="shape" />
       <item value="cấu trúc" />
       <item value="cấu " />
       <item value="caaus " />
@@ -54,7 +55,6 @@
       <item value="simple Sum Confidence" />
       <item value="sum Confidence" />
       <item value="simple Sum Similarity" />
-      <item value="sum Similarity" />
     </histories>
     <option name="languageScores">
       <map>
