@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2589" />
     <option name="newTranslationDialogY" value="396" />
     <histories>
+      <item value="Late Arrival Notice" />
       <item value="overridden" />
       <item value="shape" />
       <item value="cấu trúc" />
@@ -54,7 +55,6 @@
       <item value="measurement" />
       <item value="Detection" />
       <item value="simple Sum Confidence" />
-      <item value="sum Confidence" />
     </histories>
     <option name="languageScores">
       <map>
