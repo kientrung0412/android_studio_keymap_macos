@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="2589" />
     <option name="newTranslationDialogY" value="396" />
     <histories>
+      <item value="elevation" />
+      <item value="Late" />
+      <item value="reason" />
       <item value="Late Arrival Notice" />
       <item value="overridden" />
       <item value="shape" />
@@ -52,9 +55,6 @@
       <item value="- None of the consumable configurations have attributes." />
       <item value="No cached version of io.realm:realm-gradle-plugin:10.1.2 available for offline mode." />
       <item value="bé hơn" />
-      <item value="measurement" />
-      <item value="Detection" />
-      <item value="simple Sum Confidence" />
     </histories>
     <option name="languageScores">
       <map>
