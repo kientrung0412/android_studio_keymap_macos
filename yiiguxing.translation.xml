@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2589" />
     <option name="newTranslationDialogY" value="396" />
     <histories>
+      <item value="Iflutter (30879): type 'double' is not a subtype of type 'int'" />
       <item value="yet" />
       <item value="btn attempt" />
       <item value="bill term" />
@@ -54,7 +55,6 @@
       <item value="cancelable" />
       <item value="yêu cầu" />
       <item value="yêu câ" />
-      <item value="DONT FINISH TASK WITH ACTIVITY" />
     </histories>
     <option name="languageScores">
       <map>
