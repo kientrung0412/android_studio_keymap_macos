@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2589" />
     <option name="newTranslationDialogY" value="396" />
     <histories>
+      <item value="yet" />
       <item value="btn attempt" />
       <item value="bill term" />
       <item value="was disposed without first being removed with the input manager!" />
@@ -54,7 +55,6 @@
       <item value="yêu cầu" />
       <item value="yêu câ" />
       <item value="DONT FINISH TASK WITH ACTIVITY" />
-      <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{codepro.kidsonline.debugvn.omt.kidsonline.parent.ui.login.LoginActivity}: java.lang.NullPointerException: Attempt to invoke interface method 'void vn.omt.kidsonline.parent.ui.login.LoginView.setDisposable(io.reactivex.disposables.Disposable)' on a null object reference" />
     </histories>
     <option name="languageScores">
       <map>
