@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="This account not found" />
+      <item value="Medicine reminder accepted successfully" />
       <item value="Additional feature to display student body temperature" />
       <item value="Bổ sung tính năng hiển thi thân nhiệt học sinh" />
       <item value="TEACHER ABSENT REQUEST" />
@@ -53,8 +55,6 @@
       <item value="&gt; com.android.build.gradle.internal.crash.ExternalApiUsageException: org.gradle.api.GradleException: Crashlytics could not determine unstripped native library directories for project ':app', variant Release. These are required for generating symbol files when NDK build tasks cannot be automatically inferred. Please specify unstrippedNativeLibsDir in the firebaseCrashlytics extension." />
       <item value="native Symbol Upload Enabled" />
       <item value="forceRefresh" />
-      <item value="confidence" />
-      <item value="similarity" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1632302178793" />
+    <option name="lastTrimTime" value="1633072081909" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
