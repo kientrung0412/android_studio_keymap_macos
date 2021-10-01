@@ -1,36 +1,10 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="885" />
-    <option name="newTranslationDialogX" value="2589" />
-    <option name="newTranslationDialogY" value="396" />
+    <option name="newTranslationDialogWidth" value="905" />
+    <option name="newTranslationDialogX" value="775" />
+    <option name="newTranslationDialogY" value="201" />
     <histories>
-      <item value="Do you want to delete this attendance check picture?" />
-      <item value="Unsuccessfully" />
-      <item value="Popping" />
-      <item value="type 'String' is not a subtype of type 'int' of 'index'" />
-      <item value="decoder" />
-      <item value="con trỏ" />
-      <item value="contror" />
-      <item value="Iflutter (30879): type 'double' is not a subtype of type 'int'" />
-      <item value="yet" />
-      <item value="btn attempt" />
-      <item value="bill term" />
-      <item value="was disposed without first being removed with the input manager!" />
-      <item value="elevation" />
-      <item value="Late" />
-      <item value="reason" />
-      <item value="Late Arrival Notice" />
-      <item value="overridden" />
-      <item value="shape" />
-      <item value="cấu trúc" />
-      <item value="cấu " />
-      <item value="caaus " />
-      <item value="ca" />
-      <item value="caa" />
-      <item value="already Learned" />
-      <item value="learning" />
-      <item value="ALREADY ACCEPTED" />
       <item value="Additional feature to display student body temperature" />
       <item value="Bổ sung tính năng hiển thi thân nhiệt học sinh" />
       <item value="TEACHER ABSENT REQUEST" />
@@ -55,6 +29,32 @@
       <item value="observe On" />
       <item value="prepare Language" />
       <item value="You must only take attendance one person at a time" />
+      <item value="You mus only take attendance one person at a time" />
+      <item value="You can only take attendance one person at a time" />
+      <item value="Unclosed files for the types 'io.realm.com_kidsonline_manager_model_diligence_StudentRealmProxy'; these types will not undergo annotation processing" />
+      <item value="unit" />
+      <item value="cancelable" />
+      <item value="yêu cầu" />
+      <item value="yêu câ" />
+      <item value="DONT FINISH TASK WITH ACTIVITY" />
+      <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{codepro.kidsonline.debugvn.omt.kidsonline.parent.ui.login.LoginActivity}: java.lang.NullPointerException: Attempt to invoke interface method 'void vn.omt.kidsonline.parent.ui.login.LoginView.setDisposable(io.reactivex.disposables.Disposable)' on a null object reference" />
+      <item value="- None of the consumable configurations have attributes." />
+      <item value="No cached version of io.realm:realm-gradle-plugin:10.1.2 available for offline mode." />
+      <item value="bé hơn" />
+      <item value="measurement" />
+      <item value="Detection" />
+      <item value="simple Sum Confidence" />
+      <item value="sum Confidence" />
+      <item value="simple Sum Similarity" />
+      <item value="sum Similarity" />
+      <item value="notify" />
+      <item value="Task is not yet complete" />
+      <item value="force Refresh" />
+      <item value="&gt; com.android.build.gradle.internal.crash.ExternalApiUsageException: org.gradle.api.GradleException: Crashlytics could not determine unstripped native library directories for project ':app', variant Release. These are required for generating symbol files when NDK build tasks cannot be automatically inferred. Please specify unstrippedNativeLibsDir in the firebaseCrashlytics extension." />
+      <item value="native Symbol Upload Enabled" />
+      <item value="forceRefresh" />
+      <item value="confidence" />
+      <item value="similarity" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1632739104497" />
+    <option name="lastTrimTime" value="1632302178793" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
