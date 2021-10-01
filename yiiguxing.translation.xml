@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="Do you want to take going-home attendance check" />
+      <item value="Do you want to take leaving attendance check" />
       <item value="Leaving attendance" />
       <item value="Comment not found or deleted" />
       <item value="Không tìm thấy comment hoặc comment đã bị xóa" />
@@ -53,8 +55,6 @@
       <item value="simple Sum Similarity" />
       <item value="sum Similarity" />
       <item value="notify" />
-      <item value="Task is not yet complete" />
-      <item value="force Refresh" />
     </histories>
     <option name="languageScores">
       <map>
