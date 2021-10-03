@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="on Permission Rationale Should Be Shown" />
       <item value="stroke" />
       <item value="ICameraManagerGlobal: Connecting to camera service" />
       <item value="INFO SUPPORTED HARDWARE LEVEL_3" />
@@ -12,7 +13,6 @@
       <item value="LENS FACING BACK" />
       <item value="Verifying camera lens facing on blueline, lensFacingInteger: null" />
       <item value="Non Constant Resource Id" />
-      <item value="on Permission Rationale Should Be Shown" />
       <item value="on Permission Granted" />
       <item value="get Current Cell" />
       <item value="getCurrentCell" />
