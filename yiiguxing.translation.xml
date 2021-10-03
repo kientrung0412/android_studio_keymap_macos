@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="stroke" />
       <item value="ICameraManagerGlobal: Connecting to camera service" />
       <item value="INFO SUPPORTED HARDWARE LEVEL_3" />
       <item value="facing" />
@@ -36,7 +37,6 @@
       <item value="Wrote" />
       <item value="Dialog Select" />
       <item value="Restricted Api" />
-      <item value="stroke" />
       <item value="quốc tế" />
       <item value="quốc té" />
       <item value="quốc " />
