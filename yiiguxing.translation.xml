@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="get Relative Image Rotation" />
+      <item value="EBufferQueueProducer: [SurfaceView[com.trungnk.cameraattendance.cameracom.trungnk.cameraattendance.camera.MainActivity]1(BLAST Consumer)1](id:624f00000002,api:4,p:1199,c:25167) dequeueBuffer: BufferQueue has been abandoned" />
       <item value="Camera access is needed to take pictures of your dog" />
       <item value="on Permission Rationale Should Be Shown" />
       <item value="stroke" />
@@ -53,8 +55,6 @@
       <item value="You mus only take attendance one person at a time" />
       <item value="You can only take attendance one person at a time" />
       <item value="Unclosed files for the types 'io.realm.com_kidsonline_manager_model_diligence_StudentRealmProxy'; these types will not undergo annotation processing" />
-      <item value="unit" />
-      <item value="cancelable" />
     </histories>
     <option name="languageScores">
       <map>
