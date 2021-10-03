@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="Camera access is needed to take pictures of your dog" />
       <item value="on Permission Rationale Should Be Shown" />
       <item value="stroke" />
       <item value="ICameraManagerGlobal: Connecting to camera service" />
@@ -54,7 +55,6 @@
       <item value="Unclosed files for the types 'io.realm.com_kidsonline_manager_model_diligence_StudentRealmProxy'; these types will not undergo annotation processing" />
       <item value="unit" />
       <item value="cancelable" />
-      <item value="yêu cầu" />
     </histories>
     <option name="languageScores">
       <map>
