@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="905" />
+    <option name="newTranslationDialogWidth" value="901" />
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="get Current Cell" />
+      <item value="getCurrentCell" />
+      <item value="get Active Spreadsheet" />
+      <item value="getActiveSpreadsheet" />
       <item value="active" />
       <item value="Do you want to take going-home attendance check" />
       <item value="Do you want to take leaving attendance check" />
@@ -51,10 +55,6 @@
       <item value="bé hơn" />
       <item value="measurement" />
       <item value="Detection" />
-      <item value="simple Sum Confidence" />
-      <item value="sum Confidence" />
-      <item value="simple Sum Similarity" />
-      <item value="sum Similarity" />
     </histories>
     <option name="languageScores">
       <map>
