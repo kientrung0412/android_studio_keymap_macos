@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="ICameraManagerGlobal: Connecting to camera service" />
+      <item value="INFO SUPPORTED HARDWARE LEVEL_3" />
+      <item value="facing" />
+      <item value="LENS FACING BACK" />
+      <item value="Verifying camera lens facing on blueline, lensFacingInteger: null" />
       <item value="Non Constant Resource Id" />
       <item value="on Permission Rationale Should Be Shown" />
       <item value="on Permission Granted" />
@@ -50,11 +55,6 @@
       <item value="unit" />
       <item value="cancelable" />
       <item value="yêu cầu" />
-      <item value="yêu câ" />
-      <item value="DONT FINISH TASK WITH ACTIVITY" />
-      <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{codepro.kidsonline.debugvn.omt.kidsonline.parent.ui.login.LoginActivity}: java.lang.NullPointerException: Attempt to invoke interface method 'void vn.omt.kidsonline.parent.ui.login.LoginView.setDisposable(io.reactivex.disposables.Disposable)' on a null object reference" />
-      <item value="- None of the consumable configurations have attributes." />
-      <item value="No cached version of io.realm:realm-gradle-plugin:10.1.2 available for offline mode." />
     </histories>
     <option name="languageScores">
       <map>
