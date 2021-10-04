@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="899" />
+    <option name="newTranslationDialogWidth" value="897" />
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="dùng tiếng việt" />
+      <item value="dùng tiếng viê" />
+      <item value="dungf " />
       <item value="Installation failed due to: 'Failed to install-write all apks'" />
       <item value="Timed out waiting for process (codepro.kidsonline.debug) to appear on xiaomi-m2003j15sc-08726eca0407." />
       <item value="orientation" />
@@ -52,9 +55,6 @@
       <item value="regis" />
       <item value="re" />
       <item value="quốc gia" />
-      <item value="observe On" />
-      <item value="prepare Language" />
-      <item value="You must only take attendance one person at a time" />
     </histories>
     <option name="languageScores">
       <map>
