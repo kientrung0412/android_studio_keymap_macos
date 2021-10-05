@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="Wrong Constant" />
       <item value="exported" />
       <item value="dùng tiếng việt" />
       <item value="dùng tiếng viê" />
@@ -54,7 +55,6 @@
       <item value="vun" />
       <item value="roaming" />
       <item value="regis" />
-      <item value="re" />
     </histories>
     <option name="languageScores">
       <map>
