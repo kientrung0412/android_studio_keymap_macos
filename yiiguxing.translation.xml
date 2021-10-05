@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="get Applied Language" />
       <item value="Crop" />
       <item value="Repeat" />
       <item value="Wrong Constant" />
@@ -54,7 +55,6 @@
       <item value="quốc té" />
       <item value="quốc " />
       <item value="vùng" />
-      <item value="vun" />
     </histories>
     <option name="languageScores">
       <map>
