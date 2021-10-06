@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="895" />
+    <option name="newTranslationDialogWidth" value="893" />
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="Version 28 (intended for Android Pie and below) is the last version of the legacy support library, so we recommend that you migrate to AndroidX libraries when using Android Q and moving forward. The IDE can help with this: Refactor &gt; Migrate to Android" />
+      <item value="Gradle Compatible" />
+      <item value="noinspection" />
       <item value="execute By Custom With Delay" />
       <item value="executeByCustomWithDelay" />
       <item value="get Applied Language" />
@@ -52,24 +55,6 @@
       <item value="prepare Login" />
       <item value="Quốc tế" />
       <item value="làm ơn" />
-      <item value="Wrote" />
-      <item value="Dialog Select" />
-      <item value="Restricted Api" />
-      <item value="quốc tế" />
-      <item value="quốc té" />
-      <item value="quốc " />
-      <item value="vùng" />
-      <item value="vun" />
-      <item value="roaming" />
-      <item value="regis" />
-      <item value="re" />
-      <item value="quốc gia" />
-      <item value="observe On" />
-      <item value="prepare Language" />
-      <item value="You must only take attendance one person at a time" />
-      <item value="You mus only take attendance one person at a time" />
-      <item value="You can only take attendance one person at a time" />
-      <item value="Unclosed files for the types 'io.realm.com_kidsonline_manager_model_diligence_StudentRealmProxy'; these types will not undergo annotation processing" />
     </histories>
     <option name="languageScores">
       <map>
