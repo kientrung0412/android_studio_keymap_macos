@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="Class 'TargetLessonAdapter' must either be declared abstract or implement abstract method 'onBindViewHolde" />
+      <item value="Method does not override method from its superclass" />
+      <item value="Target" />
       <item value="vertical" />
       <item value="hình tròn&#10;" />
       <item value="hình trong" />
@@ -52,9 +55,6 @@
       <item value="Không tìm thấy comment hoặc comment đã bị xóa" />
       <item value="This account not found" />
       <item value="Medicine reminder accepted successfully" />
-      <item value="Additional feature to display student body temperature" />
-      <item value="Bổ sung tính năng hiển thi thân nhiệt học sinh" />
-      <item value="TEACHER ABSENT REQUEST" />
     </histories>
     <option name="languageScores">
       <map>
