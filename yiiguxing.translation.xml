@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="893" />
+    <option name="newTranslationDialogWidth" value="891" />
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="hình tròn&#10;" />
+      <item value="hình trong" />
+      <item value="hin" />
+      <item value="hinhf" />
       <item value="Version 28 (intended for Android Pie and below) is the last version of the legacy support library, so we recommend that you migrate to AndroidX libraries when using Android Q and moving forward. The IDE can help with this: Refactor &gt; Migrate to Android" />
       <item value="Gradle Compatible" />
       <item value="noinspection" />
@@ -51,10 +55,6 @@
       <item value="Bổ sung tính năng hiển thi thân nhiệt học sinh" />
       <item value="TEACHER ABSENT REQUEST" />
       <item value="staff_dining" />
-      <item value="staff dining" />
-      <item value="prepare Login" />
-      <item value="Quốc tế" />
-      <item value="làm ơn" />
     </histories>
     <option name="languageScores">
       <map>
@@ -77,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1633072081909" />
+    <option name="lastTrimTime" value="1633506372599" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
