@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="child Added Sub" />
       <item value="unread Count" />
       <item value="Conversation" />
       <item value="Eflutter (12025): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: LateInitializationError: Field 'customerReference' has not been initialized." />
@@ -54,7 +55,6 @@
       <item value="Non Constant Resource Id" />
       <item value="on Permission Granted" />
       <item value="get Current Cell" />
-      <item value="getCurrentCell" />
     </histories>
     <option name="languageScores">
       <map>
