@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="sign In With Redirect" />
+      <item value="returned instead. If there is any other existing user signed in, that" />
+      <item value="If there is already an anonymous user signed in, that user will be" />
+      <item value="Asynchronously creates and becomes an anonymous user." />
+      <item value="sign In Anonymously" />
       <item value="The custom token corresponds to a different audience" />
       <item value="receive Timeout" />
       <item value="Class 'TargetLessonAdapter' must either be declared abstract or implement abstract method 'onBindViewHolde" />
@@ -50,11 +55,6 @@
       <item value="get Active Spreadsheet" />
       <item value="getActiveSpreadsheet" />
       <item value="active" />
-      <item value="Do you want to take going-home attendance check" />
-      <item value="Do you want to take leaving attendance check" />
-      <item value="Leaving attendance" />
-      <item value="Comment not found or deleted" />
-      <item value="Không tìm thấy comment hoặc comment đã bị xóa" />
     </histories>
     <option name="languageScores">
       <map>
