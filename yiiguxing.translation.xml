@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="Eflutter (12025): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: LateInitializationError: Field 'customerReference' has not been initialized." />
       <item value="sign In With Redirect" />
       <item value="returned instead. If there is any other existing user signed in, that" />
       <item value="If there is already an anonymous user signed in, that user will be" />
@@ -54,7 +55,6 @@
       <item value="getCurrentCell" />
       <item value="get Active Spreadsheet" />
       <item value="getActiveSpreadsheet" />
-      <item value="active" />
     </histories>
     <option name="languageScores">
       <map>
