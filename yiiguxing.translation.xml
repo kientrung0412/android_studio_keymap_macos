@@ -1,10 +1,32 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="895" />
+    <option name="newTranslationDialogWidth" value="891" />
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="child Added Sub" />
+      <item value="unread Count" />
+      <item value="Conversation" />
+      <item value="Eflutter (12025): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: LateInitializationError: Field 'customerReference' has not been initialized." />
+      <item value="sign In With Redirect" />
+      <item value="returned instead. If there is any other existing user signed in, that" />
+      <item value="If there is already an anonymous user signed in, that user will be" />
+      <item value="Asynchronously creates and becomes an anonymous user." />
+      <item value="sign In Anonymously" />
+      <item value="The custom token corresponds to a different audience" />
+      <item value="receive Timeout" />
+      <item value="Class 'TargetLessonAdapter' must either be declared abstract or implement abstract method 'onBindViewHolde" />
+      <item value="Method does not override method from its superclass" />
+      <item value="Target" />
+      <item value="vertical" />
+      <item value="hình tròn&#10;" />
+      <item value="hình trong" />
+      <item value="hin" />
+      <item value="hinhf" />
+      <item value="Version 28 (intended for Android Pie and below) is the last version of the legacy support library, so we recommend that you migrate to AndroidX libraries when using Android Q and moving forward. The IDE can help with this: Refactor &gt; Migrate to Android" />
+      <item value="Gradle Compatible" />
+      <item value="noinspection" />
       <item value="execute By Custom With Delay" />
       <item value="executeByCustomWithDelay" />
       <item value="get Applied Language" />
@@ -33,43 +55,6 @@
       <item value="Non Constant Resource Id" />
       <item value="on Permission Granted" />
       <item value="get Current Cell" />
-      <item value="getCurrentCell" />
-      <item value="get Active Spreadsheet" />
-      <item value="getActiveSpreadsheet" />
-      <item value="active" />
-      <item value="Do you want to take going-home attendance check" />
-      <item value="Do you want to take leaving attendance check" />
-      <item value="Leaving attendance" />
-      <item value="Comment not found or deleted" />
-      <item value="Không tìm thấy comment hoặc comment đã bị xóa" />
-      <item value="This account not found" />
-      <item value="Medicine reminder accepted successfully" />
-      <item value="Additional feature to display student body temperature" />
-      <item value="Bổ sung tính năng hiển thi thân nhiệt học sinh" />
-      <item value="TEACHER ABSENT REQUEST" />
-      <item value="staff_dining" />
-      <item value="staff dining" />
-      <item value="prepare Login" />
-      <item value="Quốc tế" />
-      <item value="làm ơn" />
-      <item value="Wrote" />
-      <item value="Dialog Select" />
-      <item value="Restricted Api" />
-      <item value="quốc tế" />
-      <item value="quốc té" />
-      <item value="quốc " />
-      <item value="vùng" />
-      <item value="vun" />
-      <item value="roaming" />
-      <item value="regis" />
-      <item value="re" />
-      <item value="quốc gia" />
-      <item value="observe On" />
-      <item value="prepare Language" />
-      <item value="You must only take attendance one person at a time" />
-      <item value="You mus only take attendance one person at a time" />
-      <item value="You can only take attendance one person at a time" />
-      <item value="Unclosed files for the types 'io.realm.com_kidsonline_manager_model_diligence_StudentRealmProxy'; these types will not undergo annotation processing" />
     </histories>
     <option name="languageScores">
       <map>
@@ -92,7 +77,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1633072081909" />
+    <option name="lastTrimTime" value="1633506372599" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
