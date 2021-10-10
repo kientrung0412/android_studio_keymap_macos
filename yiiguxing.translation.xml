@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="update" />
+      <item value="Update" />
       <item value="alternate" />
       <item value="creater" />
       <item value="child Added Sub" />
@@ -53,8 +55,6 @@
       <item value="INFO SUPPORTED HARDWARE LEVEL_3" />
       <item value="facing" />
       <item value="LENS FACING BACK" />
-      <item value="Verifying camera lens facing on blueline, lensFacingInteger: null" />
-      <item value="Non Constant Resource Id" />
     </histories>
     <option name="languageScores">
       <map>
