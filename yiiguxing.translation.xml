@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="exported" />
       <item value="update" />
       <item value="Update" />
       <item value="alternate" />
@@ -37,7 +38,6 @@
       <item value="Crop" />
       <item value="Repeat" />
       <item value="Wrong Constant" />
-      <item value="exported" />
       <item value="dùng tiếng việt" />
       <item value="dùng tiếng viê" />
       <item value="dungf " />
