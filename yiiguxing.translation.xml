@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="flat Map Iterable" />
       <item value="@param executionId id of the execution that completed" />
       <item value="return code of the execution completed, 0 on successful completion, 255 on user cancel, other non-zero codes on error" />
       <item value="is Parallel" />
@@ -54,12 +55,11 @@
       <item value="Wrong Constant" />
       <item value="dùng tiếng việt" />
       <item value="dùng tiếng viê" />
-      <item value="dungf " />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="702" />
+        <entry key="ENGLISH" value="703" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
@@ -72,7 +72,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="702" />
+        <entry key="VIETNAMESE" value="703" />
       </map>
     </option>
   </component>
