@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="is Parallel" />
       <item value="get Emoticons" />
       <item value="Dereference of 'imageEntry' may produce 'NullPointerException'" />
       <item value="&gt; Found data binding error(s):" />
@@ -54,12 +55,11 @@
       <item value="dungf " />
       <item value="Installation failed due to: 'Failed to install-write all apks'" />
       <item value="Timed out waiting for process (codepro.kidsonline.debug) to appear on xiaomi-m2003j15sc-08726eca0407." />
-      <item value="orientation" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="699" />
+        <entry key="ENGLISH" value="700" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
@@ -72,7 +72,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="699" />
+        <entry key="VIETNAMESE" value="700" />
       </map>
     </option>
   </component>
