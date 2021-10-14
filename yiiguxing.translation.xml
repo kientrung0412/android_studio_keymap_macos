@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="Attempt to invoke interface method 'java.util.Iterator java.util.Collection.iterator()' on a null object reference" />
       <item value="MenuPopupHelper.setForceShowIcon can only be called from within the same library group prefix (referenced" />
       <item value="Restricted Api" />
       <item value="chèn hình vào ảnh" />
@@ -54,12 +55,11 @@
       <item value="vertical" />
       <item value="hình tròn&#10;" />
       <item value="hình trong" />
-      <item value="hin" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="712" />
+        <entry key="ENGLISH" value="713" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
