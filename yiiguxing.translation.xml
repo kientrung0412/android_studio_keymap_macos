@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.kidsonline.teacher.debugvn.omt.kidsonline.teacher.ui.studyReport.create.CreateQuickCommentActivity}: java.lang.UnsupportedOperationException" />
+      <item value="Unsupported Operation Exception" />
       <item value="Caused by: java.lang.IllegalStateException: View 'll_lesson' with ID 2131362648 for field 'llLesson' was of the wrong type. See cause for more info." />
       <item value="action" />
       <item value="active" />
@@ -53,13 +55,11 @@
       <item value="The custom token corresponds to a different audience" />
       <item value="receive Timeout" />
       <item value="Class 'TargetLessonAdapter' must either be declared abstract or implement abstract method 'onBindViewHolde" />
-      <item value="Method does not override method from its superclass" />
-      <item value="Target" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="716" />
+        <entry key="ENGLISH" value="718" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
@@ -72,7 +72,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="716" />
+        <entry key="VIETNAMESE" value="718" />
       </map>
     </option>
   </component>
