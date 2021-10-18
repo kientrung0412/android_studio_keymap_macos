@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="java.lang.IllegalStateException: Cannot call this method while RecyclerView is computing a layout or scrolling androidx.recyclerview.widget.RecyclerView{a5f5e33 VFED..... ......I. 0,0-0,0 7f0a043d app:idrcv_day}, adapter:vn.omt.kidsonline.teacher.ui.studyReport.lesson.adapter.ListLessonAdapter@7c0d5f0, layout:androidx.recyclerview.widget.LinearLayoutManager@5ea6769, context:vn.omt.kidsonline.teacher.ui.studyReport.StudyReportActivity@488d566" />
       <item value="Not approved yet" />
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.kidsonline.teacher.debugvn.omt.kidsonline.teacher.ui.studyReport.create.CreateQuickCommentActivity}: java.lang.UnsupportedOperationException" />
       <item value="Unsupported Operation Exception" />
@@ -54,12 +55,11 @@
       <item value="Asynchronously creates and becomes an anonymous user." />
       <item value="sign In Anonymously" />
       <item value="The custom token corresponds to a different audience" />
-      <item value="receive Timeout" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="719" />
+        <entry key="ENGLISH" value="720" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
@@ -72,7 +72,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="719" />
+        <entry key="VIETNAMESE" value="720" />
       </map>
     </option>
   </component>
