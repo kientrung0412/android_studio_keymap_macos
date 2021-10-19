@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="Because every version of flutter_localizations from sdk depends on intl 0.16.1 and comanager depends on intl ^0.17.0, flutter_localizations from sdk is forbidden.&#10;&#10;" />
+      <item value="Because every version of flutter_localizations from sdk depends on intl 0.16.1 and comanager depends on intl ^0.17.0, flutter_localizations from sdk is forbidden.&#10;" />
       <item value="is Pin Valid" />
       <item value="WEEKEND ASSESSMENT" />
       <item value="strippedNativeLibsDir is deprecated and no longer used. Please remove it from your build configuration." />
@@ -53,8 +55,6 @@
       <item value="Conversation" />
       <item value="Eflutter (12025): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: LateInitializationError: Field 'customerReference' has not been initialized." />
       <item value="sign In With Redirect" />
-      <item value="returned instead. If there is any other existing user signed in, that" />
-      <item value="If there is already an anonymous user signed in, that user will be" />
     </histories>
     <option name="languageScores">
       <map>
@@ -72,7 +72,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="720" />
+        <entry key="VIETNAMESE" value="721" />
       </map>
     </option>
   </component>
