@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="Lesson" />
       <item value="Because every version of flutter_localizations from sdk depends on intl 0.16.1 and comanager depends on intl ^0.17.0, flutter_localizations from sdk is forbidden.&#10;&#10;" />
       <item value="Because every version of flutter_localizations from sdk depends on intl 0.16.1 and comanager depends on intl ^0.17.0, flutter_localizations from sdk is forbidden.&#10;" />
       <item value="is Pin Valid" />
@@ -54,7 +55,6 @@
       <item value="unread Count" />
       <item value="Conversation" />
       <item value="Eflutter (12025): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: LateInitializationError: Field 'customerReference' has not been initialized." />
-      <item value="sign In With Redirect" />
     </histories>
     <option name="languageScores">
       <map>
