@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="is already attached to a RecyclerView:" />
+      <item value="java.lang.IllegalArgumentException: LayoutManager androidx.recyclerview.widget.GridLayoutManager@24a0f77 is already attached to a RecyclerView: androidx.recyclerview.widget.RecyclerView{74907e4 VFED..... ......I. 0,0-0,0 7f0a04aa app:idrcv_image}, adapter:null, layout:androidx.recyclerview.widget.GridLayoutManager@24a0f77, context:vn.omt.kidsonline.parent.ui.daily.DailyActivityActivity@4e2f1c5" />
       <item value="get Count Objective" />
       <item value="Implicitly using the default locale is a common source of bugs: Use String.format(Locale, ...) instead" />
       <item value="initial Capacity" />
@@ -53,13 +55,11 @@
       <item value="remote: GitLab: You are not allowed to push code to protected branches on this project." />
       <item value="type 'Context' is not a subtype of type 'String'" />
       <item value="Notify Data Set Changed" />
-      <item value="exported" />
-      <item value="update" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="726" />
+        <entry key="ENGLISH" value="728" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
@@ -72,7 +72,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="726" />
+        <entry key="VIETNAMESE" value="728" />
       </map>
     </option>
   </component>
