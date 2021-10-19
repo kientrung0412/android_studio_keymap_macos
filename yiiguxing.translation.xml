@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="get Count Objective" />
+      <item value="Implicitly using the default locale is a common source of bugs: Use String.format(Locale, ...) instead" />
       <item value="initial Capacity" />
       <item value="@throws IllegalArgumentException if the specified initial capacity" />
       <item value="@param initialCapacity the initial capacity of the list" />
@@ -53,13 +55,11 @@
       <item value="Notify Data Set Changed" />
       <item value="exported" />
       <item value="update" />
-      <item value="Update" />
-      <item value="alternate" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="725" />
+        <entry key="ENGLISH" value="726" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
@@ -72,7 +72,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="725" />
+        <entry key="VIETNAMESE" value="726" />
       </map>
     </option>
   </component>
