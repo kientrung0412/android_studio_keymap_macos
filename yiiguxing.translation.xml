@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="885" />
+    <option name="newTranslationDialogWidth" value="883" />
     <option name="newTranslationDialogX" value="775" />
     <option name="newTranslationDialogY" value="201" />
     <histories>
+      <item value="evaluation" />
       <item value="initial Capacity" />
       <item value="@throws IllegalArgumentException if the specified initial capacity" />
       <item value="@param initialCapacity the initial capacity of the list" />
@@ -54,12 +55,11 @@
       <item value="exported" />
       <item value="update" />
       <item value="Update" />
-      <item value="alternate" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="725" />
+        <entry key="ENGLISH" value="736" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
@@ -72,7 +72,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="725" />
+        <entry key="VIETNAMESE" value="737" />
       </map>
     </option>
   </component>
