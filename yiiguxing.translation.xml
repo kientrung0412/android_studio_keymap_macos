@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="969" />
     <option name="newTranslationDialogY" value="385" />
     <histories>
+      <item value="tv role" />
       <item value="thoong tin" />
       <item value="mark" />
       <item value="peek" />
@@ -54,12 +55,11 @@
       <item value="Please remove or make sure it appears in the correct subdirectory of the classpath." />
       <item value="remote: GitLab: You are not allowed to push code to protected branches on this project." />
       <item value="type 'Context' is not a subtype of type 'String'" />
-      <item value="Notify Data Set Changed" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="749" />
+        <entry key="ENGLISH" value="750" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
