@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="969" />
     <option name="newTranslationDialogY" value="385" />
     <histories>
+      <item value="vertical" />
+      <item value="Draw Allocation" />
       <item value="Caused by: java.lang.NullPointerException: Attempt to read from field 'int android.view.ViewGroupLayoutParams.width' on a null object reference" />
       <item value="HORIZONTAL" />
       <item value="java.lang.AssertionError: annotationType(): unrecognized Attribute name MODULE (class com.sun.tools.javac.util.UnsharedNameTableNameImpl)" />
@@ -53,13 +55,11 @@
       <item value="Dereference of 'imageEntry' may produce 'NullPointerException'" />
       <item value="&gt; Found data binding error(s):" />
       <item value="data Binding Gen Base Classes Debug" />
-      <item value="chụp ảnh&#10;" />
-      <item value="bắn" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="771" />
+        <entry key="ENGLISH" value="772" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
@@ -72,7 +72,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="771" />
+        <entry key="VIETNAMESE" value="772" />
       </map>
     </option>
   </component>
