@@ -1,15 +1,23 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="881" />
+    <option name="newTranslationDialogWidth" value="879" />
     <option name="newTranslationDialogX" value="969" />
     <option name="newTranslationDialogY" value="385" />
     <histories>
+      <item value="Response" />
+      <item value="Called from layout when this view should assign a size and position to each of its children. Derived classes with children should override this method and call layout on each of their children. Params: changed – This is a new size or position for this view left – Left position, relative to parent top – Top position, relative to parent right – Right position, relative to parent bottom – Bottom position, relative to parent" />
+      <item value="vertical" />
+      <item value="Draw Allocation" />
+      <item value="Caused by: java.lang.NullPointerException: Attempt to read from field 'int android.view.ViewGroupLayoutParams.width' on a null object reference" />
+      <item value="HORIZONTAL" />
+      <item value="java.lang.AssertionError: annotationType(): unrecognized Attribute name MODULE (class com.sun.tools.javac.util.UnsharedNameTableNameImpl)" />
+      <item value="An exception has occurred in the compiler (1.8.0_271). Please file a bug against the Java compiler via the Java bug reporting page (http:bugreport.java.com) after checking the Bug Database (http:bugs.java.com) for duplicates. Include your program and the following diagnostic in your report. Thank you." />
+      <item value="evaluation" />
       <item value="tv role" />
       <item value="thoong tin" />
       <item value="mark" />
       <item value="peek" />
-      <item value="evaluation" />
       <item value="initial Capacity" />
       <item value="@throws IllegalArgumentException if the specified initial capacity" />
       <item value="@param initialCapacity the initial capacity of the list" />
@@ -47,19 +55,11 @@
       <item value="is Parallel" />
       <item value="get Emoticons" />
       <item value="Dereference of 'imageEntry' may produce 'NullPointerException'" />
-      <item value="&gt; Found data binding error(s):" />
-      <item value="data Binding Gen Base Classes Debug" />
-      <item value="chụp ảnh&#10;" />
-      <item value="bắn" />
-      <item value="ba" />
-      <item value="Please remove or make sure it appears in the correct subdirectory of the classpath." />
-      <item value="remote: GitLab: You are not allowed to push code to protected branches on this project." />
-      <item value="type 'Context' is not a subtype of type 'String'" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="750" />
+        <entry key="ENGLISH" value="774" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
@@ -72,7 +72,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="750" />
+        <entry key="VIETNAMESE" value="774" />
       </map>
     </option>
   </component>
