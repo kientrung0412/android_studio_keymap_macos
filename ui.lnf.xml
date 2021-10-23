@@ -1,5 +1,6 @@
 <application>
   <component name="UISettings">
+    <option name="MAX_LOOKUP_WIDTH2" value="852" />
     <option name="PRESENTATION_MODE_FONT_SIZE" value="23" />
     <option name="CONTRAST_SCROLLBARS" value="true" />
   </component>
