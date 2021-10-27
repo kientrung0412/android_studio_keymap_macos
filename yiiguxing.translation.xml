@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="969" />
     <option name="newTranslationDialogY" value="385" />
     <histories>
+      <item value="Expose" />
       <item value="initialize" />
       <item value="Sort the array to optimize searching over it later on" />
       <item value="horizontal" />
@@ -54,7 +55,6 @@
       <item value="action" />
       <item value="active" />
       <item value="Attempt to invoke interface method 'java.util.Iterator java.util.Collection.iterator()' on a null object reference" />
-      <item value="MenuPopupHelper.setForceShowIcon can only be called from within the same library group prefix (referenced" />
     </histories>
     <option name="languageScores">
       <map>
