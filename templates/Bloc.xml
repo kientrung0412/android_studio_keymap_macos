@@ -2,21 +2,15 @@
   <template name="blocbuilder" value="BlocBuilder&lt;$Subject$, $Subject$State&gt;(&#10;  builder: (context, state) {&#10;    return $Container$;&#10;  },&#10;)" description="BlocBuilder widget" toReformat="false" toShortenFQNames="true">
     <variable name="Subject" expression="" defaultValue="&quot;Subject&quot;" alwaysStopAt="true" />
     <variable name="Container" expression="" defaultValue="&quot;Container()&quot;" alwaysStopAt="true" />
-    <context>
-      <option name="DART" value="true" />
-    </context>
+    <context />
   </template>
   <template name="blocconsumer" value="BlocConsumer&lt;$Subject$, $Subject$&gt;(&#10;  listener: (context, state) {&#10;    // TODO: implement listener&#10;  },&#10;  builder: (context, state) {&#10;    return $Container$;&#10;  },&#10;)" description="BlocConsumer widget" toReformat="false" toShortenFQNames="true">
     <variable name="Subject" expression="" defaultValue="&quot;Subject&quot;" alwaysStopAt="true" />
     <variable name="Container" expression="" defaultValue="&quot;Container()&quot;" alwaysStopAt="true" />
-    <context>
-      <option name="DART" value="true" />
-    </context>
+    <context />
   </template>
   <template name="read" value="context.read&lt;$Subject$&gt;()" description="context.read()" toReformat="false" toShortenFQNames="true">
     <variable name="Subject" expression="" defaultValue="&quot;Subject&quot;" alwaysStopAt="true" />
-    <context>
-      <option name="DART" value="true" />
-    </context>
+    <context />
   </template>
 </templateSet>
