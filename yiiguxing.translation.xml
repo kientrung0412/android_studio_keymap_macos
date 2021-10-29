@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="871" />
+    <option name="newTranslationDialogWidth" value="869" />
     <option name="newTranslationDialogX" value="969" />
     <option name="newTranslationDialogY" value="385" />
     <histories>
+      <item value="nâng cao" />
+      <item value="nân" />
       <item value="visibility" />
       <item value="No content provider" />
       <item value="java.io.FileNotFoundException: No content provider: http:www.africau.eduimagesdefaultsample.pdf" />
@@ -53,13 +55,11 @@
       <item value="initial Capacity" />
       <item value="@throws IllegalArgumentException if the specified initial capacity" />
       <item value="@param initialCapacity the initial capacity of the list" />
-      <item value="Constructs an empty list with the specified initial capacity." />
-      <item value="Cannot resolve method" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="804" />
+        <entry key="ENGLISH" value="806" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
@@ -72,7 +72,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="804" />
+        <entry key="VIETNAMESE" value="806" />
       </map>
     </option>
   </component>
