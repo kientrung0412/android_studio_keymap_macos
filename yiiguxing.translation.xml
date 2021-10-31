@@ -1,10 +1,42 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="879" />
+    <option name="newTranslationDialogWidth" value="867" />
     <option name="newTranslationDialogX" value="969" />
     <option name="newTranslationDialogY" value="385" />
     <histories>
+      <item value="Instead of performing asynchronous work inside a call to setState(), first execute the work (without updating the widget state), and then synchronously update the state inside a call to setState()." />
+      <item value="The setState() method on _PdfViewWidgetState5992b was called with a closure or method that returned a Future. Maybe it is marked as &quot;async&quot;." />
+      <item value="ĐÁNH GIÁ" />
+      <item value="ĐÁNH " />
+      <item value="DDABG" />
+      <item value="EVALUAGAT" />
+      <item value="nâng cao" />
+      <item value="nân" />
+      <item value="visibility" />
+      <item value="No content provider" />
+      <item value="java.io.FileNotFoundException: No content provider: http:www.africau.eduimagesdefaultsample.pdf" />
+      <item value="before" />
+      <item value="after" />
+      <item value="so sánh" />
+      <item value="so sanhs" />
+      <item value="soa" />
+      <item value="ruy băng" />
+      <item value="ruy" />
+      <item value="duy băn" />
+      <item value="duy bangw" />
+      <item value="duy" />
+      <item value="tv classification" />
+      <item value="vertical" />
+      <item value="Expose" />
+      <item value="initialize" />
+      <item value="Sort the array to optimize searching over it later on" />
+      <item value="horizontal" />
+      <item value="cộng trừ thời gian" />
+      <item value="cộng trừ thời " />
+      <item value="cộng trừ thio" />
+      <item value="công" />
+      <item value="c" />
       <item value="raid" />
       <item value="not permitted by network security policy" />
       <item value="announce" />
@@ -16,7 +48,6 @@
       <item value="answer" />
       <item value="Response" />
       <item value="Called from layout when this view should assign a size and position to each of its children. Derived classes with children should override this method and call layout on each of their children. Params: changed – This is a new size or position for this view left – Left position, relative to parent top – Top position, relative to parent right – Right position, relative to parent bottom – Bottom position, relative to parent" />
-      <item value="vertical" />
       <item value="Draw Allocation" />
       <item value="Caused by: java.lang.NullPointerException: Attempt to read from field 'int android.view.ViewGroupLayoutParams.width' on a null object reference" />
       <item value="HORIZONTAL" />
@@ -24,42 +55,11 @@
       <item value="An exception has occurred in the compiler (1.8.0_271). Please file a bug against the Java compiler via the Java bug reporting page (http:bugreport.java.com) after checking the Bug Database (http:bugs.java.com) for duplicates. Include your program and the following diagnostic in your report. Thank you." />
       <item value="evaluation" />
       <item value="tv role" />
-      <item value="thoong tin" />
-      <item value="mark" />
-      <item value="peek" />
-      <item value="initial Capacity" />
-      <item value="@throws IllegalArgumentException if the specified initial capacity" />
-      <item value="@param initialCapacity the initial capacity of the list" />
-      <item value="Constructs an empty list with the specified initial capacity." />
-      <item value="Cannot resolve method" />
-      <item value="Lesson" />
-      <item value="Because every version of flutter_localizations from sdk depends on intl 0.16.1 and comanager depends on intl ^0.17.0, flutter_localizations from sdk is forbidden.&#10;&#10;" />
-      <item value="Because every version of flutter_localizations from sdk depends on intl 0.16.1 and comanager depends on intl ^0.17.0, flutter_localizations from sdk is forbidden.&#10;" />
-      <item value="is Pin Valid" />
-      <item value="WEEKEND ASSESSMENT" />
-      <item value="strippedNativeLibsDir is deprecated and no longer used. Please remove it from your build configuration." />
-      <item value="Make sure all annotation processors are incremental to improve your build speed." />
-      <item value="The following annotation processors are not incremental: jetified-logansquare-compiler-1.3.7.jar (com.bluelinelabs:logansquare-compiler:1.3.7)." />
-      <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.kidsonline.teacher.debugvn.omt.kidsonline.teacher.ui.studyReport.create.CreateQuickCommentActivity}: java.lang.UnsupportedOperationException" />
-      <item value="Unsupported Operation Exception" />
-      <item value="Caused by: java.lang.IllegalStateException: View 'll_lesson' with ID 2131362648 for field 'llLesson' was of the wrong type. See cause for more info." />
-      <item value="action" />
-      <item value="active" />
-      <item value="Attempt to invoke interface method 'java.util.Iterator java.util.Collection.iterator()' on a null object reference" />
-      <item value="MenuPopupHelper.setForceShowIcon can only be called from within the same library group prefix (referenced" />
-      <item value="Restricted Api" />
-      <item value="chèn hình vào ảnh" />
-      <item value="trèn hình vào ảnh" />
-      <item value="trèn hình v" />
-      <item value="trèn hình " />
-      <item value="trèn " />
-      <item value="trèn" />
-      <item value="set Has Fixed Size" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="783" />
+        <entry key="ENGLISH" value="810" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
@@ -67,17 +67,17 @@
         <entry key="CATALAN" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
-        <entry key="ROMANIAN" value="2" />
+        <entry key="ROMANIAN" value="3" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="783" />
+        <entry key="VIETNAMESE" value="810" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1634993675627" />
+    <option name="lastTrimTime" value="1635417907333" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
