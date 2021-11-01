@@ -1,10 +1,19 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="867" />
+    <option name="newTranslationDialogWidth" value="865" />
     <option name="newTranslationDialogX" value="969" />
     <option name="newTranslationDialogY" value="385" />
     <histories>
+      <item value="người giúp đỡ" />
+      <item value="người giúp đõ" />
+      <item value="nguowif " />
+      <item value="n" />
+      <item value="thư mục" />
+      <item value="thư" />
+      <item value="thu" />
+      <item value="EXTERNAL CONTENT URI" />
+      <item value="AUTHORITY" />
       <item value="Dhw-ProcessState: Binder ioctl to enable oneway spam detection failed: Invalid argument" />
       <item value="Recycle" />
       <item value="Optionally, specify a URI for the file that should appear in the" />
@@ -46,20 +55,11 @@
       <item value="announce" />
       <item value="determine" />
       <item value="on Date Time Recurrence Set" />
-      <item value="D:\OMT\Lib\teacher_evaluation\src\main\java\com\kidsonline\module\teacher\evaluation\di\component\ModuleComponent.java:33: error: [DaggerMissingBinding] com.kidsonline.module.teacher.evaluation.DataManager cannot be provided without an @Provides-annotated method." />
-      <item value="dependencies" />
-      <item value="accept" />
-      <item value="answer" />
-      <item value="Response" />
-      <item value="Called from layout when this view should assign a size and position to each of its children. Derived classes with children should override this method and call layout on each of their children. Params: changed – This is a new size or position for this view left – Left position, relative to parent top – Top position, relative to parent right – Right position, relative to parent bottom – Bottom position, relative to parent" />
-      <item value="Draw Allocation" />
-      <item value="Caused by: java.lang.NullPointerException: Attempt to read from field 'int android.view.ViewGroupLayoutParams.width' on a null object reference" />
-      <item value="HORIZONTAL" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="815" />
+        <entry key="ENGLISH" value="820" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
@@ -72,7 +72,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="815" />
+        <entry key="VIETNAMESE" value="820" />
       </map>
     </option>
   </component>
