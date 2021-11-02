@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="969" />
     <option name="newTranslationDialogY" value="385" />
     <histories>
+      <item value="Academic" />
+      <item value="Nhận xét học tập" />
       <item value="Cập nhật" />
       <item value="người giúp đỡ" />
       <item value="người giúp đõ" />
@@ -53,13 +55,11 @@
       <item value="c" />
       <item value="raid" />
       <item value="not permitted by network security policy" />
-      <item value="announce" />
-      <item value="determine" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="820" />
+        <entry key="ENGLISH" value="821" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
