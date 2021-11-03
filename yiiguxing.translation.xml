@@ -1,28 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="861" />
+    <option name="newTranslationDialogWidth" value="863" />
     <option name="newTranslationDialogX" value="969" />
     <option name="newTranslationDialogY" value="385" />
     <histories>
-      <item value="Cannot resolve method 'subscribe(io.reactivex.rxjava3.core.Scheduler)'" />
-      <item value="WAdrenoUtils: &lt;ReadGpuID:221&gt;: Failed to read chip ID from gpu_model. Fallback to use the GSL path" />
-      <item value="Sd Card Path" />
-      <item value="Async command execution failed with returnCode" />
-      <item value="tiến trình" />
-      <item value="tieens " />
-      <item value="on Cancelled" />
-      <item value="Bộ nhớ android không cần quyền" />
-      <item value="Bộ nhớ android không cần q" />
-      <item value="Bộ nhớ android" />
-      <item value="Bộ nhớ ảnoid" />
-      <item value="Bộ nhớ" />
-      <item value="bô nh" />
-      <item value="bô nhớ" />
-      <item value="bô nhớ ăn" />
-      <item value="bô " />
-      <item value="WAdrenoUtils: &lt;ReadGpuID_from_sysfs:197&gt;: Failed to open sysclasskgslkgsl-3d0gpu_model" />
-      <item value="Manifest merger failed : uses-sdk:minSdkVersion 21 cannot be smaller than version 24 declared in library [com.arthenica:mobile-ffmpeg-full:4.4] C:\Users\nguye\.gradle\caches\transforms-3\67961b82f761824d251f291f97780ad2\transformed\mobile-ffmpeg-full-4.4\AndroidManifest.xml as the library might be using APIs not available in 21" />
+      <item value="VISIBILITY HIDDEN" />
+      <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.kidsonline.teacher.debugvn.omt.kidsonline.teacher.ui.login.LoginActivity}: java.lang.SecurityException: Invalid value for visibility: 2" />
+      <item value="set Requires Charging" />
+      <item value="Tối ưu hóa tải lên video&#10;" />
+      <item value="java.lang.IllegalArgumentException: Invalid file: 1252021-11-03" />
+      <item value="WInputManager-JNI: Input channel object '1abe78d com.kidsonline.teachervn.omt.kidsonline.teacher.ui.album.create.CreateAlbumActivity (client)' was disposed without first being removed with the input manager!" />
       <item value="Dependency" />
       <item value="Could not resolve all dependencies for configuration ':LightCompressor:releaseRuntimeClasspath'." />
       <item value="applied" />
@@ -55,11 +43,23 @@
       <item value="java.io.FileNotFoundException: No content provider: http:www.africau.eduimagesdefaultsample.pdf" />
       <item value="before" />
       <item value="after" />
+      <item value="so sánh" />
+      <item value="so sanhs" />
+      <item value="soa" />
+      <item value="ruy băng" />
+      <item value="ruy" />
+      <item value="duy băn" />
+      <item value="duy bangw" />
+      <item value="duy" />
+      <item value="tv classification" />
+      <item value="vertical" />
+      <item value="Expose" />
+      <item value="initialize" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="838" />
+        <entry key="ENGLISH" value="829" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
@@ -72,12 +72,12 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="839" />
+        <entry key="VIETNAMESE" value="829" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1635856212595" />
+    <option name="lastTrimTime" value="1635907975527" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
