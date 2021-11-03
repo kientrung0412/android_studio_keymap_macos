@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="865" />
+    <option name="newTranslationDialogWidth" value="863" />
     <option name="newTranslationDialogX" value="969" />
     <option name="newTranslationDialogY" value="385" />
     <histories>
+      <item value="Tối ưu hóa tải lên video&#10;" />
       <item value="java.lang.IllegalArgumentException: Invalid file: 1252021-11-03" />
       <item value="WInputManager-JNI: Input channel object '1abe78d com.kidsonline.teachervn.omt.kidsonline.teacher.ui.album.create.CreateAlbumActivity (client)' was disposed without first being removed with the input manager!" />
       <item value="Dependency" />
@@ -54,7 +55,6 @@
       <item value="Sort the array to optimize searching over it later on" />
       <item value="horizontal" />
       <item value="cộng trừ thời gian" />
-      <item value="cộng trừ thời " />
     </histories>
     <option name="languageScores">
       <map>
