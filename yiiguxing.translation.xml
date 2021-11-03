@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="969" />
     <option name="newTranslationDialogY" value="385" />
     <histories>
+      <item value="DISCLAIMER" />
       <item value="VISIBILITY HIDDEN" />
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.kidsonline.teacher.debugvn.omt.kidsonline.teacher.ui.login.LoginActivity}: java.lang.SecurityException: Invalid value for visibility: 2" />
       <item value="set Requires Charging" />
@@ -54,12 +55,11 @@
       <item value="tv classification" />
       <item value="vertical" />
       <item value="Expose" />
-      <item value="initialize" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="829" />
+        <entry key="ENGLISH" value="830" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
@@ -72,7 +72,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="829" />
+        <entry key="VIETNAMESE" value="830" />
       </map>
     </option>
   </component>
