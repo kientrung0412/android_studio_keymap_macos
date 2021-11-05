@@ -1,10 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="863" />
+    <option name="newTranslationDialogWidth" value="861" />
     <option name="newTranslationDialogX" value="969" />
     <option name="newTranslationDialogY" value="385" />
     <histories>
+      <item value="deadline" />
+      <item value="dead" />
+      <item value="thời gian hết hạn" />
+      <item value="thời gian " />
+      <item value="hết hạn" />
       <item value="Exception In Initializer Error" />
       <item value="DISCLAIMER" />
       <item value="VISIBILITY HIDDEN" />
@@ -50,16 +55,11 @@
       <item value="soa" />
       <item value="ruy băng" />
       <item value="ruy" />
-      <item value="duy băn" />
-      <item value="duy bangw" />
-      <item value="duy" />
-      <item value="tv classification" />
-      <item value="vertical" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="831" />
+        <entry key="ENGLISH" value="834" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
@@ -72,7 +72,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="831" />
+        <entry key="VIETNAMESE" value="835" />
       </map>
     </option>
   </component>
