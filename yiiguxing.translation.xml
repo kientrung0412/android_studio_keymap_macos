@@ -1,10 +1,20 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="863" />
+    <option name="newTranslationDialogWidth" value="861" />
     <option name="newTranslationDialogX" value="969" />
     <option name="newTranslationDialogY" value="385" />
     <histories>
+      <item value="season" />
+      <item value="Sesson" />
+      <item value="Caused by: java.lang.SecurityException: Permission Denial: starting Intent { act=android.bluetooth.adapter.action.REQUEST_ENABLE cmp=com.android.settings.bluetooth.RequestPermissionActivity } from ProcessRecord{d7fbd57 28032:com.kidsonline.attendance.debugu0a752} (pid=28032, uid=10752) requires android.permission.BLUETOOTH_CONNECT" />
+      <item value="deadline" />
+      <item value="dead" />
+      <item value="thời gian hết hạn" />
+      <item value="thời gian " />
+      <item value="hết hạn" />
+      <item value="Exception In Initializer Error" />
+      <item value="DISCLAIMER" />
       <item value="VISIBILITY HIDDEN" />
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.kidsonline.teacher.debugvn.omt.kidsonline.teacher.ui.login.LoginActivity}: java.lang.SecurityException: Invalid value for visibility: 2" />
       <item value="set Requires Charging" />
@@ -45,21 +55,11 @@
       <item value="after" />
       <item value="so sánh" />
       <item value="so sanhs" />
-      <item value="soa" />
-      <item value="ruy băng" />
-      <item value="ruy" />
-      <item value="duy băn" />
-      <item value="duy bangw" />
-      <item value="duy" />
-      <item value="tv classification" />
-      <item value="vertical" />
-      <item value="Expose" />
-      <item value="initialize" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="829" />
+        <entry key="ENGLISH" value="837" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
@@ -72,7 +72,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="829" />
+        <entry key="VIETNAMESE" value="838" />
       </map>
     </option>
   </component>
