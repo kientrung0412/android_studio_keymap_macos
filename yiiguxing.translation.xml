@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="969" />
     <option name="newTranslationDialogY" value="385" />
     <histories>
+      <item value="fatal: could not read Username for 'https:git.omt.vn': No such file or directory" />
       <item value="Justify Text View" />
       <item value="season" />
       <item value="Sesson" />
@@ -54,12 +55,11 @@
       <item value="java.io.FileNotFoundException: No content provider: http:www.africau.eduimagesdefaultsample.pdf" />
       <item value="before" />
       <item value="after" />
-      <item value="so sánh" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="839" />
+        <entry key="ENGLISH" value="840" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
@@ -72,7 +72,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="839" />
+        <entry key="VIETNAMESE" value="840" />
       </map>
     </option>
   </component>
