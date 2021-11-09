@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="855" />
+    <option name="newTranslationDialogWidth" value="853" />
     <option name="newTranslationDialogX" value="969" />
     <option name="newTranslationDialogY" value="385" />
     <histories>
+      <item value="tháng" />
+      <item value="Enter your reason here" />
+      <item value="Reason for absence" />
+      <item value="Do you have any message to send to the teacher of class" />
       <item value="tỉ lệ" />
       <item value="ti" />
       <item value="t" />
@@ -51,15 +55,11 @@
       <item value="system file picker when it loads" />
       <item value="Instead of performing asynchronous work inside a call to setState(), first execute the work (without updating the widget state), and then synchronously update the state inside a call to setState()." />
       <item value="The setState() method on _PdfViewWidgetState5992b was called with a closure or method that returned a Future. Maybe it is marked as &quot;async&quot;." />
-      <item value="ĐÁNH GIÁ" />
-      <item value="ĐÁNH " />
-      <item value="DDABG" />
-      <item value="EVALUAGAT" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="842" />
+        <entry key="ENGLISH" value="846" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
@@ -72,7 +72,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="843" />
+        <entry key="VIETNAMESE" value="847" />
       </map>
     </option>
   </component>
