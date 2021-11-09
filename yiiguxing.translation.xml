@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="853" />
+    <option name="newTranslationDialogWidth" value="851" />
     <option name="newTranslationDialogX" value="969" />
     <option name="newTranslationDialogY" value="385" />
     <histories>
+      <item value="application_for_long_leave" />
+      <item value="application for long leave" />
+      <item value="đơn xin nghỉ dài ngày" />
       <item value="tháng" />
       <item value="Enter your reason here" />
       <item value="Reason for absence" />
@@ -52,14 +55,11 @@
       <item value="Dhw-ProcessState: Binder ioctl to enable oneway spam detection failed: Invalid argument" />
       <item value="Recycle" />
       <item value="Optionally, specify a URI for the file that should appear in the" />
-      <item value="system file picker when it loads" />
-      <item value="Instead of performing asynchronous work inside a call to setState(), first execute the work (without updating the widget state), and then synchronously update the state inside a call to setState()." />
-      <item value="The setState() method on _PdfViewWidgetState5992b was called with a closure or method that returned a Future. Maybe it is marked as &quot;async&quot;." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="846" />
+        <entry key="ENGLISH" value="847" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
@@ -72,7 +72,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="847" />
+        <entry key="VIETNAMESE" value="849" />
       </map>
     </option>
   </component>
