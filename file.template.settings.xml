@@ -1,0 +1,12 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="MVP.java" reformat="true" live-template-enabled="false">
+        <template name="MVP.java.child.0.java" reformat="true" live-template-enabled="true" />
+        <template name="MVP.java.child.1.java" reformat="true" live-template-enabled="true" />
+      </template>
+      <template name="MVP.java.child.0.java" reformat="true" live-template-enabled="true" />
+      <template name="MVP.java.child.1.java" reformat="true" live-template-enabled="true" />
+    </default_templates>
+  </component>
+</application>
