@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="969" />
     <option name="newTranslationDialogY" value="385" />
     <histories>
+      <item value="Element PreferenceCategory is not allowed here" />
       <item value="quốc tế&#10;" />
       <item value="quốc &#10;" />
       <item value="internition&#10;" />
@@ -54,7 +55,6 @@
       <item value="deadline" />
       <item value="dead" />
       <item value="thời gian hết hạn" />
-      <item value="thời gian " />
     </histories>
     <option name="languageScores">
       <map>
@@ -72,7 +72,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="873" />
+        <entry key="VIETNAMESE" value="874" />
       </map>
     </option>
   </component>
