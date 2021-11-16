@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="969" />
     <option name="newTranslationDialogY" value="385" />
     <histories>
+      <item value="java.lang.IllegalStateException: MenuPopupHelper cannot be used without an anchor" />
+      <item value="Restricted Api" />
       <item value="yellow" />
       <item value="No virtual method setupDownload" />
       <item value="release" />
@@ -53,13 +55,11 @@
       <item value="t" />
       <item value="Curriculumn" />
       <item value="months" />
-      <item value="Error message: This template did not produce a Java class or an interface&#10;" />
-      <item value="Error message: This template did not produce a Java class or an interface" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="880" />
+        <entry key="ENGLISH" value="883" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
@@ -72,7 +72,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="880" />
+        <entry key="VIETNAMESE" value="883" />
       </map>
     </option>
   </component>
