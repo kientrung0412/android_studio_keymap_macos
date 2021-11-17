@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="969" />
     <option name="newTranslationDialogY" value="385" />
     <histories>
+      <item value="MenuPopupHelper can only be called from within the same library group prefix (referenced groupId=androidx" />
       <item value="commit Allowing State Loss" />
       <item value="return homework id" />
       <item value="mark homework id" />
@@ -54,7 +55,6 @@
       <item value="Reason for absence" />
       <item value="Do you have any message to send to the teacher of class" />
       <item value="tỉ lệ" />
-      <item value="ti" />
     </histories>
     <option name="languageScores">
       <map>
@@ -72,7 +72,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="887" />
+        <entry key="VIETNAMESE" value="888" />
       </map>
     </option>
   </component>
