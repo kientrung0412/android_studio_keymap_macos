@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="969" />
     <option name="newTranslationDialogY" value="385" />
     <histories>
+      <item value="The application could not be installed: INSTALL_PARSE_FAILED_NO_CERTIFICATES" />
       <item value="MenuPopupHelper can only be called from within the same library group prefix (referenced groupId=androidx" />
       <item value="commit Allowing State Loss" />
       <item value="return homework id" />
@@ -54,12 +55,11 @@
       <item value="Enter your reason here" />
       <item value="Reason for absence" />
       <item value="Do you have any message to send to the teacher of class" />
-      <item value="tỉ lệ" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="887" />
+        <entry key="ENGLISH" value="888" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
