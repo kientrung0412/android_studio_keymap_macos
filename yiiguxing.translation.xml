@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="969" />
     <option name="newTranslationDialogY" value="385" />
     <histories>
+      <item value="Eaudio_hw_utils: audio_extn_utils_send_app_type_cfg: Failed to derive app_type for uc type : 0x1" />
       <item value="Network On Main Thread Exception" />
       <item value="lucky" />
       <item value="transporterPosts" />
@@ -54,12 +55,11 @@
       <item value="Unable to determine application id: com.android.tools.idea.run.ApkProvisionException: Couldn't get post build model. Module: android-parent-v4.app Variant: debug" />
       <item value="Element PreferenceCategory is not allowed here" />
       <item value="quốc tế&#10;" />
-      <item value="quốc &#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="919" />
+        <entry key="ENGLISH" value="920" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
