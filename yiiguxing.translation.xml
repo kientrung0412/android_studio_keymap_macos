@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="969" />
     <option name="newTranslationDialogY" value="385" />
     <histories>
+      <item value="So, because comanager depends on flutter_html ^1.3.0, version solving failed." />
       <item value="if Present" />
       <item value="GENERAL ERROR" />
       <item value="Eaudio_hw_utils: audio_extn_utils_send_app_type_cfg: Failed to derive app_type for uc type : 0x1" />
@@ -54,12 +55,11 @@
       <item value="set Allowed Over Metered" />
       <item value="peek Service" />
       <item value="orientation" />
-      <item value="Unable to determine application id: com.android.tools.idea.run.ApkProvisionException: Couldn't get post build model. Module: android-parent-v4.app Variant: debug" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="922" />
+        <entry key="ENGLISH" value="923" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
@@ -72,7 +72,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="922" />
+        <entry key="VIETNAMESE" value="923" />
       </map>
     </option>
   </component>
