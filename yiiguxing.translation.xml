@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="969" />
     <option name="newTranslationDialogY" value="385" />
     <histories>
+      <item value="`Future` results in `async` function bodies must be `await`ed or marked `unawaited` using `package:pedantic`.&#10;&#10;&#10;&#10;&#10;" />
+      <item value="`Future` results in `async` function bodies must be `await`ed or marked `unawaited` using `package:pedantic`." />
       <item value="So, because comanager depends on flutter_html ^1.3.0, version solving failed." />
       <item value="if Present" />
       <item value="GENERAL ERROR" />
@@ -53,8 +55,6 @@
       <item value="release" />
       <item value="set Allowed Over Roaming" />
       <item value="set Allowed Over Metered" />
-      <item value="peek Service" />
-      <item value="orientation" />
     </histories>
     <option name="languageScores">
       <map>
@@ -72,7 +72,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="923" />
+        <entry key="VIETNAMESE" value="924" />
       </map>
     </option>
   </component>
