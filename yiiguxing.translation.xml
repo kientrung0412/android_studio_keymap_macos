@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="969" />
     <option name="newTranslationDialogY" value="385" />
     <histories>
+      <item value="on Forever Denied" />
+      <item value="on Denied" />
       <item value="&gt; Using insecure protocols with repositories, without explicit opt-in, is unsupported. Switch Maven repository 'maven(http:dl.bintray.comfotoapparatfotoapparat)' to redirect to a secure protocol (like HTTPS) or allow insecure protocols. See https:docs.gradle.org7.3dslorg.gradle.api.artifacts.repositories.UrlArtifactRepository.htmlorg.gradle.api.artifacts.repositories.UrlArtifactRepository:allowInsecureProtocol for more details." />
       <item value="`Future` results in `async` function bodies must be `await`ed or marked `unawaited` using `package:pedantic`.&#10;&#10;&#10;&#10;&#10;" />
       <item value="`Future` results in `async` function bodies must be `await`ed or marked `unawaited` using `package:pedantic`." />
@@ -53,13 +55,11 @@
       <item value="Restricted Api" />
       <item value="yellow" />
       <item value="No virtual method setupDownload" />
-      <item value="release" />
-      <item value="set Allowed Over Roaming" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="924" />
+        <entry key="ENGLISH" value="926" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
@@ -72,7 +72,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="924" />
+        <entry key="VIETNAMESE" value="926" />
       </map>
     </option>
   </component>
