@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="969" />
     <option name="newTranslationDialogY" value="385" />
     <histories>
+      <item value="reverse Layout" />
       <item value="Variable 'output' might not have been initialized" />
       <item value="here you can set your TIMEOUT solution" />
       <item value="Value of COLUMN_REASON when an error receiving or processing data occurred at the HTTP level." />
@@ -54,12 +55,11 @@
       <item value="commit Allowing State Loss" />
       <item value="return homework id" />
       <item value="mark homework id" />
-      <item value="java.lang.IllegalStateException: MenuPopupHelper cannot be used without an anchor" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="929" />
+        <entry key="ENGLISH" value="930" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
