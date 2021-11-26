@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="969" />
     <option name="newTranslationDialogY" value="385" />
     <histories>
+      <item value="D:\OMT\CO\co_manager\android\app\src\main\AndroidManifest.xml:10:5-15:15: AAPT: error: unexpected element &lt;queries&gt; found in &lt;manifest&gt;." />
       <item value=" --verbose if you want more information&#10;" />
       <item value="Eflutter (14295): [ERROR:flutterlibuiui_dart_state.cc(177)] Unhandled Exception: MissingPluginException(No implementation found for method canLaunch on channel plugins.flutter.iourl_launcher)" />
       <item value="quốc tế&#10;" />
@@ -54,12 +55,11 @@
       <item value="data Manager" />
       <item value="allow Similarity" />
       <item value="Found" />
-      <item value="student Founds" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="938" />
+        <entry key="ENGLISH" value="939" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
