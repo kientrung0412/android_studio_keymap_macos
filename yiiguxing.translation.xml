@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="969" />
     <option name="newTranslationDialogY" value="385" />
     <histories>
+      <item value=" --verbose if you want more information&#10;" />
       <item value="Eflutter (14295): [ERROR:flutterlibuiui_dart_state.cc(177)] Unhandled Exception: MissingPluginException(No implementation found for method canLaunch on channel plugins.flutter.iourl_launcher)" />
       <item value="quốc tế&#10;" />
       <item value="quốc tế" />
@@ -54,7 +55,6 @@
       <item value="allow Similarity" />
       <item value="Found" />
       <item value="student Founds" />
-      <item value="@param append True to append, false otherwise." />
     </histories>
     <option name="languageScores">
       <map>
@@ -72,7 +72,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="938" />
+        <entry key="VIETNAMESE" value="939" />
       </map>
     </option>
   </component>
