@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="969" />
     <option name="newTranslationDialogY" value="385" />
     <histories>
+      <item value="foreground" />
       <item value="Caused by: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean io.realm.RealmList.addAll(java.util.Collection)' on a null object reference" />
       <item value="Repository" />
       <item value="Grid Spacing Item Decoration" />
@@ -54,12 +55,11 @@
       <item value="the {@code Collector} describing the reduction" />
       <item value="Global&#10;" />
       <item value="is Face Match Acceptable" />
-      <item value="face Image Matches" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="942" />
+        <entry key="ENGLISH" value="943" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
@@ -72,12 +72,12 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="942" />
+        <entry key="VIETNAMESE" value="943" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1637550009603" />
+    <option name="lastTrimTime" value="1638333268989" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
