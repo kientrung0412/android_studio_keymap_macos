@@ -36,6 +36,18 @@
         <target value="Android 12.0" />
         <api value="31" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="08726eca0407" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2021-11-23T07:40:01.124257800Z" />
+        <name value="Xiaomi M2003J15SC" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
