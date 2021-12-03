@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="969" />
     <option name="newTranslationDialogY" value="385" />
     <histories>
+      <item value="reverse Layout" />
       <item value="Invalid constant value." />
       <item value="is Parallel" />
       <item value="update-students-attendance-appearance" />
@@ -32,7 +33,6 @@
       <item value="Caused by: java.lang.RuntimeException: com.android.build.gradle.internal.crash.ExternalApiUsageException: groovy.lang.MissingPropertyException: No such property: scope for class: com.android.build.gradle.internal.variant.ApplicationVariantData" />
       <item value="Note: Version 10.8.1 of Realm is now available: https:static.realm.iodownloadsjavalatest" />
       <item value="HORIZONTAL" />
-      <item value="reverse Layout" />
       <item value="VERTICAL" />
       <item value="Variable 'output' might not have been initialized" />
       <item value="here you can set your TIMEOUT solution" />
@@ -72,7 +72,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="955" />
+        <entry key="VIETNAMESE" value="956" />
       </map>
     </option>
   </component>
