@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="969" />
     <option name="newTranslationDialogY" value="385" />
     <histories>
+      <item value="WSystem.err: Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetching data failed, class java.io.InputStream, REMOTE" />
+      <item value="GlideExceptionlogRootCauses(String) for more detail" />
+      <item value="decodeDrmImageIfNeeded stream caught ClassCastException" />
+      <item value="There was 1 root cause:" />
       <item value="reverse Layout" />
       <item value="Invalid constant value." />
       <item value="is Parallel" />
@@ -51,15 +55,11 @@
       <item value="transporterPosts" />
       <item value="allow Number Of Identity" />
       <item value="use face attendance leave" />
-      <item value="transporter" />
-      <item value="get Similarity" />
-      <item value="tranposter" />
-      <item value="tranpos" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="954" />
+        <entry key="ENGLISH" value="958" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="4" />
@@ -72,7 +72,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="956" />
+        <entry key="VIETNAMESE" value="958" />
       </map>
     </option>
   </component>
