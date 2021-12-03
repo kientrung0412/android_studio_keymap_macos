@@ -55,10 +55,21 @@
             <value value="adb-8ABX0PUWK-RT1xoG._adb-tls-connect._tcp" />
           </Key>
         </key>
-        <lastOnlineTime value="2021-12-03T08:32:56.891057400Z" />
         <name value="Google Pixel 3" />
         <target value="Android 12.0" />
         <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="BAB00116311" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2021-12-03T08:52:27.437441700Z" />
+        <name value="vsmart Active 3" />
+        <target value="Android 10.0" />
+        <api value="29" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
