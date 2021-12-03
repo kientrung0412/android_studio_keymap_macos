@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="969" />
     <option name="newTranslationDialogY" value="385" />
     <histories>
+      <item value="Invalid constant value." />
       <item value="is Parallel" />
       <item value="update-students-attendance-appearance" />
       <item value="Unsupported Operation Exception" />
@@ -54,7 +55,6 @@
       <item value="get Similarity" />
       <item value="tranposter" />
       <item value="tranpos" />
-      <item value="tran" />
     </histories>
     <option name="languageScores">
       <map>
@@ -72,7 +72,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="3" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="954" />
+        <entry key="VIETNAMESE" value="955" />
       </map>
     </option>
   </component>
