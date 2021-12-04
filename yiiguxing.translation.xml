@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="969" />
     <option name="newTranslationDialogY" value="385" />
     <histories>
+      <item value="DEventBus: No subscribers registered for event class vn.omt.kidsonline.parent.data.EventsOnClassClicked" />
       <item value="Ambiente Light" />
       <item value="WSystem.err: Cause (1 of 1): class com.bumptech.glide.load.HttpException: Not Found" />
       <item value="WSystem.err: Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetching data failed, class java.io.InputStream, REMOTE" />
@@ -54,12 +55,11 @@
       <item value="Eaudio_hw_utils: audio_extn_utils_send_app_type_cfg: Failed to derive app_type for uc type : 0x1" />
       <item value="Network On Main Thread Exception" />
       <item value="lucky" />
-      <item value="transporterPosts" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="959" />
+        <entry key="ENGLISH" value="960" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="4" />
