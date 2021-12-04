@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="969" />
     <option name="newTranslationDialogY" value="385" />
     <histories>
+      <item value="Ambiente Light" />
+      <item value="WSystem.err: Cause (1 of 1): class com.bumptech.glide.load.HttpException: Not Found" />
       <item value="WSystem.err: Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetching data failed, class java.io.InputStream, REMOTE" />
       <item value="GlideExceptionlogRootCauses(String) for more detail" />
       <item value="decodeDrmImageIfNeeded stream caught ClassCastException" />
@@ -53,13 +55,11 @@
       <item value="Network On Main Thread Exception" />
       <item value="lucky" />
       <item value="transporterPosts" />
-      <item value="allow Number Of Identity" />
-      <item value="use face attendance leave" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="958" />
+        <entry key="ENGLISH" value="959" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="4" />
@@ -70,9 +70,9 @@
         <entry key="ROMANIAN" value="3" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="SCOTS_GAELIC" value="1" />
-        <entry key="SPANISH" value="3" />
+        <entry key="SPANISH" value="4" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="958" />
+        <entry key="VIETNAMESE" value="960" />
       </map>
     </option>
   </component>
