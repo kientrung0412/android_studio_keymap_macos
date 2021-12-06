@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="970" />
     <option name="newTranslationDialogY" value="386" />
     <histories>
+      <item value="on Page Finished" />
+      <item value="on Page Started" />
+      <item value="on View Created" />
+      <item value="on Create View" />
       <item value="java.lang.NoSuchFieldError: No static field wv_content of type I in class LcomomtreviewmoduleRid; or its superclasses (declaration of 'com.omt.reviewmodule.Rid' appears in dataapp~~rwsdupfrme-ML2AeMQZjeA==codepro.kidsonline.debug-v2wIRHP3mwpP47Koo8SCyw==base.apk!classes22.dex)" />
       <item value="câu hỏi" />
       <item value="cầu" />
@@ -51,15 +55,11 @@
       <item value="HORIZONTAL" />
       <item value="VERTICAL" />
       <item value="Variable 'output' might not have been initialized" />
-      <item value="here you can set your TIMEOUT solution" />
-      <item value="Value of COLUMN_REASON when an error receiving or processing data occurred at the HTTP level." />
-      <item value="on Forever Denied" />
-      <item value="on Denied" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="966" />
+        <entry key="ENGLISH" value="970" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
@@ -72,7 +72,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="4" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="966" />
+        <entry key="VIETNAMESE" value="970" />
       </map>
     </option>
   </component>
