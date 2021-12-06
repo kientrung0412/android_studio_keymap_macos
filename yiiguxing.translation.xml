@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="969" />
     <option name="newTranslationDialogY" value="385" />
     <histories>
+      <item value="add Item Decoration" />
       <item value="Unable to determine application id: com.android.tools.idea.run.ApkProvisionException: Couldn't get post build model. Module: KO_Attendance.app Variant: debug" />
       <item value="DEventBus: No subscribers registered for event class vn.omt.kidsonline.parent.data.EventsOnClassClicked" />
       <item value="Ambiente Light" />
@@ -54,12 +55,11 @@
       <item value="if Present" />
       <item value="GENERAL ERROR" />
       <item value="Eaudio_hw_utils: audio_extn_utils_send_app_type_cfg: Failed to derive app_type for uc type : 0x1" />
-      <item value="Network On Main Thread Exception" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="961" />
+        <entry key="ENGLISH" value="962" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="4" />
@@ -72,7 +72,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="4" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="961" />
+        <entry key="VIETNAMESE" value="962" />
       </map>
     </option>
   </component>
