@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="833" />
+    <option name="newTranslationDialogWidth" value="831" />
     <option name="newTranslationDialogX" value="970" />
     <option name="newTranslationDialogY" value="386" />
     <histories>
+      <item value="câu hỏi" />
+      <item value="cầu" />
       <item value="guardian" />
       <item value="changer" />
       <item value="góp ý ứng dụng&#10;&#10;" />
@@ -53,13 +55,11 @@
       <item value="on Forever Denied" />
       <item value="on Denied" />
       <item value="&gt; Using insecure protocols with repositories, without explicit opt-in, is unsupported. Switch Maven repository 'maven(http:dl.bintray.comfotoapparatfotoapparat)' to redirect to a secure protocol (like HTTPS) or allow insecure protocols. See https:docs.gradle.org7.3dslorg.gradle.api.artifacts.repositories.UrlArtifactRepository.htmlorg.gradle.api.artifacts.repositories.UrlArtifactRepository:allowInsecureProtocol for more details." />
-      <item value="`Future` results in `async` function bodies must be `await`ed or marked `unawaited` using `package:pedantic`.&#10;&#10;&#10;&#10;&#10;" />
-      <item value="`Future` results in `async` function bodies must be `await`ed or marked `unawaited` using `package:pedantic`." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="963" />
+        <entry key="ENGLISH" value="965" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
@@ -72,7 +72,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="4" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="963" />
+        <entry key="VIETNAMESE" value="965" />
       </map>
     </option>
   </component>
