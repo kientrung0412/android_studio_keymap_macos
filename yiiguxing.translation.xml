@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="837" />
-    <option name="newTranslationDialogX" value="969" />
-    <option name="newTranslationDialogY" value="385" />
+    <option name="newTranslationDialogWidth" value="833" />
+    <option name="newTranslationDialogX" value="970" />
+    <option name="newTranslationDialogY" value="386" />
     <histories>
+      <item value="góp ý ứng dụng&#10;&#10;" />
+      <item value="góp ý ứng dụng&#10;" />
       <item value="add Item Decoration" />
       <item value="Unable to determine application id: com.android.tools.idea.run.ApkProvisionException: Couldn't get post build model. Module: KO_Attendance.app Variant: debug" />
       <item value="DEventBus: No subscribers registered for event class vn.omt.kidsonline.parent.data.EventsOnClassClicked" />
@@ -53,8 +55,6 @@
       <item value="`Future` results in `async` function bodies must be `await`ed or marked `unawaited` using `package:pedantic`." />
       <item value="So, because comanager depends on flutter_html ^1.3.0, version solving failed." />
       <item value="if Present" />
-      <item value="GENERAL ERROR" />
-      <item value="Eaudio_hw_utils: audio_extn_utils_send_app_type_cfg: Failed to derive app_type for uc type : 0x1" />
     </histories>
     <option name="languageScores">
       <map>
