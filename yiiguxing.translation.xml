@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="970" />
     <option name="newTranslationDialogY" value="386" />
     <histories>
+      <item value="java.lang.NoSuchFieldError: No static field wv_content of type I in class LcomomtreviewmoduleRid; or its superclasses (declaration of 'com.omt.reviewmodule.Rid' appears in dataapp~~rwsdupfrme-ML2AeMQZjeA==codepro.kidsonline.debug-v2wIRHP3mwpP47Koo8SCyw==base.apk!classes22.dex)" />
       <item value="câu hỏi" />
       <item value="cầu" />
       <item value="guardian" />
@@ -54,12 +55,11 @@
       <item value="Value of COLUMN_REASON when an error receiving or processing data occurred at the HTTP level." />
       <item value="on Forever Denied" />
       <item value="on Denied" />
-      <item value="&gt; Using insecure protocols with repositories, without explicit opt-in, is unsupported. Switch Maven repository 'maven(http:dl.bintray.comfotoapparatfotoapparat)' to redirect to a secure protocol (like HTTPS) or allow insecure protocols. See https:docs.gradle.org7.3dslorg.gradle.api.artifacts.repositories.UrlArtifactRepository.htmlorg.gradle.api.artifacts.repositories.UrlArtifactRepository:allowInsecureProtocol for more details." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="965" />
+        <entry key="ENGLISH" value="966" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
@@ -72,7 +72,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="4" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="965" />
+        <entry key="VIETNAMESE" value="966" />
       </map>
     </option>
   </component>
