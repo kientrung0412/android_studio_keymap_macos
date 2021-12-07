@@ -67,7 +67,6 @@
     <variable name="i" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="data" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="checkPermission" value="private boolean checkPermission(String[] permissions, boolean request) {&#10;        if (Build.VERSION.SDK_INT &gt;= Build.VERSION_CODES.M) {&#10;            for (String p : permissions){&#10;                if (checkSelfPermission(p) != PackageManager.PERMISSION_GRANTED) {&#10;                    if (request) {&#10;                        requestPermissions(permissions, 0);&#10;                    }&#10;                    return false;&#10;                }&#10;            }&#10;        }&#10;        return true;&#10;    }" description="Check permission" toReformat="false" toShortenFQNames="true">
     <context>
