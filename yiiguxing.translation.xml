@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="970" />
     <option name="newTranslationDialogY" value="386" />
     <histories>
+      <item value="layout marginvertical" />
       <item value="Missing Default Resource" />
       <item value="on Page Finished" />
       <item value="on Page Started" />
@@ -54,12 +55,11 @@
       <item value="Caused by: java.lang.RuntimeException: com.android.build.gradle.internal.crash.ExternalApiUsageException: groovy.lang.MissingPropertyException: No such property: scope for class: com.android.build.gradle.internal.variant.ApplicationVariantData" />
       <item value="Note: Version 10.8.1 of Realm is now available: https:static.realm.iodownloadsjavalatest" />
       <item value="HORIZONTAL" />
-      <item value="VERTICAL" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="971" />
+        <entry key="ENGLISH" value="972" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
@@ -72,7 +72,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="4" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="971" />
+        <entry key="VIETNAMESE" value="972" />
       </map>
     </option>
   </component>
