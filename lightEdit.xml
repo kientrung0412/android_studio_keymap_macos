@@ -1,5 +1,11 @@
 <application>
   <component name="LightEdit">
+    <option name="sessionFiles">
+      <list>
+        <option value="file://E:/MAc_OS/EFI_i5_9400/EFI/OC/config.plist" />
+        <option value="file://E:/config.plist" />
+      </list>
+    </option>
     <option name="supportedFilePatterns">
       <list>
         <option value="*.conf" />
@@ -12,6 +18,9 @@
         <option value="*.xml" />
         <option value="*.yml" />
       </list>
+    </option>
+    <option name="frameInfo">
+      <frame x="2178" y="-23" width="1400" height="992" extendedState="6" />
     </option>
   </component>
 </application>
