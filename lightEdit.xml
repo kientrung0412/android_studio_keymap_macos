@@ -4,6 +4,7 @@
       <list>
         <option value="file://E:/MAc_OS/EFI_i5_9400/EFI/OC/config.plist" />
         <option value="file://E:/OpenCore-0.7.6-DEBUG/Docs/Sample.plist" />
+        <option value="file://F:/EFI/OC/config.plist" />
       </list>
     </option>
     <option name="supportedFilePatterns">
@@ -20,7 +21,7 @@
       </list>
     </option>
     <option name="frameInfo">
-      <frame x="237" y="-17" width="1400" height="992" extendedState="6" />
+      <frame x="-8" y="-8" width="1936" height="1048" extendedState="6" />
     </option>
   </component>
 </application>
