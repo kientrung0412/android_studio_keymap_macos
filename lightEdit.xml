@@ -2,7 +2,8 @@
   <component name="LightEdit">
     <option name="sessionFiles">
       <list>
-        <option value="file://F:/EFI/OC/config.plist" />
+        <option value="file://E:/MAc_OS/EFI_i5_9400/EFI/OC/config.plist" />
+        <option value="file://E:/OpenCore-0.7.6-DEBUG/Docs/Sample.plist" />
       </list>
     </option>
     <option name="supportedFilePatterns">
@@ -19,7 +20,7 @@
       </list>
     </option>
     <option name="frameInfo">
-      <frame x="-301" y="209" width="1400" height="992" />
+      <frame x="237" y="-17" width="1400" height="992" extendedState="6" />
     </option>
   </component>
 </application>
