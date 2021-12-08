@@ -2,9 +2,6 @@
   <component name="LightEdit">
     <option name="sessionFiles">
       <list>
-        <option value="file://E:/MAc_OS/EFI_i5_9400/EFI/OC/config.plist" />
-        <option value="file://E:/config.plist" />
-        <option value="file://E:/EFI-20211207T102235Z-001/EFI/OC/config.plist" />
         <option value="file://F:/EFI/OC/config.plist" />
       </list>
     </option>
@@ -22,7 +19,7 @@
       </list>
     </option>
     <option name="frameInfo">
-      <frame x="172" y="47" width="1400" height="992" />
+      <frame x="-301" y="209" width="1400" height="992" />
     </option>
   </component>
 </application>
