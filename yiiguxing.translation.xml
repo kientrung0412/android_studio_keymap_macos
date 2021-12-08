@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="970" />
     <option name="newTranslationDialogY" value="386" />
     <histories>
+      <item value="Should pass resolved color instead of resource id here: getResources().getColor(R.color" />
       <item value="January" />
       <item value="java.lang.NullPointerException: Attempt to invoke virtual method 'void android.widget.TextView.setText(java.lang.CharSequence)' on a null object reference" />
       <item value="layout marginvertical" />
@@ -54,7 +55,6 @@
       <item value="quốc tế&#10;" />
       <item value="quốc tế" />
       <item value="Class &quot;Media&quot; must declare a public constructor with no arguments if it contains custom constructors" />
-      <item value="Caused by: java.lang.RuntimeException: com.android.build.gradle.internal.crash.ExternalApiUsageException: groovy.lang.MissingPropertyException: No such property: scope for class: com.android.build.gradle.internal.variant.ApplicationVariantData" />
     </histories>
     <option name="languageScores">
       <map>
@@ -72,7 +72,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="4" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="974" />
+        <entry key="VIETNAMESE" value="975" />
       </map>
     </option>
   </component>
