@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="970" />
     <option name="newTranslationDialogY" value="386" />
     <histories>
+      <item value="'addAll()' called on collection 'faceIdentities' with itself as argument " />
       <item value="Sbn doesn't contain valid PeopleTileKey: null0com.android.providers.downloads" />
       <item value="if Present" />
       <item value="parallel" />
@@ -54,7 +55,6 @@
       <item value="Grid Spacing Item Decoration" />
       <item value="D:\OMT\CO\co_manager\android\app\src\main\AndroidManifest.xml:10:5-15:15: AAPT: error: unexpected element &lt;queries&gt; found in &lt;manifest&gt;." />
       <item value=" --verbose if you want more information&#10;" />
-      <item value="Eflutter (14295): [ERROR:flutterlibuiui_dart_state.cc(177)] Unhandled Exception: MissingPluginException(No implementation found for method canLaunch on channel plugins.flutter.iourl_launcher)" />
     </histories>
     <option name="languageScores">
       <map>
@@ -72,7 +72,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="4" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="977" />
+        <entry key="VIETNAMESE" value="978" />
       </map>
     </option>
   </component>
