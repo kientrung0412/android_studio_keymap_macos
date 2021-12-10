@@ -4,7 +4,8 @@
       <list>
         <option value="file://E:/MAc_OS/EFI_i5_9400/EFI/OC/config.plist" />
         <option value="file://E:/OpenCore-0.7.6-DEBUG/Docs/Sample.plist" />
-        <option value="file://F:/EFI/OC/config.plist" />
+        <option value="file://E:/EFI-20211207T102235Z-001/EFI/OC/config.plist" />
+        <option value="file://G:/EFI/OC/config.plist" />
       </list>
     </option>
     <option name="supportedFilePatterns">
