@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="829" />
+    <option name="newTranslationDialogWidth" value="827" />
     <option name="newTranslationDialogX" value="970" />
     <option name="newTranslationDialogY" value="386" />
     <histories>
+      <item value="điểm danh bởi" />
+      <item value=" điểm danh bởi" />
+      <item value=" được điểm danh bởi" />
+      <item value="đã được điểm danh bởi" />
       <item value="đồng hồ" />
       <item value="đồn" />
       <item value="delete From Realm" />
@@ -51,15 +55,11 @@
       <item value="java.lang.IllegalArgumentException: @Part parameters can only be used with multipart encoding. (parameter 1)" />
       <item value="thành công" />
       <item value="thành c" />
-      <item value="thành cồn" />
-      <item value="Cannot resolve method" />
-      <item value="foreground" />
-      <item value="Caused by: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean io.realm.RealmList.addAll(java.util.Collection)' on a null object reference" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="980" />
+        <entry key="ENGLISH" value="981" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
@@ -72,7 +72,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="4" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="980" />
+        <entry key="VIETNAMESE" value="981" />
       </map>
     </option>
   </component>
