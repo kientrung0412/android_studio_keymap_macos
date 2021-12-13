@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="831" />
+    <option name="newTranslationDialogWidth" value="829" />
     <option name="newTranslationDialogX" value="970" />
     <option name="newTranslationDialogY" value="386" />
     <histories>
+      <item value="đồng hồ" />
+      <item value="đồn" />
       <item value="delete From Realm" />
       <item value="tv classification" />
       <item value="'addAll()' called on collection 'faceIdentities' with itself as argument " />
@@ -53,13 +55,11 @@
       <item value="Cannot resolve method" />
       <item value="foreground" />
       <item value="Caused by: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean io.realm.RealmList.addAll(java.util.Collection)' on a null object reference" />
-      <item value="Repository" />
-      <item value="Grid Spacing Item Decoration" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="979" />
+        <entry key="ENGLISH" value="980" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
@@ -72,12 +72,12 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="4" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="979" />
+        <entry key="VIETNAMESE" value="980" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1638765359633" />
+    <option name="lastTrimTime" value="1639370488203" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
