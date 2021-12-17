@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="825" />
+    <option name="newTranslationDialogWidth" value="823" />
     <option name="newTranslationDialogX" value="970" />
     <option name="newTranslationDialogY" value="386" />
     <histories>
+      <item value="A function body must be provided" />
       <item value="set Is Feature Image" />
       <item value="Try adding a function body." />
       <item value="A function body must be provided." />
@@ -54,12 +55,11 @@
       <item value="WSystem.err: Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetching data failed, class java.io.InputStream, REMOTE" />
       <item value="GlideExceptionlogRootCauses(String) for more detail" />
       <item value="decodeDrmImageIfNeeded stream caught ClassCastException" />
-      <item value="There was 1 root cause:" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="991" />
+        <entry key="ENGLISH" value="992" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
@@ -72,7 +72,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="4" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="993" />
+        <entry key="VIETNAMESE" value="995" />
       </map>
     </option>
   </component>
