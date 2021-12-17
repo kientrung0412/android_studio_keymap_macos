@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="827" />
+    <option name="newTranslationDialogWidth" value="825" />
     <option name="newTranslationDialogX" value="970" />
     <option name="newTranslationDialogY" value="386" />
     <histories>
+      <item value="Attendance Leave" />
+      <item value="AttendanceLeave" />
       <item value="&lt;!-- Defines the drawable to draw over the content. This can be used as an overlay. The foreground drawable participates in the padding of the content if the gravity is set to fill. --&gt;" />
       <item value="padding Horizontal" />
       <item value="observe" />
@@ -53,13 +55,11 @@
       <item value="reverse Layout" />
       <item value="Invalid constant value." />
       <item value="is Parallel" />
-      <item value="update-students-attendance-appearance" />
-      <item value="Unsupported Operation Exception" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="989" />
+        <entry key="ENGLISH" value="990" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
@@ -72,7 +72,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="4" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="989" />
+        <entry key="VIETNAMESE" value="991" />
       </map>
     </option>
   </component>
