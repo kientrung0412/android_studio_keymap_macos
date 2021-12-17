@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="970" />
     <option name="newTranslationDialogY" value="386" />
     <histories>
+      <item value="Too many positional arguments: 1 allowed, but 2 found. Try removing the extra positional arguments." />
+      <item value="Eflutter (13408): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: MissingPluginException(No implementation found for method MessagingrequestPermission on channel plugins.flutter.iofirebase_messaging)" />
       <item value="A function body must be provided" />
       <item value="set Is Feature Image" />
       <item value="Try adding a function body." />
@@ -53,13 +55,11 @@
       <item value="Ambiente Light" />
       <item value="WSystem.err: Cause (1 of 1): class com.bumptech.glide.load.HttpException: Not Found" />
       <item value="WSystem.err: Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetching data failed, class java.io.InputStream, REMOTE" />
-      <item value="GlideExceptionlogRootCauses(String) for more detail" />
-      <item value="decodeDrmImageIfNeeded stream caught ClassCastException" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="992" />
+        <entry key="ENGLISH" value="994" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
