@@ -1,10 +1,38 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="831" />
+    <option name="newTranslationDialogWidth" value="823" />
     <option name="newTranslationDialogX" value="970" />
     <option name="newTranslationDialogY" value="386" />
     <histories>
+      <item value="enabled Mouse Cursor" />
+      <item value="A static convenience method that constructs a text button [ButtonStyle] given simple values." />
+      <item value="e icon and label are arranged in a row and padded by 8 logical pixels at the ends, with an 8 pixel gap in between." />
+      <item value="clip Behavior" />
+      <item value="visual Density" />
+      <item value="Too many positional arguments: 1 allowed, but 2 found. Try removing the extra positional arguments." />
+      <item value="Eflutter (13408): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: MissingPluginException(No implementation found for method MessagingrequestPermission on channel plugins.flutter.iofirebase_messaging)" />
+      <item value="A function body must be provided" />
+      <item value="set Is Feature Image" />
+      <item value="Try adding a function body." />
+      <item value="A function body must be provided." />
+      <item value="Attendance Leave" />
+      <item value="AttendanceLeave" />
+      <item value="&lt;!-- Defines the drawable to draw over the content. This can be used as an overlay. The foreground drawable participates in the padding of the content if the gravity is set to fill. --&gt;" />
+      <item value="padding Horizontal" />
+      <item value="observe" />
+      <item value="observe Forever" />
+      <item value="Mutable" />
+      <item value="Dependency" />
+      <item value="application Variants" />
+      <item value="D:\OMT\MVVM\app\build\generated\data_binding_base_class_source_out\debug\out\com\omt\demomvvm\databinding\ActivityMainBinding.java:26: error: wrong receiver parameter name" />
+      <item value="điểm danh bởi" />
+      <item value=" điểm danh bởi" />
+      <item value=" được điểm danh bởi" />
+      <item value="đã được điểm danh bởi" />
+      <item value="đồng hồ" />
+      <item value="đồn" />
+      <item value="delete From Realm" />
       <item value="tv classification" />
       <item value="'addAll()' called on collection 'faceIdentities' with itself as argument " />
       <item value="Sbn doesn't contain valid PeopleTileKey: null0com.android.providers.downloads" />
@@ -27,39 +55,11 @@
       <item value="góp ý ứng dụng&#10;&#10;" />
       <item value="góp ý ứng dụng&#10;" />
       <item value="add Item Decoration" />
-      <item value="Unable to determine application id: com.android.tools.idea.run.ApkProvisionException: Couldn't get post build model. Module: KO_Attendance.app Variant: debug" />
-      <item value="DEventBus: No subscribers registered for event class vn.omt.kidsonline.parent.data.EventsOnClassClicked" />
-      <item value="Ambiente Light" />
-      <item value="WSystem.err: Cause (1 of 1): class com.bumptech.glide.load.HttpException: Not Found" />
-      <item value="WSystem.err: Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetching data failed, class java.io.InputStream, REMOTE" />
-      <item value="GlideExceptionlogRootCauses(String) for more detail" />
-      <item value="decodeDrmImageIfNeeded stream caught ClassCastException" />
-      <item value="There was 1 root cause:" />
-      <item value="reverse Layout" />
-      <item value="Invalid constant value." />
-      <item value="is Parallel" />
-      <item value="update-students-attendance-appearance" />
-      <item value="Unsupported Operation Exception" />
-      <item value="dispose" />
-      <item value="c.toArray might (incorrectly) not return Object[] (see 6260652)" />
-      <item value="deprecation" />
-      <item value="Resource As Color" />
-      <item value="Json Primitive" />
-      <item value="java.lang.IllegalArgumentException: @Part parameters can only be used with multipart encoding. (parameter 1)" />
-      <item value="thành công" />
-      <item value="thành c" />
-      <item value="thành cồn" />
-      <item value="Cannot resolve method" />
-      <item value="foreground" />
-      <item value="Caused by: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean io.realm.RealmList.addAll(java.util.Collection)' on a null object reference" />
-      <item value="Repository" />
-      <item value="Grid Spacing Item Decoration" />
-      <item value="D:\OMT\CO\co_manager\android\app\src\main\AndroidManifest.xml:10:5-15:15: AAPT: error: unexpected element &lt;queries&gt; found in &lt;manifest&gt;." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="978" />
+        <entry key="ENGLISH" value="999" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
@@ -72,12 +72,12 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="4" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="978" />
+        <entry key="VIETNAMESE" value="999" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1638765359633" />
+    <option name="lastTrimTime" value="1639370488203" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
