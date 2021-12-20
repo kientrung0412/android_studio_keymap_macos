@@ -1,10 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="823" />
+    <option name="newTranslationDialogWidth" value="821" />
     <option name="newTranslationDialogX" value="970" />
-    <option name="newTranslationDialogY" value="386" />
+    <option name="newTranslationDialogY" value="392" />
     <histories>
+      <item value="vertical" />
+      <item value="has attendance" />
+      <item value="attendance" />
+      <item value="sự tham dự" />
+      <item value="đã điểm danh" />
+      <item value="đã điêm" />
       <item value="Wakelock&#10;" />
       <item value="Wakelock" />
       <item value=" C:\Users\nguye\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\wakelock-0.5.2\android\src\main\kotlin\creativemaybeno\wakelock\Wakelock.kt: (8, 16): Redeclaration: Wakelock&#10;e: C:\Users\nguye\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\wakelock-0.5.2\android\src\main\kotlin\creativemaybeno\wakelock\Wakelock.kt: (41, 7): Redeclaration: NoActivityException&#10;e: C:\Users\nguye\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\wakelock-0.5.6\android\src\main\kotlin\creativemaybeno\wakelock\Wakelock.kt: (8, 16): Redeclaration: Wakelock&#10;e: C:\Users\nguye\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\wakelock-0.5.6\android\src\main\kotlin\creativemaybeno\wakelock\Wakelock.kt: (41, 7): Redeclaration: NoActivityException&#10;" />
@@ -49,17 +55,11 @@
       <item value="on Page Finished" />
       <item value="on Page Started" />
       <item value="on View Created" />
-      <item value="on Create View" />
-      <item value="java.lang.NoSuchFieldError: No static field wv_content of type I in class LcomomtreviewmoduleRid; or its superclasses (declaration of 'com.omt.reviewmodule.Rid' appears in dataapp~~rwsdupfrme-ML2AeMQZjeA==codepro.kidsonline.debug-v2wIRHP3mwpP47Koo8SCyw==base.apk!classes22.dex)" />
-      <item value="câu hỏi" />
-      <item value="cầu" />
-      <item value="guardian" />
-      <item value="changer" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="999" />
+        <entry key="ENGLISH" value="1004" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
@@ -72,7 +72,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="4" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="1001" />
+        <entry key="VIETNAMESE" value="1005" />
       </map>
     </option>
   </component>
