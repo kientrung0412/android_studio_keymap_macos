@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="970" />
     <option name="newTranslationDialogY" value="392" />
     <histories>
+      <item value="splash Factory" />
+      <item value="alignment" />
+      <item value="visual Density" />
+      <item value="elevation" />
+      <item value="clip Behavior" />
       <item value="vertical" />
       <item value="has attendance" />
       <item value="attendance" />
@@ -17,8 +22,6 @@
       <item value="enabled Mouse Cursor" />
       <item value="A static convenience method that constructs a text button [ButtonStyle] given simple values." />
       <item value="e icon and label are arranged in a row and padded by 8 logical pixels at the ends, with an 8 pixel gap in between." />
-      <item value="clip Behavior" />
-      <item value="visual Density" />
       <item value="Too many positional arguments: 1 allowed, but 2 found. Try removing the extra positional arguments." />
       <item value="Eflutter (13408): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: MissingPluginException(No implementation found for method MessagingrequestPermission on channel plugins.flutter.iofirebase_messaging)" />
       <item value="A function body must be provided" />
@@ -52,14 +55,11 @@
       <item value="java.lang.NullPointerException: Attempt to invoke virtual method 'void android.widget.TextView.setText(java.lang.CharSequence)' on a null object reference" />
       <item value="layout marginvertical" />
       <item value="Missing Default Resource" />
-      <item value="on Page Finished" />
-      <item value="on Page Started" />
-      <item value="on View Created" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="1004" />
+        <entry key="ENGLISH" value="1009" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
@@ -72,7 +72,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="4" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="1005" />
+        <entry key="VIETNAMESE" value="1009" />
       </map>
     </option>
   </component>
