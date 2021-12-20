@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="970" />
     <option name="newTranslationDialogY" value="386" />
     <histories>
+      <item value="Wakelock&#10;" />
+      <item value="Wakelock" />
+      <item value=" C:\Users\nguye\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\wakelock-0.5.2\android\src\main\kotlin\creativemaybeno\wakelock\Wakelock.kt: (8, 16): Redeclaration: Wakelock&#10;e: C:\Users\nguye\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\wakelock-0.5.2\android\src\main\kotlin\creativemaybeno\wakelock\Wakelock.kt: (41, 7): Redeclaration: NoActivityException&#10;e: C:\Users\nguye\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\wakelock-0.5.6\android\src\main\kotlin\creativemaybeno\wakelock\Wakelock.kt: (8, 16): Redeclaration: Wakelock&#10;e: C:\Users\nguye\AppData\Local\Pub\Cache\hosted\pub.dartlang.org\wakelock-0.5.6\android\src\main\kotlin\creativemaybeno\wakelock\Wakelock.kt: (41, 7): Redeclaration: NoActivityException&#10;" />
       <item value="enabled Mouse Cursor" />
       <item value="A static convenience method that constructs a text button [ButtonStyle] given simple values." />
       <item value="e icon and label are arranged in a row and padded by 8 logical pixels at the ends, with an 8 pixel gap in between." />
@@ -52,9 +55,6 @@
       <item value="cầu" />
       <item value="guardian" />
       <item value="changer" />
-      <item value="góp ý ứng dụng&#10;&#10;" />
-      <item value="góp ý ứng dụng&#10;" />
-      <item value="add Item Decoration" />
     </histories>
     <option name="languageScores">
       <map>
@@ -72,12 +72,12 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="4" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="999" />
+        <entry key="VIETNAMESE" value="1001" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1639370488203" />
+    <option name="lastTrimTime" value="1639969776691" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
