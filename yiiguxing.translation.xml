@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="821" />
-    <option name="newTranslationDialogX" value="970" />
-    <option name="newTranslationDialogY" value="392" />
+    <option name="newTranslationDialogWidth" value="819" />
+    <option name="newTranslationDialogX" value="882" />
+    <option name="newTranslationDialogY" value="740" />
     <histories>
+      <item value="Bổ xung thêm một số tính năng" />
+      <item value="Bổ xung thêm một số " />
+      <item value="Bổ xung " />
+      <item value="Thêm một số tính năng mới.&#10;" />
       <item value="splash Factory" />
       <item value="alignment" />
       <item value="visual Density" />
@@ -51,15 +55,11 @@
       <item value="if Present" />
       <item value="parallel" />
       <item value="Should pass resolved color instead of resource id here: getResources().getColor(R.color" />
-      <item value="January" />
-      <item value="java.lang.NullPointerException: Attempt to invoke virtual method 'void android.widget.TextView.setText(java.lang.CharSequence)' on a null object reference" />
-      <item value="layout marginvertical" />
-      <item value="Missing Default Resource" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="1009" />
+        <entry key="ENGLISH" value="1010" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="5" />
@@ -72,7 +72,7 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="4" />
         <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="1009" />
+        <entry key="VIETNAMESE" value="1010" />
       </map>
     </option>
   </component>
