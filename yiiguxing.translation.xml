@@ -1,9 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console..." />
+      <item value="Access is denied" />
       <item value="dịch" />
       <item value="d" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="3" />
+      </map>
+    </option>
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1640148409466" />
