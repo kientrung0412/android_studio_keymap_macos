@@ -1,6 +1,22 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="592" />
+    <option name="newTranslationDialogX" value="801" />
+    <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="tổng" />
+      <item value="tôn" />
+      <item value="tính trung bình" />
+      <item value="tính " />
+      <item value="reducing" />
+      <item value="đảo ngược" />
+      <item value="đảo ng" />
+      <item value="đảo ngư" />
+      <item value="đảo ngưuóc" />
+      <item value="đa" />
+      <item value="spliterator" />
+      <item value="Illegal escape character in string literal" />
+      <item value="sử lý chuỗi" />
       <item value="identity" />
       <item value="THIN HORZ BANDS" />
       <item value="SOLID FOREGROUND" />
@@ -12,8 +28,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="8" />
-        <entry key="VIETNAMESE" value="2" />
+        <entry key="ENGLISH" value="10" />
+        <entry key="CROATIAN" value="2" />
+        <entry key="VIETNAMESE" value="5" />
       </map>
     </option>
   </component>
