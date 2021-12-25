@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="592" />
+    <option name="newTranslationDialogWidth" value="590" />
     <option name="newTranslationDialogX" value="801" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="số thập phân" />
+      <item value="số " />
       <item value="tổng" />
       <item value="tôn" />
       <item value="tính trung bình" />
