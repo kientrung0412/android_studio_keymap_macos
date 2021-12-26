@@ -1,92 +1,42 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogHeight" value="505" />
-    <option name="newTranslationDialogWidth" value="823" />
-    <option name="newTranslationDialogX" value="970" />
-    <option name="newTranslationDialogY" value="386" />
+    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogX" value="801" />
+    <option name="newTranslationDialogY" value="448" />
     <histories>
-      <item value="Expected" />
-      <item value="The project uses Gradle version which is incompatible with Android Studio 2021.2." />
-      <item value="enabled Mouse Cursor" />
-      <item value="A static convenience method that constructs a text button [ButtonStyle] given simple values." />
-      <item value="e icon and label are arranged in a row and padded by 8 logical pixels at the ends, with an 8 pixel gap in between." />
-      <item value="clip Behavior" />
-      <item value="visual Density" />
-      <item value="Too many positional arguments: 1 allowed, but 2 found. Try removing the extra positional arguments." />
-      <item value="Eflutter (13408): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: MissingPluginException(No implementation found for method MessagingrequestPermission on channel plugins.flutter.iofirebase_messaging)" />
-      <item value="A function body must be provided" />
-      <item value="set Is Feature Image" />
-      <item value="Try adding a function body." />
-      <item value="A function body must be provided." />
-      <item value="Attendance Leave" />
-      <item value="AttendanceLeave" />
-      <item value="&lt;!-- Defines the drawable to draw over the content. This can be used as an overlay. The foreground drawable participates in the padding of the content if the gravity is set to fill. --&gt;" />
-      <item value="padding Horizontal" />
-      <item value="observe" />
-      <item value="observe Forever" />
-      <item value="Mutable" />
-      <item value="Dependency" />
-      <item value="application Variants" />
-      <item value="D:\OMT\MVVM\app\build\generated\data_binding_base_class_source_out\debug\out\com\omt\demomvvm\databinding\ActivityMainBinding.java:26: error: wrong receiver parameter name" />
-      <item value="điểm danh bởi" />
-      <item value=" điểm danh bởi" />
-      <item value=" được điểm danh bởi" />
-      <item value="đã được điểm danh bởi" />
-      <item value="đồng hồ" />
-      <item value="đồn" />
-      <item value="delete From Realm" />
-      <item value="tv classification" />
-      <item value="'addAll()' called on collection 'faceIdentities' with itself as argument " />
-      <item value="Sbn doesn't contain valid PeopleTileKey: null0com.android.providers.downloads" />
-      <item value="if Present" />
-      <item value="parallel" />
-      <item value="Should pass resolved color instead of resource id here: getResources().getColor(R.color" />
-      <item value="January" />
-      <item value="java.lang.NullPointerException: Attempt to invoke virtual method 'void android.widget.TextView.setText(java.lang.CharSequence)' on a null object reference" />
-      <item value="layout marginvertical" />
-      <item value="Missing Default Resource" />
-      <item value="on Page Finished" />
-      <item value="on Page Started" />
-      <item value="on View Created" />
-      <item value="on Create View" />
-      <item value="java.lang.NoSuchFieldError: No static field wv_content of type I in class LcomomtreviewmoduleRid; or its superclasses (declaration of 'com.omt.reviewmodule.Rid' appears in dataapp~~rwsdupfrme-ML2AeMQZjeA==codepro.kidsonline.debug-v2wIRHP3mwpP47Koo8SCyw==base.apk!classes22.dex)" />
-      <item value="câu hỏi" />
-      <item value="cầu" />
-      <item value="guardian" />
-      <item value="changer" />
-      <item value="góp ý ứng dụng&#10;&#10;" />
+      <item value="số thập phân" />
+      <item value="số " />
+      <item value="tổng" />
+      <item value="tôn" />
+      <item value="tính trung bình" />
+      <item value="tính " />
+      <item value="reducing" />
+      <item value="đảo ngược" />
+      <item value="đảo ng" />
+      <item value="đảo ngư" />
+      <item value="đảo ngưuóc" />
+      <item value="đa" />
+      <item value="spliterator" />
+      <item value="Illegal escape character in string literal" />
+      <item value="sử lý chuỗi" />
+      <item value="identity" />
+      <item value="THIN HORZ BANDS" />
+      <item value="SOLID FOREGROUND" />
+      <item value="NO FILL" />
+      <item value="ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console..." />
+      <item value="Access is denied" />
+      <item value="dịch" />
+      <item value="d" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="1001" />
-        <entry key="ESTONIAN" value="1" />
-        <entry key="DANISH" value="1" />
-        <entry key="FRENCH" value="5" />
-        <entry key="DUTCH" value="1" />
-        <entry key="CATALAN" value="2" />
-        <entry key="LATIN" value="1" />
-        <entry key="LUXEMBOURGISH" value="1" />
-        <entry key="ROMANIAN" value="3" />
-        <entry key="NORWEGIAN" value="2" />
-        <entry key="SCOTS_GAELIC" value="1" />
-        <entry key="SPANISH" value="4" />
-        <entry key="HINDI" value="1" />
-        <entry key="VIETNAMESE" value="1001" />
+        <entry key="ENGLISH" value="10" />
+        <entry key="CROATIAN" value="2" />
+        <entry key="VIETNAMESE" value="5" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1639936466790" />
-  </component>
-  <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="primaryLanguage" value="VIETNAMESE" />
-      </google-translate>
-    </option>
-    <option name="overrideFont" value="true" />
-    <option name="phoneticFontFamily" value="Lucida Sans Unicode" />
-    <option name="primaryFontFamily" value="Courier New" />
+    <option name="lastTrimTime" value="1640148409466" />
   </component>
 </application>
