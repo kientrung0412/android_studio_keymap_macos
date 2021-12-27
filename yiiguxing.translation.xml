@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="LateInitializationError: Field 'pref' has not been initialized." />
       <item value="No implementation found for method MessagingrequestPermission on channel plugins.flutter.iofirebase_messaging" />
       <item value="Eflutter (23122): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: MissingPluginException(No implementation found for method MessagingrequestPermission on channel plugins.flutter.iofirebase_messaging)" />
       <item value="Eflutter (22306): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: MissingPluginException(No implementation found for method MessagingrequestPermission on channel plugins.flutter.iofirebase_messaging)" />
@@ -17,8 +18,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="12" />
-        <entry key="VIETNAMESE" value="7" />
+        <entry key="ENGLISH" value="13" />
+        <entry key="VIETNAMESE" value="8" />
       </map>
     </option>
   </component>
