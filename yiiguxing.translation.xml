@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Không đươc chọn thời gian ở tương lai." />
       <item value="contain Name Pattern" />
       <item value="identity" />
       <item value="THIN HORZ BANDS" />
@@ -14,7 +15,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="9" />
-        <entry key="VIETNAMESE" value="3" />
+        <entry key="VIETNAMESE" value="4" />
       </map>
     </option>
   </component>
