@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No implementation found for method MessagingrequestPermission on channel plugins.flutter.iofirebase_messaging" />
+      <item value="Eflutter (23122): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: MissingPluginException(No implementation found for method MessagingrequestPermission on channel plugins.flutter.iofirebase_messaging)" />
+      <item value="Eflutter (22306): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: MissingPluginException(No implementation found for method MessagingrequestPermission on channel plugins.flutter.iofirebase_messaging)" />
       <item value="Không đươc chọn thời gian ở tương lai." />
       <item value="contain Name Pattern" />
       <item value="identity" />
@@ -14,13 +17,13 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="9" />
-        <entry key="VIETNAMESE" value="4" />
+        <entry key="ENGLISH" value="12" />
+        <entry key="VIETNAMESE" value="7" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1640148409466" />
+    <option name="lastTrimTime" value="1640587086679" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
