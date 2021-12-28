@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <histories>
       <item value="Bad state: add(ResetCommentEvent) was called without a registered event handler." />
+      <item value="was called without a registered event handler." />
       <item value="NotificationDetailScreen NotificationDetailScreen:file:D:OMTSOso_teacher_v2libapp.dart:625:20" />
       <item value="LateInitializationError: Field 'pref' has not been initialized." />
       <item value="No implementation found for method MessagingrequestPermission on channel plugins.flutter.iofirebase_messaging" />
@@ -20,8 +21,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="15" />
-        <entry key="VIETNAMESE" value="10" />
+        <entry key="ENGLISH" value="16" />
+        <entry key="VIETNAMESE" value="11" />
       </map>
     </option>
   </component>
