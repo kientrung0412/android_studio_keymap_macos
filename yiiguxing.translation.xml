@@ -1,9 +1,16 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="Trước" />
+      <item value="Before" />
+      <item value="Previous" />
+      <item value="đằng trước" />
+      <item value="front" />
+      <item value="phía trước" />
+      <item value="phía " />
       <item value="previous Value" />
       <item value="fold" />
       <item value="reduce" />
@@ -39,8 +46,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="26" />
-        <entry key="VIETNAMESE" value="23" />
+        <entry key="ENGLISH" value="34" />
+        <entry key="VIETNAMESE" value="31" />
       </map>
     </option>
   </component>
