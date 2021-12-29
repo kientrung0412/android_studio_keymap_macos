@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="reversed" />
       <item value="Creates a new string equivalent to:" />
       <item value="Replaces the substring from [start] to [end] with [replacement]." />
       <item value="mặc định" />
@@ -35,8 +36,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="23" />
-        <entry key="VIETNAMESE" value="19" />
+        <entry key="ENGLISH" value="24" />
+        <entry key="VIETNAMESE" value="20" />
       </map>
     </option>
   </component>
