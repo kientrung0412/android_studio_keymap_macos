@@ -1,5 +1,8 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="801" />
+    <option name="newTranslationDialogY" value="448" />
     <histories>
       <item value="fix bug merge code" />
       <item value="EFlutterJNI(24123): Failed to decode image" />
