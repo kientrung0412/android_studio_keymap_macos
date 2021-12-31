@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="from, and the name of the view it is transitioning to, in the launched activity" />
+      <item value="Now we provide a list of Pair items which contain the view we can transitioning" />
       <item value="GET ACTIVITIES" />
       <item value="Trước" />
       <item value="Before" />
@@ -47,8 +49,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="35" />
-        <entry key="VIETNAMESE" value="32" />
+        <entry key="ENGLISH" value="37" />
+        <entry key="VIETNAMESE" value="34" />
       </map>
     </option>
   </component>
