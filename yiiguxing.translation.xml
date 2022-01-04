@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="592" />
+    <option name="newTranslationDialogWidth" value="590" />
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="Tồn tại" />
+      <item value="Tồn taih" />
+      <item value="Exits" />
       <item value="android.view.InflateException: Binary XML file line 8 in com.omt.animationdetail:layoutfragment_list: Views added to a FragmentContainerView must be associated with a Fragment. View androidx.appcompat.widget.AppCompatTextView{b72549f V.ED..... ......ID 0,0-0,0} is not associated with a Fragment." />
       <item value="is not associated with a Fragment." />
       <item value="operations" />
@@ -54,13 +57,13 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="42" />
-        <entry key="VIETNAMESE" value="39" />
+        <entry key="ENGLISH" value="44" />
+        <entry key="VIETNAMESE" value="41" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1640587086679" />
+    <option name="lastTrimTime" value="1641266398776" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
