@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="Non Null" />
       <item value="Tồn tại" />
       <item value="Tồn taih" />
       <item value="Exits" />
@@ -53,12 +54,12 @@
       <item value="ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console..." />
       <item value="Access is denied" />
       <item value="dịch" />
-      <item value="d" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="44" />
-        <entry key="VIETNAMESE" value="41" />
+        <entry key="LATIN" value="1" />
+        <entry key="VIETNAMESE" value="42" />
       </map>
     </option>
   </component>
