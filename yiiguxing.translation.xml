@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="Circular dependency between the following tasks" />
+      <item value="Plugin project :firebase_core_web not found. Please update settings.gradle." />
       <item value="title send mail" />
       <item value="title" />
       <item value="Non Null" />
@@ -52,14 +54,12 @@
       <item value="identity" />
       <item value="THIN HORZ BANDS" />
       <item value="SOLID FOREGROUND" />
-      <item value="NO FILL" />
-      <item value="ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console..." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="44" />
+        <entry key="ENGLISH" value="46" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="45" />
+        <entry key="VIETNAMESE" value="46" />
       </map>
     </option>
   </component>
