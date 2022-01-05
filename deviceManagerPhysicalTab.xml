@@ -78,6 +78,17 @@
         <target value="Android 5.1" />
         <api value="22" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="0123456789ABCDEF" />
+          </Key>
+        </key>
+        <name value="KTE TA-666" />
+        <target value="Android 7.0" />
+        <api value="24" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
