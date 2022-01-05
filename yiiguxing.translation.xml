@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="iv more active" />
       <item value="span Count" />
       <item value="set Flex Direction" />
       <item value="Exception" />
@@ -53,13 +54,12 @@
       <item value="No implementation found for method MessagingrequestPermission on channel plugins.flutter.iofirebase_messaging" />
       <item value="Eflutter (23122): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: MissingPluginException(No implementation found for method MessagingrequestPermission on channel plugins.flutter.iofirebase_messaging)" />
       <item value="Eflutter (22306): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: MissingPluginException(No implementation found for method MessagingrequestPermission on channel plugins.flutter.iofirebase_messaging)" />
-      <item value="Không đươc chọn thời gian ở tương lai." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="50" />
+        <entry key="ENGLISH" value="51" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="50" />
+        <entry key="VIETNAMESE" value="51" />
       </map>
     </option>
   </component>
