@@ -89,6 +89,17 @@
         <target value="Android 7.0" />
         <api value="24" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.2.142:5555" />
+          </Key>
+        </key>
+        <name value="vsmart Active 3" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
