@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="t will always be more efficient to use more specific change events if you can. Rely on notifyDataSetChanged as a last resort." />
+      <item value="Vertical" />
       <item value="iv more active" />
       <item value="span Count" />
       <item value="set Flex Direction" />
@@ -52,14 +54,12 @@
       <item value="NotificationDetailScreen NotificationDetailScreen:file:D:OMTSOso_teacher_v2libapp.dart:625:20" />
       <item value="LateInitializationError: Field 'pref' has not been initialized." />
       <item value="No implementation found for method MessagingrequestPermission on channel plugins.flutter.iofirebase_messaging" />
-      <item value="Eflutter (23122): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: MissingPluginException(No implementation found for method MessagingrequestPermission on channel plugins.flutter.iofirebase_messaging)" />
-      <item value="Eflutter (22306): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: MissingPluginException(No implementation found for method MessagingrequestPermission on channel plugins.flutter.iofirebase_messaging)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="51" />
+        <entry key="ENGLISH" value="52" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="51" />
+        <entry key="VIETNAMESE" value="53" />
       </map>
     </option>
   </component>
