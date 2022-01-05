@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="635" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="on Nothing Selected" />
       <item value="attendance" />
       <item value="attendanced" />
       <item value="đã điểm danh" />
@@ -54,11 +55,10 @@
       <item value="mụcw" />
       <item value="mawucj" />
       <item value="max Finite" />
-      <item value="leave" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="55" />
+        <entry key="ENGLISH" value="56" />
         <entry key="LATIN" value="1" />
         <entry key="VIETNAMESE" value="57" />
       </map>
