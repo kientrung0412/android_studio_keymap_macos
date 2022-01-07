@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="@Deprecated('Switch to using pickMultiImage instead')" />
       <item value="Passing 'null' argument to parameter annotated as @NotNull" />
       <item value="Liên hệ" />
       <item value="Liên " />
@@ -53,11 +54,10 @@
       <item value="operations" />
       <item value="executed" />
       <item value="set Reordering Allowed" />
-      <item value="from, and the name of the view it is transitioning to, in the launched activity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="70" />
+        <entry key="ENGLISH" value="71" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="VIETNAMESE" value="72" />
