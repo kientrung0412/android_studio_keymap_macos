@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="mặc định" />
+      <item value="mặc đinh" />
+      <item value="mặc đu" />
+      <item value="mac" />
+      <item value="macw" />
+      <item value="ma" />
       <item value="conversations" />
       <item value="modeles" />
       <item value="Cause" />
@@ -48,19 +54,13 @@
       <item value="Before" />
       <item value="Previous" />
       <item value="đằng trước" />
-      <item value="front" />
-      <item value="phía trước" />
-      <item value="phía " />
-      <item value="previous Value" />
-      <item value="fold" />
-      <item value="reduce" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="63" />
+        <entry key="ENGLISH" value="66" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="63" />
+        <entry key="VIETNAMESE" value="67" />
       </map>
     </option>
   </component>
