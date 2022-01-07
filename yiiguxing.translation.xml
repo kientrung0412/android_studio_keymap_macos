@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="conversations" />
       <item value="modeles" />
       <item value="Cause" />
       <item value="thông tin app" />
@@ -53,11 +54,10 @@
       <item value="previous Value" />
       <item value="fold" />
       <item value="reduce" />
-      <item value="reversed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="62" />
+        <entry key="ENGLISH" value="63" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="VIETNAMESE" value="63" />
