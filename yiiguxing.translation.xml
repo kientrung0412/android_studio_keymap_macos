@@ -1,9 +1,14 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="584" />
+    <option name="newTranslationDialogWidth" value="580" />
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="Liên hệ" />
+      <item value="Liên " />
+      <item value="Liên" />
+      <item value="lieen " />
+      <item value="contact" />
       <item value="mặc định" />
       <item value="mặc đinh" />
       <item value="mặc đu" />
@@ -49,18 +54,13 @@
       <item value="set Reordering Allowed" />
       <item value="from, and the name of the view it is transitioning to, in the launched activity" />
       <item value="Now we provide a list of Pair items which contain the view we can transitioning" />
-      <item value="GET ACTIVITIES" />
-      <item value="Trước" />
-      <item value="Before" />
-      <item value="Previous" />
-      <item value="đằng trước" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="66" />
+        <entry key="ENGLISH" value="70" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="67" />
+        <entry key="VIETNAMESE" value="71" />
       </map>
     </option>
   </component>
