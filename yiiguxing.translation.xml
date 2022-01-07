@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="modeles" />
       <item value="Cause" />
       <item value="thông tin app" />
       <item value="EFlutterJNI(20706): android.graphics.ImageDecoderDecodeException: Failed to create image decoder with message 'unimplemented'Input contained an error." />
@@ -53,13 +54,13 @@
       <item value="fold" />
       <item value="reduce" />
       <item value="reversed" />
-      <item value="Creates a new string equivalent to:" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="62" />
+        <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="62" />
+        <entry key="VIETNAMESE" value="63" />
       </map>
     </option>
   </component>
