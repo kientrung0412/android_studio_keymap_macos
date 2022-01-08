@@ -4,8 +4,12 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
-      <item value="No ancestor could be found starting from the context that was passed to RepositoryProvider.of&lt;SharePreferenceRepository&gt;()." />
+      <item value="Iflutter (27345): Consider enabling the flag chain-stack-traces to receive more detailed exceptions." />
+      <item value="Iflutter (27345): RepositoryProvider.of() called with a context that does not contain a repository of type SharePreferenceRepository." />
+      <item value="EXCEPTION" />
+      <item value="══╡ EXCEPTION CAUGHT BY PROVIDER ╞═══════════════════════════════" />
       <item value="Bad state: Tried to read a provider that threw during the creation of its value." />
+      <item value="No ancestor could be found starting from the context that was passed to RepositoryProvider.of&lt;SharePreferenceRepository&gt;()." />
       <item value="want Keep Alive" />
       <item value="signature" />
       <item value="trưng bày" />
@@ -50,17 +54,13 @@
       <item value="iv more active" />
       <item value="span Count" />
       <item value="set Flex Direction" />
-      <item value="Exception" />
-      <item value="Circular dependency between the following tasks:" />
-      <item value="Circular dependency between the following tasks" />
-      <item value="Plugin project :firebase_core_web not found. Please update settings.gradle." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="80" />
+        <entry key="ENGLISH" value="85" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="80" />
+        <entry key="VIETNAMESE" value="85" />
       </map>
     </option>
   </component>
