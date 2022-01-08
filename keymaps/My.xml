@@ -35,7 +35,7 @@
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
   <action id="StringManipulation.ToPascalCaseOrCamelCase">
-    <keyboard-shortcut first-keystroke="shift alt 2" />
+    <keyboard-shortcut first-keystroke="alt p" />
   </action>
   <action id="StringManipulation.ToSnakeCase">
     <keyboard-shortcut first-keystroke="alt s" />
@@ -55,5 +55,8 @@
   </action>
   <action id="osmedile.intellij.stringmanip.ToUpperCaseAction">
     <keyboard-shortcut first-keystroke="alt u" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.styles.ToCamelCaseOrToWordLowercaseAction">
+    <keyboard-shortcut first-keystroke="shift alt 2" />
   </action>
 </keymap>

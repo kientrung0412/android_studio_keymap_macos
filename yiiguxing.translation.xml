@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="Hai from android and this is the data yopu sent me" />
+      <item value="Accessing data sent from flutter" />
       <item value="Iflutter (27345): Consider enabling the flag chain-stack-traces to receive more detailed exceptions." />
       <item value="Iflutter (27345): RepositoryProvider.of() called with a context that does not contain a repository of type SharePreferenceRepository." />
       <item value="EXCEPTION" />
@@ -52,15 +54,13 @@
       <item value="t will always be more efficient to use more specific change events if you can. Rely on notifyDataSetChanged as a last resort." />
       <item value="Vertical" />
       <item value="iv more active" />
-      <item value="span Count" />
-      <item value="set Flex Direction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="85" />
+        <entry key="ENGLISH" value="88" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="85" />
+        <entry key="VIETNAMESE" value="88" />
       </map>
     </option>
   </component>
