@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="No ancestor could be found starting from the context that was passed to RepositoryProvider.of&lt;SharePreferenceRepository&gt;()." />
       <item value="Bad state: Tried to read a provider that threw during the creation of its value." />
       <item value="want Keep Alive" />
       <item value="signature" />
@@ -53,14 +54,13 @@
       <item value="Circular dependency between the following tasks:" />
       <item value="Circular dependency between the following tasks" />
       <item value="Plugin project :firebase_core_web not found. Please update settings.gradle." />
-      <item value="title send mail" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="79" />
+        <entry key="ENGLISH" value="80" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="79" />
+        <entry key="VIETNAMESE" value="80" />
       </map>
     </option>
   </component>
