@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="Missing Plugin Exception" />
+      <item value="o implementation found for method test on channel" />
       <item value="Hai from android and this is the data yopu sent me" />
       <item value="Accessing data sent from flutter" />
       <item value="Iflutter (27345): Consider enabling the flag chain-stack-traces to receive more detailed exceptions." />
@@ -52,20 +54,18 @@
       <item value="simp&#10;" />
       <item value="simp" />
       <item value="t will always be more efficient to use more specific change events if you can. Rely on notifyDataSetChanged as a last resort." />
-      <item value="Vertical" />
-      <item value="iv more active" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="88" />
+        <entry key="ENGLISH" value="90" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="88" />
+        <entry key="VIETNAMESE" value="90" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1641266398776" />
+    <option name="lastTrimTime" value="1641782513690" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
