@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="type 'String' is not a subtype of type 'int' of 'index'" />
       <item value="relationship Vi" />
       <item value="Missing Plugin Exception" />
       <item value="o implementation found for method test on channel" />
@@ -53,11 +54,10 @@
       <item value="đã " />
       <item value="ddax" />
       <item value="simp&#10;" />
-      <item value="simp" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="90" />
+        <entry key="ENGLISH" value="91" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="VIETNAMESE" value="92" />
