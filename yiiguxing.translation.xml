@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="conversations" />
+      <item value="failed" />
       <item value="1 _ChunkedJsonParser.close (dart:convert-patchconvert_patch.dart:523:7)" />
       <item value="0 _ChunkedJsonParser.fail (dart:convert-patchconvert_patch.dart:1405:5)" />
       <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: FormatException: Unexpected end of input (at character 1)" />
@@ -44,7 +46,6 @@
       <item value="mac" />
       <item value="macw" />
       <item value="ma" />
-      <item value="conversations" />
       <item value="modeles" />
       <item value="Cause" />
       <item value="thông tin app" />
@@ -53,14 +54,13 @@
       <item value="COMPLETED" />
       <item value="Or, if you prefer, you can continue to check for errors in release builds," />
       <item value="dlopen failed: library &quot;libmobileffmpeg_abidetect.so&quot; not found" />
-      <item value="on Nothing Selected" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="98" />
+        <entry key="ENGLISH" value="100" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="98" />
+        <entry key="VIETNAMESE" value="100" />
       </map>
     </option>
   </component>
