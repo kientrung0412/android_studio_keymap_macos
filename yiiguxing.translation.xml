@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="Eflutter ( 1575): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: LateInitializationError: Field 'pref' has not been initialized." />
       <item value="conversations" />
       <item value="failed" />
       <item value="1 _ChunkedJsonParser.close (dart:convert-patchconvert_patch.dart:523:7)" />
@@ -53,14 +54,13 @@
       <item value="EFlutterJNI(20706): Failed to decode image" />
       <item value="COMPLETED" />
       <item value="Or, if you prefer, you can continue to check for errors in release builds," />
-      <item value="dlopen failed: library &quot;libmobileffmpeg_abidetect.so&quot; not found" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="100" />
+        <entry key="ENGLISH" value="101" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="100" />
+        <entry key="VIETNAMESE" value="101" />
       </map>
     </option>
   </component>
