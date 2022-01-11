@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="Chat function being upgraded" />
+      <item value="The chat feature is being upgraded" />
       <item value="chat feature upgrading" />
       <item value="Eflutter (27210): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: [firebase_authinvalid-custom-token] The custom token format is incorrect. Please check the documentation. [ Invalid assertion format. 3 dot separated segments required. ]" />
       <item value="lled with a context that does not contain a repository of type FirebaseApp." />
@@ -52,16 +54,14 @@
       <item value="contact" />
       <item value="mặc định" />
       <item value="mặc đinh" />
-      <item value="mặc đu" />
-      <item value="mac" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="109" />
+        <entry key="ENGLISH" value="110" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="109" />
+        <entry key="VIETNAMESE" value="111" />
       </map>
     </option>
   </component>
