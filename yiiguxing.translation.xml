@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="Eflutter (10597): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: Null check operator used on a null value" />
+      <item value="libmain.dart:41:20: Warning: Operand of null-aware operation '!' has type 'SharePreferenceRepository' which excludes null." />
       <item value="Eflutter ( 1575): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: LateInitializationError: Field 'pref' has not been initialized." />
       <item value="conversations" />
       <item value="failed" />
@@ -52,15 +54,13 @@
       <item value="thông tin app" />
       <item value="EFlutterJNI(20706): android.graphics.ImageDecoderDecodeException: Failed to create image decoder with message 'unimplemented'Input contained an error." />
       <item value="EFlutterJNI(20706): Failed to decode image" />
-      <item value="COMPLETED" />
-      <item value="Or, if you prefer, you can continue to check for errors in release builds," />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="101" />
+        <entry key="ENGLISH" value="103" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="101" />
+        <entry key="VIETNAMESE" value="103" />
       </map>
     </option>
   </component>
