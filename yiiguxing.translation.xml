@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="Notifying" />
       <item value="Chat function being upgraded" />
       <item value="The chat feature is being upgraded" />
       <item value="chat feature upgrading" />
@@ -53,12 +54,11 @@
       <item value="lieen " />
       <item value="contact" />
       <item value="mặc định" />
-      <item value="mặc đinh" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="110" />
+        <entry key="ENGLISH" value="111" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="VIETNAMESE" value="111" />
