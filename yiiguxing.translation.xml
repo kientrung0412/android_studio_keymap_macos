@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="Eflutter (27210): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: [firebase_authinvalid-custom-token] The custom token format is incorrect. Please check the documentation. [ Invalid assertion format. 3 dot separated segments required. ]" />
       <item value="lled with a context that does not contain a repository of type FirebaseApp." />
       <item value="&gt; No matching client found for package name 'com.omt.module.chat.kidsonline.host'" />
       <item value="判断是否存在数据" />
@@ -53,15 +54,14 @@
       <item value="mặc đu" />
       <item value="mac" />
       <item value="macw" />
-      <item value="ma" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="107" />
+        <entry key="ENGLISH" value="108" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="107" />
+        <entry key="VIETNAMESE" value="108" />
       </map>
     </option>
   </component>
