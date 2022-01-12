@@ -1,0 +1,78 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="578" />
+    <option name="newTranslationDialogX" value="908" />
+    <option name="newTranslationDialogY" value="635" />
+    <histories>
+      <item value="Notifying" />
+      <item value="Chat function being upgraded" />
+      <item value="The chat feature is being upgraded" />
+      <item value="chat feature upgrading" />
+      <item value="Eflutter (27210): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: [firebase_authinvalid-custom-token] The custom token format is incorrect. Please check the documentation. [ Invalid assertion format. 3 dot separated segments required. ]" />
+      <item value="lled with a context that does not contain a repository of type FirebaseApp." />
+      <item value="&gt; No matching client found for package name 'com.omt.module.chat.kidsonline.host'" />
+      <item value="判断是否存在数据" />
+      <item value="Eflutter (26702): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: LateInitializationError: Field 'pref' has not been initialized." />
+      <item value="WOkHttp: java.net.UnknownHostException: Unable to resolve host &quot;develop.ko.edu.vn&quot;: No address associated with hostname" />
+      <item value="Eflutter (10597): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: Null check operator used on a null value" />
+      <item value="libmain.dart:41:20: Warning: Operand of null-aware operation '!' has type 'SharePreferenceRepository' which excludes null." />
+      <item value="Eflutter ( 1575): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: LateInitializationError: Field 'pref' has not been initialized." />
+      <item value="conversations" />
+      <item value="failed" />
+      <item value="1 _ChunkedJsonParser.close (dart:convert-patchconvert_patch.dart:523:7)" />
+      <item value="0 _ChunkedJsonParser.fail (dart:convert-patchconvert_patch.dart:1405:5)" />
+      <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: FormatException: Unexpected end of input (at character 1)" />
+      <item value="We call the 2 parameter variant specifically to avoid breaking changes in" />
+      <item value="Failed to handle method call" />
+      <item value="Unexpected" />
+      <item value="type 'String' is not a subtype of type 'int' of 'index'" />
+      <item value="relationship Vi" />
+      <item value="Missing Plugin Exception" />
+      <item value="o implementation found for method test on channel" />
+      <item value="Hai from android and this is the data yopu sent me" />
+      <item value="Accessing data sent from flutter" />
+      <item value="Iflutter (27345): Consider enabling the flag chain-stack-traces to receive more detailed exceptions." />
+      <item value="Iflutter (27345): RepositoryProvider.of() called with a context that does not contain a repository of type SharePreferenceRepository." />
+      <item value="EXCEPTION" />
+      <item value="══╡ EXCEPTION CAUGHT BY PROVIDER ╞═══════════════════════════════" />
+      <item value="Bad state: Tried to read a provider that threw during the creation of its value." />
+      <item value="No ancestor could be found starting from the context that was passed to RepositoryProvider.of&lt;SharePreferenceRepository&gt;()." />
+      <item value="want Keep Alive" />
+      <item value="signature" />
+      <item value="trưng bày" />
+      <item value="display" />
+      <item value="hiển thị" />
+      <item value="visibility" />
+      <item value="visibilyty" />
+      <item value="visibil" />
+      <item value="'https:data.storage.googleapis.comdownload.flutter.ioioflutterx86_debug1.0.0-890a5fca2e34db413be624fc83aeea8e61d42ce6x86_debug-1.0.0-890a5fca2e34db413be624fc83aeea8e61d42ce6.pom'. Received status code 403 from server" />
+      <item value="@Deprecated('Switch to using pickMultiImage instead')" />
+      <item value="Passing 'null' argument to parameter annotated as @NotNull" />
+      <item value="Liên hệ" />
+      <item value="Liên " />
+      <item value="Liên" />
+      <item value="lieen " />
+      <item value="contact" />
+      <item value="mặc định" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="111" />
+        <entry key="FRENCH" value="1" />
+        <entry key="LATIN" value="1" />
+        <entry key="VIETNAMESE" value="111" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1641782513690" />
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="VIETNAMESE" />
+      </google-translate>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,5 @@
+<application>
+  <component name="PinDeviceService">
+    <option name="pinnedDevices" value="[{&quot;id&quot;:&quot;192.168.2.137:5555&quot;,&quot;serialNumber&quot;:&quot;BAB00116311&quot;,&quot;name&quot;:&quot;vsmart Active 3&quot;,&quot;address&quot;:&quot;192.168.2.137&quot;,&quot;port&quot;:5555,&quot;androidVersion&quot;:&quot;10&quot;,&quot;apiLevel&quot;:&quot;29&quot;},{&quot;id&quot;:&quot;192.168.2.142:5555&quot;,&quot;serialNumber&quot;:&quot;BAB00116311&quot;,&quot;name&quot;:&quot;vsmart Active 3&quot;,&quot;address&quot;:&quot;192.168.2.142&quot;,&quot;port&quot;:5555,&quot;androidVersion&quot;:&quot;10&quot;,&quot;apiLevel&quot;:&quot;29&quot;},{&quot;id&quot;:&quot;192.168.2.51:5555&quot;,&quot;serialNumber&quot;:&quot;8ABX0PUWK&quot;,&quot;name&quot;:&quot;Google Pixel 3&quot;,&quot;address&quot;:&quot;192.168.2.51&quot;,&quot;port&quot;:5555,&quot;androidVersion&quot;:&quot;12&quot;,&quot;apiLevel&quot;:&quot;31&quot;}]" />
+  </component>
+</application>
