@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="Please provide a channel or a version, or run this command in a Flutter project that has FVM configured.&#10;" />
+      <item value="√" />
       <item value="Notifying" />
       <item value="Chat function being upgraded" />
       <item value="The chat feature is being upgraded" />
@@ -52,16 +54,14 @@
       <item value="Liên " />
       <item value="Liên" />
       <item value="lieen " />
-      <item value="contact" />
-      <item value="mặc định" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="111" />
+        <entry key="ENGLISH" value="112" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="111" />
+        <entry key="VIETNAMESE" value="113" />
       </map>
     </option>
   </component>
