@@ -4,8 +4,8 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
-      <item value="The custom token corresponds to a different audience." />
       <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: [firebase_authcustom-token-mismatch] The custom token corresponds to a different audience." />
+      <item value="The custom token corresponds to a different audience." />
       <item value="set Fragment Name" />
       <item value="\--- org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.3.72" />
       <item value="Please provide a channel or a version, or run this command in a Flutter project that has FVM configured.&#10;" />
@@ -58,10 +58,10 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="116" />
+        <entry key="ENGLISH" value="118" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="116" />
+        <entry key="VIETNAMESE" value="118" />
       </map>
     </option>
   </component>
