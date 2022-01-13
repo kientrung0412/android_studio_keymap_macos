@@ -1,0 +1,14 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="meta g" />
+    <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+    <keyboard-shortcut first-keystroke="meta alt right" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
+</keymap>
