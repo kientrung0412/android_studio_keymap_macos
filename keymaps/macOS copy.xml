@@ -1,9 +1,15 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="$TranslateAndReplaceAction">
+    <keyboard-shortcut first-keystroke="ctrl meta x" />
+  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta open_bracket" />
     <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
   <action id="CloseContent" />
+  <action id="Editor TranslateAndReplaceAction">
+    <keyboard-shortcut first-keystroke="ctrl meta x" />
+  </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>

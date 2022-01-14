@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="thành viên&#10;" />
+      <item value="thành viên" />
+      <item value="thành " />
       <item value="Scrapped or attached views may not be recycled" />
       <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: [firebase_authcustom-token-mismatch] The custom token corresponds to a different audience." />
       <item value="The custom token corresponds to a different audience." />
@@ -51,17 +54,14 @@
       <item value="hiển thị" />
       <item value="visibility" />
       <item value="visibilyty" />
-      <item value="visibil" />
-      <item value="'https:data.storage.googleapis.comdownload.flutter.ioioflutterx86_debug1.0.0-890a5fca2e34db413be624fc83aeea8e61d42ce6x86_debug-1.0.0-890a5fca2e34db413be624fc83aeea8e61d42ce6.pom'. Received status code 403 from server" />
-      <item value="@Deprecated('Switch to using pickMultiImage instead')" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="118" />
+        <entry key="ENGLISH" value="121" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="119" />
+        <entry key="VIETNAMESE" value="122" />
       </map>
     </option>
   </component>
