@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="The binary version of its metadata is 1.5.1, expected version is 1.1.13." />
       <item value="expected" />
       <item value="Module was compiled with an incompatible version of Kotlin. The binary version of its metadata is 1.5.1, expected version is 1.1.13." />
       <item value="approve" />
@@ -53,20 +54,19 @@
       <item value="want Keep Alive" />
       <item value="signature" />
       <item value="trưng bày" />
-      <item value="display" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="124" />
+        <entry key="ENGLISH" value="125" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="124" />
+        <entry key="VIETNAMESE" value="125" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1641782513690" />
+    <option name="lastTrimTime" value="1642215740430" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
