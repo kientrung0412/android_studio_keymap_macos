@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="approve" />
       <item value="thành viên&#10;" />
       <item value="thành viên" />
       <item value="thành " />
@@ -53,12 +54,11 @@
       <item value="display" />
       <item value="hiển thị" />
       <item value="visibility" />
-      <item value="visibilyty" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="121" />
+        <entry key="ENGLISH" value="122" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="VIETNAMESE" value="122" />
