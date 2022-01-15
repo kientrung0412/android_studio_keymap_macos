@@ -13,13 +13,14 @@
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
-  <action id="FindNext">
-    <keyboard-shortcut first-keystroke="meta g" />
-    <mouse-shortcut keystroke="button5" />
-  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <keyboard-shortcut first-keystroke="meta alt right" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="meta n" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+    <mouse-shortcut keystroke="button5" />
   </action>
   <action id="Images.Thumbnails.Hide" />
   <action id="ReformatCode">
