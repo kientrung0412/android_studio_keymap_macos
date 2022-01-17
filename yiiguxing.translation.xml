@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="A problem occurred configuring root project 'better_player'." />
+      <item value="&gt; SDK location not found. Define location with sdk.dir in the local.properties file or with an ANDROID_HOME environment variable." />
       <item value="The binary version of its metadata is 1.5.1, expected version is 1.1.13." />
       <item value="expected" />
       <item value="Module was compiled with an incompatible version of Kotlin. The binary version of its metadata is 1.5.1, expected version is 1.1.13." />
@@ -52,16 +54,14 @@
       <item value="Bad state: Tried to read a provider that threw during the creation of its value." />
       <item value="No ancestor could be found starting from the context that was passed to RepositoryProvider.of&lt;SharePreferenceRepository&gt;()." />
       <item value="want Keep Alive" />
-      <item value="signature" />
-      <item value="trưng bày" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="125" />
+        <entry key="ENGLISH" value="127" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="125" />
+        <entry key="VIETNAMESE" value="127" />
       </map>
     </option>
   </component>
