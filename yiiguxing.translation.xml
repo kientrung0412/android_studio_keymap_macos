@@ -4,8 +4,8 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
-      <item value="Incremental compilation has been disabled: it is not compatible with whole module optimization" />
       <item value="remark: Incremental compilation has been disabled: it is not compatible with whole module optimization" />
+      <item value="Incremental compilation has been disabled: it is not compatible with whole module optimization" />
       <item value="Command CompileSwiftSources failed with a nonzero exit code" />
       <item value="--- xcodebuild: WARNING: Using the first of multiple matching destinations:" />
       <item value="A problem occurred configuring root project 'better_player'." />
@@ -58,10 +58,10 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="133" />
+        <entry key="ENGLISH" value="134" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="133" />
+        <entry key="VIETNAMESE" value="134" />
       </map>
     </option>
   </component>
