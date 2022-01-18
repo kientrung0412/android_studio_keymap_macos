@@ -4,6 +4,23 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="remark: Incremental compilation has been disabled: it is not compatible with whole module optimization" />
+      <item value="Incremental compilation has been disabled: it is not compatible with whole module optimization" />
+      <item value="Command CompileSwiftSources failed with a nonzero exit code" />
+      <item value="--- xcodebuild: WARNING: Using the first of multiple matching destinations:" />
+      <item value="A problem occurred configuring root project 'better_player'." />
+      <item value="&gt; SDK location not found. Define location with sdk.dir in the local.properties file or with an ANDROID_HOME environment variable." />
+      <item value="The binary version of its metadata is 1.5.1, expected version is 1.1.13." />
+      <item value="expected" />
+      <item value="Module was compiled with an incompatible version of Kotlin. The binary version of its metadata is 1.5.1, expected version is 1.1.13." />
+      <item value="approve" />
+      <item value="thành viên&#10;" />
+      <item value="thành viên" />
+      <item value="thành " />
+      <item value="Scrapped or attached views may not be recycled" />
+      <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: [firebase_authcustom-token-mismatch] The custom token corresponds to a different audience." />
+      <item value="The custom token corresponds to a different audience." />
+      <item value="set Fragment Name" />
       <item value="\--- org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.3.72" />
       <item value="Please provide a channel or a version, or run this command in a Flutter project that has FVM configured.&#10;" />
       <item value="√" />
@@ -37,36 +54,19 @@
       <item value="Iflutter (27345): Consider enabling the flag chain-stack-traces to receive more detailed exceptions." />
       <item value="Iflutter (27345): RepositoryProvider.of() called with a context that does not contain a repository of type SharePreferenceRepository." />
       <item value="EXCEPTION" />
-      <item value="══╡ EXCEPTION CAUGHT BY PROVIDER ╞═══════════════════════════════" />
-      <item value="Bad state: Tried to read a provider that threw during the creation of its value." />
-      <item value="No ancestor could be found starting from the context that was passed to RepositoryProvider.of&lt;SharePreferenceRepository&gt;()." />
-      <item value="want Keep Alive" />
-      <item value="signature" />
-      <item value="trưng bày" />
-      <item value="display" />
-      <item value="hiển thị" />
-      <item value="visibility" />
-      <item value="visibilyty" />
-      <item value="visibil" />
-      <item value="'https:data.storage.googleapis.comdownload.flutter.ioioflutterx86_debug1.0.0-890a5fca2e34db413be624fc83aeea8e61d42ce6x86_debug-1.0.0-890a5fca2e34db413be624fc83aeea8e61d42ce6.pom'. Received status code 403 from server" />
-      <item value="@Deprecated('Switch to using pickMultiImage instead')" />
-      <item value="Passing 'null' argument to parameter annotated as @NotNull" />
-      <item value="Liên hệ" />
-      <item value="Liên " />
-      <item value="Liên" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="113" />
+        <entry key="ENGLISH" value="134" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="113" />
+        <entry key="VIETNAMESE" value="134" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1641782513690" />
+    <option name="lastTrimTime" value="1642215740430" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
