@@ -22,6 +22,9 @@
     <keyboard-shortcut first-keystroke="ctrl enter" />
     <mouse-shortcut keystroke="button5" />
   </action>
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="ctrl meta b" />
+  </action>
   <action id="Images.Thumbnails.Hide" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
@@ -31,6 +34,7 @@
     <keyboard-shortcut first-keystroke="ctrl g" />
     <mouse-shortcut keystroke="button4" />
   </action>
+  <action id="ShowBookmarks" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
