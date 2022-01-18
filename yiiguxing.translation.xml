@@ -4,6 +4,16 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="Platform Exception" />
+      <item value="using the platform Firebase integration." />
+      <item value="The default app instance cannot be initialized here and should be created" />
+      <item value="the created app. This method should be called before any usage of FlutterFire plugins." />
+      <item value="Initializes a new [FirebaseApp] instance by [name] and [options] and returns" />
+      <item value="The Project ID from the Firebase console, for example &quot;my-awesome-app&quot;." />
+      <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: [firebase_authunknown] Given String is empty or null" />
+      <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: PlatformException(firebase_core, FirebaseApp name kidsonline_chat already exists!, null, null)" />
+      <item value="kidsonline chat" />
+      <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: [coreduplicate-app] A Firebase App named &quot;kidsonline_chat&quot; already exists" />
       <item value="remark: Incremental compilation has been disabled: it is not compatible with whole module optimization" />
       <item value="Incremental compilation has been disabled: it is not compatible with whole module optimization" />
       <item value="Command CompileSwiftSources failed with a nonzero exit code" />
@@ -44,24 +54,14 @@
       <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: FormatException: Unexpected end of input (at character 1)" />
       <item value="We call the 2 parameter variant specifically to avoid breaking changes in" />
       <item value="Failed to handle method call" />
-      <item value="Unexpected" />
-      <item value="type 'String' is not a subtype of type 'int' of 'index'" />
-      <item value="relationship Vi" />
-      <item value="Missing Plugin Exception" />
-      <item value="o implementation found for method test on channel" />
-      <item value="Hai from android and this is the data yopu sent me" />
-      <item value="Accessing data sent from flutter" />
-      <item value="Iflutter (27345): Consider enabling the flag chain-stack-traces to receive more detailed exceptions." />
-      <item value="Iflutter (27345): RepositoryProvider.of() called with a context that does not contain a repository of type SharePreferenceRepository." />
-      <item value="EXCEPTION" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="134" />
+        <entry key="ENGLISH" value="145" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="134" />
+        <entry key="VIETNAMESE" value="145" />
       </map>
     </option>
   </component>
