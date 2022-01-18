@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="Iflutter: Trungnk 0 StandardMethodCodec.decodeEnvelope (package:fluttersrcservicesmessage_codecs.dart:607:7)" />
+      <item value="IFirebaseAuth: [FirebaseAuth:] Preparing to create service connection to fallback implementation" />
+      <item value="IFirebaseApp: Device unlocked: initializing all Firebase APIs for app module_chat" />
+      <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: [coreno-app] No Firebase App 'module_chat' has been created - call Firebase.initializeApp()" />
       <item value="FirebaseApp name module_chat already exists!" />
       <item value="FirebaseApp name module_chat already exists" />
       <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: FormatException: Unexpected end of input (at character 1)" />
@@ -50,18 +54,14 @@
       <item value="Eflutter (10597): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: Null check operator used on a null value" />
       <item value="libmain.dart:41:20: Warning: Operand of null-aware operation '!' has type 'SharePreferenceRepository' which excludes null." />
       <item value="Eflutter ( 1575): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: LateInitializationError: Field 'pref' has not been initialized." />
-      <item value="conversations" />
-      <item value="failed" />
-      <item value="1 _ChunkedJsonParser.close (dart:convert-patchconvert_patch.dart:523:7)" />
-      <item value="0 _ChunkedJsonParser.fail (dart:convert-patchconvert_patch.dart:1405:5)" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="148" />
+        <entry key="ENGLISH" value="153" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="148" />
+        <entry key="VIETNAMESE" value="153" />
       </map>
     </option>
   </component>
