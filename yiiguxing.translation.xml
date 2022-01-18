@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="The custom token corresponds to a different audience." />
+      <item value="&gt; File google-services.json is missing. The Google Services Plugin cannot function without it." />
       <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: [coreno-app] No Firebase App 'module_chat' has been created - call Firebase.initializeApp()" />
       <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: LateInitializationError: Field 'chatService' has not been initialized." />
       <item value="Iflutter: Trungnk 0 StandardMethodCodec.decodeEnvelope (package:fluttersrcservicesmessage_codecs.dart:607:7)" />
@@ -37,7 +39,6 @@
       <item value="thành " />
       <item value="Scrapped or attached views may not be recycled" />
       <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: [firebase_authcustom-token-mismatch] The custom token corresponds to a different audience." />
-      <item value="The custom token corresponds to a different audience." />
       <item value="set Fragment Name" />
       <item value="\--- org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.3.72" />
       <item value="Please provide a channel or a version, or run this command in a Flutter project that has FVM configured.&#10;" />
@@ -53,15 +54,14 @@
       <item value="Eflutter (26702): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: LateInitializationError: Field 'pref' has not been initialized." />
       <item value="WOkHttp: java.net.UnknownHostException: Unable to resolve host &quot;develop.ko.edu.vn&quot;: No address associated with hostname" />
       <item value="Eflutter (10597): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: Null check operator used on a null value" />
-      <item value="libmain.dart:41:20: Warning: Operand of null-aware operation '!' has type 'SharePreferenceRepository' which excludes null." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="155" />
+        <entry key="ENGLISH" value="157" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="155" />
+        <entry key="VIETNAMESE" value="157" />
       </map>
     </option>
   </component>
