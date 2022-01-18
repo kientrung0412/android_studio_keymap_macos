@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="Caused by: org.gradle.api.InvalidUserCodeException: Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by plugin class 'FlutterPlugin'" />
       <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: [coreduplicate-app] A Firebase App named &quot;module_chat&quot; already exists" />
       <item value="Iflutter: Trungnk [coreno-app] No Firebase App 'module_chat' has been created - call Firebase.initializeApp()" />
       <item value="The custom token corresponds to a different audience." />
@@ -53,15 +54,14 @@
       <item value="lled with a context that does not contain a repository of type FirebaseApp." />
       <item value="&gt; No matching client found for package name 'com.omt.module.chat.kidsonline.host'" />
       <item value="判断是否存在数据" />
-      <item value="Eflutter (26702): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: LateInitializationError: Field 'pref' has not been initialized." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="159" />
+        <entry key="ENGLISH" value="160" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="159" />
+        <entry key="VIETNAMESE" value="160" />
       </map>
     </option>
   </component>
