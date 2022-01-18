@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="FirebaseApp name module_chat already exists" />
+      <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: FormatException: Unexpected end of input (at character 1)" />
       <item value="Platform Exception" />
       <item value="using the platform Firebase integration." />
       <item value="The default app instance cannot be initialized here and should be created" />
@@ -51,17 +53,15 @@
       <item value="failed" />
       <item value="1 _ChunkedJsonParser.close (dart:convert-patchconvert_patch.dart:523:7)" />
       <item value="0 _ChunkedJsonParser.fail (dart:convert-patchconvert_patch.dart:1405:5)" />
-      <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: FormatException: Unexpected end of input (at character 1)" />
       <item value="We call the 2 parameter variant specifically to avoid breaking changes in" />
-      <item value="Failed to handle method call" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="145" />
+        <entry key="ENGLISH" value="147" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="145" />
+        <entry key="VIETNAMESE" value="147" />
       </map>
     </option>
   </component>
