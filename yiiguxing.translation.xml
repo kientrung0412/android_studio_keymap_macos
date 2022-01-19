@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="error node_modulesreact-nativeLibrariesBlobURL.js: Unexpected token punc «:», expected punc «,» in file node_modulesreact-nativeLibrariesBlobURL.js at 106:30. Run CLI with --verbose flag for more details." />
       <item value="&gt; Process 'command 'npx'' finished with non-zero exit value 1" />
       <item value="Execution failed for task ':app:bundleReleaseJsAndAssets'." />
       <item value="warn The following packages use deprecated &quot;rnpm&quot; config that will stop working from next release:" />
@@ -53,15 +54,14 @@
       <item value="thành " />
       <item value="Scrapped or attached views may not be recycled" />
       <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: [firebase_authcustom-token-mismatch] The custom token corresponds to a different audience." />
-      <item value="set Fragment Name" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="170" />
+        <entry key="ENGLISH" value="171" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="170" />
+        <entry key="VIETNAMESE" value="171" />
       </map>
     </option>
   </component>
