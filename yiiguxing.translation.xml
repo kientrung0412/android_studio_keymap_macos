@@ -4,6 +4,41 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="error node_modulesreact-nativeLibrariesBlobURL.js: Unexpected token punc «:», expected punc «,» in file node_modulesreact-nativeLibrariesBlobURL.js at 106:30. Run CLI with --verbose flag for more details." />
+      <item value="&gt; Process 'command 'npx'' finished with non-zero exit value 1" />
+      <item value="Execution failed for task ':app:bundleReleaseJsAndAssets'." />
+      <item value="warn The following packages use deprecated &quot;rnpm&quot; config that will stop working from next release:" />
+      <item value="To suppress this warning, remove &quot;buildToolsVersion '26.0.2'&quot; from your build.gradle file, as each version of the Android Gradle Plugin now has a default version of the build tools." />
+      <item value="The specified Android SDK Build Tools version (26.0.2) is ignored, as it is below the minimum supported version (30.0.2) for Android Gradle Plugin 4.2.2." />
+      <item value="Tạo mới" />
+      <item value="create" />
+      <item value="ensure Initialization Complete Async" />
+      <item value="Preparing to create service connection to fallback implementation" />
+      <item value="VolumesDataAndroidDemoappsrcmainjavacomexampleopenfluttermoduleMainActivity.java:33: error: constant string too long" />
+      <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.example.openfluttermoduleio.flutter.embedding.android.FlutterActivity}: java.lang.IllegalStateException: The requested cached FlutterEngine did not exist in the FlutterEngineCache: 'chat_module'" />
+      <item value="Caused by: org.gradle.api.InvalidUserCodeException: Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by plugin class 'FlutterPlugin'" />
+      <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: [coreduplicate-app] A Firebase App named &quot;module_chat&quot; already exists" />
+      <item value="Iflutter: Trungnk [coreno-app] No Firebase App 'module_chat' has been created - call Firebase.initializeApp()" />
+      <item value="The custom token corresponds to a different audience." />
+      <item value="&gt; File google-services.json is missing. The Google Services Plugin cannot function without it." />
+      <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: [coreno-app] No Firebase App 'module_chat' has been created - call Firebase.initializeApp()" />
+      <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: LateInitializationError: Field 'chatService' has not been initialized." />
+      <item value="Iflutter: Trungnk 0 StandardMethodCodec.decodeEnvelope (package:fluttersrcservicesmessage_codecs.dart:607:7)" />
+      <item value="IFirebaseAuth: [FirebaseAuth:] Preparing to create service connection to fallback implementation" />
+      <item value="IFirebaseApp: Device unlocked: initializing all Firebase APIs for app module_chat" />
+      <item value="FirebaseApp name module_chat already exists!" />
+      <item value="FirebaseApp name module_chat already exists" />
+      <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: FormatException: Unexpected end of input (at character 1)" />
+      <item value="Platform Exception" />
+      <item value="using the platform Firebase integration." />
+      <item value="The default app instance cannot be initialized here and should be created" />
+      <item value="the created app. This method should be called before any usage of FlutterFire plugins." />
+      <item value="Initializes a new [FirebaseApp] instance by [name] and [options] and returns" />
+      <item value="The Project ID from the Firebase console, for example &quot;my-awesome-app&quot;." />
+      <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: [firebase_authunknown] Given String is empty or null" />
+      <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: PlatformException(firebase_core, FirebaseApp name kidsonline_chat already exists!, null, null)" />
+      <item value="kidsonline chat" />
+      <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: [coreduplicate-app] A Firebase App named &quot;kidsonline_chat&quot; already exists" />
       <item value="remark: Incremental compilation has been disabled: it is not compatible with whole module optimization" />
       <item value="Incremental compilation has been disabled: it is not compatible with whole module optimization" />
       <item value="Command CompileSwiftSources failed with a nonzero exit code" />
@@ -19,49 +54,14 @@
       <item value="thành " />
       <item value="Scrapped or attached views may not be recycled" />
       <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: [firebase_authcustom-token-mismatch] The custom token corresponds to a different audience." />
-      <item value="The custom token corresponds to a different audience." />
-      <item value="set Fragment Name" />
-      <item value="\--- org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.3.72" />
-      <item value="Please provide a channel or a version, or run this command in a Flutter project that has FVM configured.&#10;" />
-      <item value="√" />
-      <item value="Notifying" />
-      <item value="Chat function being upgraded" />
-      <item value="The chat feature is being upgraded" />
-      <item value="chat feature upgrading" />
-      <item value="Eflutter (27210): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: [firebase_authinvalid-custom-token] The custom token format is incorrect. Please check the documentation. [ Invalid assertion format. 3 dot separated segments required. ]" />
-      <item value="lled with a context that does not contain a repository of type FirebaseApp." />
-      <item value="&gt; No matching client found for package name 'com.omt.module.chat.kidsonline.host'" />
-      <item value="判断是否存在数据" />
-      <item value="Eflutter (26702): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: LateInitializationError: Field 'pref' has not been initialized." />
-      <item value="WOkHttp: java.net.UnknownHostException: Unable to resolve host &quot;develop.ko.edu.vn&quot;: No address associated with hostname" />
-      <item value="Eflutter (10597): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: Null check operator used on a null value" />
-      <item value="libmain.dart:41:20: Warning: Operand of null-aware operation '!' has type 'SharePreferenceRepository' which excludes null." />
-      <item value="Eflutter ( 1575): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: LateInitializationError: Field 'pref' has not been initialized." />
-      <item value="conversations" />
-      <item value="failed" />
-      <item value="1 _ChunkedJsonParser.close (dart:convert-patchconvert_patch.dart:523:7)" />
-      <item value="0 _ChunkedJsonParser.fail (dart:convert-patchconvert_patch.dart:1405:5)" />
-      <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: FormatException: Unexpected end of input (at character 1)" />
-      <item value="We call the 2 parameter variant specifically to avoid breaking changes in" />
-      <item value="Failed to handle method call" />
-      <item value="Unexpected" />
-      <item value="type 'String' is not a subtype of type 'int' of 'index'" />
-      <item value="relationship Vi" />
-      <item value="Missing Plugin Exception" />
-      <item value="o implementation found for method test on channel" />
-      <item value="Hai from android and this is the data yopu sent me" />
-      <item value="Accessing data sent from flutter" />
-      <item value="Iflutter (27345): Consider enabling the flag chain-stack-traces to receive more detailed exceptions." />
-      <item value="Iflutter (27345): RepositoryProvider.of() called with a context that does not contain a repository of type SharePreferenceRepository." />
-      <item value="EXCEPTION" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="134" />
+        <entry key="ENGLISH" value="171" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="134" />
+        <entry key="VIETNAMESE" value="171" />
       </map>
     </option>
   </component>
