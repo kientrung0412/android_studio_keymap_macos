@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="hygienic" />
       <item value="mặc định" />
       <item value="mặc đi" />
       <item value="mạc" />
@@ -53,15 +54,14 @@
       <item value="Module was compiled with an incompatible version of Kotlin. The binary version of its metadata is 1.5.1, expected version is 1.1.13." />
       <item value="approve" />
       <item value="thành viên&#10;" />
-      <item value="thành viên" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="174" />
+        <entry key="ENGLISH" value="175" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="174" />
+        <entry key="VIETNAMESE" value="175" />
       </map>
     </option>
   </component>
