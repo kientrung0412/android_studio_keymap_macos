@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="bundle Asset Name" />
       <item value="java.lang.RuntimeException: Unable to load script. Make sure you're either running Metro (run 'npx react-native start') or that your bundle 'index.android.bundle' is packaged correctly for release." />
       <item value="hygienic" />
       <item value="mặc định" />
@@ -53,15 +54,14 @@
       <item value="The binary version of its metadata is 1.5.1, expected version is 1.1.13." />
       <item value="expected" />
       <item value="Module was compiled with an incompatible version of Kotlin. The binary version of its metadata is 1.5.1, expected version is 1.1.13." />
-      <item value="approve" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="176" />
+        <entry key="ENGLISH" value="177" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="176" />
+        <entry key="VIETNAMESE" value="177" />
       </map>
     </option>
   </component>
