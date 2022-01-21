@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="&gt; The minCompileSdk (31) specified in a" />
+      <item value="is greater than this module's compileSdkVersion (android-30)." />
       <item value="Userstrungnk.pub-cachehostedpub.dartlang.orgvisibility_detector-0.2.0libsrcvisibility_detector_layer.dart:276:21: Error: Too many positional arguments: 1 allowed, but 2 found." />
       <item value="14:55 Could Not Merge basedevelop: refusing to merge unrelated histories" />
       <item value="has no tracked branch" />
@@ -52,16 +54,14 @@
       <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: [coreduplicate-app] A Firebase App named &quot;kidsonline_chat&quot; already exists" />
       <item value="remark: Incremental compilation has been disabled: it is not compatible with whole module optimization" />
       <item value="Incremental compilation has been disabled: it is not compatible with whole module optimization" />
-      <item value="Command CompileSwiftSources failed with a nonzero exit code" />
-      <item value="--- xcodebuild: WARNING: Using the first of multiple matching destinations:" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="182" />
+        <entry key="ENGLISH" value="184" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="182" />
+        <entry key="VIETNAMESE" value="184" />
       </map>
     </option>
   </component>
