@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="Userstrungnk.pub-cachehostedpub.dartlang.orgvisibility_detector-0.2.0libsrcvisibility_detector_layer.dart:276:21: Error: Too many positional arguments: 1 allowed, but 2 found." />
       <item value="14:55 Could Not Merge basedevelop: refusing to merge unrelated histories" />
       <item value="has no tracked branch" />
       <item value="nhận thông báo tin nhắn" />
@@ -53,15 +54,14 @@
       <item value="Incremental compilation has been disabled: it is not compatible with whole module optimization" />
       <item value="Command CompileSwiftSources failed with a nonzero exit code" />
       <item value="--- xcodebuild: WARNING: Using the first of multiple matching destinations:" />
-      <item value="A problem occurred configuring root project 'better_player'." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="181" />
+        <entry key="ENGLISH" value="182" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="181" />
+        <entry key="VIETNAMESE" value="182" />
       </map>
     </option>
   </component>
