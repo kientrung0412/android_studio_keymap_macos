@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="Because so_teacher depends on flutter_html ^2.2.1 which depends on webview_flutter ^2.0.4, webview_flutter ^2.0.4 is required." />
       <item value="&gt; The minCompileSdk (31) specified in a" />
       <item value="is greater than this module's compileSdkVersion (android-30)." />
       <item value="Userstrungnk.pub-cachehostedpub.dartlang.orgvisibility_detector-0.2.0libsrcvisibility_detector_layer.dart:276:21: Error: Too many positional arguments: 1 allowed, but 2 found." />
@@ -53,15 +54,14 @@
       <item value="kidsonline chat" />
       <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: [coreduplicate-app] A Firebase App named &quot;kidsonline_chat&quot; already exists" />
       <item value="remark: Incremental compilation has been disabled: it is not compatible with whole module optimization" />
-      <item value="Incremental compilation has been disabled: it is not compatible with whole module optimization" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="184" />
+        <entry key="ENGLISH" value="185" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="184" />
+        <entry key="VIETNAMESE" value="185" />
       </map>
     </option>
   </component>
