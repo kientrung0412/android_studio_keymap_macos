@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="nhận thông báo tin nhắn" />
+      <item value="nhaanj" />
       <item value="bundle Asset Name" />
       <item value="java.lang.RuntimeException: Unable to load script. Make sure you're either running Metro (run 'npx react-native start') or that your bundle 'index.android.bundle' is packaged correctly for release." />
       <item value="hygienic" />
@@ -52,16 +54,14 @@
       <item value="A problem occurred configuring root project 'better_player'." />
       <item value="&gt; SDK location not found. Define location with sdk.dir in the local.properties file or with an ANDROID_HOME environment variable." />
       <item value="The binary version of its metadata is 1.5.1, expected version is 1.1.13." />
-      <item value="expected" />
-      <item value="Module was compiled with an incompatible version of Kotlin. The binary version of its metadata is 1.5.1, expected version is 1.1.13." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="177" />
+        <entry key="ENGLISH" value="179" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="177" />
+        <entry key="VIETNAMESE" value="179" />
       </map>
     </option>
   </component>
