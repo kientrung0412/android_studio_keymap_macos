@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="Updating spec repo `trunk`&#10;" />
+      <item value="Error: CocoaPods's specs repository is too out-of-date to satisfy dependencies." />
+      <item value="Automatically assigning platform `iOS` with version `11.0` on target `Runner` because no platform was specified. Please specify a platform for this target in your Podfile" />
+      <item value="[!] Automatically assigning platform `iOS` with version `11.0` on target `Runner` because no platform was specified. Please specify a platform for this target in your Podfile. See `https:guides.cocoapods.orgsyntaxpodfile.htmlplatform`." />
       <item value="Dependency" />
       <item value="is greater than this module's compileSdkVersion (android-30)." />
       <item value="The minCompileSdk (31) specified in a" />
@@ -50,18 +54,14 @@
       <item value="The default app instance cannot be initialized here and should be created" />
       <item value="the created app. This method should be called before any usage of FlutterFire plugins." />
       <item value="Initializes a new [FirebaseApp] instance by [name] and [options] and returns" />
-      <item value="The Project ID from the Firebase console, for example &quot;my-awesome-app&quot;." />
-      <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: [firebase_authunknown] Given String is empty or null" />
-      <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: PlatformException(firebase_core, FirebaseApp name kidsonline_chat already exists!, null, null)" />
-      <item value="kidsonline chat" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="188" />
+        <entry key="ENGLISH" value="191" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="188" />
+        <entry key="VIETNAMESE" value="192" />
       </map>
     </option>
   </component>
