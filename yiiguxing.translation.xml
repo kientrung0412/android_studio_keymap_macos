@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="WSystem (21496): A resource failed to call release." />
+      <item value="Ichromium(21496): [INFO:CONSOLE(2)] &quot;JQMIGRATE: Migrate is installed, version 1.4.1&quot;, source: https:omt.vnwp-includesjsjqueryjquery-migrate.min.js?ver=1.4.1 (2)" />
       <item value="Updating spec repo `trunk`&#10;" />
       <item value="Error: CocoaPods's specs repository is too out-of-date to satisfy dependencies." />
       <item value="Automatically assigning platform `iOS` with version `11.0` on target `Runner` because no platform was specified. Please specify a platform for this target in your Podfile" />
@@ -52,21 +54,19 @@
       <item value="Platform Exception" />
       <item value="using the platform Firebase integration." />
       <item value="The default app instance cannot be initialized here and should be created" />
-      <item value="the created app. This method should be called before any usage of FlutterFire plugins." />
-      <item value="Initializes a new [FirebaseApp] instance by [name] and [options] and returns" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="191" />
+        <entry key="ENGLISH" value="193" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="192" />
+        <entry key="VIETNAMESE" value="193" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1642650430256" />
+    <option name="lastTrimTime" value="1643099564302" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
