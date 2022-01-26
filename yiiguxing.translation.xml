@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="CDN: trunk Relative path: CocoaPods-version.yml exists! Returning local because checking is only performed in repo update" />
       <item value="WSystem (21496): A resource failed to call release." />
       <item value="Ichromium(21496): [INFO:CONSOLE(2)] &quot;JQMIGRATE: Migrate is installed, version 1.4.1&quot;, source: https:omt.vnwp-includesjsjqueryjquery-migrate.min.js?ver=1.4.1 (2)" />
       <item value="Updating spec repo `trunk`&#10;" />
@@ -53,15 +54,14 @@
       <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: FormatException: Unexpected end of input (at character 1)" />
       <item value="Platform Exception" />
       <item value="using the platform Firebase integration." />
-      <item value="The default app instance cannot be initialized here and should be created" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="193" />
+        <entry key="ENGLISH" value="194" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="193" />
+        <entry key="VIETNAMESE" value="194" />
       </map>
     </option>
   </component>
