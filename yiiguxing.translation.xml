@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="quốc kỳ" />
+      <item value="quốc kì" />
+      <item value="quốc " />
+      <item value="quocs" />
       <item value="CDN: trunk Relative path: CocoaPods-version.yml exists! Returning local because checking is only performed in repo update" />
       <item value="WSystem (21496): A resource failed to call release." />
       <item value="Ichromium(21496): [INFO:CONSOLE(2)] &quot;JQMIGRATE: Migrate is installed, version 1.4.1&quot;, source: https:omt.vnwp-includesjsjqueryjquery-migrate.min.js?ver=1.4.1 (2)" />
@@ -50,23 +54,19 @@
       <item value="IFirebaseAuth: [FirebaseAuth:] Preparing to create service connection to fallback implementation" />
       <item value="IFirebaseApp: Device unlocked: initializing all Firebase APIs for app module_chat" />
       <item value="FirebaseApp name module_chat already exists!" />
-      <item value="FirebaseApp name module_chat already exists" />
-      <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: FormatException: Unexpected end of input (at character 1)" />
-      <item value="Platform Exception" />
-      <item value="using the platform Firebase integration." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="194" />
+        <entry key="ENGLISH" value="196" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="194" />
+        <entry key="VIETNAMESE" value="196" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1643099564302" />
+    <option name="lastTrimTime" value="1644217290806" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
