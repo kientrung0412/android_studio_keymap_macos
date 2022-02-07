@@ -4,6 +4,17 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="ພາສາລາວ" />
+      <item value="Ngôn ngữ lào" />
+      <item value="Ngôn ngữ " />
+      <item value="Laose" />
+      <item value="Laoser" />
+      <item value="Laos" />
+      <item value="tiếng lào" />
+      <item value="tiêngs" />
+      <item value="tiêngs " />
+      <item value="tiê" />
+      <item value="tieeng" />
       <item value="quốc kỳ" />
       <item value="quốc kì" />
       <item value="quốc " />
@@ -43,25 +54,15 @@
       <item value="Preparing to create service connection to fallback implementation" />
       <item value="VolumesDataAndroidDemoappsrcmainjavacomexampleopenfluttermoduleMainActivity.java:33: error: constant string too long" />
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.example.openfluttermoduleio.flutter.embedding.android.FlutterActivity}: java.lang.IllegalStateException: The requested cached FlutterEngine did not exist in the FlutterEngineCache: 'chat_module'" />
-      <item value="Caused by: org.gradle.api.InvalidUserCodeException: Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by plugin class 'FlutterPlugin'" />
-      <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: [coreduplicate-app] A Firebase App named &quot;module_chat&quot; already exists" />
-      <item value="Iflutter: Trungnk [coreno-app] No Firebase App 'module_chat' has been created - call Firebase.initializeApp()" />
-      <item value="The custom token corresponds to a different audience." />
-      <item value="&gt; File google-services.json is missing. The Google Services Plugin cannot function without it." />
-      <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: [coreno-app] No Firebase App 'module_chat' has been created - call Firebase.initializeApp()" />
-      <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: LateInitializationError: Field 'chatService' has not been initialized." />
-      <item value="Iflutter: Trungnk 0 StandardMethodCodec.decodeEnvelope (package:fluttersrcservicesmessage_codecs.dart:607:7)" />
-      <item value="IFirebaseAuth: [FirebaseAuth:] Preparing to create service connection to fallback implementation" />
-      <item value="IFirebaseApp: Device unlocked: initializing all Firebase APIs for app module_chat" />
-      <item value="FirebaseApp name module_chat already exists!" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="196" />
+        <entry key="ENGLISH" value="202" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="196" />
+        <entry key="LAO" value="2" />
+        <entry key="VIETNAMESE" value="203" />
       </map>
     </option>
   </component>
