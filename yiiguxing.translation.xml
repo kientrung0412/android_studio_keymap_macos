@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="ISO 639" />
       <item value="Thư viện ảnh" />
       <item value="Chụp ảnh" />
       <item value="Chọn từ thư viện" />
@@ -53,13 +54,13 @@
       <item value="The specified Android SDK Build Tools version (26.0.2) is ignored, as it is below the minimum supported version (30.0.2) for Android Gradle Plugin 4.2.2." />
       <item value="Tạo mới" />
       <item value="create" />
-      <item value="ensure Initialization Complete Async" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
         <entry key="ENGLISH" value="206" />
         <entry key="FRENCH" value="1" />
+        <entry key="FINNISH" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="2" />
         <entry key="VIETNAMESE" value="207" />
