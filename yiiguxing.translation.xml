@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="&lt;li&gt;For backward compatibility reasons, this constructor does not make" />
+      <item value="API on Locale will return only the OLD codes." />
+      <item value="old codes (&quot;iw&quot;, &quot;ji&quot;, and &quot;in&quot;) and the new codes (&quot;he&quot;, &quot;yi&quot;, and &quot;id&quot;), but all other" />
+      <item value="International" />
+      <item value="Please select your region." />
       <item value="ISO 639" />
       <item value="Thư viện ảnh" />
       <item value="Chụp ảnh" />
@@ -49,21 +54,16 @@
       <item value="&gt; Process 'command 'npx'' finished with non-zero exit value 1" />
       <item value="error node_modulesreact-nativeLibrariesBlobURL.js: Unexpected token punc «:», expected punc «,» in file node_modulesreact-nativeLibrariesBlobURL.js at 106:30. Run CLI with --verbose flag for more details." />
       <item value="Execution failed for task ':app:bundleReleaseJsAndAssets'." />
-      <item value="warn The following packages use deprecated &quot;rnpm&quot; config that will stop working from next release:" />
-      <item value="To suppress this warning, remove &quot;buildToolsVersion '26.0.2'&quot; from your build.gradle file, as each version of the Android Gradle Plugin now has a default version of the build tools." />
-      <item value="The specified Android SDK Build Tools version (26.0.2) is ignored, as it is below the minimum supported version (30.0.2) for Android Gradle Plugin 4.2.2." />
-      <item value="Tạo mới" />
-      <item value="create" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="206" />
+        <entry key="ENGLISH" value="209" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="2" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="2" />
-        <entry key="VIETNAMESE" value="207" />
+        <entry key="LAO" value="4" />
+        <entry key="VIETNAMESE" value="209" />
       </map>
     </option>
   </component>
