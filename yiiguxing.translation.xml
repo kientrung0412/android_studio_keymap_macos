@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="dest Local" />
       <item value="&lt;li&gt;For backward compatibility reasons, this constructor does not make" />
       <item value="API on Locale will return only the OLD codes." />
       <item value="old codes (&quot;iw&quot;, &quot;ji&quot;, and &quot;in&quot;) and the new codes (&quot;he&quot;, &quot;yi&quot;, and &quot;id&quot;), but all other" />
@@ -53,7 +54,6 @@
       <item value="mạc" />
       <item value="&gt; Process 'command 'npx'' finished with non-zero exit value 1" />
       <item value="error node_modulesreact-nativeLibrariesBlobURL.js: Unexpected token punc «:», expected punc «,» in file node_modulesreact-nativeLibrariesBlobURL.js at 106:30. Run CLI with --verbose flag for more details." />
-      <item value="Execution failed for task ':app:bundleReleaseJsAndAssets'." />
     </histories>
     <option name="languageScores">
       <map>
@@ -61,9 +61,10 @@
         <entry key="ENGLISH" value="209" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="2" />
+        <entry key="KURDISH" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="209" />
+        <entry key="VIETNAMESE" value="210" />
       </map>
     </option>
   </component>
