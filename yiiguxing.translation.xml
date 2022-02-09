@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="ຈັດການອຸປະກອນ" />
+      <item value="ຢົກເລີກ" />
       <item value="tháng" />
       <item value="1 tháng" />
       <item value="10 tháng" />
@@ -52,18 +54,16 @@
       <item value="Automatically assigning platform `iOS` with version `11.0` on target `Runner` because no platform was specified. Please specify a platform for this target in your Podfile" />
       <item value="[!] Automatically assigning platform `iOS` with version `11.0` on target `Runner` because no platform was specified. Please specify a platform for this target in your Podfile. See `https:guides.cocoapods.orgsyntaxpodfile.htmlplatform`." />
       <item value="Dependency" />
-      <item value="is greater than this module's compileSdkVersion (android-30)." />
-      <item value="The minCompileSdk (31) specified in a" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="217" />
+        <entry key="ENGLISH" value="219" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="2" />
         <entry key="KURDISH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="7" />
+        <entry key="LAO" value="9" />
         <entry key="VIETNAMESE" value="220" />
       </map>
     </option>
