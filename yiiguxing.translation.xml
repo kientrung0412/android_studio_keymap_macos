@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="Time" />
       <item value="Too Many Requests" />
       <item value="Some problems were found with the configuration of task ':flutter:compileFlutterBuildDebug' (type 'FlutterTask')." />
       <item value="ຈັດການອຸປະກອນ" />
@@ -53,7 +54,6 @@
       <item value="Ichromium(21496): [INFO:CONSOLE(2)] &quot;JQMIGRATE: Migrate is installed, version 1.4.1&quot;, source: https:omt.vnwp-includesjsjqueryjquery-migrate.min.js?ver=1.4.1 (2)" />
       <item value="Updating spec repo `trunk`&#10;" />
       <item value="Error: CocoaPods's specs repository is too out-of-date to satisfy dependencies." />
-      <item value="Automatically assigning platform `iOS` with version `11.0` on target `Runner` because no platform was specified. Please specify a platform for this target in your Podfile" />
     </histories>
     <option name="languageScores">
       <map>
@@ -63,7 +63,7 @@
         <entry key="FINNISH" value="2" />
         <entry key="KURDISH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="12" />
+        <entry key="LAO" value="14" />
         <entry key="VIETNAMESE" value="222" />
       </map>
     </option>
