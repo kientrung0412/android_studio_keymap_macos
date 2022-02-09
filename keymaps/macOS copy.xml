@@ -10,10 +10,6 @@
   <action id="Editor TranslateAndReplaceAction">
     <keyboard-shortcut first-keystroke="ctrl meta x" />
   </action>
-  <action id="EditorCreateRectangularSelectionOnMouseDrag">
-    <mouse-shortcut keystroke="button2" />
-    <mouse-shortcut keystroke="meta button1" />
-  </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
@@ -25,11 +21,6 @@
     <keyboard-shortcut first-keystroke="meta n" />
     <keyboard-shortcut first-keystroke="ctrl enter" />
     <mouse-shortcut keystroke="button5" />
-  </action>
-  <action id="GotoDeclaration">
-    <keyboard-shortcut first-keystroke="meta b" />
-    <mouse-shortcut keystroke="Force touch" />
-    <mouse-shortcut keystroke="button2" />
   </action>
   <action id="GotoNextBookmark">
     <keyboard-shortcut first-keystroke="ctrl meta b" />
