@@ -4,6 +4,21 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="tháng" />
+      <item value="1 tháng" />
+      <item value="10 tháng" />
+      <item value="photo" />
+      <item value="phôt" />
+      <item value="Đã thêm 5 ảnh mới" />
+      <item value="Đã" />
+      <item value="Added 2 new photo" />
+      <item value="Added %d new photo" />
+      <item value="t" />
+      <item value="tahngs" />
+      <item value="đã thêm 1 ảnh mới" />
+      <item value="đã thêm 1 ảnh" />
+      <item value="đã thêm 10 ảnh" />
+      <item value="dda" />
       <item value="dest Local" />
       <item value="&lt;li&gt;For backward compatibility reasons, this constructor does not make" />
       <item value="API on Locale will return only the OLD codes." />
@@ -39,32 +54,17 @@
       <item value="Dependency" />
       <item value="is greater than this module's compileSdkVersion (android-30)." />
       <item value="The minCompileSdk (31) specified in a" />
-      <item value="Because so_teacher depends on flutter_html ^2.2.1 which depends on webview_flutter ^2.0.4, webview_flutter ^2.0.4 is required." />
-      <item value="&gt; The minCompileSdk (31) specified in a" />
-      <item value="Userstrungnk.pub-cachehostedpub.dartlang.orgvisibility_detector-0.2.0libsrcvisibility_detector_layer.dart:276:21: Error: Too many positional arguments: 1 allowed, but 2 found." />
-      <item value="14:55 Could Not Merge basedevelop: refusing to merge unrelated histories" />
-      <item value="has no tracked branch" />
-      <item value="nhận thông báo tin nhắn" />
-      <item value="nhaanj" />
-      <item value="bundle Asset Name" />
-      <item value="java.lang.RuntimeException: Unable to load script. Make sure you're either running Metro (run 'npx react-native start') or that your bundle 'index.android.bundle' is packaged correctly for release." />
-      <item value="hygienic" />
-      <item value="mặc định" />
-      <item value="mặc đi" />
-      <item value="mạc" />
-      <item value="&gt; Process 'command 'npx'' finished with non-zero exit value 1" />
-      <item value="error node_modulesreact-nativeLibrariesBlobURL.js: Unexpected token punc «:», expected punc «,» in file node_modulesreact-nativeLibrariesBlobURL.js at 106:30. Run CLI with --verbose flag for more details." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="209" />
+        <entry key="ENGLISH" value="217" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="2" />
         <entry key="KURDISH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="210" />
+        <entry key="LAO" value="7" />
+        <entry key="VIETNAMESE" value="220" />
       </map>
     </option>
   </component>
