@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="Some problems were found with the configuration of task ':flutter:compileFlutterBuildDebug' (type 'FlutterTask')." />
       <item value="ຈັດການອຸປະກອນ" />
       <item value="ຢົກເລີກ" />
       <item value="tháng" />
@@ -53,18 +54,17 @@
       <item value="Error: CocoaPods's specs repository is too out-of-date to satisfy dependencies." />
       <item value="Automatically assigning platform `iOS` with version `11.0` on target `Runner` because no platform was specified. Please specify a platform for this target in your Podfile" />
       <item value="[!] Automatically assigning platform `iOS` with version `11.0` on target `Runner` because no platform was specified. Please specify a platform for this target in your Podfile. See `https:guides.cocoapods.orgsyntaxpodfile.htmlplatform`." />
-      <item value="Dependency" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="219" />
+        <entry key="ENGLISH" value="220" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="2" />
         <entry key="KURDISH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="9" />
-        <entry key="VIETNAMESE" value="220" />
+        <entry key="LAO" value="10" />
+        <entry key="VIETNAMESE" value="221" />
       </map>
     </option>
   </component>
