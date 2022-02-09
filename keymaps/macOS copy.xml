@@ -22,6 +22,11 @@
     <keyboard-shortcut first-keystroke="ctrl enter" />
     <mouse-shortcut keystroke="button5" />
   </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="meta b" />
+    <mouse-shortcut keystroke="Force touch" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
   <action id="GotoNextBookmark">
     <keyboard-shortcut first-keystroke="ctrl meta b" />
   </action>
