@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="KidsOnline needs the following permission to work normally:\n%s.\nGive permissions to KidsOnline?" />
       <item value="is Finish" />
       <item value="Time" />
       <item value="Too Many Requests" />
@@ -53,17 +54,16 @@
       <item value="CDN: trunk Relative path: CocoaPods-version.yml exists! Returning local because checking is only performed in repo update" />
       <item value="WSystem (21496): A resource failed to call release." />
       <item value="Ichromium(21496): [INFO:CONSOLE(2)] &quot;JQMIGRATE: Migrate is installed, version 1.4.1&quot;, source: https:omt.vnwp-includesjsjqueryjquery-migrate.min.js?ver=1.4.1 (2)" />
-      <item value="Updating spec repo `trunk`&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="223" />
+        <entry key="ENGLISH" value="224" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="2" />
         <entry key="KURDISH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="15" />
+        <entry key="LAO" value="16" />
         <entry key="VIETNAMESE" value="222" />
       </map>
     </option>
