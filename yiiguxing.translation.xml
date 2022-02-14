@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="scope" />
       <item value="Tager" />
       <item value="        state.generalModules!.add(ModuleType.MODULE_APP_MANAGER_SEND_POST_CLASS);&#10;" />
       <item value="error node_modulesreact-nativeLibrariesBlobURL.js: Unexpected token punc «:», expected punc «,» in file node_modulesreact-nativeLibrariesBlobURL.js at 106:30. Run CLI with --verbose flag for more details." />
@@ -53,16 +54,15 @@
       <item value="approve" />
       <item value="thành viên&#10;" />
       <item value="thành viên" />
-      <item value="thành " />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="172" />
+        <entry key="ENGLISH" value="173" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="172" />
+        <entry key="VIETNAMESE" value="173" />
       </map>
     </option>
   </component>
