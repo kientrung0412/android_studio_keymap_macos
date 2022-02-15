@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="Eflutter (32312): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: Bad state: Cannot emit new states after calling close" />
       <item value="When the exception was thrown, this was the stack:" />
       <item value="(state.objectTypes ?? []) .firstWhere((element) =&gt; element.selected) .value" />
       <item value="Range" />
@@ -53,16 +54,15 @@
       <item value="&gt; SDK location not found. Define location with sdk.dir in the local.properties file or with an ANDROID_HOME environment variable." />
       <item value="The binary version of its metadata is 1.5.1, expected version is 1.1.13." />
       <item value="expected" />
-      <item value="Module was compiled with an incompatible version of Kotlin. The binary version of its metadata is 1.5.1, expected version is 1.1.13." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="176" />
+        <entry key="ENGLISH" value="177" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="176" />
+        <entry key="VIETNAMESE" value="177" />
       </map>
     </option>
   </component>
