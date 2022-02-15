@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="(state.objectTypes ?? []) .firstWhere((element) =&gt; element.selected) .value" />
       <item value="Range" />
       <item value="scope" />
       <item value="Tager" />
@@ -53,16 +54,15 @@
       <item value="expected" />
       <item value="Module was compiled with an incompatible version of Kotlin. The binary version of its metadata is 1.5.1, expected version is 1.1.13." />
       <item value="approve" />
-      <item value="thành viên&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="174" />
+        <entry key="ENGLISH" value="175" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="174" />
+        <entry key="VIETNAMESE" value="175" />
       </map>
     </option>
   </component>
