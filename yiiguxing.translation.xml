@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="is Show Receivers&#10;" />
+      <item value="is ShowReceivers&#10;" />
+      <item value="isShowReceivers&#10;" />
+      <item value="isShowReceivers" />
       <item value="The expression doesn't evaluate to a function, so it can't be invoked. (Documentation)" />
       <item value="WSystem.err: Cause (1 of 1): class java.lang.RuntimeException: setDataSource failed: status = 0x80000000" />
       <item value="unauthor" />
@@ -50,10 +54,6 @@
       <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: [firebase_authunknown] Given String is empty or null" />
       <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: PlatformException(firebase_core, FirebaseApp name kidsonline_chat already exists!, null, null)" />
       <item value="kidsonline chat" />
-      <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: [coreduplicate-app] A Firebase App named &quot;kidsonline_chat&quot; already exists" />
-      <item value="remark: Incremental compilation has been disabled: it is not compatible with whole module optimization" />
-      <item value="Incremental compilation has been disabled: it is not compatible with whole module optimization" />
-      <item value="Command CompileSwiftSources failed with a nonzero exit code" />
     </histories>
     <option name="languageScores">
       <map>
@@ -62,7 +62,7 @@
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="181" />
+        <entry key="VIETNAMESE" value="182" />
       </map>
     </option>
   </component>
