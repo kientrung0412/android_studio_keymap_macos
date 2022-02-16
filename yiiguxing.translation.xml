@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="WSystem.err: Cause (1 of 1): class java.lang.RuntimeException: setDataSource failed: status = 0x80000000" />
+      <item value="unauthor" />
       <item value="Concurrent modification during iteration: Instance(length:4) of '_GrowableList'." />
       <item value="[showCupertinoDialog], which displays an iOS-style dialog." />
       <item value="Eflutter (32312): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: Bad state: Cannot emit new states after calling close" />
@@ -52,17 +54,15 @@
       <item value="Incremental compilation has been disabled: it is not compatible with whole module optimization" />
       <item value="Command CompileSwiftSources failed with a nonzero exit code" />
       <item value="--- xcodebuild: WARNING: Using the first of multiple matching destinations:" />
-      <item value="A problem occurred configuring root project 'better_player'." />
-      <item value="&gt; SDK location not found. Define location with sdk.dir in the local.properties file or with an ANDROID_HOME environment variable." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="179" />
+        <entry key="ENGLISH" value="180" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="179" />
+        <entry key="VIETNAMESE" value="180" />
       </map>
     </option>
   </component>
