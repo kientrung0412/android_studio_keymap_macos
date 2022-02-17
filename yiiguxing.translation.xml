@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="register Lazy Singleton" />
+      <item value="Objectfactory with type NavigationService is not registered inside GetIt." />
+      <item value="Did you accidentally do GetIt sl=GetIt.instance()" />
+      <item value="jectfactory with type NavigationService is not registered inside GetIt. (Did you accidentally do GetIt sl=GetIt.instance(); instead of GetIt sl=GetIt.instance; Did you forget to register it?)" />
       <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: type 'int' is not a subtype of type 'String?'" />
       <item value="Iflutter: Hanabi Navigator operation requested with a context that does not include a Navigator." />
       <item value="Stack Overflow" />
@@ -50,19 +54,15 @@
       <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: FormatException: Unexpected end of input (at character 1)" />
       <item value="Platform Exception" />
       <item value="using the platform Firebase integration." />
-      <item value="The default app instance cannot be initialized here and should be created" />
-      <item value="the created app. This method should be called before any usage of FlutterFire plugins." />
-      <item value="Initializes a new [FirebaseApp] instance by [name] and [options] and returns" />
-      <item value="The Project ID from the Firebase console, for example &quot;my-awesome-app&quot;." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="183" />
+        <entry key="ENGLISH" value="187" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="183" />
+        <entry key="VIETNAMESE" value="187" />
       </map>
     </option>
   </component>

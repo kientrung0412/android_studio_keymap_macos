@@ -10,4 +10,11 @@
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="ide.text.editor.with.preview.show.floating.toolbar" value="false" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="git" value="false" />
+      </map>
+    </option>
+  </component>
 </application>
