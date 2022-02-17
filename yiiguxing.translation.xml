@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: type 'int' is not a subtype of type 'String?'" />
       <item value="Iflutter: Hanabi Navigator operation requested with a context that does not include a Navigator." />
       <item value="Stack Overflow" />
       <item value="is Show Receivers&#10;" />
@@ -53,16 +54,15 @@
       <item value="the created app. This method should be called before any usage of FlutterFire plugins." />
       <item value="Initializes a new [FirebaseApp] instance by [name] and [options] and returns" />
       <item value="The Project ID from the Firebase console, for example &quot;my-awesome-app&quot;." />
-      <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: [firebase_authunknown] Given String is empty or null" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="182" />
+        <entry key="ENGLISH" value="183" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="182" />
+        <entry key="VIETNAMESE" value="183" />
       </map>
     </option>
   </component>
