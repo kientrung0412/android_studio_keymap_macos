@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="WPersistentConnection: pc_1 - Provided authentication credentials are invalid. This usually indicates your FirebaseApp instance was not initialized correctly. Make sure your google-services.json file has the correct firebase_url and api_key. You can re-download google-services.json from https:console.firebase.google.com." />
+      <item value="DFirebaseAuth: Notifying id token listeners about user ( 581e9eed6974051b83c03c08f7ff05d0 )." />
       <item value="register Lazy Singleton" />
       <item value="Objectfactory with type NavigationService is not registered inside GetIt." />
       <item value="Did you accidentally do GetIt sl=GetIt.instance()" />
@@ -52,17 +54,15 @@
       <item value="FirebaseApp name module_chat already exists!" />
       <item value="FirebaseApp name module_chat already exists" />
       <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: FormatException: Unexpected end of input (at character 1)" />
-      <item value="Platform Exception" />
-      <item value="using the platform Firebase integration." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="187" />
+        <entry key="ENGLISH" value="189" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="187" />
+        <entry key="VIETNAMESE" value="189" />
       </map>
     </option>
   </component>
