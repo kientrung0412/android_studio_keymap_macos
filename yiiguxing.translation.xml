@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="Iflutter: Hanabi Navigator operation requested with a context that does not include a Navigator." />
       <item value="Stack Overflow" />
       <item value="is Show Receivers&#10;" />
       <item value="is ShowReceivers&#10;" />
@@ -53,12 +54,11 @@
       <item value="Initializes a new [FirebaseApp] instance by [name] and [options] and returns" />
       <item value="The Project ID from the Firebase console, for example &quot;my-awesome-app&quot;." />
       <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: [firebase_authunknown] Given String is empty or null" />
-      <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: PlatformException(firebase_core, FirebaseApp name kidsonline_chat already exists!, null, null)" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="181" />
+        <entry key="ENGLISH" value="182" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
