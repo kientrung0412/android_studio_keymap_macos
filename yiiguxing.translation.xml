@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="Default implementation of Window.Callback.onCreatePanelView for activities. This simply returns null so that all panel sub-windows will have the default menu behavior." />
       <item value="Conversation exist" />
       <item value="Obtains a DatabaseReference corresponding to this query's location." />
       <item value="Gets the most up-to-date result for this query." />
@@ -53,16 +54,15 @@
       <item value="&gt; File google-services.json is missing. The Google Services Plugin cannot function without it." />
       <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: [coreno-app] No Firebase App 'module_chat' has been created - call Firebase.initializeApp()" />
       <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: LateInitializationError: Field 'chatService' has not been initialized." />
-      <item value="Iflutter: Trungnk 0 StandardMethodCodec.decodeEnvelope (package:fluttersrcservicesmessage_codecs.dart:607:7)" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="195" />
+        <entry key="ENGLISH" value="196" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="195" />
+        <entry key="VIETNAMESE" value="196" />
       </map>
     </option>
   </component>
