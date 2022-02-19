@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="An exception has occurred in the compiler (1.8.0_322). Please file a bug against the Java compiler via the Java bug reporting page (http:bugreport.java.com) after checking the Bug Database (http:bugs.java.com) for duplicates. Include your program and the following diagnostic in your report. Thank you." />
       <item value="Default implementation of Window.Callback.onCreatePanelView for activities. This simply returns null so that all panel sub-windows will have the default menu behavior." />
       <item value="Conversation exist" />
       <item value="Obtains a DatabaseReference corresponding to this query's location." />
@@ -53,21 +54,20 @@
       <item value="The custom token corresponds to a different audience." />
       <item value="&gt; File google-services.json is missing. The Google Services Plugin cannot function without it." />
       <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: [coreno-app] No Firebase App 'module_chat' has been created - call Firebase.initializeApp()" />
-      <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: LateInitializationError: Field 'chatService' has not been initialized." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="196" />
+        <entry key="ENGLISH" value="197" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="VIETNAMESE" value="196" />
+        <entry key="VIETNAMESE" value="197" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1644813511648" />
+    <option name="lastTrimTime" value="1645273204817" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
