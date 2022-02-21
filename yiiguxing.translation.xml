@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="display" />
+      <item value="hiển thị" />
+      <item value="hieenr " />
       <item value="Did you forget to register an adapter?" />
       <item value="Iflutter: hanabi HiveError: Cannot write, unknown type: Contact. Did you forget to register an adapter?" />
       <item value="An enum switch case label must be the unqualified name of an enumeration constant&#10;" />
@@ -51,19 +54,16 @@
       <item value="ensure Initialization Complete Async" />
       <item value="Preparing to create service connection to fallback implementation" />
       <item value="VolumesDataAndroidDemoappsrcmainjavacomexampleopenfluttermoduleMainActivity.java:33: error: constant string too long" />
-      <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.example.openfluttermoduleio.flutter.embedding.android.FlutterActivity}: java.lang.IllegalStateException: The requested cached FlutterEngine did not exist in the FlutterEngineCache: 'chat_module'" />
-      <item value="Caused by: org.gradle.api.InvalidUserCodeException: Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by plugin class 'FlutterPlugin'" />
-      <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: [coreduplicate-app] A Firebase App named &quot;module_chat&quot; already exists" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="199" />
+        <entry key="ENGLISH" value="203" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="2" />
-        <entry key="VIETNAMESE" value="199" />
+        <entry key="LAO" value="5" />
+        <entry key="VIETNAMESE" value="200" />
       </map>
     </option>
   </component>
