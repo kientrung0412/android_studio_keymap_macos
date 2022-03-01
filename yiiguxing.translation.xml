@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="deserialize" />
       <item value="display" />
       <item value="hiển thị" />
       <item value="hieenr " />
@@ -53,22 +54,21 @@
       <item value="create" />
       <item value="ensure Initialization Complete Async" />
       <item value="Preparing to create service connection to fallback implementation" />
-      <item value="VolumesDataAndroidDemoappsrcmainjavacomexampleopenfluttermoduleMainActivity.java:33: error: constant string too long" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="203" />
+        <entry key="ENGLISH" value="204" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="5" />
-        <entry key="VIETNAMESE" value="200" />
+        <entry key="LAO" value="6" />
+        <entry key="VIETNAMESE" value="201" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1645273204817" />
+    <option name="lastTrimTime" value="1646108453765" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
