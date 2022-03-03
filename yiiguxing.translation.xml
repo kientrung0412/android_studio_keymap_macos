@@ -4,6 +4,12 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="còn hàng" />
+      <item value="thương hiệu" />
+      <item value="lọc" />
+      <item value="locj" />
+      <item value="type 'double' is not a subtype of type 'String'" />
+      <item value="type 'int' is not a subtype of type 'double' in type cast" />
       <item value="EWindowManager: android.view.WindowLeaked: Activity vn.omt.kidsonline.parent.ui.login.LoginActivity has leaked window DecorView@93659d5[LoginActivity] that was originally added here" />
       <item value="cannot be used with a spinner" />
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{codepro.kidsonline.debugvn.omt.kidsonline.parent.ui.login.LoginActivity}: android.view.InflateException: Binary XML file line 75 in codepro.kidsonline.debug:layoutactivity_login: Binary XML file line 75 in codepro.kidsonline.debug:layoutactivity_login: Error inflating class vn.omt.kidsonline.parent.utils.language.LanguageSpinner" />
@@ -48,22 +54,16 @@
       <item value="scope" />
       <item value="Tager" />
       <item value="        state.generalModules!.add(ModuleType.MODULE_APP_MANAGER_SEND_POST_CLASS);&#10;" />
-      <item value="error node_modulesreact-nativeLibrariesBlobURL.js: Unexpected token punc «:», expected punc «,» in file node_modulesreact-nativeLibrariesBlobURL.js at 106:30. Run CLI with --verbose flag for more details." />
-      <item value="&gt; Process 'command 'npx'' finished with non-zero exit value 1" />
-      <item value="Execution failed for task ':app:bundleReleaseJsAndAssets'." />
-      <item value="warn The following packages use deprecated &quot;rnpm&quot; config that will stop working from next release:" />
-      <item value="To suppress this warning, remove &quot;buildToolsVersion '26.0.2'&quot; from your build.gradle file, as each version of the Android Gradle Plugin now has a default version of the build tools." />
-      <item value="The specified Android SDK Build Tools version (26.0.2) is ignored, as it is below the minimum supported version (30.0.2) for Android Gradle Plugin 4.2.2." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="208" />
+        <entry key="ENGLISH" value="213" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="7" />
-        <entry key="VIETNAMESE" value="204" />
+        <entry key="VIETNAMESE" value="211" />
       </map>
     </option>
   </component>
