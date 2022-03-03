@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="trademark" />
+      <item value="stocking" />
+      <item value="tồn kho" />
+      <item value="tồn " />
+      <item value="pass Field" />
       <item value="còn hàng" />
       <item value="thương hiệu" />
       <item value="lọc" />
@@ -49,21 +54,16 @@
       <item value="[showCupertinoDialog], which displays an iOS-style dialog." />
       <item value="Eflutter (32312): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: Bad state: Cannot emit new states after calling close" />
       <item value="When the exception was thrown, this was the stack:" />
-      <item value="(state.objectTypes ?? []) .firstWhere((element) =&gt; element.selected) .value" />
-      <item value="Range" />
-      <item value="scope" />
-      <item value="Tager" />
-      <item value="        state.generalModules!.add(ModuleType.MODULE_APP_MANAGER_SEND_POST_CLASS);&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="213" />
+        <entry key="ENGLISH" value="217" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="7" />
-        <entry key="VIETNAMESE" value="211" />
+        <entry key="VIETNAMESE" value="215" />
       </map>
     </option>
   </component>
