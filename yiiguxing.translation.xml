@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="908" />
     <option name="newTranslationDialogY" value="635" />
     <histories>
+      <item value="Local variable 'sortCar' can't be referenced before it is declared. (Documentation)" />
       <item value="trademark" />
       <item value="stocking" />
       <item value="tồn kho" />
@@ -53,7 +54,6 @@
       <item value="Concurrent modification during iteration: Instance(length:4) of '_GrowableList'." />
       <item value="[showCupertinoDialog], which displays an iOS-style dialog." />
       <item value="Eflutter (32312): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: Bad state: Cannot emit new states after calling close" />
-      <item value="When the exception was thrown, this was the stack:" />
     </histories>
     <option name="languageScores">
       <map>
@@ -63,7 +63,7 @@
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="7" />
-        <entry key="VIETNAMESE" value="215" />
+        <entry key="VIETNAMESE" value="216" />
       </map>
     </option>
   </component>
