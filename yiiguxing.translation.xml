@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="578" />
-    <option name="newTranslationDialogX" value="908" />
-    <option name="newTranslationDialogY" value="635" />
+    <option name="newTranslationDialogHeight" value="448" />
+    <option name="newTranslationDialogWidth" value="1365" />
+    <option name="newTranslationDialogX" value="-1456" />
+    <option name="newTranslationDialogY" value="337" />
     <histories>
+      <item value="Caused by: java.lang.IllegalStateException: The Crashlytics build ID is missing. This occurs when Crashlytics tooling is absent from your app's build configuration. Please review Crashlytics onboarding instructions and ensure you have a valid Crashlytics account." />
+      <item value="ignored" />
+      <item value="Warning provider#cl.json.RNShareFileProvider@android:authorities was tagged at AndroidManifest.xml:8 to replace other declarations but no other declaration present android-parent-v4.app main manifest (this file), line 7 Warning meta-data#android.support.FILE_PROVIDER_PATHS@android:resource was tagged at AndroidManifest.xml:0 to replace other declarations but no other declaration present android-parent-v4.app main manifest (this file)" />
       <item value="Local variable 'sortCar' can't be referenced before it is declared. (Documentation)" />
       <item value="trademark" />
       <item value="stocking" />
@@ -51,19 +55,16 @@
       <item value="The expression doesn't evaluate to a function, so it can't be invoked. (Documentation)" />
       <item value="WSystem.err: Cause (1 of 1): class java.lang.RuntimeException: setDataSource failed: status = 0x80000000" />
       <item value="unauthor" />
-      <item value="Concurrent modification during iteration: Instance(length:4) of '_GrowableList'." />
-      <item value="[showCupertinoDialog], which displays an iOS-style dialog." />
-      <item value="Eflutter (32312): [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: Bad state: Cannot emit new states after calling close" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="217" />
+        <entry key="ENGLISH" value="219" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="7" />
-        <entry key="VIETNAMESE" value="216" />
+        <entry key="VIETNAMESE" value="219" />
       </map>
     </option>
   </component>
