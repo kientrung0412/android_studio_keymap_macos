@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="-1456" />
     <option name="newTranslationDialogY" value="337" />
     <histories>
+      <item value="horizontal" />
       <item value="Caused by: java.lang.IllegalStateException: The Crashlytics build ID is missing. This occurs when Crashlytics tooling is absent from your app's build configuration. Please review Crashlytics onboarding instructions and ensure you have a valid Crashlytics account." />
       <item value="ignored" />
       <item value="Warning provider#cl.json.RNShareFileProvider@android:authorities was tagged at AndroidManifest.xml:8 to replace other declarations but no other declaration present android-parent-v4.app main manifest (this file), line 7 Warning meta-data#android.support.FILE_PROVIDER_PATHS@android:resource was tagged at AndroidManifest.xml:0 to replace other declarations but no other declaration present android-parent-v4.app main manifest (this file)" />
@@ -54,22 +55,21 @@
       <item value="isShowReceivers" />
       <item value="The expression doesn't evaluate to a function, so it can't be invoked. (Documentation)" />
       <item value="WSystem.err: Cause (1 of 1): class java.lang.RuntimeException: setDataSource failed: status = 0x80000000" />
-      <item value="unauthor" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="219" />
+        <entry key="ENGLISH" value="220" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="7" />
-        <entry key="VIETNAMESE" value="219" />
+        <entry key="VIETNAMESE" value="220" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1646108453765" />
+    <option name="lastTrimTime" value="1646628462422" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
