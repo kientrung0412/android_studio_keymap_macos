@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="-1456" />
     <option name="newTranslationDialogY" value="337" />
     <histories>
+      <item value="app Preferences Helper.get App Language()" />
       <item value="Unable to resume activity" />
       <item value="Concurrent Modification Exception" />
       <item value="ETIMEDOUT" />
@@ -54,17 +55,16 @@
       <item value="Stack Overflow" />
       <item value="is Show Receivers&#10;" />
       <item value="is ShowReceivers&#10;" />
-      <item value="isShowReceivers&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="222" />
+        <entry key="ENGLISH" value="223" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="7" />
-        <entry key="VIETNAMESE" value="222" />
+        <entry key="VIETNAMESE" value="223" />
       </map>
     </option>
   </component>
