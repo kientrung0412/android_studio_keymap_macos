@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="-1456" />
     <option name="newTranslationDialogY" value="337" />
     <histories>
+      <item value="Retention Policy.SOURCE" />
+      <item value="Retention" />
       <item value="app Preferences Helper.get App Language()" />
       <item value="Unable to resume activity" />
       <item value="Concurrent Modification Exception" />
@@ -53,18 +55,16 @@
       <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: type 'int' is not a subtype of type 'String?'" />
       <item value="Iflutter: Hanabi Navigator operation requested with a context that does not include a Navigator." />
       <item value="Stack Overflow" />
-      <item value="is Show Receivers&#10;" />
-      <item value="is ShowReceivers&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="223" />
+        <entry key="ENGLISH" value="225" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="7" />
-        <entry key="VIETNAMESE" value="223" />
+        <entry key="VIETNAMESE" value="225" />
       </map>
     </option>
   </component>
