@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="-1456" />
     <option name="newTranslationDialogY" value="337" />
     <histories>
+      <item value="EMessageQueue-JNI: java.lang.IllegalArgumentException: No enum constant vn.omt.kidsonline.parent.utils.locale.AppLanguage.lo" />
       <item value="Caused by: android.view.InflateException: Binary XML file line 96 in com.kidsonline.attendance.debug:layoutactivity_login: Error inflating class com.google.android.material.textfield.TextInputLayout" />
       <item value="prescription" />
       <item value="fortuity" />
@@ -54,7 +55,6 @@
       <item value="DFirebaseAuth: Notifying id token listeners about user ( 581e9eed6974051b83c03c08f7ff05d0 )." />
       <item value="register Lazy Singleton" />
       <item value="Objectfactory with type NavigationService is not registered inside GetIt." />
-      <item value="Did you accidentally do GetIt sl=GetIt.instance()" />
     </histories>
     <option name="languageScores">
       <map>
@@ -62,8 +62,9 @@
         <entry key="ENGLISH" value="227" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />
+        <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="11" />
+        <entry key="LAO" value="12" />
         <entry key="VIETNAMESE" value="228" />
       </map>
     </option>
