@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="-1456" />
     <option name="newTranslationDialogY" value="337" />
     <histories>
+      <item value="card Elevation" />
       <item value="vertical" />
       <item value="inflating" />
       <item value="division" />
@@ -54,18 +55,17 @@
       <item value="Gets the most up-to-date result for this query." />
       <item value="Listens for a single value event and then stops listening." />
       <item value="already Init" />
-      <item value="WPersistentConnection: pc_1 - Provided authentication credentials are invalid. This usually indicates your FirebaseApp instance was not initialized correctly. Make sure your google-services.json file has the correct firebase_url and api_key. You can re-download google-services.json from https:console.firebase.google.com." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="229" />
+        <entry key="ENGLISH" value="230" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="15" />
-        <entry key="VIETNAMESE" value="231" />
+        <entry key="LAO" value="16" />
+        <entry key="VIETNAMESE" value="232" />
       </map>
     </option>
   </component>
