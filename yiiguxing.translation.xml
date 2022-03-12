@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="-1456" />
     <option name="newTranslationDialogY" value="337" />
     <histories>
+      <item value="The layout &quot;fragment_detail_student_temp&quot; in layout has no declaration in the base layout folder; this can lead to crashes when the resource is queried in a configuration that does not match this qualifie" />
       <item value="card Elevation" />
       <item value="vertical" />
       <item value="inflating" />
@@ -54,7 +55,6 @@
       <item value="Obtains a DatabaseReference corresponding to this query's location." />
       <item value="Gets the most up-to-date result for this query." />
       <item value="Listens for a single value event and then stops listening." />
-      <item value="already Init" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="16" />
-        <entry key="VIETNAMESE" value="232" />
+        <entry key="VIETNAMESE" value="233" />
       </map>
     </option>
   </component>
@@ -75,7 +75,7 @@
   <component name="Settings">
     <option name="googleTranslateSettings">
       <google-translate>
-        <option name="primaryLanguage" value="LAO" />
+        <option name="primaryLanguage" value="VIETNAMESE" />
       </google-translate>
     </option>
   </component>
