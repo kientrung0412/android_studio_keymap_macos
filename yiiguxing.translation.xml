@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="-1456" />
     <option name="newTranslationDialogY" value="337" />
     <histories>
+      <item value="new DateTime(studentTemperature.getTime() 1000);" />
       <item value="from Date" />
       <item value="is Before" />
       <item value="tính toán" />
@@ -54,18 +55,17 @@
       <item value="An enum switch case label must be the unqualified name of an enumeration constant" />
       <item value="An exception has occurred in the compiler (1.8.0_322). Please file a bug against the Java compiler via the Java bug reporting page (http:bugreport.java.com) after checking the Bug Database (http:bugs.java.com) for duplicates. Include your program and the following diagnostic in your report. Thank you." />
       <item value="Default implementation of Window.Callback.onCreatePanelView for activities. This simply returns null so that all panel sub-windows will have the default menu behavior." />
-      <item value="Conversation exist" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="234" />
+        <entry key="ENGLISH" value="235" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="16" />
-        <entry key="VIETNAMESE" value="234" />
+        <entry key="VIETNAMESE" value="235" />
       </map>
     </option>
   </component>
