@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="-1456" />
     <option name="newTranslationDialogY" value="337" />
     <histories>
+      <item value="is Before" />
       <item value="tính toán" />
       <item value="The layout &quot;fragment_detail_student_temp&quot; in layout has no declaration in the base layout folder; this can lead to crashes when the resource is queried in a configuration that does not match this qualifie" />
       <item value="card Elevation" />
@@ -54,12 +55,11 @@
       <item value="Default implementation of Window.Callback.onCreatePanelView for activities. This simply returns null so that all panel sub-windows will have the default menu behavior." />
       <item value="Conversation exist" />
       <item value="Obtains a DatabaseReference corresponding to this query's location." />
-      <item value="Gets the most up-to-date result for this query." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="231" />
+        <entry key="ENGLISH" value="232" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />
         <entry key="CORSICAN" value="1" />
