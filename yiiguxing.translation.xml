@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="-1456" />
     <option name="newTranslationDialogY" value="337" />
     <histories>
+      <item value="inflating" />
       <item value="sức khỏe&#10;" />
       <item value="sức" />
       <item value="Sucsw" />
@@ -20,7 +21,6 @@
       <item value="The layout &quot;fragment_detail_student_temp&quot; in layout has no declaration in the base layout folder; this can lead to crashes when the resource is queried in a configuration that does not match this qualifie" />
       <item value="card Elevation" />
       <item value="vertical" />
-      <item value="inflating" />
       <item value="division" />
       <item value="EMessageQueue-JNI: java.lang.IllegalArgumentException: No enum constant vn.omt.kidsonline.parent.utils.locale.AppLanguage.lo" />
       <item value="Caused by: android.view.InflateException: Binary XML file line 96 in com.kidsonline.attendance.debug:layoutactivity_login: Error inflating class com.google.android.material.textfield.TextInputLayout" />
@@ -59,13 +59,13 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="241" />
+        <entry key="ENGLISH" value="242" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="16" />
-        <entry key="VIETNAMESE" value="241" />
+        <entry key="VIETNAMESE" value="242" />
       </map>
     </option>
   </component>
