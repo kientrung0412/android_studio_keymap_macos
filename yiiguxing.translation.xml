@@ -59,13 +59,13 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="246" />
+        <entry key="ENGLISH" value="247" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="19" />
-        <entry key="VIETNAMESE" value="246" />
+        <entry key="LAO" value="20" />
+        <entry key="VIETNAMESE" value="247" />
       </map>
     </option>
   </component>
