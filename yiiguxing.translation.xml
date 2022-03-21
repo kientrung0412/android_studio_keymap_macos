@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="-1456" />
     <option name="newTranslationDialogY" value="337" />
     <histories>
+      <item value="is defined multiple times" />
       <item value="remote: GitLab: You are not allowed to push code to protected branches on this project." />
       <item value="&gt; Cannot resolve external dependency com.android.tools.build:gradle:4.2.2 because no repositories are defined." />
       <item value="Failed to compile values file." />
@@ -54,18 +55,17 @@
       <item value="type 'double' is not a subtype of type 'String'" />
       <item value="type 'int' is not a subtype of type 'double' in type cast" />
       <item value="EWindowManager: android.view.WindowLeaked: Activity vn.omt.kidsonline.parent.ui.login.LoginActivity has leaked window DecorView@93659d5[LoginActivity] that was originally added here" />
-      <item value="cannot be used with a spinner" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="247" />
+        <entry key="ENGLISH" value="248" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="20" />
-        <entry key="VIETNAMESE" value="247" />
+        <entry key="LAO" value="21" />
+        <entry key="VIETNAMESE" value="248" />
       </map>
     </option>
   </component>
