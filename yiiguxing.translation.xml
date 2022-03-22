@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="-1456" />
     <option name="newTranslationDialogY" value="337" />
     <histories>
+      <item value="text Color Secondary" />
       <item value="alert" />
       <item value="aleart" />
       <item value="alea" />
@@ -54,18 +55,17 @@
       <item value="pass Field" />
       <item value="còn hàng" />
       <item value="thương hiệu" />
-      <item value="lọc" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="249" />
+        <entry key="ENGLISH" value="250" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="22" />
-        <entry key="VIETNAMESE" value="249" />
+        <entry key="LAO" value="23" />
+        <entry key="VIETNAMESE" value="250" />
       </map>
     </option>
   </component>
