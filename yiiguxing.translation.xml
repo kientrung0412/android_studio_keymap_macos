@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="-1456" />
     <option name="newTranslationDialogY" value="337" />
     <histories>
+      <item value="defined" />
       <item value="dialog Update Temp Student.is Hidden()" />
       <item value="associated" />
       <item value="Thêm mới thành công" />
@@ -54,18 +55,17 @@
       <item value="ignored" />
       <item value="Warning provider#cl.json.RNShareFileProvider@android:authorities was tagged at AndroidManifest.xml:8 to replace other declarations but no other declaration present android-parent-v4.app main manifest (this file), line 7 Warning meta-data#android.support.FILE_PROVIDER_PATHS@android:resource was tagged at AndroidManifest.xml:0 to replace other declarations but no other declaration present android-parent-v4.app main manifest (this file)" />
       <item value="Local variable 'sortCar' can't be referenced before it is declared. (Documentation)" />
-      <item value="trademark" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="254" />
+        <entry key="ENGLISH" value="255" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="2" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="27" />
-        <entry key="VIETNAMESE" value="254" />
+        <entry key="LAO" value="28" />
+        <entry key="VIETNAMESE" value="255" />
       </map>
     </option>
   </component>
