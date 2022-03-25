@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="555" />
     <option name="newTranslationDialogY" value="454" />
     <histories>
+      <item value="protection Level" />
       <item value="chose" />
       <item value="Completed" />
       <item value="defined" />
@@ -54,18 +55,17 @@
       <item value="ETIMEDOUT" />
       <item value="horizontal" />
       <item value="Caused by: java.lang.IllegalStateException: The Crashlytics build ID is missing. This occurs when Crashlytics tooling is absent from your app's build configuration. Please review Crashlytics onboarding instructions and ensure you have a valid Crashlytics account." />
-      <item value="ignored" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="255" />
+        <entry key="ENGLISH" value="256" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="30" />
-        <entry key="VIETNAMESE" value="257" />
+        <entry key="LAO" value="31" />
+        <entry key="VIETNAMESE" value="258" />
       </map>
     </option>
   </component>
