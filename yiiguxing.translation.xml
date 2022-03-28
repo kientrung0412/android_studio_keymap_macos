@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="555" />
     <option name="newTranslationDialogY" value="454" />
     <histories>
+      <item value="UPDATE CLASS INFO" />
       <item value="Applicant" />
       <item value="gender" />
       <item value="show Error Message" />
@@ -54,17 +55,16 @@
       <item value="Retention" />
       <item value="app Preferences Helper.get App Language()" />
       <item value="Unable to resume activity" />
-      <item value="Concurrent Modification Exception" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="259" />
+        <entry key="ENGLISH" value="260" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="34" />
+        <entry key="LAO" value="35" />
         <entry key="VIETNAMESE" value="261" />
       </map>
     </option>
