@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="555" />
     <option name="newTranslationDialogY" value="454" />
     <histories>
+      <item value="confirm" />
       <item value="gapless Playback" />
       <item value="DEventBus: No subscribers registered for event class vn.omt.kidsonline.teacher.data.EventsOnUpdateTemperatureRecord" />
       <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: type 'List&lt;Object?&gt;' is not a subtype of type 'List&lt;int&gt;?'" />
@@ -54,18 +55,17 @@
       <item value="vertical" />
       <item value="division" />
       <item value="EMessageQueue-JNI: java.lang.IllegalArgumentException: No enum constant vn.omt.kidsonline.parent.utils.locale.AppLanguage.lo" />
-      <item value="Caused by: android.view.InflateException: Binary XML file line 96 in com.kidsonline.attendance.debug:layoutactivity_login: Error inflating class com.google.android.material.textfield.TextInputLayout" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="265" />
+        <entry key="ENGLISH" value="267" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="39" />
-        <entry key="VIETNAMESE" value="265" />
+        <entry key="VIETNAMESE" value="267" />
       </map>
     </option>
   </component>
