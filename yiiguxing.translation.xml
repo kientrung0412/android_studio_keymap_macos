@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="555" />
     <option name="newTranslationDialogY" value="454" />
     <histories>
+      <item value="See [pop] for more details of the semantics of popping a route." />
+      <item value="Typical usage is as follows:" />
+      <item value="given context until the predicate returns true." />
+      <item value="Calls [pop] repeatedly on the navigator that most tightly encloses the" />
       <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: Looking up a deactivated widget's ancestor is unsafe." />
       <item value="rời khỏi nhóm" />
       <item value="rời" />
@@ -51,21 +55,17 @@
       <item value="S" />
       <item value="Súcw" />
       <item value="Súc" />
-      <item value="Header" />
-      <item value="java.lang.IllegalStateException: The specified child already has a parent. You must call removeView() on the child's parent first." />
-      <item value="new DateTime(studentTemperature.getTime() 1000);" />
-      <item value="from Date" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="271" />
+        <entry key="ENGLISH" value="276" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="40" />
-        <entry key="VIETNAMESE" value="271" />
+        <entry key="VIETNAMESE" value="276" />
       </map>
     </option>
   </component>
