@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="555" />
     <option name="newTranslationDialogY" value="454" />
     <histories>
+      <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: Looking up a deactivated widget's ancestor is unsafe." />
       <item value="rời khỏi nhóm" />
       <item value="rời" />
       <item value="ròi" />
@@ -54,18 +55,17 @@
       <item value="java.lang.IllegalStateException: The specified child already has a parent. You must call removeView() on the child's parent first." />
       <item value="new DateTime(studentTemperature.getTime() 1000);" />
       <item value="from Date" />
-      <item value="is Before" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="269" />
+        <entry key="ENGLISH" value="271" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="40" />
-        <entry key="VIETNAMESE" value="270" />
+        <entry key="VIETNAMESE" value="271" />
       </map>
     </option>
   </component>
