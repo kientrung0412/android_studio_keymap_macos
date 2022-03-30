@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="555" />
     <option name="newTranslationDialogY" value="454" />
     <histories>
+      <item value="Send the given locales to Dart." />
       <item value="io.reactivex.exceptions.OnErrorNotImplementedException: The exception was not handled due to missing onError handler in the subscribe() method call. Further reading: https:github.comReactiveXRxJavawikiError-Handling | java.lang.IllegalStateException: Not a JSON Object: &quot;html&gt;&quot;" />
       <item value="put If Absent" />
       <item value="See [pop] for more details of the semantics of popping a route." />
@@ -54,18 +55,17 @@
       <item value="sức khỏe&#10;" />
       <item value="sức" />
       <item value="Sucsw" />
-      <item value="S" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="278" />
+        <entry key="ENGLISH" value="279" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="40" />
-        <entry key="VIETNAMESE" value="278" />
+        <entry key="VIETNAMESE" value="279" />
       </map>
     </option>
   </component>
