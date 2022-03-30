@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="555" />
     <option name="newTranslationDialogY" value="454" />
     <histories>
+      <item value="rời khỏi nhóm" />
+      <item value="rời" />
+      <item value="ròi" />
+      <item value="làm" />
+      <item value="do" />
       <item value="ok" />
       <item value="confirm" />
       <item value="gapless Playback" />
@@ -50,22 +55,17 @@
       <item value="new DateTime(studentTemperature.getTime() 1000);" />
       <item value="from Date" />
       <item value="is Before" />
-      <item value="tính toán" />
-      <item value="The layout &quot;fragment_detail_student_temp&quot; in layout has no declaration in the base layout folder; this can lead to crashes when the resource is queried in a configuration that does not match this qualifie" />
-      <item value="card Elevation" />
-      <item value="vertical" />
-      <item value="division" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="268" />
+        <entry key="ENGLISH" value="269" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="40" />
-        <entry key="VIETNAMESE" value="268" />
+        <entry key="VIETNAMESE" value="270" />
       </map>
     </option>
   </component>
