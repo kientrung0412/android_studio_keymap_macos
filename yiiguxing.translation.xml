@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="555" />
     <option name="newTranslationDialogY" value="454" />
     <histories>
+      <item value="Rekognition" />
       <item value="Send the given locales to Dart." />
       <item value="io.reactivex.exceptions.OnErrorNotImplementedException: The exception was not handled due to missing onError handler in the subscribe() method call. Further reading: https:github.comReactiveXRxJavawikiError-Handling | java.lang.IllegalStateException: Not a JSON Object: &quot;html&gt;&quot;" />
       <item value="put If Absent" />
@@ -54,7 +55,6 @@
       <item value="inflating" />
       <item value="sức khỏe&#10;" />
       <item value="sức" />
-      <item value="Sucsw" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,8 @@
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="40" />
-        <entry key="VIETNAMESE" value="279" />
+        <entry key="CEBUANO" value="1" />
+        <entry key="VIETNAMESE" value="280" />
       </map>
     </option>
   </component>
