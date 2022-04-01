@@ -1,0 +1,13 @@
+<application>
+  <component name="MergeRequestIntegrationApplicationLevel">
+    <Setting name="enable-request-cache" value="1" />
+    <Setting name="save-mr-filter-state" value="1" />
+    <Setting name="comments:display-comments-in-diff-view" value="0" />
+    <Setting name="comments:show-add-comment-icons-in-diff-view-gutter" value="1" />
+    <Setting name="code-review:checkout-target-branch" value="0" />
+    <Setting name="code-review:max-diff-change-opened-automatically" value="10" />
+    <Setting name="merge-request:display-upvotes-downvotes" value="0" />
+    <Setting name="merge-request:display-state" value="1" />
+    <Setting name="rework:enabled" value="1" />
+  </component>
+</application>
