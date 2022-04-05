@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="323" />
     <option name="newTranslationDialogY" value="506" />
     <histories>
+      <item value="Tồn tại" />
+      <item value="exits" />
       <item value="init Chat" />
       <item value="Remove them from the classpath or use '-Xskip-metadata-version-check' to suppress errors" />
       <item value="android.util.AndroidRuntimeException: Calling startActivity() from outside of an Activity context requires the FLAG_ACTIVITY_NEW_TASK flag. Is this really what you want?" />
@@ -53,20 +55,18 @@
       <item value="gapless Playback" />
       <item value="DEventBus: No subscribers registered for event class vn.omt.kidsonline.teacher.data.EventsOnUpdateTemperatureRecord" />
       <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: type 'List&lt;Object?&gt;' is not a subtype of type 'List&lt;int&gt;?'" />
-      <item value="Chức vụ" />
-      <item value="Chức " />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="299" />
+        <entry key="ENGLISH" value="301" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="42" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="296" />
+        <entry key="VIETNAMESE" value="297" />
       </map>
     </option>
   </component>
