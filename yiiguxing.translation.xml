@@ -2,9 +2,21 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="448" />
     <option name="newTranslationDialogWidth" value="1365" />
-    <option name="newTranslationDialogX" value="323" />
-    <option name="newTranslationDialogY" value="506" />
+    <option name="newTranslationDialogX" value="330" />
+    <option name="newTranslationDialogY" value="503" />
     <histories>
+      <item value="Bé Hèn có số đo nhiệt độ mới" />
+      <item value="Bé Hèn có số đo nhiêt" />
+      <item value="Bé Hèn có số đô nhiệt đọ mới" />
+      <item value="Bé Hèn có số đô nhiệt đọ m" />
+      <item value="Bé Hèn có số đô nhiểh" />
+      <item value="Bé Hèn c" />
+      <item value="Bé Hèn ció" />
+      <item value="Bé Hèn" />
+      <item value="Bé Hên" />
+      <item value="Bé Hằng" />
+      <item value="Bé " />
+      <item value="Circular Image View" />
       <item value="&lt;string name=&quot;umbalena_title&quot;&gt;Inspire Big Love for Reading with UMBALENA&lt;string&gt;" />
       <item value="Nhiệt độ mới chưa cập nhật" />
       <item value="is greater than this module's compileSdkVersion (android-30)." />
@@ -43,30 +55,18 @@
       <item value="Exponential" />
       <item value="tạo mới" />
       <item value="tạo mo" />
-      <item value="tạo m" />
-      <item value="tạo mưới" />
-      <item value="policy" />
-      <item value="Rekognition" />
-      <item value="Send the given locales to Dart." />
-      <item value="io.reactivex.exceptions.OnErrorNotImplementedException: The exception was not handled due to missing onError handler in the subscribe() method call. Further reading: https:github.comReactiveXRxJavawikiError-Handling | java.lang.IllegalStateException: Not a JSON Object: &quot;html&gt;&quot;" />
-      <item value="put If Absent" />
-      <item value="See [pop] for more details of the semantics of popping a route." />
-      <item value="Typical usage is as follows:" />
-      <item value="given context until the predicate returns true." />
-      <item value="Calls [pop] repeatedly on the navigator that most tightly encloses the" />
-      <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: Looking up a deactivated widget's ancestor is unsafe." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="309" />
+        <entry key="ENGLISH" value="311" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="44" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="307" />
+        <entry key="VIETNAMESE" value="309" />
       </map>
     </option>
   </component>
