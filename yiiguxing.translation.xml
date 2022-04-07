@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="330" />
     <option name="newTranslationDialogY" value="503" />
     <histories>
+      <item value="ກຳລັງອັບໂຫຼດ %s ວິດີໂອ" />
       <item value="Bé Hèn có số đo nhiệt độ mới" />
       <item value="Bé Hèn có số đo nhiêt" />
       <item value="Bé Hèn có số đô nhiệt đọ mới" />
@@ -54,7 +55,6 @@
       <item value="Precision" />
       <item value="Exponential" />
       <item value="tạo mới" />
-      <item value="tạo mo" />
     </histories>
     <option name="languageScores">
       <map>
@@ -64,7 +64,7 @@
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="44" />
+        <entry key="LAO" value="45" />
         <entry key="CEBUANO" value="1" />
         <entry key="VIETNAMESE" value="309" />
       </map>
