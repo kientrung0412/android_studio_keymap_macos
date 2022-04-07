@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="323" />
     <option name="newTranslationDialogY" value="506" />
     <histories>
+      <item value="is greater than this module's compileSdkVersion (android-30)." />
       <item value="Failed to derive app_type for uc type" />
       <item value="Targeting S+ (version 31 and above) requires that one of FLAG_IMMUTABLE or FLAG_MUTABLE be specified when creating a PendingIntent. Strongly consider using FLAG_IMMUTABLE, only use FLAG_MUTABLE if some functionality depends on the PendingIntent being mutable, e.g. if it needs to be used with inline replies or bubbles." />
       <item value="2022-04-06 14:08:11.429 ENotificationService: Indirect notification activity start (trampoline) from com.kidsonline.teacher.debug blocked" />
@@ -54,19 +55,18 @@
       <item value="Eflutter: [ERROR:flutterlibuiui_dart_state.cc(209)] Unhandled Exception: Looking up a deactivated widget's ancestor is unsafe." />
       <item value="rời khỏi nhóm" />
       <item value="rời" />
-      <item value="ròi" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="306" />
+        <entry key="ENGLISH" value="307" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="44" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="304" />
+        <entry key="VIETNAMESE" value="305" />
       </map>
     </option>
   </component>
