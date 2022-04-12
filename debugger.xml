@@ -36,11 +36,6 @@
       <option name="INCLUDE" value="true" />
     </filter>
     <filter>
-      <option name="PATTERN" value="org.junit.*" />
-      <option name="ENABLED" value="true" />
-      <option name="INCLUDE" value="true" />
-    </filter>
-    <filter>
       <option name="PATTERN" value="com.intellij.rt.*" />
       <option name="ENABLED" value="true" />
       <option name="INCLUDE" value="true" />
@@ -76,15 +71,25 @@
       <option name="INCLUDE" value="true" />
     </filter>
     <filter>
-      <option name="PATTERN" value="org.mockito.*" />
-      <option name="ENABLED" value="true" />
-      <option name="INCLUDE" value="true" />
-    </filter>
-    <filter>
       <option name="PATTERN" value="kotlin.*" />
       <option name="ENABLED" value="true" />
       <option name="INCLUDE" value="true" />
     </filter>
+  </component>
+  <component name="NodeRendererSettings">
+    <CustomRenderers VERSION="8">
+      <Renderer ID="CompoundNodeRenderer">
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="vn.omt.centeronline.teacher.adapter.DashBoardAdapter" />
+        <Renderer ID="EnumerationChildrenRenderer" role="children">
+          <option name="QUALIFIED_NAME" value="vn.omt.centeronline.teacher.adapter.DashBoardAdapter" />
+          <option name="AppendDefault" value="true" />
+          <ChildrenExpression Name="">
+            <TextWithImports text="&#13;&#13;JAVA" type="expression" />
+          </ChildrenExpression>
+        </Renderer>
+      </Renderer>
+    </CustomRenderers>
   </component>
   <component name="XDebuggerSettings">
     <data-views />

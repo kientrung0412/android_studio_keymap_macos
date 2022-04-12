@@ -1,0 +1,77 @@
+<templateSet group="Android">
+  <template name="extra" value="public static final String EXTRA_$name$ = &quot;extra.$name$&quot;;" description="extra string" toReformat="true" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="Noti" value="String channel = &quot;&quot;;&#10;&#10;NotificationCompat.Builder builder = new NotificationCompat.Builder(this, channel)&#10;        .setContentTitle(&quot;Demo&quot;)&#10;        .setSmallIcon(R.mipmap.ic_launcher)&#10;        .setContentText(&quot;hsadjgajdgajd&quot;);&#10;&#10;if (Build.VERSION.SDK_INT &gt;= Build.VERSION_CODES.O) {&#10;    NotificationManager manager = (NotificationManager) getSystemService(NOTIFICATION_SERVICE);&#10;    NotificationChannel notificationChannel = new NotificationChannel(&#10;            channel, channel, NotificationManager.IMPORTANCE_LOW&#10;    );&#10;    manager.createNotificationChannel(notificationChannel);&#10;&#10;    manager.notify(123, builder.build());&#10;}" description="Notification" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="Notification" value="String channel = $channel$;&#10;&#10;NotificationCompat.Builder builder = new NotificationCompat.Builder(this, channel)&#10;        .setContentTitle($title$)&#10;        .setSmallIcon($smallIcon$)&#10;        .setContentText($content$);&#10;&#10;NotificationManager manager = (NotificationManager) getSystemService(NOTIFICATION_SERVICE);&#10;&#10;if (Build.VERSION.SDK_INT &gt;= Build.VERSION_CODES.O) {&#10;    NotificationChannel notificationChannel = new NotificationChannel(&#10;            channel, channel, NotificationManager.IMPORTANCE_LOW&#10;    );&#10;    manager.createNotificationChannel(notificationChannel);&#10;}&#10;&#10;manager.notify($id$, builder.build());" shortcut="TAB" description="Notification create" toReformat="true" toShortenFQNames="true">
+    <variable name="channel" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="title" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="smallIcon" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="id" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="fid" value="$views$ = findViewById(R.id.$resId$);" description="mapping view activity" toReformat="true" toShortenFQNames="true">
+    <variable name="views" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="resId" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="Room" value="androidx.room.Room.databaseBuilder($context$, $AppDatabase$.class, &quot;$DatabaseName$&quot;)&#10;        .allowMainThreadQueries()&#10;        .build();&#10;     &#10;" description="Create database" toReformat="true" toShortenFQNames="true">
+    <variable name="context" expression="variableOfType(&quot;android.content.Context&quot;)" defaultValue="" alwaysStopAt="false" />
+    <variable name="AppDatabase" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <variable name="DatabaseName" expression="" defaultValue="&quot;db.name&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="is" value="@androidx.room.Insert&#10;void insert($model$... $name$);" description="Insert to database" toReformat="false" toShortenFQNames="true">
+    <variable name="model" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ud" value="@androidx.room.Update&#10;void update($model$... $name$);" description="update database" toReformat="false" toShortenFQNames="true">
+    <variable name="model" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="dl" value="@androidx.room.Delete&#10;void delete($modle$... $name$);" description="delete row database" toReformat="false" toShortenFQNames="true">
+    <variable name="modle" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="Retro" value="new retrofit2.Retrofit.Builder()&#10;.baseUrl(&quot;$url$&quot;)&#10;.addConverterFactory(retrofit2.converter.gson.GsonConverterFactory.create())&#10;.build()&#10;.create($ApiClass$);&#10;     &#10;" description="create ApiBuilder" toReformat="true" toShortenFQNames="true">
+    <variable name="url" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ApiClass" expression="" defaultValue="Api.class" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="foreach" value="for ($i$ : $data$) {&#10;    $cursor$&#10;}" description="Create a for each loop" toReformat="false" toShortenFQNames="true">
+    <variable name="i" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="data" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="checkPermission" value="private boolean checkPermission(String[] permissions, boolean request) {&#10;        if (Build.VERSION.SDK_INT &gt;= Build.VERSION_CODES.M) {&#10;            for (String p : permissions){&#10;                if (checkSelfPermission(p) != PackageManager.PERMISSION_GRANTED) {&#10;                    if (request) {&#10;                        requestPermissions(permissions, 0);&#10;                    }&#10;                    return false;&#10;                }&#10;            }&#10;        }&#10;        return true;&#10;    }" description="Check permission" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

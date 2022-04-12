@@ -1,0 +1,8 @@
+<templateSet group="Flutter">
+  <template name="nvgtp" value=" Navigator.push(context, MaterialPageRoute(builder: (context) =&gt; $view$ ));" description="Navigator push" toReformat="false" toShortenFQNames="true">
+    <variable name="view" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,16 @@
+<application>
+  <component name="TextDiffSettings">
+    <option name="PLACES_MAP">
+      <entry key="Default">
+        <PlaceSettings>
+          <option name="EXPAND_BY_DEFAULT" value="false" />
+        </PlaceSettings>
+      </entry>
+      <entry key="Merge">
+        <PlaceSettings>
+          <option name="BREADCRUMBS_PLACEMENT" value="TOP" />
+        </PlaceSettings>
+      </entry>
+    </option>
+  </component>
+</application>

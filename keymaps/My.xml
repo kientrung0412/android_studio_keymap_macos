@@ -1,0 +1,62 @@
+<keymap version="1" name="My" parent="$default">
+  <action id="ActivateLogcatToolWindow">
+    <keyboard-shortcut first-keystroke="alt 6" />
+  </action>
+  <action id="ActivateTODOToolWindow" />
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="EditorSelectLine">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="EditorToggleColumnMode">
+    <keyboard-shortcut first-keystroke="shift alt insert" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt x" />
+  </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="OpenCodotaSearch" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="alt j" />
+    <mouse-shortcut keystroke="button4" />
+  </action>
+  <action id="StringManipulation.ToCamelCase">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="StringManipulation.ToPascalCaseOrCamelCase">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="StringManipulation.ToSnakeCase">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="StringManipulation.ToSnakeCaseOrCamelCase">
+    <keyboard-shortcut first-keystroke="shift alt 1" />
+  </action>
+  <action id="UpdateRunningApplication" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.ToLowerCaseAction">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.ToUpperCaseAction">
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.styles.ToCamelCaseOrToWordLowercaseAction">
+    <keyboard-shortcut first-keystroke="shift alt 2" />
+  </action>
+</keymap>
