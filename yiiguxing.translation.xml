@@ -6,6 +6,11 @@
     <option name="newTranslationDialogY" value="454" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="handle an escaped value" />
+      <item value="unescape&#10;&#10;" />
+      <item value="unescape&#10;" />
+      <item value="unescape" />
+      <item value="unescape Java" />
       <item value="Check temperature" />
       <item value="Please enter temperature" />
       <item value="Number of students measured" />
@@ -51,23 +56,18 @@
       <item value="ISetupWizard: [DeferredSetupNotificationSchedulerService] Removing existing notification. Priority is DO_NOT_SHOW" />
       <item value="WNotification: Bubbles work best with icons of TYPE_URI or TYPE_URI_ADAPTIVE_BITMAP. In the future, using an icon of this type will be required." />
       <item value="Tồn tại" />
-      <item value="exits" />
-      <item value="init Chat" />
-      <item value="Remove them from the classpath or use '-Xskip-metadata-version-check' to suppress errors" />
-      <item value="android.util.AndroidRuntimeException: Calling startActivity() from outside of an Activity context requires the FLAG_ACTIVITY_NEW_TASK flag. Is this really what you want?" />
-      <item value="rom outside of an Activity" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="318" />
+        <entry key="ENGLISH" value="320" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="52" />
+        <entry key="LAO" value="53" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="315" />
+        <entry key="VIETNAMESE" value="317" />
       </map>
     </option>
   </component>
