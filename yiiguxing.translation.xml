@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="448" />
     <option name="newTranslationDialogWidth" value="1365" />
-    <option name="newTranslationDialogX" value="555" />
+    <option name="newTranslationDialogX" value="147" />
     <option name="newTranslationDialogY" value="454" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="hghgf&#10;" />
+      <item value="hghgf" />
       <item value="Unknown host 'repo.maven.apache.org'. You may need to adjust the proxy settings in Gradle." />
       <item value="Please select at least 1 student to receive the album" />
       <item value="handle an escaped value" />
@@ -54,8 +56,6 @@
       <item value="Targeting S+ (version 31 and above) requires that one of FLAG_IMMUTABLE or FLAG_MUTABLE be specified when creating a PendingIntent. Strongly consider using FLAG_IMMUTABLE, only use FLAG_MUTABLE if some functionality depends on the PendingIntent being mutable, e.g. if it needs to be used with inline replies or bubbles." />
       <item value="2022-04-06 14:08:11.429 ENotificationService: Indirect notification activity start (trampoline) from com.kidsonline.teacher.debug blocked" />
       <item value="Quick attendance" />
-      <item value="ISetupWizard: [bsu] [logReason:Get Notification Priority, UserDismissed: true, PersonalizationComplete: false, DPEnable: true, DPExisted: false, DPComplete: false, DAHPActions: 1, DAMPActions:2 , DAPAReason:Chỉ còn một vài bước nữa]" />
-      <item value="ISetupWizard: [DeferredSetupNotificationSchedulerService] Removing existing notification. Priority is DO_NOT_SHOW" />
     </histories>
     <option name="languageScores">
       <map>
