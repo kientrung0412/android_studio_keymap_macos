@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="454" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Unknown host 'repo.maven.apache.org'. You may need to adjust the proxy settings in Gradle." />
       <item value="Please select at least 1 student to receive the album" />
       <item value="handle an escaped value" />
       <item value="unescape&#10;&#10;" />
@@ -55,7 +56,6 @@
       <item value="Quick attendance" />
       <item value="ISetupWizard: [bsu] [logReason:Get Notification Priority, UserDismissed: true, PersonalizationComplete: false, DPEnable: true, DPExisted: false, DPComplete: false, DAHPActions: 1, DAMPActions:2 , DAPAReason:Chỉ còn một vài bước nữa]" />
       <item value="ISetupWizard: [DeferredSetupNotificationSchedulerService] Removing existing notification. Priority is DO_NOT_SHOW" />
-      <item value="WNotification: Bubbles work best with icons of TYPE_URI or TYPE_URI_ADAPTIVE_BITMAP. In the future, using an icon of this type will be required." />
     </histories>
     <option name="languageScores">
       <map>
