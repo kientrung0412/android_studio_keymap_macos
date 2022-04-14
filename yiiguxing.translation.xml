@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="454" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Notes for the whole class" />
       <item value="&#10;This Parcel should be recycled after use with #recycle()&#10;" />
       <item value="&#10;This Parcel should be recycled after use with #recycle()" />
       <item value="parcelable Flags" />
@@ -55,7 +56,6 @@
       <item value="&lt;string name=&quot;umbalena_title&quot;&gt;Inspire Big Love for Reading with UMBALENA&lt;string&gt;" />
       <item value="Nhiệt độ mới chưa cập nhật" />
       <item value="is greater than this module's compileSdkVersion (android-30)." />
-      <item value="Failed to derive app_type for uc type" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="54" />
+        <entry key="LAO" value="55" />
         <entry key="CEBUANO" value="1" />
         <entry key="VIETNAMESE" value="319" />
       </map>
