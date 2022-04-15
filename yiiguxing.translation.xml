@@ -6,9 +6,6 @@
     <option name="newTranslationDialogY" value="25" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="thanhf coong" />
-      <item value="A problem occurred evaluating project ':app'." />
-      <item value="&gt; No signature of method: build_a6ppdw47mmlqbh28hwr7lrn80.android() is applicable for argument types: (build_a6ppdw47mmlqbh28hwr7lrn80_run_closure1) values: [build_a6ppdw47mmlqbh28hwr7lrn80_run_closure1@243920fe]" />
       <item value="    &lt;string name=&quot;students_owed&quot;&gt;Total students owed&lt;/string&gt;&#10;" />
       <item value="Total student owed" />
       <item value="Total sowed" />
@@ -56,18 +53,21 @@
       <item value="Bé Hèn có số đo nhiêt" />
       <item value="Bé Hèn có số đô nhiệt đọ mới" />
       <item value="Bé Hèn có số đô nhiệt đọ m" />
+      <item value="Bé Hèn có số đô nhiểh" />
+      <item value="Bé Hèn c" />
+      <item value="Bé Hèn ció" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="326" />
+        <entry key="ENGLISH" value="323" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="55" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="321" />
+        <entry key="VIETNAMESE" value="319" />
       </map>
     </option>
   </component>
