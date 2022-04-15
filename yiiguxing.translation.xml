@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="25" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Successful body temperature attendance" />
+      <item value="Check temperature" />
       <item value="Temperature&#10;" />
       <item value="Temperature" />
       <item value="Result of body temperature measurement" />
@@ -30,7 +32,6 @@
       <item value="unescape&#10;" />
       <item value="unescape" />
       <item value="unescape Java" />
-      <item value="Check temperature" />
       <item value="Please enter temperature" />
       <item value="Number of students measured" />
       <item value="có số đo thân nhiệt mới" />
@@ -55,7 +56,6 @@
       <item value="Bé Hèn có số đo nhiêt" />
       <item value="Bé Hèn có số đô nhiệt đọ mới" />
       <item value="Bé Hèn có số đô nhiệt đọ m" />
-      <item value="Bé Hèn có số đô nhiểh" />
     </histories>
     <option name="languageScores">
       <map>
