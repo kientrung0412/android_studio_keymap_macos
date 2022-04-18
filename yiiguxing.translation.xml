@@ -1,21 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogHeight" value="533" />
+    <option name="newTranslationDialogHeight" value="993" />
     <option name="newTranslationDialogWidth" value="1365" />
-    <option name="newTranslationDialogX" value="2094" />
-    <option name="newTranslationDialogY" value="293" />
+    <option name="newTranslationDialogX" value="555" />
+    <option name="newTranslationDialogY" value="25" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="focused Finance Summary" />
-      <item value="số lượng học sinh chưa đóng học phí" />
-      <item value="soos " />
-      <item value="s" />
-      <item value="giây" />
-      <item value="ກວດເບິ່ງອຸນຫະພູມ" />
-      <item value="Temperature ກວດເບິ່ງອຸນຫະພູມ" />
-      <item value="Temperature attendance" />
-      <item value="Successful body temperature attendance" />
-      <item value="Check temperature" />
+      <item value=" if you want more information&#10;&#10;" />
+      <item value=" if you want more information&#10;" />
       <item value="Temperature&#10;" />
       <item value="Temperature" />
       <item value="Result of body temperature measurement" />
@@ -40,6 +32,7 @@
       <item value="unescape&#10;" />
       <item value="unescape" />
       <item value="unescape Java" />
+      <item value="Check temperature" />
       <item value="Please enter temperature" />
       <item value="Number of students measured" />
       <item value="có số đo thân nhiệt mới" />
@@ -56,23 +49,30 @@
       <item value="&#10;&quot;choose_student&quot; is translated here but not found in default locale" />
       <item value="choose student" />
       <item value="chose student" />
+      <item value="before" />
+      <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.kidsonline.teacher.debugvn.omt.kidsonline.teacher.ui.album.video.PlayerVideoActivity}: android.util.AndroidRuntimeException: requestFeature() must be called before adding content" />
+      <item value="java.lang.IllegalArgumentException: roundingRadius must be greater than 0." />
+      <item value="ກຳລັງອັບໂຫຼດ %s ວິດີໂອ" />
+      <item value="Bé Hèn có số đo nhiệt độ mới" />
+      <item value="Bé Hèn có số đo nhiêt" />
+      <item value="Bé Hèn có số đô nhiệt đọ mới" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="327" />
+        <entry key="ENGLISH" value="323" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="56" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="322" />
+        <entry key="VIETNAMESE" value="319" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1650252177425" />
+    <option name="lastTrimTime" value="1650249072414" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
