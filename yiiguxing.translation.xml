@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="25" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value=" if you want more information&#10;&#10;" />
+      <item value=" if you want more information&#10;" />
       <item value="Temperature&#10;" />
       <item value="Temperature" />
       <item value="Result of body temperature measurement" />
@@ -54,8 +56,6 @@
       <item value="Bé Hèn có số đo nhiệt độ mới" />
       <item value="Bé Hèn có số đo nhiêt" />
       <item value="Bé Hèn có số đô nhiệt đọ mới" />
-      <item value="Bé Hèn có số đô nhiệt đọ m" />
-      <item value="Bé Hèn có số đô nhiểh" />
     </histories>
     <option name="languageScores">
       <map>
@@ -72,7 +72,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1649733206634" />
+    <option name="lastTrimTime" value="1650249072414" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
