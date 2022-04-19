@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="38" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Type net.alhazmy13.mediagallery.library.BaseImage is defined multiple times: VolumesDataOMTKOkidsonline-attendanceappbuildintermediatessub_project_dex_archivereleaseout55a75fc67ccada9459921123d09f3774c4c619a0316b2909d5c22be4ccb531cd_0.jar:classes.dex, VolumesDataOMTKOkidsonline-attendanceappbuildintermediatesexternal_libs_dexreleasemergeExtDexReleaseclasses3.dex" />
       <item value="thanhf coong" />
       <item value="WSystem.err: java.io.IOException: write failed: EINVAL (Invalid argument)" />
       <item value="Retrieve any offsets for the given item. Each field of outRect specifies the" />
@@ -55,19 +56,18 @@
       <item value="chose student" />
       <item value="before" />
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.kidsonline.teacher.debugvn.omt.kidsonline.teacher.ui.album.video.PlayerVideoActivity}: android.util.AndroidRuntimeException: requestFeature() must be called before adding content" />
-      <item value="java.lang.IllegalArgumentException: roundingRadius must be greater than 0." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="327" />
+        <entry key="ENGLISH" value="328" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="56" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="324" />
+        <entry key="VIETNAMESE" value="325" />
       </map>
     </option>
   </component>
