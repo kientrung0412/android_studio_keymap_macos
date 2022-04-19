@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="25" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="WSystem.err: java.io.IOException: write failed: EINVAL (Invalid argument)" />
       <item value="Retrieve any offsets for the given item. Each field of outRect specifies the" />
       <item value="is greater than this module's compileSdkVersion (android-30)." />
       <item value=" if you want more information&#10;&#10;" />
@@ -55,19 +56,18 @@
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.kidsonline.teacher.debugvn.omt.kidsonline.teacher.ui.album.video.PlayerVideoActivity}: android.util.AndroidRuntimeException: requestFeature() must be called before adding content" />
       <item value="java.lang.IllegalArgumentException: roundingRadius must be greater than 0." />
       <item value="ກຳລັງອັບໂຫຼດ %s ວິດີໂອ" />
-      <item value="Bé Hèn có số đo nhiệt độ mới" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="325" />
+        <entry key="ENGLISH" value="326" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="56" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="322" />
+        <entry key="VIETNAMESE" value="323" />
       </map>
     </option>
   </component>
