@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="25" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Retrieve any offsets for the given item. Each field of outRect specifies the" />
+      <item value="is greater than this module's compileSdkVersion (android-30)." />
       <item value=" if you want more information&#10;&#10;" />
       <item value=" if you want more information&#10;" />
       <item value="Temperature&#10;" />
@@ -54,20 +56,18 @@
       <item value="java.lang.IllegalArgumentException: roundingRadius must be greater than 0." />
       <item value="ກຳລັງອັບໂຫຼດ %s ວິດີໂອ" />
       <item value="Bé Hèn có số đo nhiệt độ mới" />
-      <item value="Bé Hèn có số đo nhiêt" />
-      <item value="Bé Hèn có số đô nhiệt đọ mới" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="323" />
+        <entry key="ENGLISH" value="325" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="56" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="319" />
+        <entry key="VIETNAMESE" value="322" />
       </map>
     </option>
   </component>
@@ -80,6 +80,5 @@
         <option name="primaryLanguage" value="VIETNAMESE" />
       </google-translate>
     </option>
-    <option name="targetLanguageSelection" value="LAST" />
   </component>
 </application>
