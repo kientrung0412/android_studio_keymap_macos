@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="38" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="alled attach on a child which is not detached" />
       <item value="Do you want to delete this video ?" />
       <item value="signature" />
       <item value="choose student" />
@@ -55,19 +56,18 @@
       <item value="The new temperature has not been updated" />
       <item value="Gallery" />
       <item value="The interval between 2 selected dates should not be greater than %d" />
-      <item value="Are you sure you want to delete?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="329" />
+        <entry key="ENGLISH" value="330" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="58" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="327" />
+        <entry key="VIETNAMESE" value="328" />
       </map>
     </option>
   </component>
