@@ -6,6 +6,13 @@
     <option name="newTranslationDialogY" value="38" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="choose student" />
+      <item value="choose_student" />
+      <item value="for groupchoose_student" />
+      <item value="for group" />
+      <item value="for " />
+      <item value="for class" />
+      <item value="f" />
       <item value="Type net.alhazmy13.mediagallery.library.BaseImage is defined multiple times: VolumesDataOMTKOkidsonline-attendanceappbuildintermediatessub_project_dex_archivereleaseout55a75fc67ccada9459921123d09f3774c4c619a0316b2909d5c22be4ccb531cd_0.jar:classes.dex, VolumesDataOMTKOkidsonline-attendanceappbuildintermediatesexternal_libs_dexreleasemergeExtDexReleaseclasses3.dex" />
       <item value="thanhf coong" />
       <item value="WSystem.err: java.io.IOException: write failed: EINVAL (Invalid argument)" />
@@ -49,13 +56,6 @@
       <item value="Are you sure you want to delete?" />
       <item value="Successfully added&#10;" />
       <item value="Successfully added" />
-      <item value="History of body temperature attendance" />
-      <item value="&#10;&quot;choose_student&quot; is translated here but not found in default locale&#10;" />
-      <item value="&#10;&quot;choose_student&quot; is translated here but not found in default locale" />
-      <item value="choose student" />
-      <item value="chose student" />
-      <item value="before" />
-      <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.kidsonline.teacher.debugvn.omt.kidsonline.teacher.ui.album.video.PlayerVideoActivity}: android.util.AndroidRuntimeException: requestFeature() must be called before adding content" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,7 +65,7 @@
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="56" />
+        <entry key="LAO" value="57" />
         <entry key="CEBUANO" value="1" />
         <entry key="VIETNAMESE" value="325" />
       </map>
