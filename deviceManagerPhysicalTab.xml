@@ -4,22 +4,23 @@
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="DOMAIN_NAME" />
-            <value value="adb-bb434dde-8uR0UP._adb-tls-connect._tcp." />
+            <type value="SERIAL_NUMBER" />
+            <value value="8ABX0PUWK" />
           </Key>
         </key>
-        <name value="OnePlus LE2101" />
+        <lastOnlineTime value="2022-04-20T07:51:15.195325Z" />
+        <name value="Google Pixel 3" />
         <target value="Android 12.0" />
         <api value="31" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="8ABX0PUWK" />
+            <type value="DOMAIN_NAME" />
+            <value value="adb-bb434dde-8uR0UP._adb-tls-connect._tcp." />
           </Key>
         </key>
-        <name value="Google Pixel 3" />
+        <name value="OnePlus LE2101" />
         <target value="Android 12.0" />
         <api value="31" />
       </PhysicalDevice>
