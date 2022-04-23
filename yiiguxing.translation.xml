@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="328" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Total Paid" />
+      <item value="get Total Fee" />
       <item value="Index Out Of Bounds Exception&#10;" />
       <item value="Index Out Of BoundsException&#10;" />
       <item value="Index Out OfBoundsException&#10;" />
@@ -54,20 +56,18 @@
       <item value="Gallery" />
       <item value="The interval between 2 selected dates should not be greater than %d" />
       <item value="Are you sure you want to delete?" />
-      <item value="Successfully added&#10;" />
-      <item value="Successfully added" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="328" />
+        <entry key="ENGLISH" value="330" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="56" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="326" />
+        <entry key="VIETNAMESE" value="328" />
       </map>
     </option>
   </component>
