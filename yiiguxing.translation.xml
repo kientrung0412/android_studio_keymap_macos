@@ -1,11 +1,42 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogHeight" value="448" />
+    <option name="newTranslationDialogHeight" value="944" />
     <option name="newTranslationDialogWidth" value="1365" />
-    <option name="newTranslationDialogX" value="555" />
-    <option name="newTranslationDialogY" value="454" />
+    <option name="newTranslationDialogX" value="258" />
+    <option name="newTranslationDialogY" value="328" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Total Paid" />
+      <item value="get Total Fee" />
+      <item value="Index Out Of Bounds Exception&#10;" />
+      <item value="Index Out Of BoundsException&#10;" />
+      <item value="Index Out OfBoundsException&#10;" />
+      <item value="Index OutOfBoundsException&#10;" />
+      <item value="Index Ou tOfBoundsException&#10;" />
+      <item value="IndexOutOfBoundsException&#10;" />
+      <item value="IndexOutOfBoundsException" />
+      <item value="Type net.alhazmy13.mediagallery.library.BaseImage is defined multiple times: VolumesDataOMTKOkidsonline-attendanceappbuildintermediatessub_project_dex_archivereleaseout55a75fc67ccada9459921123d09f3774c4c619a0316b2909d5c22be4ccb531cd_0.jar:classes.dex, VolumesDataOMTKOkidsonline-attendanceappbuildintermediatesexternal_libs_dexreleasemergeExtDexReleaseclasses3.dex" />
+      <item value="thanhf coong" />
+      <item value="WSystem.err: java.io.IOException: write failed: EINVAL (Invalid argument)" />
+      <item value="Retrieve any offsets for the given item. Each field of outRect specifies the" />
+      <item value="is greater than this module's compileSdkVersion (android-30)." />
+      <item value=" if you want more information&#10;&#10;" />
+      <item value=" if you want more information&#10;" />
+      <item value="Temperature&#10;" />
+      <item value="Temperature" />
+      <item value="Result of body temperature measurement" />
+      <item value="    &lt;string name=&quot;students_owed&quot;&gt;Total students owed&lt;/string&gt;&#10;" />
+      <item value="Total student owed" />
+      <item value="Total sowed" />
+      <item value="Totowed" />
+      <item value="owed" />
+      <item value="debt" />
+      <item value="de" />
+      <item value="còn de" />
+      <item value="còn d" />
+      <item value="còn thiếu" />
+      <item value="còn " />
+      <item value="thiếu" />
       <item value="mechanism" />
       <item value="cơ chế" />
       <item value="cơ " />
@@ -18,7 +49,6 @@
       <item value="Check temperature" />
       <item value="Please enter temperature" />
       <item value="Number of students measured" />
-      <item value="Result of body temperature measurement" />
       <item value="có số đo thân nhiệt mới" />
       <item value="Bé" />
       <item value="Lịch sử đo thân nhiệt" />
@@ -26,53 +56,23 @@
       <item value="Gallery" />
       <item value="The interval between 2 selected dates should not be greater than %d" />
       <item value="Are you sure you want to delete?" />
-      <item value="Successfully added&#10;" />
-      <item value="Successfully added" />
-      <item value="History of body temperature attendance" />
-      <item value="&#10;&quot;choose_student&quot; is translated here but not found in default locale&#10;" />
-      <item value="&#10;&quot;choose_student&quot; is translated here but not found in default locale" />
-      <item value="choose student" />
-      <item value="chose student" />
-      <item value="before" />
-      <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.kidsonline.teacher.debugvn.omt.kidsonline.teacher.ui.album.video.PlayerVideoActivity}: android.util.AndroidRuntimeException: requestFeature() must be called before adding content" />
-      <item value="java.lang.IllegalArgumentException: roundingRadius must be greater than 0." />
-      <item value="ກຳລັງອັບໂຫຼດ %s ວິດີໂອ" />
-      <item value="Bé Hèn có số đo nhiệt độ mới" />
-      <item value="Bé Hèn có số đo nhiêt" />
-      <item value="Bé Hèn có số đô nhiệt đọ mới" />
-      <item value="Bé Hèn có số đô nhiệt đọ m" />
-      <item value="Bé Hèn có số đô nhiểh" />
-      <item value="Bé Hèn c" />
-      <item value="Bé Hèn ció" />
-      <item value="Bé Hèn" />
-      <item value="Bé Hên" />
-      <item value="Bé Hằng" />
-      <item value="Bé " />
-      <item value="Circular Image View" />
-      <item value="&lt;string name=&quot;umbalena_title&quot;&gt;Inspire Big Love for Reading with UMBALENA&lt;string&gt;" />
-      <item value="Nhiệt độ mới chưa cập nhật" />
-      <item value="is greater than this module's compileSdkVersion (android-30)." />
-      <item value="Failed to derive app_type for uc type" />
-      <item value="Targeting S+ (version 31 and above) requires that one of FLAG_IMMUTABLE or FLAG_MUTABLE be specified when creating a PendingIntent. Strongly consider using FLAG_IMMUTABLE, only use FLAG_MUTABLE if some functionality depends on the PendingIntent being mutable, e.g. if it needs to be used with inline replies or bubbles." />
-      <item value="2022-04-06 14:08:11.429 ENotificationService: Indirect notification activity start (trampoline) from com.kidsonline.teacher.debug blocked" />
-      <item value="Quick attendance" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="322" />
+        <entry key="ENGLISH" value="330" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="54" />
+        <entry key="LAO" value="56" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="318" />
+        <entry key="VIETNAMESE" value="328" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1649733206634" />
+    <option name="lastTrimTime" value="1650249072414" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
@@ -80,6 +80,5 @@
         <option name="primaryLanguage" value="VIETNAMESE" />
       </google-translate>
     </option>
-    <option name="targetLanguageSelection" value="LAST" />
   </component>
 </application>
