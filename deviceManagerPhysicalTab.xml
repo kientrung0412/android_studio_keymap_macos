@@ -4,6 +4,18 @@
       <PhysicalDevice>
         <key>
           <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-8ABX0PUWK-RT1xoG._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-04-25T04:46:25.993373Z" />
+        <name value="Google Pixel 3" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
             <type value="SERIAL_NUMBER" />
             <value value="8ABX0PUWK" />
           </Key>
@@ -141,7 +153,6 @@
             <value value="192.168.4.135:5555" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-25T04:01:39.871431Z" />
         <name value="Google Pixel 3" />
         <target value="Android 12.0" />
         <api value="31" />
@@ -149,14 +160,13 @@
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="DOMAIN_NAME" />
-            <value value="adb-8ABX0PUWK-RT1xoG._adb-tls-connect._tcp." />
+            <type value="SERIAL_NUMBER" />
+            <value value="HA14SBD5" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-25T04:01:51.037896Z" />
-        <name value="Google Pixel 3" />
-        <target value="Android 12.0" />
-        <api value="31" />
+        <name value="LENOVO Lenovo TB-8505X" />
+        <target value="Android 10.0" />
+        <api value="29" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
