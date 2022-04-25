@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="328" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="WBatteryExternalStatsWorker: error reading modem stats:ERROR_INVALID_INFO_RECEIVED" />
       <item value="ACTION USB DEVICE DETACHED" />
       <item value="Granted" />
       <item value="perform Click" />
@@ -55,19 +56,18 @@
       <item value="Please enter temperature" />
       <item value="Number of students measured" />
       <item value="có số đo thân nhiệt mới" />
-      <item value="Bé" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="335" />
+        <entry key="ENGLISH" value="336" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="56" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="333" />
+        <entry key="VIETNAMESE" value="334" />
       </map>
     </option>
   </component>
