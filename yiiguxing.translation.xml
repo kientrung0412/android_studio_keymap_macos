@@ -1,11 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="944" />
-    <option name="newTranslationDialogWidth" value="1365" />
-    <option name="newTranslationDialogX" value="258" />
-    <option name="newTranslationDialogY" value="328" />
+    <option name="newTranslationDialogWidth" value="1321" />
+    <option name="newTranslationDialogX" value="189" />
+    <option name="newTranslationDialogY" value="814" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="locale" />
       <item value="WBatteryExternalStatsWorker: error reading modem stats:ERROR_INVALID_INFO_RECEIVED" />
       <item value="ACTION USB DEVICE DETACHED" />
       <item value="Granted" />
@@ -55,7 +56,6 @@
       <item value="Check temperature" />
       <item value="Please enter temperature" />
       <item value="Number of students measured" />
-      <item value="có số đo thân nhiệt mới" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,7 +67,7 @@
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="56" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="334" />
+        <entry key="VIETNAMESE" value="335" />
       </map>
     </option>
   </component>
