@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="814" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Effmpeg-kit: Filtergraph 'scale='min(-1,iw)':'min(1080,ih)'' was defined for video output stream 0:0 but codec copy was selected." />
       <item value="get Contact Success" />
       <item value="locale" />
       <item value="WBatteryExternalStatsWorker: error reading modem stats:ERROR_INVALID_INFO_RECEIVED" />
@@ -55,19 +56,18 @@
       <item value="unescape" />
       <item value="unescape Java" />
       <item value="Check temperature" />
-      <item value="Please enter temperature" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="337" />
+        <entry key="ENGLISH" value="338" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="56" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="336" />
+        <entry key="VIETNAMESE" value="337" />
       </map>
     </option>
   </component>
