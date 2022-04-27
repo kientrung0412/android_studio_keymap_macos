@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="814" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Contact Success" />
       <item value="locale" />
       <item value="WBatteryExternalStatsWorker: error reading modem stats:ERROR_INVALID_INFO_RECEIVED" />
       <item value="ACTION USB DEVICE DETACHED" />
@@ -55,19 +56,18 @@
       <item value="unescape Java" />
       <item value="Check temperature" />
       <item value="Please enter temperature" />
-      <item value="Number of students measured" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="336" />
+        <entry key="ENGLISH" value="337" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="56" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="335" />
+        <entry key="VIETNAMESE" value="336" />
       </map>
     </option>
   </component>
