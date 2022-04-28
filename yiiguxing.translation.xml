@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="580" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="SPAN EXCLUSIVE INCLUSIVE&#10;" />
+      <item value="SPAN EXCLUSIVE_INCLUSIVE&#10;" />
+      <item value="SPAN_EXCLUSIVE_INCLUSIVE&#10;" />
       <item value="góc 15 độ" />
       <item value="góc 15 dộ" />
       <item value="góc " />
@@ -53,9 +56,6 @@
       <item value="còn " />
       <item value="thiếu" />
       <item value="mechanism" />
-      <item value="cơ chế" />
-      <item value="cơ " />
-      <item value="Please select at least 1 student to receive the album" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,7 +67,7 @@
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="56" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="343" />
+        <entry key="VIETNAMESE" value="344" />
       </map>
     </option>
   </component>
