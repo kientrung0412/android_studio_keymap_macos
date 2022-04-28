@@ -5,6 +5,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="14cc25f0" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-04-28T03:07:16.693550Z" />
+        <name value="OnePlus LE2101" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="8ABX0PUWK" />
           </Key>
         </key>
@@ -111,18 +123,6 @@
         <name value="vsmart Active 3" />
         <target value="Android 10.0" />
         <api value="29" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="14cc25f0" />
-          </Key>
-        </key>
-        <lastOnlineTime value="2022-04-18T02:52:02.433706Z" />
-        <name value="OnePlus LE2101" />
-        <target value="Android 12.0" />
-        <api value="31" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>

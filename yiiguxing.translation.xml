@@ -1,11 +1,16 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogHeight" value="944" />
+    <option name="newTranslationDialogHeight" value="402" />
     <option name="newTranslationDialogWidth" value="1321" />
-    <option name="newTranslationDialogX" value="189" />
-    <option name="newTranslationDialogY" value="814" />
+    <option name="newTranslationDialogX" value="191" />
+    <option name="newTranslationDialogY" value="580" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="góc 15 độ" />
+      <item value="góc 15 dộ" />
+      <item value="góc " />
+      <item value="góc" />
+      <item value="gocs" />
       <item value="&quot;transpose=1&quot;: Invalid argument" />
       <item value="Effmpeg-kit: Filtergraph 'scale='min(-1,iw)':'min(1080,ih)'' was defined for video output stream 0:0 but codec copy was selected." />
       <item value="get Contact Success" />
@@ -51,23 +56,18 @@
       <item value="cơ chế" />
       <item value="cơ " />
       <item value="Please select at least 1 student to receive the album" />
-      <item value="handle an escaped value" />
-      <item value="unescape&#10;&#10;" />
-      <item value="unescape&#10;" />
-      <item value="unescape" />
-      <item value="unescape Java" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="339" />
+        <entry key="ENGLISH" value="344" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="56" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="338" />
+        <entry key="VIETNAMESE" value="343" />
       </map>
     </option>
   </component>
