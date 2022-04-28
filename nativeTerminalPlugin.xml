@@ -1,0 +1,5 @@
+<application>
+  <component name="com.sburlyaev.cmd.plugin.PluginSettings">
+    <option name="favoriteTerminal" value="/Applications/iTerm.app" />
+  </component>
+</application>
