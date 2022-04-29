@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="580" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="rotate" />
       <item value="Caused by: java.lang.IndexOutOfBoundsException: setSpan (8 ... 25) ends beyond length 0" />
       <item value="SPAN EXCLUSIVE INCLUSIVE&#10;" />
       <item value="SPAN EXCLUSIVE_INCLUSIVE&#10;" />
@@ -55,19 +56,18 @@
       <item value="còn d" />
       <item value="còn thiếu" />
       <item value="còn " />
-      <item value="thiếu" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="345" />
+        <entry key="ENGLISH" value="346" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="56" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="345" />
+        <entry key="VIETNAMESE" value="346" />
       </map>
     </option>
   </component>
