@@ -4,10 +4,10 @@
     <property name="created">2021-02-28T09:04:00</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.1.2.0</property>
-    <property name="modified">2022-05-04T12:49:11</property>
+    <property name="modified">2022-05-04T12:50:41</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_NAME" value="MesloLGS NF" />
   <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <attributes>
     <option name="HTML_CODE">
