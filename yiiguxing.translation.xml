@@ -1,11 +1,31 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogHeight" value="944" />
-    <option name="newTranslationDialogWidth" value="1365" />
-    <option name="newTranslationDialogX" value="258" />
-    <option name="newTranslationDialogY" value="328" />
+    <option name="newTranslationDialogHeight" value="402" />
+    <option name="newTranslationDialogWidth" value="1321" />
+    <option name="newTranslationDialogX" value="191" />
+    <option name="newTranslationDialogY" value="580" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="^ANTLR Tool version 4.5.3 used for code generation does not match the current runtime version 4.7.1ANTLR Runtime version 4.5.3 used for parser compilation does not match the current runtime version 4.7.1ANTLR Tool version 4.5.3 used for code generation does not match the current runtime version 4.7.1ANTLR Runtime version 4.5.3 used for parser compilation does not matc" />
+      <item value="&gt; A failure occurred while executing org.jetbrains.kotlin.gradle.internal.KaptExecution" />
+      <item value="Fatal: Working tree contains unstaged changes. Aborting.&#10;" />
+      <item value="rotate" />
+      <item value="Caused by: java.lang.IndexOutOfBoundsException: setSpan (8 ... 25) ends beyond length 0" />
+      <item value="SPAN EXCLUSIVE INCLUSIVE&#10;" />
+      <item value="SPAN EXCLUSIVE_INCLUSIVE&#10;" />
+      <item value="SPAN_EXCLUSIVE_INCLUSIVE&#10;" />
+      <item value="góc 15 độ" />
+      <item value="góc 15 dộ" />
+      <item value="góc " />
+      <item value="góc" />
+      <item value="gocs" />
+      <item value="&quot;transpose=1&quot;: Invalid argument" />
+      <item value="Effmpeg-kit: Filtergraph 'scale='min(-1,iw)':'min(1080,ih)'' was defined for video output stream 0:0 but codec copy was selected." />
+      <item value="get Contact Success" />
+      <item value="locale" />
+      <item value="WBatteryExternalStatsWorker: error reading modem stats:ERROR_INVALID_INFO_RECEIVED" />
+      <item value="ACTION USB DEVICE DETACHED" />
+      <item value="Granted" />
       <item value="perform Click" />
       <item value="Error: EMFILE: too many open files, watch" />
       <item value="warn The following packages use deprecated &quot;rnpm&quot; config that will stop working from next release:" />
@@ -36,43 +56,23 @@
       <item value="debt" />
       <item value="de" />
       <item value="còn de" />
-      <item value="còn d" />
-      <item value="còn thiếu" />
-      <item value="còn " />
-      <item value="thiếu" />
-      <item value="mechanism" />
-      <item value="cơ chế" />
-      <item value="cơ " />
-      <item value="Please select at least 1 student to receive the album" />
-      <item value="handle an escaped value" />
-      <item value="unescape&#10;&#10;" />
-      <item value="unescape&#10;" />
-      <item value="unescape" />
-      <item value="unescape Java" />
-      <item value="Check temperature" />
-      <item value="Please enter temperature" />
-      <item value="Number of students measured" />
-      <item value="có số đo thân nhiệt mới" />
-      <item value="Bé" />
-      <item value="Lịch sử đo thân nhiệt" />
-      <item value="The new temperature has not been updated" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="333" />
+        <entry key="ENGLISH" value="348" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="56" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="331" />
+        <entry key="VIETNAMESE" value="348" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1650783822179" />
+    <option name="lastTrimTime" value="1651256083324" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">

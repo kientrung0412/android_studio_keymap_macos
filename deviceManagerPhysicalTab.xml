@@ -5,9 +5,21 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="14cc25f0" />
+          </Key>
+        </key>
+        <name value="OnePlus LE2101" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="8ABX0PUWK" />
           </Key>
         </key>
+        <lastOnlineTime value="2022-04-28T03:53:59.149852Z" />
         <name value="Google Pixel 3" />
         <target value="Android 12.0" />
         <api value="31" />
@@ -93,11 +105,32 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="14cc25f0" />
+            <value value="4L5T6DSC85UWMN4P" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-18T02:52:02.433706Z" />
-        <name value="OnePlus LE2101" />
+        <name value="OPPO CPH1717" />
+        <target value="Android 7.1.1" />
+        <api value="25" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.4.135:5555" />
+          </Key>
+        </key>
+        <name value="Google Pixel 3" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-8ABX0PUWK-RT1xoG._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="Google Pixel 3" />
         <target value="Android 12.0" />
         <api value="31" />
       </PhysicalDevice>
@@ -105,12 +138,34 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="4L5T6DSC85UWMN4P" />
+            <value value="HA14SBD5" />
           </Key>
         </key>
-        <name value="OPPO CPH1717" />
-        <target value="Android 7.1.1" />
-        <api value="25" />
+        <name value="LENOVO Lenovo TB-8505X" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.5.109:5555" />
+          </Key>
+        </key>
+        <name value="LENOVO Lenovo TB-8505X" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="R52N90TK7TB" />
+          </Key>
+        </key>
+        <name value="samsung SM-T875" />
+        <target value="Android 10.0" />
+        <api value="29" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
