@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="580" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="flavor" />
+      <item value="multi_flavor" />
       <item value="is Before" />
       <item value="^ANTLR Tool version 4.5.3 used for code generation does not match the current runtime version 4.7.1ANTLR Runtime version 4.5.3 used for parser compilation does not match the current runtime version 4.7.1ANTLR Tool version 4.5.3 used for code generation does not match the current runtime version 4.7.1ANTLR Runtime version 4.5.3 used for parser compilation does not matc" />
       <item value="&gt; A failure occurred while executing org.jetbrains.kotlin.gradle.internal.KaptExecution" />
@@ -54,8 +56,6 @@
       <item value="Total sowed" />
       <item value="Totowed" />
       <item value="owed" />
-      <item value="debt" />
-      <item value="de" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,7 +67,7 @@
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="56" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="349" />
+        <entry key="VIETNAMESE" value="350" />
       </map>
     </option>
   </component>
