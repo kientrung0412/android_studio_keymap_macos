@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="402" />
     <option name="newTranslationDialogWidth" value="1321" />
-    <option name="newTranslationDialogX" value="191" />
-    <option name="newTranslationDialogY" value="580" />
+    <option name="newTranslationDialogX" value="607" />
+    <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="mặc định" />
+      <item value="mặc đin" />
       <item value="flavor" />
       <item value="multi_flavor" />
       <item value="is Before" />
@@ -54,25 +56,23 @@
       <item value="    &lt;string name=&quot;students_owed&quot;&gt;Total students owed&lt;/string&gt;&#10;" />
       <item value="Total student owed" />
       <item value="Total sowed" />
-      <item value="Totowed" />
-      <item value="owed" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="349" />
+        <entry key="ENGLISH" value="351" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="56" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="350" />
+        <entry key="VIETNAMESE" value="352" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1651256083324" />
+    <option name="lastTrimTime" value="1651718482496" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
