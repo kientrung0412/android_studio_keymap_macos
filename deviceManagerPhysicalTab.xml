@@ -8,7 +8,7 @@
             <value value="14cc25f0" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-05-05T06:44:47.028700Z" />
+        <lastOnlineTime value="2022-05-05T07:42:49.970741Z" />
         <name value="OnePlus LE2101" />
         <target value="Android 12.0" />
         <api value="31" />
@@ -164,6 +164,17 @@
           </Key>
         </key>
         <name value="samsung SM-T875" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="4f49d9d3" />
+          </Key>
+        </key>
+        <name value="Xiaomi MI 8 SE" />
         <target value="Android 10.0" />
         <api value="29" />
       </PhysicalDevice>
