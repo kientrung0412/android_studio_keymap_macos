@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value=" You must specify a --flavor option to select one of the available schemes.&#10;" />
       <item value="mặc định" />
       <item value="mặc đin" />
       <item value="flavor" />
@@ -55,7 +56,6 @@
       <item value="Result of body temperature measurement" />
       <item value="    &lt;string name=&quot;students_owed&quot;&gt;Total students owed&lt;/string&gt;&#10;" />
       <item value="Total student owed" />
-      <item value="Total sowed" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,7 +67,7 @@
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="56" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="352" />
+        <entry key="VIETNAMESE" value="353" />
       </map>
     </option>
   </component>
