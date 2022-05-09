@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Copy phone number successfully" />
+      <item value="Sao chép số điện thoại thành công" />
       <item value="&gt; Process 'command 'UserstrungnkLibraryJavaJavaVirtualMachinescorretto-11.0.14ContentsHomebinjava'' finished with non-zero exit value 1" />
       <item value="Error: Could not find or load main class main" />
       <item value="Make sure all annotation processors are incremental to improve your build speed." />
@@ -54,20 +56,18 @@
       <item value="WSystem.err: java.io.IOException: write failed: EINVAL (Invalid argument)" />
       <item value="Retrieve any offsets for the given item. Each field of outRect specifies the" />
       <item value="is greater than this module's compileSdkVersion (android-30)." />
-      <item value=" if you want more information&#10;&#10;" />
-      <item value=" if you want more information&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="357" />
+        <entry key="ENGLISH" value="358" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="57" />
+        <entry key="LAO" value="58" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="357" />
+        <entry key="VIETNAMESE" value="358" />
       </map>
     </option>
   </component>
