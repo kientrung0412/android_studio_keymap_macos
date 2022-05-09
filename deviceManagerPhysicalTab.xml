@@ -131,8 +131,8 @@
           </Key>
         </key>
         <name value="samsung SM-T875" />
-        <target value="Android 10.0" />
-        <api value="29" />
+        <target value="Android 11.0" />
+        <api value="30" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -152,10 +152,20 @@
             <value value="8ABX0PUWK" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-05-09T08:41:37.836398Z" />
         <name value="Google Pixel 3" />
         <target value="Android 12.0" />
         <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="ARB00042772" />
+          </Key>
+        </key>
+        <name value="vsmart Active 3" />
+        <target value="Android 10.0" />
+        <api value="29" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
