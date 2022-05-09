@@ -15,17 +15,6 @@
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="8ABX0PUWK" />
-          </Key>
-        </key>
-        <name value="Google Pixel 3" />
-        <target value="Android 12.0" />
-        <api value="31" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
             <type value="DOMAIN_NAME" />
             <value value="adb-bb434dde-8uR0UP._adb-tls-connect._tcp." />
           </Key>
@@ -44,17 +33,6 @@
         <name value="Xiaomi M2003J15SC" />
         <target value="Android 11.0" />
         <api value="30" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="DOMAIN_NAME" />
-            <value value="adb-8ABX0PUWK-RT1xoG._adb-tls-connect._tcp" />
-          </Key>
-        </key>
-        <name value="Google Pixel 3" />
-        <target value="Android 12.0" />
-        <api value="31" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -116,17 +94,6 @@
           <Key>
             <type value="SERIAL_NUMBER" />
             <value value="192.168.4.135:5555" />
-          </Key>
-        </key>
-        <name value="Google Pixel 3" />
-        <target value="Android 12.0" />
-        <api value="31" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="DOMAIN_NAME" />
-            <value value="adb-8ABX0PUWK-RT1xoG._adb-tls-connect._tcp." />
           </Key>
         </key>
         <name value="Google Pixel 3" />
