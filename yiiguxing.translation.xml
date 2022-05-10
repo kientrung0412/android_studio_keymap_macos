@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="262" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="sổ liên lạc" />
+      <item value="s" />
       <item value="Set the text size to size physical pixels, or to size device-independent pixels if dip is true." />
       <item value="Commit Pref Edits" />
       <item value="on Denied" />
@@ -54,20 +56,18 @@
       <item value="get Total Fee" />
       <item value="Index Out Of Bounds Exception&#10;" />
       <item value="Index Out Of BoundsException&#10;" />
-      <item value="Index Out OfBoundsException&#10;" />
-      <item value="Index OutOfBoundsException&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="366" />
+        <entry key="ENGLISH" value="367" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="58" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="366" />
+        <entry key="VIETNAMESE" value="367" />
       </map>
     </option>
   </component>
