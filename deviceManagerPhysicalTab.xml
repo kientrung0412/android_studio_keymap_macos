@@ -5,10 +5,10 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="14cc25f0" />
+            <value value="8ABX0PUWK" />
           </Key>
         </key>
-        <name value="OnePlus LE2101" />
+        <name value="Google Pixel 3" />
         <target value="Android 12.0" />
         <api value="31" />
       </PhysicalDevice>
@@ -16,10 +16,10 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="8ABX0PUWK" />
+            <value value="14cc25f0" />
           </Key>
         </key>
-        <name value="Google Pixel 3" />
+        <name value="OnePlus LE2101" />
         <target value="Android 12.0" />
         <api value="31" />
       </PhysicalDevice>
@@ -44,17 +44,6 @@
         <name value="Xiaomi M2003J15SC" />
         <target value="Android 11.0" />
         <api value="30" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="DOMAIN_NAME" />
-            <value value="adb-8ABX0PUWK-RT1xoG._adb-tls-connect._tcp" />
-          </Key>
-        </key>
-        <name value="Google Pixel 3" />
-        <target value="Android 12.0" />
-        <api value="31" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -125,17 +114,6 @@
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="DOMAIN_NAME" />
-            <value value="adb-8ABX0PUWK-RT1xoG._adb-tls-connect._tcp." />
-          </Key>
-        </key>
-        <name value="Google Pixel 3" />
-        <target value="Android 12.0" />
-        <api value="31" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
             <type value="SERIAL_NUMBER" />
             <value value="HA14SBD5" />
           </Key>
@@ -163,8 +141,8 @@
           </Key>
         </key>
         <name value="samsung SM-T875" />
-        <target value="Android 10.0" />
-        <api value="29" />
+        <target value="Android 11.0" />
+        <api value="30" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -174,6 +152,17 @@
           </Key>
         </key>
         <name value="Xiaomi MI 8 SE" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="ARB00042772" />
+          </Key>
+        </key>
+        <name value="vsmart Active 3" />
         <target value="Android 10.0" />
         <api value="29" />
       </PhysicalDevice>
