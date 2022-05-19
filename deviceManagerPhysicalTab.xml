@@ -151,9 +151,9 @@
             <value value="4f49d9d3" />
           </Key>
         </key>
-        <name value="Xiaomi MI 8 SE" />
-        <target value="Android 10.0" />
-        <api value="29" />
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
