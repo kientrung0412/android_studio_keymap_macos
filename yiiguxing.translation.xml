@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="589" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="&#10;Notifications should only launch a BroadcastReceiver from notification actions (addAction)&#10;" />
+      <item value="&#10;Notifications should only launch a BroadcastReceiver from notification actions (addAction)" />
+      <item value="ENotificationService: Indirect notification activity start (trampoline) from com.kidsonline.teacher.debug blocked" />
       <item value="unscoped" />
       <item value="Some input files use or override a deprecated API." />
       <item value="VolumesDataOMTKOandroid_teacher_v4appsrcmainjavavnomtkidsonlineteacherdicomponentBroadcastComponent.java:7: error: vn.omt.kidsonline.teacher.di.component.BroadcastComponent (unscoped) cannot depend on scoped components:" />
@@ -53,21 +56,18 @@
       <item value="mặc định" />
       <item value="mặc đin" />
       <item value="flavor" />
-      <item value="multi_flavor" />
-      <item value="is Before" />
-      <item value="^ANTLR Tool version 4.5.3 used for code generation does not match the current runtime version 4.7.1ANTLR Runtime version 4.5.3 used for parser compilation does not match the current runtime version 4.7.1ANTLR Tool version 4.5.3 used for code generation does not match the current runtime version 4.7.1ANTLR Runtime version 4.5.3 used for parser compilation does not matc" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="390" />
+        <entry key="ENGLISH" value="391" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="58" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="390" />
+        <entry key="VIETNAMESE" value="392" />
       </map>
     </option>
   </component>
