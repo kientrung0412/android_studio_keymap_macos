@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="589" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="EBitmapFactory: Unable to decode stream: java.io.FileNotFoundException: sdcardDownload: open failed: EISDIR (Is a directory)" />
+      <item value="Effmpeg-kit: sdcardDownload20220517_111134.heic: Invalid data found when processing input" />
+      <item value="moov atom not found" />
+      <item value="Invalid data found when processing input" />
       <item value="Đo thân nhiệt lúc" />
       <item value="&#10;Notifications should only launch a BroadcastReceiver from notification actions (addAction)&#10;" />
       <item value="&#10;Notifications should only launch a BroadcastReceiver from notification actions (addAction)" />
@@ -52,27 +56,23 @@
       <item value="&gt; Process 'command 'UserstrungnkLibraryJavaJavaVirtualMachinescorretto-11.0.14ContentsHomebinjava'' finished with non-zero exit value 1" />
       <item value="Error: Could not find or load main class main" />
       <item value="Make sure all annotation processors are incremental to improve your build speed." />
-      <item value="Not logged in yet" />
-      <item value=" You must specify a --flavor option to select one of the available schemes.&#10;" />
-      <item value="mặc định" />
-      <item value="mặc đin" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="391" />
+        <entry key="ENGLISH" value="397" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="59" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="392" />
+        <entry key="VIETNAMESE" value="397" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1652690928931" />
+    <option name="lastTrimTime" value="1653367178820" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
