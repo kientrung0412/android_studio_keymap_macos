@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="670" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ESEC_DRM_PLUGIN_Omafl: OmaPlugin::onOpenDecryptSession(fd)::Drm2IsDrmFileByExtFd::file is NOT DRM by extension" />
       <item value="xác nhận" />
       <item value="xa" />
       <item value="&gt; Could not get unknown property 'release' for SigningConfig container of type org.gradle.api.internal.FactoryNamedDomainObjectContainer." />
@@ -55,24 +56,23 @@
       <item value="on Request Permissions Result" />
       <item value="BODY TEMPERATURE" />
       <item value="BODY_TEMPERATURE" />
-      <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="403" />
+        <entry key="ENGLISH" value="404" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="59" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="403" />
+        <entry key="VIETNAMESE" value="404" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653367178820" />
+    <option name="lastTrimTime" value="1653884544532" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
