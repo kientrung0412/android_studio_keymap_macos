@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="670" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Không được chọn thời gian ở tương lai" />
       <item value="ESEC_DRM_PLUGIN_Omafl: OmaPlugin::onOpenDecryptSession(fd)::Drm2IsDrmFileByExtFd::file is NOT DRM by extension" />
       <item value="xác nhận" />
       <item value="xa" />
@@ -55,7 +56,6 @@
       <item value="accepted Permissions" />
       <item value="on Request Permissions Result" />
       <item value="BODY TEMPERATURE" />
-      <item value="BODY_TEMPERATURE" />
     </histories>
     <option name="languageScores">
       <map>
