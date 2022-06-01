@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="670" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="khoản thu thêm" />
+      <item value="revenue" />
+      <item value="khoản " />
+      <item value="khoản phụ thu" />
       <item value="sắp diễn ra" />
       <item value="sắp di" />
       <item value="gần đây" />
@@ -52,22 +56,18 @@
       <item value="Cannot send pending intent due to unknown exception:" />
       <item value="o Activity found to handle null" />
       <item value="All posted notifications must specify a NotificationChannel ID." />
-      <item value="Caused by: java.lang.IllegalArgumentException: @Field parameters can only be used with form encoding. (parameter 1)" />
-      <item value="Plugin project :firebase_core_web not found. Please update settings.gradle." />
-      <item value="VFA-SVC: Uploading data. app, uncompressed size, data: com.deliverynow, 530," />
-      <item value="sổ liên lạc" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="408" />
+        <entry key="ENGLISH" value="410" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="59" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="409" />
+        <entry key="VIETNAMESE" value="411" />
       </map>
     </option>
   </component>
