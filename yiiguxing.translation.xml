@@ -6,6 +6,13 @@
     <option name="newTranslationDialogY" value="670" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="sắp diễn ra" />
+      <item value="sắp di" />
+      <item value="gần đây" />
+      <item value="gần đâ" />
+      <item value="gần đâu" />
+      <item value="gaanf dd" />
+      <item value="register" />
       <item value="Không được chọn thời gian ở tương lai" />
       <item value="ESEC_DRM_PLUGIN_Omafl: OmaPlugin::onOpenDecryptSession(fd)::Drm2IsDrmFileByExtFd::file is NOT DRM by extension" />
       <item value="xác nhận" />
@@ -49,25 +56,18 @@
       <item value="Plugin project :firebase_core_web not found. Please update settings.gradle." />
       <item value="VFA-SVC: Uploading data. app, uncompressed size, data: com.deliverynow, 530," />
       <item value="sổ liên lạc" />
-      <item value="s" />
-      <item value="Set the text size to size physical pixels, or to size device-independent pixels if dip is true." />
-      <item value="Commit Pref Edits" />
-      <item value="on Denied" />
-      <item value="accepted Permissions" />
-      <item value="on Request Permissions Result" />
-      <item value="BODY TEMPERATURE" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="404" />
+        <entry key="ENGLISH" value="408" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="59" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="404" />
+        <entry key="VIETNAMESE" value="409" />
       </map>
     </option>
   </component>
