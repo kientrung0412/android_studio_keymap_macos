@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1033" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Đăng ký sự kiện" />
       <item value="is Registered" />
       <item value="Khoản thu thêm" />
       <item value="Khoản thu theem" />
@@ -55,7 +56,6 @@
       <item value="compare&#10;&#10;" />
       <item value="compare" />
       <item value="com" />
-      <item value="c" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,7 +67,7 @@
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="59" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="415" />
+        <entry key="VIETNAMESE" value="416" />
       </map>
     </option>
   </component>
