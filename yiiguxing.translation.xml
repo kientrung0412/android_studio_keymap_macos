@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="617" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="java.lang.RuntimeException: An error occurred while executing doInBackground()" />
       <item value="tài chính" />
       <item value="Đăng ký sự kiện" />
       <item value="is Registered" />
@@ -55,12 +56,11 @@
       <item value="not key_process" />
       <item value="compare&#10;" />
       <item value="compare&#10;&#10;" />
-      <item value="compare" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="416" />
+        <entry key="ENGLISH" value="417" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
