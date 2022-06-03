@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="617" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Manifest merger failed : uses-sdk:minSdkVersion 17 cannot be smaller than version 21 declared in library [:matisse] VolumesDataOMTLibMultiImagePickermatissebuildintermediatesmerged_manifestdebugAndroidManifest.xml as the library might be using APIs not available in 17" />
+      <item value="kết quả" />
       <item value="@param maxSelectable Maximum selectable count. Default value is 1." />
       <item value="capture Strategy" />
       <item value="Determines whether the photo capturing is enabled or not on the media grid view." />
@@ -54,20 +56,18 @@
       <item value="ENotificationService: Indirect notification activity start (trampoline) from com.kidsonline.teacher.debug blocked" />
       <item value="unscoped" />
       <item value="Some input files use or override a deprecated API." />
-      <item value="VolumesDataOMTKOandroid_teacher_v4appsrcmainjavavnomtkidsonlineteacherdicomponentBroadcastComponent.java:7: error: vn.omt.kidsonline.teacher.di.component.BroadcastComponent (unscoped) cannot depend on scoped components:" />
-      <item value="@Singleton vn.omt.kidsonline.teacher.di.component.ApplicationComponent" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="424" />
+        <entry key="ENGLISH" value="426" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="60" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="424" />
+        <entry key="VIETNAMESE" value="426" />
       </map>
     </option>
   </component>
