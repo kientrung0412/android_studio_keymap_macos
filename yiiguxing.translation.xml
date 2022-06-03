@@ -1,11 +1,44 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogHeight" value="402" />
+    <option name="newTranslationDialogHeight" value="401" />
     <option name="newTranslationDialogWidth" value="1321" />
-    <option name="newTranslationDialogX" value="131" />
-    <option name="newTranslationDialogY" value="589" />
+    <option name="newTranslationDialogX" value="599" />
+    <option name="newTranslationDialogY" value="617" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="java.lang.RuntimeException: An error occurred while executing doInBackground()" />
+      <item value="tài chính" />
+      <item value="Đăng ký sự kiện" />
+      <item value="is Registered" />
+      <item value="Khoản thu thêm" />
+      <item value="Khoản thu theem" />
+      <item value="khoản phụ thu" />
+      <item value="thất bại" />
+      <item value="Thành công" />
+      <item value="Thanhf c" />
+      <item value="khoản thu thêm" />
+      <item value="revenue" />
+      <item value="khoản " />
+      <item value="sắp diễn ra" />
+      <item value="sắp di" />
+      <item value="gần đây" />
+      <item value="gần đâ" />
+      <item value="gần đâu" />
+      <item value="gaanf dd" />
+      <item value="register" />
+      <item value="Không được chọn thời gian ở tương lai" />
+      <item value="ESEC_DRM_PLUGIN_Omafl: OmaPlugin::onOpenDecryptSession(fd)::Drm2IsDrmFileByExtFd::file is NOT DRM by extension" />
+      <item value="xác nhận" />
+      <item value="xa" />
+      <item value="&gt; Could not get unknown property 'release' for SigningConfig container of type org.gradle.api.internal.FactoryNamedDomainObjectContainer." />
+      <item value="subscribe" />
+      <item value="observe" />
+      <item value="Posts a task to a main thread to set the given value. So if you have a following code executed in" />
+      <item value="EBitmapFactory: Unable to decode stream: java.io.FileNotFoundException: sdcardDownload: open failed: EISDIR (Is a directory)" />
+      <item value="Effmpeg-kit: sdcardDownload20220517_111134.heic: Invalid data found when processing input" />
+      <item value="moov atom not found" />
+      <item value="Invalid data found when processing input" />
+      <item value="Đo thân nhiệt lúc" />
       <item value="&#10;Notifications should only launch a BroadcastReceiver from notification actions (addAction)&#10;" />
       <item value="&#10;Notifications should only launch a BroadcastReceiver from notification actions (addAction)" />
       <item value="ENotificationService: Indirect notification activity start (trampoline) from com.kidsonline.teacher.debug blocked" />
@@ -23,56 +56,23 @@
       <item value="not key_process" />
       <item value="compare&#10;" />
       <item value="compare&#10;&#10;" />
-      <item value="compare" />
-      <item value="com" />
-      <item value="c" />
-      <item value="Xác nhận" />
-      <item value="Xác b" />
-      <item value="xacs b" />
-      <item value="Cannot send pending intent due to unknown exception:" />
-      <item value="o Activity found to handle null" />
-      <item value="All posted notifications must specify a NotificationChannel ID." />
-      <item value="Caused by: java.lang.IllegalArgumentException: @Field parameters can only be used with form encoding. (parameter 1)" />
-      <item value="Plugin project :firebase_core_web not found. Please update settings.gradle." />
-      <item value="VFA-SVC: Uploading data. app, uncompressed size, data: com.deliverynow, 530," />
-      <item value="sổ liên lạc" />
-      <item value="s" />
-      <item value="Set the text size to size physical pixels, or to size device-independent pixels if dip is true." />
-      <item value="Commit Pref Edits" />
-      <item value="on Denied" />
-      <item value="accepted Permissions" />
-      <item value="on Request Permissions Result" />
-      <item value="BODY TEMPERATURE" />
-      <item value="BODY_TEMPERATURE" />
-      <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0." />
-      <item value="The following annotation processors are not incremental: jetified-logansquare-compiler-1.3.7.jar (com.bluelinelabs:logansquare-compiler:1.3.7)." />
-      <item value="Copy phone number successfully" />
-      <item value="Sao chép số điện thoại thành công" />
-      <item value="&gt; Process 'command 'UserstrungnkLibraryJavaJavaVirtualMachinescorretto-11.0.14ContentsHomebinjava'' finished with non-zero exit value 1" />
-      <item value="Error: Could not find or load main class main" />
-      <item value="Make sure all annotation processors are incremental to improve your build speed." />
-      <item value="Not logged in yet" />
-      <item value=" You must specify a --flavor option to select one of the available schemes.&#10;" />
-      <item value="mặc định" />
-      <item value="mặc đin" />
-      <item value="flavor" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="391" />
+        <entry key="ENGLISH" value="417" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="58" />
+        <entry key="LAO" value="59" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="392" />
+        <entry key="VIETNAMESE" value="417" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1652690928931" />
+    <option name="lastTrimTime" value="1653884544532" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
