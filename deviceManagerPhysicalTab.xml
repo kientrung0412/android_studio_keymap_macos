@@ -4,11 +4,11 @@
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="8ABX0PUWK" />
+            <type value="DOMAIN_NAME" />
+            <value value="adb-bb434dde-8uR0UP._adb-tls-connect._tcp." />
           </Key>
         </key>
-        <name value="Google Pixel 3" />
+        <name value="OnePlus LE2101" />
         <target value="Android 12.0" />
         <api value="31" />
       </PhysicalDevice>
@@ -26,11 +26,22 @@
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="DOMAIN_NAME" />
-            <value value="adb-bb434dde-8uR0UP._adb-tls-connect._tcp." />
+            <type value="SERIAL_NUMBER" />
+            <value value="b8f7681d" />
           </Key>
         </key>
-        <name value="OnePlus LE2101" />
+        <name value="samsung SM-A605K" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="8ABX0PUWK" />
+          </Key>
+        </key>
+        <name value="Google Pixel 3" />
         <target value="Android 12.0" />
         <api value="31" />
       </PhysicalDevice>
@@ -192,10 +203,21 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="b8f7681d" />
+            <value value="192.168.4.79:23189" />
           </Key>
         </key>
-        <name value="samsung SM-A605K" />
+        <name value="OnePlus LE2101" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="BH900SC8D0" />
+          </Key>
+        </key>
+        <name value="Sony SOV37" />
         <target value="Android 10.0" />
         <api value="29" />
       </PhysicalDevice>

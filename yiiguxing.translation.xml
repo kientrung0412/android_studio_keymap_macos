@@ -2,10 +2,31 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="401" />
     <option name="newTranslationDialogWidth" value="1321" />
-    <option name="newTranslationDialogX" value="473" />
-    <option name="newTranslationDialogY" value="670" />
+    <option name="newTranslationDialogX" value="599" />
+    <option name="newTranslationDialogY" value="617" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="java.lang.RuntimeException: An error occurred while executing doInBackground()" />
+      <item value="tài chính" />
+      <item value="Đăng ký sự kiện" />
+      <item value="is Registered" />
+      <item value="Khoản thu thêm" />
+      <item value="Khoản thu theem" />
+      <item value="khoản phụ thu" />
+      <item value="thất bại" />
+      <item value="Thành công" />
+      <item value="Thanhf c" />
+      <item value="khoản thu thêm" />
+      <item value="revenue" />
+      <item value="khoản " />
+      <item value="sắp diễn ra" />
+      <item value="sắp di" />
+      <item value="gần đây" />
+      <item value="gần đâ" />
+      <item value="gần đâu" />
+      <item value="gaanf dd" />
+      <item value="register" />
+      <item value="Không được chọn thời gian ở tương lai" />
       <item value="ESEC_DRM_PLUGIN_Omafl: OmaPlugin::onOpenDecryptSession(fd)::Drm2IsDrmFileByExtFd::file is NOT DRM by extension" />
       <item value="xác nhận" />
       <item value="xa" />
@@ -35,39 +56,18 @@
       <item value="not key_process" />
       <item value="compare&#10;" />
       <item value="compare&#10;&#10;" />
-      <item value="compare" />
-      <item value="com" />
-      <item value="c" />
-      <item value="Xác nhận" />
-      <item value="Xác b" />
-      <item value="xacs b" />
-      <item value="Cannot send pending intent due to unknown exception:" />
-      <item value="o Activity found to handle null" />
-      <item value="All posted notifications must specify a NotificationChannel ID." />
-      <item value="Caused by: java.lang.IllegalArgumentException: @Field parameters can only be used with form encoding. (parameter 1)" />
-      <item value="Plugin project :firebase_core_web not found. Please update settings.gradle." />
-      <item value="VFA-SVC: Uploading data. app, uncompressed size, data: com.deliverynow, 530," />
-      <item value="sổ liên lạc" />
-      <item value="s" />
-      <item value="Set the text size to size physical pixels, or to size device-independent pixels if dip is true." />
-      <item value="Commit Pref Edits" />
-      <item value="on Denied" />
-      <item value="accepted Permissions" />
-      <item value="on Request Permissions Result" />
-      <item value="BODY TEMPERATURE" />
-      <item value="BODY_TEMPERATURE" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="404" />
+        <entry key="ENGLISH" value="417" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="59" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="404" />
+        <entry key="VIETNAMESE" value="417" />
       </map>
     </option>
   </component>
