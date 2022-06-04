@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="617" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Instead of retaining the Fragment itself, use a non-retained Fragment and keep retained state in a ViewModel attached to that Fragment. The ViewModel's constructor and its onCleared() callback provide the signal for initial creation and final destruction of the retained state" />
+      <item value="on Activity Created" />
+      <item value=".asBitmap() some .jpeg files are actually gif" />
       <item value="java.lang.RuntimeException: An error occurred while executing doInBackground()" />
       <item value="tài chính" />
       <item value="Đăng ký sự kiện" />
@@ -53,21 +56,18 @@
       <item value="android.view.WindowManagerBadTokenException: Unable to add window -- token null is not valid; is your activity running?" />
       <item value="java.lang.IllegalStateException: You need to use a Theme.AppCompat theme (or descendant) with this activity." />
       <item value="ADEBUG: Process name is com.playdigious.deadcells.mobile, not key_process" />
-      <item value="not key_process" />
-      <item value="compare&#10;" />
-      <item value="compare&#10;&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="417" />
+        <entry key="ENGLISH" value="420" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="59" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="417" />
+        <entry key="VIETNAMESE" value="420" />
       </map>
     </option>
   </component>
