@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="617" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="obtain Path Result" />
       <item value="Instead of retaining the Fragment itself, use a non-retained Fragment and keep retained state in a ViewModel attached to that Fragment. The ViewModel's constructor and its onCleared() callback provide the signal for initial creation and final destruction of the retained state" />
       <item value="on Activity Created" />
       <item value=".asBitmap() some .jpeg files are actually gif" />
@@ -55,24 +56,23 @@
       <item value="Retrieve a PendingIntent that will perform a broadcast, like calling Context.sendBroadcast()." />
       <item value="android.view.WindowManagerBadTokenException: Unable to add window -- token null is not valid; is your activity running?" />
       <item value="java.lang.IllegalStateException: You need to use a Theme.AppCompat theme (or descendant) with this activity." />
-      <item value="ADEBUG: Process name is com.playdigious.deadcells.mobile, not key_process" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="420" />
+        <entry key="ENGLISH" value="421" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="59" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="420" />
+        <entry key="VIETNAMESE" value="421" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653884544532" />
+    <option name="lastTrimTime" value="1654449034723" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
