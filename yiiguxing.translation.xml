@@ -1,11 +1,14 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogHeight" value="401" />
+    <option name="newTranslationDialogHeight" value="134" />
     <option name="newTranslationDialogWidth" value="1321" />
-    <option name="newTranslationDialogX" value="599" />
-    <option name="newTranslationDialogY" value="617" />
+    <option name="newTranslationDialogX" value="191" />
+    <option name="newTranslationDialogY" value="848" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="        // Avoid joining path components manually&#10;&#10;&#10;" />
+      <item value="        // Avoid joining path components manually&#10;&#10;" />
+      <item value="        // Avoid joining path components manually&#10;" />
       <item value="Failed to getEnergyData" />
       <item value="obtain Path Result" />
       <item value="Instead of retaining the Fragment itself, use a non-retained Fragment and keep retained state in a ViewModel attached to that Fragment. The ViewModel's constructor and its onCleared() callback provide the signal for initial creation and final destruction of the retained state" />
@@ -53,14 +56,6 @@
       <item value="@Singleton vn.omt.kidsonline.teacher.di.component.ApplicationComponent" />
       <item value="VolumesDataOMTKOandroid_teacher_v4appsrcmainjavavnomtkidsonlineteacherdimoduleBroadcastModule.java:30: error: @Provides methods can only be present within a @Module or @ProducerModule" />
       <item value="It is also requested at:" />
-      <item value="@deprecated This module is declared, but an instance is not used in the component. This method is a no-op. For more, see https:dagger.devunused-modules." />
-      <item value="Retrieve a PendingIntent that will perform a broadcast, like calling Context.sendBroadcast()." />
-      <item value="android.view.WindowManagerBadTokenException: Unable to add window -- token null is not valid; is your activity running?" />
-      <item value="java.lang.IllegalStateException: You need to use a Theme.AppCompat theme (or descendant) with this activity." />
-      <item value="ADEBUG: Process name is com.playdigious.deadcells.mobile, not key_process" />
-      <item value="not key_process" />
-      <item value="compare&#10;" />
-      <item value="compare&#10;&#10;" />
     </histories>
     <option name="languageScores">
       <map>
@@ -72,12 +67,12 @@
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="59" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="417" />
+        <entry key="VIETNAMESE" value="418" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653884544532" />
+    <option name="lastTrimTime" value="1654485750448" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
