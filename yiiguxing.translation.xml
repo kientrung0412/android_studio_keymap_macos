@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="848" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="set Countable" />
       <item value="        // Avoid joining path components manually&#10;&#10;&#10;" />
       <item value="        // Avoid joining path components manually&#10;&#10;" />
       <item value="        // Avoid joining path components manually&#10;" />
@@ -55,12 +56,11 @@
       <item value="VolumesDataOMTKOandroid_teacher_v4appsrcmainjavavnomtkidsonlineteacherdicomponentBroadcastComponent.java:7: error: vn.omt.kidsonline.teacher.di.component.BroadcastComponent (unscoped) cannot depend on scoped components:" />
       <item value="@Singleton vn.omt.kidsonline.teacher.di.component.ApplicationComponent" />
       <item value="VolumesDataOMTKOandroid_teacher_v4appsrcmainjavavnomtkidsonlineteacherdimoduleBroadcastModule.java:30: error: @Provides methods can only be present within a @Module or @ProducerModule" />
-      <item value="It is also requested at:" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="417" />
+        <entry key="ENGLISH" value="418" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
