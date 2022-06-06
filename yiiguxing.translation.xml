@@ -6,19 +6,11 @@
     <option name="newTranslationDialogY" value="617" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="Caused by: java.lang.IllegalStateException: LifecycleOwner net.yazeed44.multiimagepicker.MainActivity@18524d75 is attempting to register while current state is RESUMED. LifecycleOwners must call register before they are STARTED." />
-      <item value="Manifest merger failed : uses-sdk:minSdkVersion 17 cannot be smaller than version 21 declared in library [:matisse] VolumesDataOMTLibMultiImagePickermatissebuildintermediatesmerged_manifestdebugAndroidManifest.xml as the library might be using APIs not available in 17" />
-      <item value="kết quả" />
-      <item value="@param maxSelectable Maximum selectable count. Default value is 1." />
-      <item value="capture Strategy" />
-      <item value="Determines whether the photo capturing is enabled or not on the media grid view." />
-      <item value="capture" />
-      <item value="countable" />
-      <item value="MIME types set user can choose from.&#10;     * @param mediaTypeExclusive Whether can choose images and videos at the same time during one single choosing&#10;     *                           process. true corresponds to not being able to choose images and videos at the same&#10;     *                           time, and false corresponds to being able to do this." />
-      <item value="Whether can choose images and videos at the same time during one single choosing process. true corresponds to not being able to choose images and videos at the same time, and false corresponds to being able to do this." />
-      <item value="media Type Exclusive" />
-      <item value="Wallet&#10;" />
-      <item value="Wallet" />
+      <item value="Failed to getEnergyData" />
+      <item value="obtain Path Result" />
+      <item value="Instead of retaining the Fragment itself, use a non-retained Fragment and keep retained state in a ViewModel attached to that Fragment. The ViewModel's constructor and its onCleared() callback provide the signal for initial creation and final destruction of the retained state" />
+      <item value="on Activity Created" />
+      <item value=".asBitmap() some .jpeg files are actually gif" />
       <item value="java.lang.RuntimeException: An error occurred while executing doInBackground()" />
       <item value="tài chính" />
       <item value="Đăng ký sự kiện" />
@@ -56,18 +48,31 @@
       <item value="&#10;Notifications should only launch a BroadcastReceiver from notification actions (addAction)" />
       <item value="ENotificationService: Indirect notification activity start (trampoline) from com.kidsonline.teacher.debug blocked" />
       <item value="unscoped" />
+      <item value="Some input files use or override a deprecated API." />
+      <item value="VolumesDataOMTKOandroid_teacher_v4appsrcmainjavavnomtkidsonlineteacherdicomponentBroadcastComponent.java:7: error: vn.omt.kidsonline.teacher.di.component.BroadcastComponent (unscoped) cannot depend on scoped components:" />
+      <item value="@Singleton vn.omt.kidsonline.teacher.di.component.ApplicationComponent" />
+      <item value="VolumesDataOMTKOandroid_teacher_v4appsrcmainjavavnomtkidsonlineteacherdimoduleBroadcastModule.java:30: error: @Provides methods can only be present within a @Module or @ProducerModule" />
+      <item value="It is also requested at:" />
+      <item value="@deprecated This module is declared, but an instance is not used in the component. This method is a no-op. For more, see https:dagger.devunused-modules." />
+      <item value="Retrieve a PendingIntent that will perform a broadcast, like calling Context.sendBroadcast()." />
+      <item value="android.view.WindowManagerBadTokenException: Unable to add window -- token null is not valid; is your activity running?" />
+      <item value="java.lang.IllegalStateException: You need to use a Theme.AppCompat theme (or descendant) with this activity." />
+      <item value="ADEBUG: Process name is com.playdigious.deadcells.mobile, not key_process" />
+      <item value="not key_process" />
+      <item value="compare&#10;" />
+      <item value="compare&#10;&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="427" />
+        <entry key="ENGLISH" value="417" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="60" />
+        <entry key="LAO" value="59" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="427" />
+        <entry key="VIETNAMESE" value="417" />
       </map>
     </option>
   </component>
