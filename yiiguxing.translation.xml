@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="357" />
     <histories>
+      <item value="java.lang.RuntimeException: Error receiving broadcast Intent { act=action_notification_clicked flg=0x10 (has extras) } in vn.omt.kidsonline.teacher.base.BaseActivity1@6a6a231" />
       <item value="góc giáo viên" />
       <item value="góc" />
       <item value="quocs " />
@@ -54,19 +55,18 @@
       <item value="Đo thân nhiệt lúc" />
       <item value="&#10;Notifications should only launch a BroadcastReceiver from notification actions (addAction)&#10;" />
       <item value="&#10;Notifications should only launch a BroadcastReceiver from notification actions (addAction)" />
-      <item value="ENotificationService: Indirect notification activity start (trampoline) from com.kidsonline.teacher.debug blocked" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="423" />
+        <entry key="ENGLISH" value="424" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="59" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="423" />
+        <entry key="VIETNAMESE" value="424" />
       </map>
     </option>
   </component>
