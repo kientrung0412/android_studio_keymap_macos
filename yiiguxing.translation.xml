@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="357" />
     <histories>
+      <item value="ການນອນ" />
       <item value="WSystem.err: com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected STRING but was BEGIN_OBJECT at path .data.charts[0].evaluates[0].label" />
       <item value="đã thanh toán" />
       <item value="đã thanh t" />
@@ -54,7 +55,6 @@
       <item value="ESEC_DRM_PLUGIN_Omafl: OmaPlugin::onOpenDecryptSession(fd)::Drm2IsDrmFileByExtFd::file is NOT DRM by extension" />
       <item value="xác nhận" />
       <item value="xa" />
-      <item value="&gt; Could not get unknown property 'release' for SigningConfig container of type org.gradle.api.internal.FactoryNamedDomainObjectContainer." />
     </histories>
     <option name="languageScores">
       <map>
@@ -64,7 +64,7 @@
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="59" />
+        <entry key="LAO" value="60" />
         <entry key="CEBUANO" value="1" />
         <entry key="VIETNAMESE" value="429" />
       </map>
