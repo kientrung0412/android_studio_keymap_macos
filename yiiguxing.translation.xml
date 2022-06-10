@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="548" />
     <option name="newTranslationDialogY" value="357" />
     <histories>
+      <item value="ຂະຫນາດກາງ" />
+      <item value="ກາງ" />
       <item value="INTERNAL POST" />
       <item value="NEW COMMENT TERM ASSESSMENT" />
       <item value="ການນອນ" />
@@ -53,20 +55,18 @@
       <item value="gần đâu" />
       <item value="gaanf dd" />
       <item value="register" />
-      <item value="Không được chọn thời gian ở tương lai" />
-      <item value="ESEC_DRM_PLUGIN_Omafl: OmaPlugin::onOpenDecryptSession(fd)::Drm2IsDrmFileByExtFd::file is NOT DRM by extension" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="431" />
+        <entry key="ENGLISH" value="432" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="60" />
+        <entry key="LAO" value="62" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="431" />
+        <entry key="VIETNAMESE" value="433" />
       </map>
     </option>
   </component>
