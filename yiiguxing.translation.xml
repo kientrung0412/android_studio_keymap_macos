@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="340" />
     <option name="newTranslationDialogY" value="713" />
     <histories>
+      <item value="Methods must have an explicit list of parameters." />
       <item value="- Declare repository providing the artifact, see the documentation at https:docs.gradle.orgcurrentuserguidedeclaring_repositories.html" />
       <item value="is enable need paid" />
       <item value="is enable_need_paid" />
@@ -54,7 +55,6 @@
       <item value="thất bại" />
       <item value="Thành công" />
       <item value="Thanhf c" />
-      <item value="khoản thu thêm" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,12 +66,12 @@
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="65" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="438" />
+        <entry key="VIETNAMESE" value="439" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1654508985556" />
+    <option name="lastTrimTime" value="1655091701216" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
