@@ -1,15 +1,47 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogHeight" value="134" />
+    <option name="newTranslationDialogHeight" value="401" />
     <option name="newTranslationDialogWidth" value="1321" />
-    <option name="newTranslationDialogX" value="191" />
-    <option name="newTranslationDialogY" value="848" />
-    <option name="pinNewTranslationDialog" value="true" />
+    <option name="newTranslationDialogX" value="340" />
+    <option name="newTranslationDialogY" value="679" />
     <histories>
-      <item value="set Countable" />
-      <item value="        // Avoid joining path components manually&#10;&#10;&#10;" />
-      <item value="        // Avoid joining path components manually&#10;&#10;" />
-      <item value="        // Avoid joining path components manually&#10;" />
+      <item value="MẮt" />
+      <item value="mawts" />
+      <item value="Methods must have an explicit list of parameters." />
+      <item value="- Declare repository providing the artifact, see the documentation at https:docs.gradle.orgcurrentuserguidedeclaring_repositories.html" />
+      <item value="is enable need paid" />
+      <item value="is enable_need_paid" />
+      <item value="is_enable_need_paid" />
+      <item value="ລາຍຊື່ປີ້" />
+      <item value="ticket list" />
+      <item value="ticket_list" />
+      <item value="Ticket" />
+      <item value="ລາຍການໃບລາພັກ" />
+      <item value="ຂະຫນາດກາງ" />
+      <item value="ກາງ" />
+      <item value="INTERNAL POST" />
+      <item value="NEW COMMENT TERM ASSESSMENT" />
+      <item value="ການນອນ" />
+      <item value="WSystem.err: com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected STRING but was BEGIN_OBJECT at path .data.charts[0].evaluates[0].label" />
+      <item value="đã thanh toán" />
+      <item value="đã thanh t" />
+      <item value="đã thanh táon" />
+      <item value="đã thanh " />
+      <item value="đã" />
+      <item value="java.lang.IllegalArgumentException: Failed to find configured root that contains datadatavn.omt.kidsonline.parent.bgcacheJPEG_1654659242500_1622362615.jpg" />
+      <item value="hangtracer enabled" />
+      <item value="hangtracer_enabled" />
+      <item value="Failed to find configured root that contains storageemulated0PicturesJPEG_1654590586350.jpg" />
+      <item value="java.lang.RuntimeException: Error receiving broadcast Intent { act=action_notification_clicked flg=0x10 (has extras) } in vn.omt.kidsonline.teacher.base.BaseActivity1@6a6a231" />
+      <item value="góc giáo viên" />
+      <item value="góc" />
+      <item value="quocs " />
+      <item value="private Class g" />
+      <item value="Deprecated No need to instantiate this class, use the static methods instead." />
+      <item value="DatabaseError: Permission denied" />
+      <item value="whether to write to file" />
+      <item value="是否写入文件" />
+      <item value="java.lang.IllegalArgumentException: Failed to find configured root that contains storageemulated0PicturestestJPEG_20220606_164933.jpg" />
       <item value="Failed to getEnergyData" />
       <item value="obtain Path Result" />
       <item value="Instead of retaining the Fragment itself, use a non-retained Fragment and keep retained state in a ViewModel attached to that Fragment. The ViewModel's constructor and its onCleared() callback provide the signal for initial creation and final destruction of the retained state" />
@@ -23,56 +55,23 @@
       <item value="Khoản thu theem" />
       <item value="khoản phụ thu" />
       <item value="thất bại" />
-      <item value="Thành công" />
-      <item value="Thanhf c" />
-      <item value="khoản thu thêm" />
-      <item value="revenue" />
-      <item value="khoản " />
-      <item value="sắp diễn ra" />
-      <item value="sắp di" />
-      <item value="gần đây" />
-      <item value="gần đâ" />
-      <item value="gần đâu" />
-      <item value="gaanf dd" />
-      <item value="register" />
-      <item value="Không được chọn thời gian ở tương lai" />
-      <item value="ESEC_DRM_PLUGIN_Omafl: OmaPlugin::onOpenDecryptSession(fd)::Drm2IsDrmFileByExtFd::file is NOT DRM by extension" />
-      <item value="xác nhận" />
-      <item value="xa" />
-      <item value="&gt; Could not get unknown property 'release' for SigningConfig container of type org.gradle.api.internal.FactoryNamedDomainObjectContainer." />
-      <item value="subscribe" />
-      <item value="observe" />
-      <item value="Posts a task to a main thread to set the given value. So if you have a following code executed in" />
-      <item value="EBitmapFactory: Unable to decode stream: java.io.FileNotFoundException: sdcardDownload: open failed: EISDIR (Is a directory)" />
-      <item value="Effmpeg-kit: sdcardDownload20220517_111134.heic: Invalid data found when processing input" />
-      <item value="moov atom not found" />
-      <item value="Invalid data found when processing input" />
-      <item value="Đo thân nhiệt lúc" />
-      <item value="&#10;Notifications should only launch a BroadcastReceiver from notification actions (addAction)&#10;" />
-      <item value="&#10;Notifications should only launch a BroadcastReceiver from notification actions (addAction)" />
-      <item value="ENotificationService: Indirect notification activity start (trampoline) from com.kidsonline.teacher.debug blocked" />
-      <item value="unscoped" />
-      <item value="Some input files use or override a deprecated API." />
-      <item value="VolumesDataOMTKOandroid_teacher_v4appsrcmainjavavnomtkidsonlineteacherdicomponentBroadcastComponent.java:7: error: vn.omt.kidsonline.teacher.di.component.BroadcastComponent (unscoped) cannot depend on scoped components:" />
-      <item value="@Singleton vn.omt.kidsonline.teacher.di.component.ApplicationComponent" />
-      <item value="VolumesDataOMTKOandroid_teacher_v4appsrcmainjavavnomtkidsonlineteacherdimoduleBroadcastModule.java:30: error: @Provides methods can only be present within a @Module or @ProducerModule" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="418" />
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="439" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="59" />
+        <entry key="LAO" value="65" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="418" />
+        <entry key="VIETNAMESE" value="442" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1654485750448" />
+    <option name="lastTrimTime" value="1655091701216" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
