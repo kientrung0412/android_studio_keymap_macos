@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="340" />
     <option name="newTranslationDialogY" value="679" />
     <histories>
+      <item value="'addAll()' called on collection 'financeStudents' with itself as argument " />
       <item value="outer Space" />
       <item value="inner Space" />
       <item value="Circular Image View" />
@@ -54,7 +55,6 @@
       <item value="Failed to getEnergyData" />
       <item value="obtain Path Result" />
       <item value="Instead of retaining the Fragment itself, use a non-retained Fragment and keep retained state in a ViewModel attached to that Fragment. The ViewModel's constructor and its onCleared() callback provide the signal for initial creation and final destruction of the retained state" />
-      <item value="on Activity Created" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="65" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="448" />
+        <entry key="VIETNAMESE" value="449" />
       </map>
     </option>
   </component>
