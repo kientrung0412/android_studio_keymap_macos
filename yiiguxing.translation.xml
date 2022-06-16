@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="340" />
     <option name="newTranslationDialogY" value="679" />
     <histories>
+      <item value="is Event Future" />
       <item value="get Term Assessment Intent" />
       <item value="perform Click" />
       <item value="tab Indicator Gravity" />
@@ -54,19 +55,18 @@
       <item value="DatabaseError: Permission denied" />
       <item value="whether to write to file" />
       <item value="是否写入文件" />
-      <item value="java.lang.IllegalArgumentException: Failed to find configured root that contains storageemulated0PicturestestJPEG_20220606_164933.jpg" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="451" />
+        <entry key="ENGLISH" value="452" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="65" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="451" />
+        <entry key="VIETNAMESE" value="452" />
       </map>
     </option>
   </component>
