@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="340" />
     <option name="newTranslationDialogY" value="679" />
     <histories>
+      <item value="hoạt động đã đăng ký" />
       <item value="chưa đăng ký" />
       <item value="chưa đăng " />
       <item value="c" />
@@ -54,7 +55,6 @@
       <item value="Failed to find configured root that contains storageemulated0PicturesJPEG_1654590586350.jpg" />
       <item value="java.lang.RuntimeException: Error receiving broadcast Intent { act=action_notification_clicked flg=0x10 (has extras) } in vn.omt.kidsonline.teacher.base.BaseActivity1@6a6a231" />
       <item value="góc giáo viên" />
-      <item value="góc" />
     </histories>
     <option name="languageScores">
       <map>
