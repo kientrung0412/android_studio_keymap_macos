@@ -5,6 +5,35 @@
     <option name="newTranslationDialogX" value="340" />
     <option name="newTranslationDialogY" value="679" />
     <histories>
+      <item value="gender" />
+      <item value="mã hóa" />
+      <item value="tạo mới" />
+      <item value="tạo " />
+      <item value="tạo" />
+      <item value="taoj" />
+      <item value="Policy" />
+      <item value="hoạt động đã đăng ký" />
+      <item value="chưa đăng ký" />
+      <item value="chưa đăng " />
+      <item value="c" />
+      <item value="đã đăng ký" />
+      <item value="đã đăng " />
+      <item value="đã d" />
+      <item value="đã" />
+      <item value="is Event Future" />
+      <item value="get Term Assessment Intent" />
+      <item value="perform Click" />
+      <item value="tab Indicator Gravity" />
+      <item value="'addAll()' called on collection 'financeStudents' with itself as argument " />
+      <item value="outer Space" />
+      <item value="inner Space" />
+      <item value="Circular Image View" />
+      <item value="Contract" />
+      <item value="java.lang.RuntimeException: LiveData does not handle errors. Errors from publishers should be handled upstream and propagated as state" />
+      <item value="error: Class &quot;Information&quot; must declare a public constructor with no arguments if it contains custom constructors." />
+      <item value="Note: [1] Wrote GeneratedAppGlideModule with: [com.bumptech.glide.integration.okhttp3.OkHttpLibraryGlideModule, com.pr.commentmodule.CommentGlideModule, com.omt.reviewmodule.base.ReviewGlideModule]" />
+      <item value="No injector factory bound for" />
+      <item value="student Paid" />
       <item value="MẮt" />
       <item value="mawts" />
       <item value="Methods must have an explicit list of parameters." />
@@ -26,52 +55,24 @@
       <item value="đã thanh toán" />
       <item value="đã thanh t" />
       <item value="đã thanh táon" />
-      <item value="đã thanh " />
-      <item value="đã" />
-      <item value="java.lang.IllegalArgumentException: Failed to find configured root that contains datadatavn.omt.kidsonline.parent.bgcacheJPEG_1654659242500_1622362615.jpg" />
-      <item value="hangtracer enabled" />
-      <item value="hangtracer_enabled" />
-      <item value="Failed to find configured root that contains storageemulated0PicturesJPEG_1654590586350.jpg" />
-      <item value="java.lang.RuntimeException: Error receiving broadcast Intent { act=action_notification_clicked flg=0x10 (has extras) } in vn.omt.kidsonline.teacher.base.BaseActivity1@6a6a231" />
-      <item value="góc giáo viên" />
-      <item value="góc" />
-      <item value="quocs " />
-      <item value="private Class g" />
-      <item value="Deprecated No need to instantiate this class, use the static methods instead." />
-      <item value="DatabaseError: Permission denied" />
-      <item value="whether to write to file" />
-      <item value="是否写入文件" />
-      <item value="java.lang.IllegalArgumentException: Failed to find configured root that contains storageemulated0PicturestestJPEG_20220606_164933.jpg" />
-      <item value="Failed to getEnergyData" />
-      <item value="obtain Path Result" />
-      <item value="Instead of retaining the Fragment itself, use a non-retained Fragment and keep retained state in a ViewModel attached to that Fragment. The ViewModel's constructor and its onCleared() callback provide the signal for initial creation and final destruction of the retained state" />
-      <item value="on Activity Created" />
-      <item value=".asBitmap() some .jpeg files are actually gif" />
-      <item value="java.lang.RuntimeException: An error occurred while executing doInBackground()" />
-      <item value="tài chính" />
-      <item value="Đăng ký sự kiện" />
-      <item value="is Registered" />
-      <item value="Khoản thu thêm" />
-      <item value="Khoản thu theem" />
-      <item value="khoản phụ thu" />
-      <item value="thất bại" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="439" />
+        <entry key="ENGLISH" value="459" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="65" />
+        <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="442" />
+        <entry key="VIETNAMESE" value="459" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1655091701216" />
+    <option name="lastTrimTime" value="1655534209711" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
