@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="340" />
     <option name="newTranslationDialogY" value="679" />
     <histories>
+      <item value="mã hóa" />
+      <item value="tạo mới" />
+      <item value="tạo " />
+      <item value="tạo" />
+      <item value="taoj" />
       <item value="Policy" />
       <item value="hoạt động đã đăng ký" />
       <item value="chưa đăng ký" />
@@ -50,23 +55,19 @@
       <item value="đã thanh t" />
       <item value="đã thanh táon" />
       <item value="đã thanh " />
-      <item value="java.lang.IllegalArgumentException: Failed to find configured root that contains datadatavn.omt.kidsonline.parent.bgcacheJPEG_1654659242500_1622362615.jpg" />
-      <item value="hangtracer enabled" />
-      <item value="hangtracer_enabled" />
-      <item value="Failed to find configured root that contains storageemulated0PicturesJPEG_1654590586350.jpg" />
-      <item value="java.lang.RuntimeException: Error receiving broadcast Intent { act=action_notification_clicked flg=0x10 (has extras) } in vn.omt.kidsonline.teacher.base.BaseActivity1@6a6a231" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="456" />
+        <entry key="ENGLISH" value="458" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="65" />
+        <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="456" />
+        <entry key="VIETNAMESE" value="459" />
       </map>
     </option>
   </component>
