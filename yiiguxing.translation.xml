@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="340" />
     <option name="newTranslationDialogY" value="679" />
     <histories>
+      <item value="A problem occurred evaluating settings 'android-parent-v4'." />
       <item value="&gt; Task :photo_manager:compileDebugKotlin FAILED" />
       <item value="gender" />
       <item value="mã hóa" />
@@ -54,12 +55,11 @@
       <item value="ການນອນ" />
       <item value="WSystem.err: com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected STRING but was BEGIN_OBJECT at path .data.charts[0].evaluates[0].label" />
       <item value="đã thanh toán" />
-      <item value="đã thanh t" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="460" />
+        <entry key="ENGLISH" value="461" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="65" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="460" />
+        <entry key="VIETNAMESE" value="461" />
       </map>
     </option>
   </component>
