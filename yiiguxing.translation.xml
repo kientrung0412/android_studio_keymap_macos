@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="340" />
     <option name="newTranslationDialogY" value="679" />
     <histories>
+      <item value="Called attach on a child which is not detached" />
+      <item value="java.lang.IllegalArgumentException: Called attach on a child which is not detached: SimpleViewHolder{6b4bd8e position=0 id=-1, oldPos=-1, pLpos:-1 not recyclable(1)} com.jcodecraeer.xrecyclerview.XRecyclerView{68a29af VFED..... ......ID 0,0-1080,1752 7f0a028e app:idfm_event_list_rcv}, adapter:com.jcodecraeer.xrecyclerview.XRecyclerViewWrapAdapter@de141bc, layout:androidx.recyclerview.widget.LinearLayoutManager@e587545, context:vn.omt.kidsonline.parent.ui.event.EventActivity@11725f9" />
+      <item value="union" />
       <item value="A problem occurred evaluating settings 'android-parent-v4'." />
       <item value="&gt; Task :photo_manager:compileDebugKotlin FAILED" />
       <item value="gender" />
@@ -52,14 +55,11 @@
       <item value="ກາງ" />
       <item value="INTERNAL POST" />
       <item value="NEW COMMENT TERM ASSESSMENT" />
-      <item value="ການນອນ" />
-      <item value="WSystem.err: com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected STRING but was BEGIN_OBJECT at path .data.charts[0].evaluates[0].label" />
-      <item value="đã thanh toán" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="461" />
+        <entry key="ENGLISH" value="464" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="65" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="461" />
+        <entry key="VIETNAMESE" value="464" />
       </map>
     </option>
   </component>
