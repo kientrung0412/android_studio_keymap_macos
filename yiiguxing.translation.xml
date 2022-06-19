@@ -2,9 +2,10 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="401" />
     <option name="newTranslationDialogWidth" value="1321" />
-    <option name="newTranslationDialogX" value="340" />
-    <option name="newTranslationDialogY" value="679" />
+    <option name="newTranslationDialogX" value="147" />
+    <option name="newTranslationDialogY" value="609" />
     <histories>
+      <item value="Retrieve a new Parcel object from the pool." />
       <item value="Return true if the fragment is currently visible to the user. This means it: (1) has been added, (2)" />
       <item value="Called attach on a child which is not detached" />
       <item value="java.lang.IllegalArgumentException: Called attach on a child which is not detached: SimpleViewHolder{6b4bd8e position=0 id=-1, oldPos=-1, pLpos:-1 not recyclable(1)} com.jcodecraeer.xrecyclerview.XRecyclerView{68a29af VFED..... ......ID 0,0-1080,1752 7f0a028e app:idfm_event_list_rcv}, adapter:com.jcodecraeer.xrecyclerview.XRecyclerViewWrapAdapter@de141bc, layout:androidx.recyclerview.widget.LinearLayoutManager@e587545, context:vn.omt.kidsonline.parent.ui.event.EventActivity@11725f9" />
@@ -54,7 +55,6 @@
       <item value="ລາຍການໃບລາພັກ" />
       <item value="ຂະຫນາດກາງ" />
       <item value="ກາງ" />
-      <item value="INTERNAL POST" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,7 +67,7 @@
         <entry key="LAO" value="65" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="465" />
+        <entry key="VIETNAMESE" value="466" />
       </map>
     </option>
   </component>
