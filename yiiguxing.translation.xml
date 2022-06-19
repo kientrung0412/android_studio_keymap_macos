@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="147" />
     <option name="newTranslationDialogY" value="609" />
     <histories>
+      <item value="java.lang.IllegalStateException: stream has already been operated upon or closed" />
       <item value="Use BaseInputConnection.removeComposingSpans() to remove any IME composing state" />
       <item value="xác nhận" />
       <item value="x" />
@@ -54,12 +55,11 @@
       <item value="is_enable_need_paid" />
       <item value="ລາຍຊື່ປີ້" />
       <item value="ticket list" />
-      <item value="ticket_list" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="469" />
+        <entry key="ENGLISH" value="470" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="65" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="469" />
+        <entry key="VIETNAMESE" value="470" />
       </map>
     </option>
   </component>
