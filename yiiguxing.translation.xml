@@ -3,8 +3,12 @@
     <option name="newTranslationDialogHeight" value="401" />
     <option name="newTranslationDialogWidth" value="1321" />
     <option name="newTranslationDialogX" value="340" />
-    <option name="newTranslationDialogY" value="679" />
+    <option name="newTranslationDialogY" value="617" />
     <histories>
+      <item value="The specified Android SDK Build Tools version (28.0.3) is ignored, as it is below the minimum supported version (30.0.2) for Android Gradle Plugin 4.2.2." />
+      <item value="JOIN" />
+      <item value="tham ra" />
+      <item value="nhắn nhở" />
       <item value="gender" />
       <item value="mã hóa" />
       <item value="tạo mới" />
@@ -51,15 +55,11 @@
       <item value="INTERNAL POST" />
       <item value="NEW COMMENT TERM ASSESSMENT" />
       <item value="ການນອນ" />
-      <item value="WSystem.err: com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected STRING but was BEGIN_OBJECT at path .data.charts[0].evaluates[0].label" />
-      <item value="đã thanh toán" />
-      <item value="đã thanh t" />
-      <item value="đã thanh táon" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="459" />
+        <entry key="ENGLISH" value="463" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="65" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="459" />
+        <entry key="VIETNAMESE" value="463" />
       </map>
     </option>
   </component>
