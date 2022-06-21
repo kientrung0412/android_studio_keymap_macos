@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="340" />
     <option name="newTranslationDialogY" value="679" />
     <histories>
+      <item value="int Value" />
+      <item value="date Added" />
+      <item value="should Create Camera Album" />
       <item value="statistics" />
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.kidsonline.manager.debugcom.kidsonline.manager.ui.auth.LoginActivity}: android.view.InflateException: Binary XML file line 297: Error inflating class &lt;unknown&gt;" />
       <item value="gender" />
@@ -52,14 +55,11 @@
       <item value="ກາງ" />
       <item value="INTERNAL POST" />
       <item value="NEW COMMENT TERM ASSESSMENT" />
-      <item value="ການນອນ" />
-      <item value="WSystem.err: com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected STRING but was BEGIN_OBJECT at path .data.charts[0].evaluates[0].label" />
-      <item value="đã thanh toán" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="461" />
+        <entry key="ENGLISH" value="464" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="65" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="461" />
+        <entry key="VIETNAMESE" value="464" />
       </map>
     </option>
   </component>
