@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="340" />
     <option name="newTranslationDialogY" value="679" />
     <histories>
+      <item value="on Measure" />
       <item value="max Video Duration" />
       <item value="EParcel: Class not found when unmarshalling: vn.omt.kidsonline.teacher.data.model.notification.Notification" />
       <item value="java.lang.RuntimeException: setOnItemClickListener cannot be used with a spinner." />
@@ -54,12 +55,11 @@
       <item value="ticket_list" />
       <item value="Ticket" />
       <item value="ລາຍການໃບລາພັກ" />
-      <item value="ຂະຫນາດກາງ" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="468" />
+        <entry key="ENGLISH" value="469" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="65" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="468" />
+        <entry key="VIETNAMESE" value="469" />
       </map>
     </option>
   </component>
