@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="340" />
     <option name="newTranslationDialogY" value="617" />
     <histories>
+      <item value="at java.lang.Thread.run(Thread.java:920) Suppressed" />
       <item value="Thành công" />
       <item value="Thành" />
       <item value="Thanhf c" />
@@ -54,7 +55,6 @@
       <item value="Note: [1] Wrote GeneratedAppGlideModule with: [com.bumptech.glide.integration.okhttp3.OkHttpLibraryGlideModule, com.pr.commentmodule.CommentGlideModule, com.omt.reviewmodule.base.ReviewGlideModule]" />
       <item value="No injector factory bound for" />
       <item value="student Paid" />
-      <item value="MẮt" />
     </histories>
     <option name="languageScores">
       <map>
