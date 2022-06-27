@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="340" />
     <option name="newTranslationDialogY" value="617" />
     <histories>
+      <item value="Return the domain address. Must hold &lt;uses-permission android:name=&quot;android.permission.INTERNET&quot; &gt; Params: domain – The name of domain. consumer – The consumer. Returns: the task" />
       <item value="at java.lang.Thread.run(Thread.java:920) Suppressed" />
       <item value="Thành công" />
       <item value="Thành" />
@@ -54,12 +55,11 @@
       <item value="error: Class &quot;Information&quot; must declare a public constructor with no arguments if it contains custom constructors." />
       <item value="Note: [1] Wrote GeneratedAppGlideModule with: [com.bumptech.glide.integration.okhttp3.OkHttpLibraryGlideModule, com.pr.commentmodule.CommentGlideModule, com.omt.reviewmodule.base.ReviewGlideModule]" />
       <item value="No injector factory bound for" />
-      <item value="student Paid" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="480" />
+        <entry key="ENGLISH" value="481" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="65" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="480" />
+        <entry key="VIETNAMESE" value="481" />
       </map>
     </option>
   </component>
