@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="340" />
     <option name="newTranslationDialogY" value="617" />
     <histories>
+      <item value="thử lại lần nữa" />
+      <item value="tried again" />
+      <item value="đã thử lại" />
+      <item value="đã thử t" />
+      <item value="đã" />
       <item value="Return the domain address. Must hold &lt;uses-permission android:name=&quot;android.permission.INTERNET&quot; &gt; Params: domain – The name of domain. consumer – The consumer. Returns: the task" />
       <item value="at java.lang.Thread.run(Thread.java:920) Suppressed" />
       <item value="Thành công" />
@@ -41,7 +46,6 @@
       <item value="đã đăng ký" />
       <item value="đã đăng " />
       <item value="đã d" />
-      <item value="đã" />
       <item value="is Event Future" />
       <item value="get Term Assessment Intent" />
       <item value="perform Click" />
@@ -51,15 +55,11 @@
       <item value="inner Space" />
       <item value="Circular Image View" />
       <item value="Contract" />
-      <item value="java.lang.RuntimeException: LiveData does not handle errors. Errors from publishers should be handled upstream and propagated as state" />
-      <item value="error: Class &quot;Information&quot; must declare a public constructor with no arguments if it contains custom constructors." />
-      <item value="Note: [1] Wrote GeneratedAppGlideModule with: [com.bumptech.glide.integration.okhttp3.OkHttpLibraryGlideModule, com.pr.commentmodule.CommentGlideModule, com.omt.reviewmodule.base.ReviewGlideModule]" />
-      <item value="No injector factory bound for" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="481" />
+        <entry key="ENGLISH" value="484" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="65" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="481" />
+        <entry key="VIETNAMESE" value="484" />
       </map>
     </option>
   </component>
