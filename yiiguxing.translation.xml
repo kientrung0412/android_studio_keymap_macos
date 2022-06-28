@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="340" />
     <option name="newTranslationDialogY" value="617" />
     <histories>
+      <item value="intersection" />
       <item value="increment And Get" />
       <item value="transform" />
       <item value="tranform" />
@@ -54,12 +55,11 @@
       <item value="đã đăng " />
       <item value="đã d" />
       <item value="is Event Future" />
-      <item value="get Term Assessment Intent" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="489" />
+        <entry key="ENGLISH" value="490" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="65" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="489" />
+        <entry key="VIETNAMESE" value="490" />
       </map>
     </option>
   </component>
