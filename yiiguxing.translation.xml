@@ -5,6 +5,24 @@
     <option name="newTranslationDialogX" value="340" />
     <option name="newTranslationDialogY" value="617" />
     <histories>
+      <item value="The current Flutter SDK version is 2.8.1." />
+      <item value="Missing payments" />
+      <item value="Đã thanh toán" />
+      <item value="Grade" />
+      <item value="Khối lớp" />
+      <item value="WMediaProvider: isAppCloneUserPair failed. Users: 0 and 0" />
+      <item value="WProviderHelper: Unknown dynamite feature providerinstaller.dynamite" />
+      <item value="EBitmap: OOM allocating Bitmap with dimensions 1535616 x 864000" />
+      <item value="init Adapter" />
+      <item value="is Parallel" />
+      <item value="WOkHttp: java.net.UnknownHostException: Unable to resolve host &quot;realease.kidsonline.edu.vn&quot;: No address associated with hostname" />
+      <item value="calculate In Sample Size" />
+      <item value="prepare" />
+      <item value="java.lang.RuntimeException: Can't create handler inside thread Thread[Timer-2,5,main] that has not called Looper.prepare()" />
+      <item value="Only the original thread that created a view hierarchy can touch its views." />
+      <item value="android.view.ViewRootImplCalledFromWrongThreadException: Only the original thread that created a view hierarchy can touch its views." />
+      <item value="thanhf coong" />
+      <item value="intersection" />
       <item value="increment And Get" />
       <item value="transform" />
       <item value="tranform" />
@@ -37,42 +55,24 @@
       <item value="int Value" />
       <item value="date Added" />
       <item value="should Create Camera Album" />
-      <item value="statistics" />
-      <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.kidsonline.manager.debugcom.kidsonline.manager.ui.auth.LoginActivity}: android.view.InflateException: Binary XML file line 297: Error inflating class &lt;unknown&gt;" />
-      <item value="gender" />
-      <item value="mã hóa" />
-      <item value="tạo mới" />
-      <item value="tạo " />
-      <item value="tạo" />
-      <item value="taoj" />
-      <item value="Policy" />
-      <item value="hoạt động đã đăng ký" />
-      <item value="chưa đăng ký" />
-      <item value="chưa đăng " />
-      <item value="c" />
-      <item value="đã đăng ký" />
-      <item value="đã đăng " />
-      <item value="đã d" />
-      <item value="is Event Future" />
-      <item value="get Term Assessment Intent" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="489" />
+        <entry key="ENGLISH" value="507" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="65" />
+        <entry key="LAO" value="67" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="489" />
+        <entry key="VIETNAMESE" value="507" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1655971647219" />
+    <option name="lastTrimTime" value="1656990655187" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
