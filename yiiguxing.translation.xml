@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="340" />
     <option name="newTranslationDialogY" value="617" />
     <histories>
+      <item value="The current Flutter SDK version is 2.8.1." />
       <item value="Missing payments" />
       <item value="Đã thanh toán" />
       <item value="Grade" />
@@ -54,12 +55,11 @@
       <item value="int Value" />
       <item value="date Added" />
       <item value="should Create Camera Album" />
-      <item value="statistics" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="506" />
+        <entry key="ENGLISH" value="507" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,12 +67,12 @@
         <entry key="LAO" value="67" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="506" />
+        <entry key="VIETNAMESE" value="507" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1656412005386" />
+    <option name="lastTrimTime" value="1656990655187" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
