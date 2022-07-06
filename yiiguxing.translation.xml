@@ -2,9 +2,10 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="401" />
     <option name="newTranslationDialogWidth" value="1321" />
-    <option name="newTranslationDialogX" value="340" />
-    <option name="newTranslationDialogY" value="617" />
+    <option name="newTranslationDialogX" value="339" />
+    <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="breakfast" />
       <item value="Iflutter (26190): type '(dynamic) =&gt; Null' is not a subtype of type '(String, dynamic) =&gt; void' of 'action'" />
       <item value="The current Flutter SDK version is 2.8.1." />
       <item value="Missing payments" />
@@ -54,7 +55,6 @@
       <item value="EParcel: Class not found when unmarshalling: vn.omt.kidsonline.teacher.data.model.notification.Notification" />
       <item value="java.lang.RuntimeException: setOnItemClickListener cannot be used with a spinner." />
       <item value="int Value" />
-      <item value="date Added" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,7 +67,7 @@
         <entry key="LAO" value="67" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="508" />
+        <entry key="VIETNAMESE" value="509" />
       </map>
     </option>
   </component>
