@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="339" />
     <option name="newTranslationDialogY" value="618" />
     <histories>
+      <item value="When set to true, layouts from end to start" />
       <item value="THống kê" />
       <item value="THống" />
       <item value="thoongs kee" />
@@ -54,12 +55,11 @@
       <item value="AP SOUTHEAST_1" />
       <item value="include Edge" />
       <item value="on Measure" />
-      <item value="max Video Duration" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="510" />
+        <entry key="ENGLISH" value="511" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
