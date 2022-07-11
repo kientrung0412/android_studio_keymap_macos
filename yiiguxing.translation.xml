@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="339" />
     <option name="newTranslationDialogY" value="617" />
     <histories>
+      <item value="depend On Inherited Widget Of Exact Type" />
       <item value="is Dense" />
       <item value="ScreenStatus? screenStatus})') isn't a valid override of 'BaseState.copyWith' ('BaseState" />
       <item value="Are you sure this is 1 class 2?" />
@@ -54,12 +55,11 @@
       <item value="WOkHttp: Whoops, looks like something went wrong." />
       <item value="2022-06-27 15:08:15.687 ios-deploy[9146:49140] [ !! ] Unable to mount developer disk image. (e80000e2)" />
       <item value="Gets the bytes transferred currently. Returns: The bytes currently transferred." />
-      <item value="thử lại lần nữa" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="515" />
+        <entry key="ENGLISH" value="516" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -72,7 +72,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1656990655187" />
+    <option name="lastTrimTime" value="1657527608739" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
