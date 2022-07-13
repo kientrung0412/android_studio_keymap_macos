@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="339" />
     <option name="newTranslationDialogY" value="617" />
     <histories>
+      <item value="WMediaPlayer: See the documentation of setAudioStreamType() for what to use instead with android.media.AudioAttributes to qualify your playback use case" />
+      <item value="WMediaPlayer: Use of stream types is deprecated for operations other than volume control" />
       <item value="Davey" />
       <item value="EThermalHalWrapper: Couldn't get temperatures because of HAL error: Sensor Temperature read failure." />
       <item value="WRenderInspector: DequeueBuffer time out on codepro.kidsonline.debugvn.omt.kidsonline.parent.ui.album.video.PlayerVideoActivity, count=1, avg=7 ms, max=7 ms." />
@@ -53,13 +55,11 @@
       <item value="WProviderHelper: Unknown dynamite feature providerinstaller.dynamite" />
       <item value="EBitmap: OOM allocating Bitmap with dimensions 1535616 x 864000" />
       <item value="init Adapter" />
-      <item value="is Parallel" />
-      <item value="WOkHttp: java.net.UnknownHostException: Unable to resolve host &quot;realease.kidsonline.edu.vn&quot;: No address associated with hostname" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="527" />
+        <entry key="ENGLISH" value="529" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="68" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="527" />
+        <entry key="VIETNAMESE" value="529" />
       </map>
     </option>
   </component>
