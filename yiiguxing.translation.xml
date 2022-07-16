@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="420" />
     <histories>
+      <item value="mô tả" />
       <item value="xác nhận" />
       <item value="Xaca" />
       <item value="Xacas" />
@@ -54,12 +55,11 @@
       <item value="ScreenStatus? screenStatus})') isn't a valid override of 'BaseState.copyWith' ('BaseState" />
       <item value="Are you sure this is 1 class 2?" />
       <item value="Are you sure this is 1 class %s?" />
-      <item value="Are you sure this is 1class %s?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="554" />
+        <entry key="ENGLISH" value="555" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="82" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="554" />
+        <entry key="VIETNAMESE" value="555" />
       </map>
     </option>
   </component>
