@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="339" />
     <option name="newTranslationDialogY" value="617" />
     <histories>
+      <item value="chủ đề&#10;" />
+      <item value="chur dde" />
+      <item value="chur ddee" />
+      <item value="c" />
       <item value="Register from date %@ to date %@" />
       <item value="Happening" />
       <item value="Happening on %@" />
@@ -51,15 +55,11 @@
       <item value="Bạn có chắc đây là bạn &quot;Trung&quot; lớp 12A không?" />
       <item value="Bạn có chắc đây là bạn  lớp 12A không?" />
       <item value="Bạn có chắc đây là bạn Trung lớp 12A không?" />
-      <item value="Bạn có chắc đây là bạn Trung lớp 12 không?" />
-      <item value="Bạn có chắc đây là bạn Trung lớp %s không?" />
-      <item value="Bạn có chắc đây là bạn %s lớp %s không?" />
-      <item value="&gt;Bạn có chắc đây là bạn %s lớp %s không?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="547" />
+        <entry key="ENGLISH" value="549" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="82" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="547" />
+        <entry key="VIETNAMESE" value="549" />
       </map>
     </option>
   </component>
