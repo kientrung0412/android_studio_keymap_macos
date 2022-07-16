@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="420" />
     <histories>
+      <item value="Trễ hạn" />
       <item value="btn add task" />
       <item value="mô tả" />
       <item value="xác nhận" />
@@ -54,7 +55,6 @@
       <item value="depend On Inherited Widget Of Exact Type" />
       <item value="is Dense" />
       <item value="ScreenStatus? screenStatus})') isn't a valid override of 'BaseState.copyWith' ('BaseState" />
-      <item value="Are you sure this is 1 class 2?" />
     </histories>
     <option name="languageScores">
       <map>
