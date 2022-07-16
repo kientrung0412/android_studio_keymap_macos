@@ -5,9 +5,9 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="420" />
     <histories>
+      <item value="mô tả" />
       <item value="Trễ hạn" />
       <item value="btn add task" />
-      <item value="mô tả" />
       <item value="xác nhận" />
       <item value="Xaca" />
       <item value="Xacas" />
@@ -59,7 +59,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="555" />
+        <entry key="ENGLISH" value="557" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="82" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="555" />
+        <entry key="VIETNAMESE" value="557" />
       </map>
     </option>
   </component>
