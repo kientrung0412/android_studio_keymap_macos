@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="420" />
     <histories>
+      <item value="btn add task" />
       <item value="mô tả" />
       <item value="xác nhận" />
       <item value="Xaca" />
@@ -54,7 +55,6 @@
       <item value="is Dense" />
       <item value="ScreenStatus? screenStatus})') isn't a valid override of 'BaseState.copyWith' ('BaseState" />
       <item value="Are you sure this is 1 class 2?" />
-      <item value="Are you sure this is 1 class %s?" />
     </histories>
     <option name="languageScores">
       <map>
@@ -72,7 +72,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1657527608739" />
+    <option name="lastTrimTime" value="1657959646820" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
