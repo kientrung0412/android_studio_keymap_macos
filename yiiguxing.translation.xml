@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="420" />
     <histories>
+      <item value="pthread_mutex_lock called on a destroyed mutex" />
       <item value="The member 'createStream' can only be used within instance members of subclasses of 'package" />
       <item value="mô tả" />
       <item value="Trễ hạn" />
@@ -54,20 +55,19 @@
       <item value="nguu" />
       <item value="has not been initialized." />
       <item value="depend On Inherited Widget Of Exact Type" />
-      <item value="is Dense" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="557" />
+        <entry key="ENGLISH" value="559" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="82" />
+        <entry key="LAO" value="84" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="558" />
+        <entry key="VIETNAMESE" value="560" />
       </map>
     </option>
   </component>
