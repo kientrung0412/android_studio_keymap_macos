@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="420" />
     <histories>
+      <item value="DDownloadWorker( 7496): Update too frequently!!!!, but it is the final update, we should sleep a second to ensure the update call can be processed" />
+      <item value="Create a file using java.io API failed" />
+      <item value="Operation not permitted" />
+      <item value="DDownloadWorker( 5643): Update too frequently!!!!, but it is the final update, we should sleep a second to ensure the update call can be processed" />
       <item value="current Step" />
       <item value="Broken pipe" />
       <item value="DExifInterface(15691): No image meets the size requirements of a thumbnail image." />
@@ -51,15 +55,11 @@
       <item value="thành c" />
       <item value="ăn trưa" />
       <item value="ăn " />
-      <item value="ăn chưa" />
-      <item value="ă" />
-      <item value="ăn sáng" />
-      <item value="nguyên bản" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="563" />
+        <entry key="ENGLISH" value="567" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="85" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="563" />
+        <entry key="VIETNAMESE" value="567" />
       </map>
     </option>
   </component>
