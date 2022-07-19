@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="420" />
     <histories>
+      <item value="DExifInterface(15691): No image meets the size requirements of a thumbnail image." />
       <item value="pthread_mutex_lock called on a destroyed mutex" />
       <item value="The member 'createStream' can only be used within instance members of subclasses of 'package" />
       <item value="mô tả" />
@@ -54,20 +55,19 @@
       <item value="nguyên bản" />
       <item value="nguu" />
       <item value="has not been initialized." />
-      <item value="depend On Inherited Widget Of Exact Type" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="559" />
+        <entry key="ENGLISH" value="561" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="84" />
+        <entry key="LAO" value="85" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="560" />
+        <entry key="VIETNAMESE" value="561" />
       </map>
     </option>
   </component>
@@ -77,7 +77,7 @@
   <component name="Settings">
     <option name="googleTranslateSettings">
       <google-translate>
-        <option name="primaryLanguage" value="LAO" />
+        <option name="primaryLanguage" value="VIETNAMESE" />
       </google-translate>
     </option>
   </component>
