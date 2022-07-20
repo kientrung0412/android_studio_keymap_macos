@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="420" />
     <histories>
+      <item value="&gt; Plugin with id 'com.android.library' not found." />
+      <item value="A problem occurred evaluating project ':flutter'." />
       <item value="Iflutter (10772): fatal error: could not find callback" />
       <item value="DDownloadWorker(10772): Update too frequently!!!!, but it is the final update, we should sleep a second to ensure the update call can be processed" />
       <item value="DDownloadWorker( 7496): Update too frequently!!!!, but it is the final update, we should sleep a second to ensure the update call can be processed" />
@@ -53,13 +55,11 @@
       <item value="EThermalHalWrapper: Couldn't get temperatures because of HAL error: Sensor Temperature read failure." />
       <item value="WRenderInspector: DequeueBuffer time out on codepro.kidsonline.debugvn.omt.kidsonline.parent.ui.album.video.PlayerVideoActivity, count=1, avg=7 ms, max=7 ms." />
       <item value="notifying video preroll complete" />
-      <item value="thành công" />
-      <item value="thành c" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="569" />
+        <entry key="ENGLISH" value="571" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="85" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="569" />
+        <entry key="VIETNAMESE" value="571" />
       </map>
     </option>
   </component>
