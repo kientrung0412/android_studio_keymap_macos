@@ -2,77 +2,77 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="401" />
     <option name="newTranslationDialogWidth" value="1321" />
-    <option name="newTranslationDialogX" value="340" />
-    <option name="newTranslationDialogY" value="679" />
+    <option name="newTranslationDialogX" value="599" />
+    <option name="newTranslationDialogY" value="420" />
     <histories>
-      <item value="int Value" />
-      <item value="date Added" />
-      <item value="should Create Camera Album" />
-      <item value="statistics" />
-      <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.kidsonline.manager.debugcom.kidsonline.manager.ui.auth.LoginActivity}: android.view.InflateException: Binary XML file line 297: Error inflating class &lt;unknown&gt;" />
-      <item value="gender" />
-      <item value="mã hóa" />
-      <item value="tạo mới" />
-      <item value="tạo " />
-      <item value="tạo" />
-      <item value="taoj" />
-      <item value="Policy" />
-      <item value="hoạt động đã đăng ký" />
-      <item value="chưa đăng ký" />
-      <item value="chưa đăng " />
+      <item value="Generation not found" />
+      <item value="Failed to determine if the URL" />
+      <item value="&gt; Compilation failed; see the compiler error output for details." />
+      <item value="Script 'Userstrungnkfvmversions1.22.6packagesflutter_toolsgradleflutter.gradle' line: 904" />
+      <item value="Caused by: org.gradle.process.internal.ExecException: Process 'command 'Userstrungnkfvmversions1.22.6binflutter'' finished with non-zero exit value 1 at org.gradle.process.internal.DefaultExecHandleExecResultImpl.assertNormalExitValue(DefaultExecHandle.java:414) at org.gradle.process.internal.DefaultExecAction.execute(DefaultExecAction.java:38) at org.gradle.process.internal.DefaultExecActionFactory.exec(DefaultExecActionFactory.java:175) at org.gradle.api.internal.project.DefaultProject.exec(DefaultProject.java:1166) at org.gradle.api.internal.project.DefaultProject.exec(DefaultProject.java:1161) at org.gradle.api.Projectexec10.call(Unknown Source)" />
+      <item value="&gt; Plugin with id 'com.android.library' not found." />
+      <item value="A problem occurred evaluating project ':flutter'." />
+      <item value="Iflutter (10772): fatal error: could not find callback" />
+      <item value="DDownloadWorker(10772): Update too frequently!!!!, but it is the final update, we should sleep a second to ensure the update call can be processed" />
+      <item value="DDownloadWorker( 7496): Update too frequently!!!!, but it is the final update, we should sleep a second to ensure the update call can be processed" />
+      <item value="Create a file using java.io API failed" />
+      <item value="Operation not permitted" />
+      <item value="DDownloadWorker( 5643): Update too frequently!!!!, but it is the final update, we should sleep a second to ensure the update call can be processed" />
+      <item value="current Step" />
+      <item value="Broken pipe" />
+      <item value="DExifInterface(15691): No image meets the size requirements of a thumbnail image." />
+      <item value="pthread_mutex_lock called on a destroyed mutex" />
+      <item value="The member 'createStream' can only be used within instance members of subclasses of 'package" />
+      <item value="mô tả" />
+      <item value="Trễ hạn" />
+      <item value="btn add task" />
+      <item value="xác nhận" />
+      <item value="Xaca" />
+      <item value="Xacas" />
+      <item value="dhajhdajh" />
+      <item value="chủ đề&#10;" />
+      <item value="chur dde" />
+      <item value="chur ddee" />
       <item value="c" />
-      <item value="đã đăng ký" />
-      <item value="đã đăng " />
-      <item value="đã d" />
-      <item value="đã" />
-      <item value="is Event Future" />
-      <item value="get Term Assessment Intent" />
-      <item value="perform Click" />
-      <item value="tab Indicator Gravity" />
-      <item value="'addAll()' called on collection 'financeStudents' with itself as argument " />
-      <item value="outer Space" />
-      <item value="inner Space" />
-      <item value="Circular Image View" />
-      <item value="Contract" />
-      <item value="java.lang.RuntimeException: LiveData does not handle errors. Errors from publishers should be handled upstream and propagated as state" />
-      <item value="error: Class &quot;Information&quot; must declare a public constructor with no arguments if it contains custom constructors." />
-      <item value="Note: [1] Wrote GeneratedAppGlideModule with: [com.bumptech.glide.integration.okhttp3.OkHttpLibraryGlideModule, com.pr.commentmodule.CommentGlideModule, com.omt.reviewmodule.base.ReviewGlideModule]" />
-      <item value="No injector factory bound for" />
-      <item value="student Paid" />
-      <item value="MẮt" />
-      <item value="mawts" />
-      <item value="Methods must have an explicit list of parameters." />
-      <item value="- Declare repository providing the artifact, see the documentation at https:docs.gradle.orgcurrentuserguidedeclaring_repositories.html" />
-      <item value="is enable need paid" />
-      <item value="is enable_need_paid" />
-      <item value="is_enable_need_paid" />
-      <item value="ລາຍຊື່ປີ້" />
-      <item value="ticket list" />
-      <item value="ticket_list" />
-      <item value="Ticket" />
-      <item value="ລາຍການໃບລາພັກ" />
-      <item value="ຂະຫນາດກາງ" />
-      <item value="ກາງ" />
-      <item value="INTERNAL POST" />
-      <item value="NEW COMMENT TERM ASSESSMENT" />
+      <item value="Register from date %@ to date %@" />
+      <item value="Happening" />
+      <item value="Happening on %@" />
+      <item value="Activity list" />
+      <item value="Event registration canceled!" />
+      <item value="Successful event registration!" />
+      <item value="&quot;Do you want to unsubscribe from the event?&quot;" />
+      <item value="Would you like to register for the event?" />
+      <item value="&quot;Event details&quot;" />
+      <item value="note" />
+      <item value="&quot;Registered activities&quot;" />
+      <item value="Upcoming" />
+      <item value="Recently" />
+      <item value="Gần đây" />
+      <item value="Happening on" />
+      <item value="Diễn ra" />
+      <item value="Eflutter (11041): [ERROR:flutterlibuiui_dart_state.cc(198)] Unhandled Exception: Null check operator used on a null value" />
+      <item value="grid Delegate" />
+      <item value="Send notifications to %s students" />
+      <item value="Gửi thông báo đến %s học sinh" />
+      <item value="WMediaPlayer: See the documentation of setAudioStreamType() for what to use instead with android.media.AudioAttributes to qualify your playback use case" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="464" />
+        <entry key="ENGLISH" value="576" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="65" />
+        <entry key="LAO" value="85" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="464" />
+        <entry key="VIETNAMESE" value="576" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1655534209711" />
+    <option name="lastTrimTime" value="1657959646820" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
