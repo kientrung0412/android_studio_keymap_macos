@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="420" />
     <histories>
+      <item value="&gt; Compilation failed; see the compiler error output for details." />
+      <item value="Script 'Userstrungnkfvmversions1.22.6packagesflutter_toolsgradleflutter.gradle' line: 904" />
+      <item value="Caused by: org.gradle.process.internal.ExecException: Process 'command 'Userstrungnkfvmversions1.22.6binflutter'' finished with non-zero exit value 1 at org.gradle.process.internal.DefaultExecHandleExecResultImpl.assertNormalExitValue(DefaultExecHandle.java:414) at org.gradle.process.internal.DefaultExecAction.execute(DefaultExecAction.java:38) at org.gradle.process.internal.DefaultExecActionFactory.exec(DefaultExecActionFactory.java:175) at org.gradle.api.internal.project.DefaultProject.exec(DefaultProject.java:1166) at org.gradle.api.internal.project.DefaultProject.exec(DefaultProject.java:1161) at org.gradle.api.Projectexec10.call(Unknown Source)" />
       <item value="&gt; Plugin with id 'com.android.library' not found." />
       <item value="A problem occurred evaluating project ':flutter'." />
       <item value="Iflutter (10772): fatal error: could not find callback" />
@@ -52,14 +55,11 @@
       <item value="WMediaPlayer: See the documentation of setAudioStreamType() for what to use instead with android.media.AudioAttributes to qualify your playback use case" />
       <item value="WMediaPlayer: Use of stream types is deprecated for operations other than volume control" />
       <item value="Davey" />
-      <item value="EThermalHalWrapper: Couldn't get temperatures because of HAL error: Sensor Temperature read failure." />
-      <item value="WRenderInspector: DequeueBuffer time out on codepro.kidsonline.debugvn.omt.kidsonline.parent.ui.album.video.PlayerVideoActivity, count=1, avg=7 ms, max=7 ms." />
-      <item value="notifying video preroll complete" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="571" />
+        <entry key="ENGLISH" value="574" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="85" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="571" />
+        <entry key="VIETNAMESE" value="574" />
       </map>
     </option>
   </component>
