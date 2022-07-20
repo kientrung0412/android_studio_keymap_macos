@@ -2,9 +2,42 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="401" />
     <option name="newTranslationDialogWidth" value="1321" />
-    <option name="newTranslationDialogX" value="339" />
-    <option name="newTranslationDialogY" value="617" />
+    <option name="newTranslationDialogX" value="599" />
+    <option name="newTranslationDialogY" value="420" />
     <histories>
+      <item value="Broken pipe" />
+      <item value="DExifInterface(15691): No image meets the size requirements of a thumbnail image." />
+      <item value="pthread_mutex_lock called on a destroyed mutex" />
+      <item value="The member 'createStream' can only be used within instance members of subclasses of 'package" />
+      <item value="mô tả" />
+      <item value="Trễ hạn" />
+      <item value="btn add task" />
+      <item value="xác nhận" />
+      <item value="Xaca" />
+      <item value="Xacas" />
+      <item value="dhajhdajh" />
+      <item value="chủ đề&#10;" />
+      <item value="chur dde" />
+      <item value="chur ddee" />
+      <item value="c" />
+      <item value="Register from date %@ to date %@" />
+      <item value="Happening" />
+      <item value="Happening on %@" />
+      <item value="Activity list" />
+      <item value="Event registration canceled!" />
+      <item value="Successful event registration!" />
+      <item value="&quot;Do you want to unsubscribe from the event?&quot;" />
+      <item value="Would you like to register for the event?" />
+      <item value="&quot;Event details&quot;" />
+      <item value="note" />
+      <item value="&quot;Registered activities&quot;" />
+      <item value="Upcoming" />
+      <item value="Recently" />
+      <item value="Gần đây" />
+      <item value="Happening on" />
+      <item value="Diễn ra" />
+      <item value="Eflutter (11041): [ERROR:flutterlibuiui_dart_state.cc(198)] Unhandled Exception: Null check operator used on a null value" />
+      <item value="grid Delegate" />
       <item value="Send notifications to %s students" />
       <item value="Gửi thông báo đến %s học sinh" />
       <item value="WMediaPlayer: See the documentation of setAudioStreamType() for what to use instead with android.media.AudioAttributes to qualify your playback use case" />
@@ -22,57 +55,24 @@
       <item value="ăn sáng" />
       <item value="nguyên bản" />
       <item value="nguu" />
-      <item value="has not been initialized." />
-      <item value="depend On Inherited Widget Of Exact Type" />
-      <item value="is Dense" />
-      <item value="ScreenStatus? screenStatus})') isn't a valid override of 'BaseState.copyWith' ('BaseState" />
-      <item value="Are you sure this is 1 class 2?" />
-      <item value="Are you sure this is 1 class %s?" />
-      <item value="Are you sure this is 1class %s?" />
-      <item value="Are you sure this is %s class %s?" />
-      <item value="Bạn có chắc đây là bạn &quot;Trung&quot; lớp 12A không?" />
-      <item value="Bạn có chắc đây là bạn  lớp 12A không?" />
-      <item value="Bạn có chắc đây là bạn Trung lớp 12A không?" />
-      <item value="Bạn có chắc đây là bạn Trung lớp 12 không?" />
-      <item value="Bạn có chắc đây là bạn Trung lớp %s không?" />
-      <item value="Bạn có chắc đây là bạn %s lớp %s không?" />
-      <item value="&gt;Bạn có chắc đây là bạn %s lớp %s không?" />
-      <item value="Interaction Fragment" />
-      <item value="dish" />
-      <item value="món ăn" />
-      <item value="mo" />
-      <item value="mobn" />
-      <item value="When set to true, layouts from end to start" />
-      <item value="THống kê" />
-      <item value="THống" />
-      <item value="thoongs kee" />
-      <item value="breakfast" />
-      <item value="Iflutter (26190): type '(dynamic) =&gt; Null' is not a subtype of type '(String, dynamic) =&gt; void' of 'action'" />
-      <item value="The current Flutter SDK version is 2.8.1." />
-      <item value="Missing payments" />
-      <item value="Đã thanh toán" />
-      <item value="Grade" />
-      <item value="Khối lớp" />
-      <item value="WMediaProvider: isAppCloneUserPair failed. Users: 0 and 0" />
-      <item value="WProviderHelper: Unknown dynamite feature providerinstaller.dynamite" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="530" />
+        <entry key="ENGLISH" value="562" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="69" />
+        <entry key="LAO" value="85" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="530" />
+        <entry key="VIETNAMESE" value="562" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1657527608739" />
+    <option name="lastTrimTime" value="1657959646820" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
