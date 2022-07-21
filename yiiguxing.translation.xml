@@ -5,6 +5,34 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="420" />
     <histories>
+      <item value="put If Absent" />
+      <item value="The returned [File] is saved on disk." />
+      <item value="he [fileExtension] should be without a dot, for example &quot;jpg&quot;" />
+      <item value="is passed and the eTag is not set the file will always be downloaded again" />
+      <item value="It is recommended to specify the [eTag] and the [maxAge]" />
+      <item value="Put a file in the cache. It is recommended to specify the [eTag] and the" />
+      <item value="The files are returned as stream. First the cached file if available, when the" />
+      <item value="Downloaded form [url], [headers] can be used for example for authentication." />
+      <item value="Get the file from the cache andor online, depending on availability and age." />
+      <item value="The [fileService] can be used to customize how files are downloaded. For example" />
+      <item value="a CacheStore or WebHelper directly if you want more customization." />
+      <item value="Store helper for cached files" />
+      <item value="The URL that was used to download the file" />
+      <item value="defines where files are fetched, for example online." />
+      <item value="efines where the cached files are stored" />
+      <item value="defines where the cached files are stored and the" />
+      <item value="defines where the cached files are stored and the [fileService] defines where files are fetched, for example online." />
+      <item value="[VERBOSE-2:ui_dart_state.cc(198)] Unhandled Exception: Invalid argument(s): No host specified in URI privatevarmobileContainersDataApplication150374FF-EA44-47B2-924C-CEA8EB1CBE04tmpomt.vn.TeacherSchoolOnline-Inboxfile-sample_100kB.doc" />
+      <item value="which stores the cache metadata. On Android, iOS and macOS this defaults to [CacheObjectProvider], a sqflite implementation due to legacy. On web this defaults to" />
+      <item value="[stalePeriod] is the time duration in which a cache object is considered 'stale'. When a file is cached but not being used for a certain time the file will be deleted." />
+      <item value="defines how large the cache is allowed to be. If there are more files the files that haven't been used for the longest time will be removed." />
+      <item value="Generation not found" />
+      <item value="Failed to determine if the URL" />
+      <item value="&gt; Compilation failed; see the compiler error output for details." />
+      <item value="Script 'Userstrungnkfvmversions1.22.6packagesflutter_toolsgradleflutter.gradle' line: 904" />
+      <item value="Caused by: org.gradle.process.internal.ExecException: Process 'command 'Userstrungnkfvmversions1.22.6binflutter'' finished with non-zero exit value 1 at org.gradle.process.internal.DefaultExecHandleExecResultImpl.assertNormalExitValue(DefaultExecHandle.java:414) at org.gradle.process.internal.DefaultExecAction.execute(DefaultExecAction.java:38) at org.gradle.process.internal.DefaultExecActionFactory.exec(DefaultExecActionFactory.java:175) at org.gradle.api.internal.project.DefaultProject.exec(DefaultProject.java:1166) at org.gradle.api.internal.project.DefaultProject.exec(DefaultProject.java:1161) at org.gradle.api.Projectexec10.call(Unknown Source)" />
+      <item value="&gt; Plugin with id 'com.android.library' not found." />
+      <item value="A problem occurred evaluating project ':flutter'." />
       <item value="Iflutter (10772): fatal error: could not find callback" />
       <item value="DDownloadWorker(10772): Update too frequently!!!!, but it is the final update, we should sleep a second to ensure the update call can be processed" />
       <item value="DDownloadWorker( 7496): Update too frequently!!!!, but it is the final update, we should sleep a second to ensure the update call can be processed" />
@@ -27,39 +55,11 @@
       <item value="chur dde" />
       <item value="chur ddee" />
       <item value="c" />
-      <item value="Register from date %@ to date %@" />
-      <item value="Happening" />
-      <item value="Happening on %@" />
-      <item value="Activity list" />
-      <item value="Event registration canceled!" />
-      <item value="Successful event registration!" />
-      <item value="&quot;Do you want to unsubscribe from the event?&quot;" />
-      <item value="Would you like to register for the event?" />
-      <item value="&quot;Event details&quot;" />
-      <item value="note" />
-      <item value="&quot;Registered activities&quot;" />
-      <item value="Upcoming" />
-      <item value="Recently" />
-      <item value="Gần đây" />
-      <item value="Happening on" />
-      <item value="Diễn ra" />
-      <item value="Eflutter (11041): [ERROR:flutterlibuiui_dart_state.cc(198)] Unhandled Exception: Null check operator used on a null value" />
-      <item value="grid Delegate" />
-      <item value="Send notifications to %s students" />
-      <item value="Gửi thông báo đến %s học sinh" />
-      <item value="WMediaPlayer: See the documentation of setAudioStreamType() for what to use instead with android.media.AudioAttributes to qualify your playback use case" />
-      <item value="WMediaPlayer: Use of stream types is deprecated for operations other than volume control" />
-      <item value="Davey" />
-      <item value="EThermalHalWrapper: Couldn't get temperatures because of HAL error: Sensor Temperature read failure." />
-      <item value="WRenderInspector: DequeueBuffer time out on codepro.kidsonline.debugvn.omt.kidsonline.parent.ui.album.video.PlayerVideoActivity, count=1, avg=7 ms, max=7 ms." />
-      <item value="notifying video preroll complete" />
-      <item value="thành công" />
-      <item value="thành c" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="569" />
+        <entry key="ENGLISH" value="597" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="85" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="569" />
+        <entry key="VIETNAMESE" value="597" />
       </map>
     </option>
   </component>
