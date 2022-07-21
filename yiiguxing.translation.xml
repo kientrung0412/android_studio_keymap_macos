@@ -5,6 +5,17 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="420" />
     <histories>
+      <item value="The returned [File] is saved on disk." />
+      <item value="he [fileExtension] should be without a dot, for example &quot;jpg&quot;" />
+      <item value="is passed and the eTag is not set the file will always be downloaded again" />
+      <item value="It is recommended to specify the [eTag] and the [maxAge]" />
+      <item value="Put a file in the cache. It is recommended to specify the [eTag] and the" />
+      <item value="The files are returned as stream. First the cached file if available, when the" />
+      <item value="Downloaded form [url], [headers] can be used for example for authentication." />
+      <item value="Get the file from the cache andor online, depending on availability and age." />
+      <item value="The [fileService] can be used to customize how files are downloaded. For example" />
+      <item value="a CacheStore or WebHelper directly if you want more customization." />
+      <item value="Store helper for cached files" />
       <item value="The URL that was used to download the file" />
       <item value="defines where files are fetched, for example online." />
       <item value="efines where the cached files are stored" />
@@ -44,22 +55,11 @@
       <item value="chur ddee" />
       <item value="c" />
       <item value="Register from date %@ to date %@" />
-      <item value="Happening" />
-      <item value="Happening on %@" />
-      <item value="Activity list" />
-      <item value="Event registration canceled!" />
-      <item value="Successful event registration!" />
-      <item value="&quot;Do you want to unsubscribe from the event?&quot;" />
-      <item value="Would you like to register for the event?" />
-      <item value="&quot;Event details&quot;" />
-      <item value="note" />
-      <item value="&quot;Registered activities&quot;" />
-      <item value="Upcoming" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="585" />
+        <entry key="ENGLISH" value="596" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="85" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="585" />
+        <entry key="VIETNAMESE" value="596" />
       </map>
     </option>
   </component>
