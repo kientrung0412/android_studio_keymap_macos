@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="420" />
     <histories>
+      <item value="defines where files are fetched, for example online." />
+      <item value="efines where the cached files are stored" />
+      <item value="defines where the cached files are stored and the" />
+      <item value="defines where the cached files are stored and the [fileService] defines where files are fetched, for example online." />
+      <item value="[VERBOSE-2:ui_dart_state.cc(198)] Unhandled Exception: Invalid argument(s): No host specified in URI privatevarmobileContainersDataApplication150374FF-EA44-47B2-924C-CEA8EB1CBE04tmpomt.vn.TeacherSchoolOnline-Inboxfile-sample_100kB.doc" />
       <item value="which stores the cache metadata. On Android, iOS and macOS this defaults to [CacheObjectProvider], a sqflite implementation due to legacy. On web this defaults to" />
       <item value="[stalePeriod] is the time duration in which a cache object is considered 'stale'. When a file is cached but not being used for a certain time the file will be deleted." />
       <item value="defines how large the cache is allowed to be. If there are more files the files that haven't been used for the longest time will be removed." />
@@ -50,16 +55,11 @@
       <item value="&quot;Registered activities&quot;" />
       <item value="Upcoming" />
       <item value="Recently" />
-      <item value="Gần đây" />
-      <item value="Happening on" />
-      <item value="Diễn ra" />
-      <item value="Eflutter (11041): [ERROR:flutterlibuiui_dart_state.cc(198)] Unhandled Exception: Null check operator used on a null value" />
-      <item value="grid Delegate" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="579" />
+        <entry key="ENGLISH" value="584" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="85" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="579" />
+        <entry key="VIETNAMESE" value="584" />
       </map>
     </option>
   </component>
