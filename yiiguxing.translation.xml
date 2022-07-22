@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="420" />
     <histories>
+      <item value="remove Accent" />
       <item value="Bạn có chắc đây là bạn %@ lớp %@ và người đưa đón %@ ?" />
       <item value="put If Absent" />
       <item value="The returned [File] is saved on disk." />
@@ -54,12 +55,11 @@
       <item value="dhajhdajh" />
       <item value="chủ đề&#10;" />
       <item value="chur dde" />
-      <item value="chur ddee" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="597" />
+        <entry key="ENGLISH" value="598" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="86" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="597" />
+        <entry key="VIETNAMESE" value="598" />
       </map>
     </option>
   </component>
