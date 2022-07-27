@@ -5,6 +5,29 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="420" />
     <histories>
+      <item value="remove Accent" />
+      <item value="Bạn có chắc đây là bạn %@ lớp %@ và người đưa đón %@ ?" />
+      <item value="put If Absent" />
+      <item value="The returned [File] is saved on disk." />
+      <item value="he [fileExtension] should be without a dot, for example &quot;jpg&quot;" />
+      <item value="is passed and the eTag is not set the file will always be downloaded again" />
+      <item value="It is recommended to specify the [eTag] and the [maxAge]" />
+      <item value="Put a file in the cache. It is recommended to specify the [eTag] and the" />
+      <item value="The files are returned as stream. First the cached file if available, when the" />
+      <item value="Downloaded form [url], [headers] can be used for example for authentication." />
+      <item value="Get the file from the cache andor online, depending on availability and age." />
+      <item value="The [fileService] can be used to customize how files are downloaded. For example" />
+      <item value="a CacheStore or WebHelper directly if you want more customization." />
+      <item value="Store helper for cached files" />
+      <item value="The URL that was used to download the file" />
+      <item value="defines where files are fetched, for example online." />
+      <item value="efines where the cached files are stored" />
+      <item value="defines where the cached files are stored and the" />
+      <item value="defines where the cached files are stored and the [fileService] defines where files are fetched, for example online." />
+      <item value="[VERBOSE-2:ui_dart_state.cc(198)] Unhandled Exception: Invalid argument(s): No host specified in URI privatevarmobileContainersDataApplication150374FF-EA44-47B2-924C-CEA8EB1CBE04tmpomt.vn.TeacherSchoolOnline-Inboxfile-sample_100kB.doc" />
+      <item value="which stores the cache metadata. On Android, iOS and macOS this defaults to [CacheObjectProvider], a sqflite implementation due to legacy. On web this defaults to" />
+      <item value="[stalePeriod] is the time duration in which a cache object is considered 'stale'. When a file is cached but not being used for a certain time the file will be deleted." />
+      <item value="defines how large the cache is allowed to be. If there are more files the files that haven't been used for the longest time will be removed." />
       <item value="Generation not found" />
       <item value="Failed to determine if the URL" />
       <item value="&gt; Compilation failed; see the compiler error output for details." />
@@ -32,47 +55,24 @@
       <item value="dhajhdajh" />
       <item value="chủ đề&#10;" />
       <item value="chur dde" />
-      <item value="chur ddee" />
-      <item value="c" />
-      <item value="Register from date %@ to date %@" />
-      <item value="Happening" />
-      <item value="Happening on %@" />
-      <item value="Activity list" />
-      <item value="Event registration canceled!" />
-      <item value="Successful event registration!" />
-      <item value="&quot;Do you want to unsubscribe from the event?&quot;" />
-      <item value="Would you like to register for the event?" />
-      <item value="&quot;Event details&quot;" />
-      <item value="note" />
-      <item value="&quot;Registered activities&quot;" />
-      <item value="Upcoming" />
-      <item value="Recently" />
-      <item value="Gần đây" />
-      <item value="Happening on" />
-      <item value="Diễn ra" />
-      <item value="Eflutter (11041): [ERROR:flutterlibuiui_dart_state.cc(198)] Unhandled Exception: Null check operator used on a null value" />
-      <item value="grid Delegate" />
-      <item value="Send notifications to %s students" />
-      <item value="Gửi thông báo đến %s học sinh" />
-      <item value="WMediaPlayer: See the documentation of setAudioStreamType() for what to use instead with android.media.AudioAttributes to qualify your playback use case" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="576" />
+        <entry key="ENGLISH" value="598" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="85" />
+        <entry key="LAO" value="86" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="576" />
+        <entry key="VIETNAMESE" value="598" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1657959646820" />
+    <option name="lastTrimTime" value="1658455814567" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
