@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="420" />
     <histories>
+      <item value="[VERBOSE-2:ui_dart_state.cc(198)] Unhandled Exception: Null check operator used on a null value" />
+      <item value="No such file or directory" />
       <item value="Because file_picker &gt;=5.0.0 depends on ffi ^2.0.1 and open_file 3.2.1 depends on ffi ^1.0.0, file_picker &gt;=5.0.0 is incompatible with open_file 3.2.1." />
       <item value="granted" />
       <item value="is Restricted" />
@@ -53,13 +55,11 @@
       <item value="pthread_mutex_lock called on a destroyed mutex" />
       <item value="The member 'createStream' can only be used within instance members of subclasses of 'package" />
       <item value="mô tả" />
-      <item value="Trễ hạn" />
-      <item value="btn add task" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="604" />
+        <entry key="ENGLISH" value="606" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="86" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="604" />
+        <entry key="VIETNAMESE" value="606" />
       </map>
     </option>
   </component>
