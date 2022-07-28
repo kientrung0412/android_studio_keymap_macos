@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="420" />
     <histories>
+      <item value="Couldn't save uncommitted changes Tried to save uncommitted changes in shelf before merge, but failed with an error. Shelving changes failed: Uncommitted changes before Merge at 28072022, 14:59 [Changes]" />
       <item value="2022-07-28 10:44:31.363 xcodebuild[96590:3116451] Requested but did not find extension point with identifier Xcode.IDEKit.ExtensionSentinelHostApplications for extension Xcode.DebuggerFoundation.AppExtensionHosts.watchOS of plug-in com.apple.dt.IDEWatchSupportCore" />
       <item value="remove Accent" />
       <item value="Bạn có chắc đây là bạn %@ lớp %@ và người đưa đón %@ ?" />
@@ -54,12 +55,11 @@
       <item value="Xaca" />
       <item value="Xacas" />
       <item value="dhajhdajh" />
-      <item value="chủ đề&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="599" />
+        <entry key="ENGLISH" value="600" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="86" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="599" />
+        <entry key="VIETNAMESE" value="600" />
       </map>
     </option>
   </component>
