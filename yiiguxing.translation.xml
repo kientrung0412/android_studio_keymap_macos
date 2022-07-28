@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="420" />
     <histories>
+      <item value="granted" />
+      <item value="is Restricted" />
+      <item value="[VERBOSE-2:ui_dart_state.cc(198)] Unhandled Exception: FileSystemException: Cannot copy file to 'varmobileContainersDataApplication174E06FB-CA87-4584-8349-8D31E1DB0404LibraryCachesSO-GV Test1658998622437_file_example_XLS_5000.xls', path = 'file:privatevarmobileContainersDataApplication174E06FB-CA87-4584-8349-8D31E1DB0404tmpomt.vn.TeacherSchoolOnline-Inboxfile_example_XLS_5000.xls' (OS Error: No such file or directory, errno = 2)" />
       <item value="Couldn't save uncommitted changes Tried to save uncommitted changes in shelf before merge, but failed with an error. Shelving changes failed: Uncommitted changes before Merge at 28072022, 14:59 [Changes]" />
       <item value="2022-07-28 10:44:31.363 xcodebuild[96590:3116451] Requested but did not find extension point with identifier Xcode.IDEKit.ExtensionSentinelHostApplications for extension Xcode.DebuggerFoundation.AppExtensionHosts.watchOS of plug-in com.apple.dt.IDEWatchSupportCore" />
       <item value="remove Accent" />
@@ -52,14 +55,11 @@
       <item value="Trễ hạn" />
       <item value="btn add task" />
       <item value="xác nhận" />
-      <item value="Xaca" />
-      <item value="Xacas" />
-      <item value="dhajhdajh" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="600" />
+        <entry key="ENGLISH" value="603" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="86" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="600" />
+        <entry key="VIETNAMESE" value="603" />
       </map>
     </option>
   </component>
