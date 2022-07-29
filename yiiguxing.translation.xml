@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="420" />
     <histories>
+      <item value="Try correcting the name to the name of an existing getter, or defining a getter or field named 'ImageGallerySaver'." />
       <item value="isn't defined for the class" />
       <item value="....Libflutter_chat_modulelibscreenchatchat_detailimage_view_widget.dart:143:25: Error: The getter 'ImageGallerySaver' isn't defined for the class '_ImageViewFullScreenWidgetState'." />
       <item value="WSystem.err(11231): java.lang.IllegalArgumentException: Couldn't find meta-data for provider with authority vn.omt.schoolonlineteacher.flutter_downloader.provider" />
@@ -54,12 +55,11 @@
       <item value="Iflutter (10772): fatal error: could not find callback" />
       <item value="DDownloadWorker(10772): Update too frequently!!!!, but it is the final update, we should sleep a second to ensure the update call can be processed" />
       <item value="DDownloadWorker( 7496): Update too frequently!!!!, but it is the final update, we should sleep a second to ensure the update call can be processed" />
-      <item value="Create a file using java.io API failed" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="614" />
+        <entry key="ENGLISH" value="615" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="86" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="614" />
+        <entry key="VIETNAMESE" value="615" />
       </map>
     </option>
   </component>
