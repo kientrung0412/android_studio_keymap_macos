@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="420" />
     <histories>
+      <item value="WSystem.err(11231): java.lang.IllegalArgumentException: Couldn't find meta-data for provider with authority vn.omt.schoolonlineteacher.flutter_downloader.provider" />
       <item value="retrieve Cache Data" />
       <item value="relative Path" />
       <item value="Source from the file, can be cache or online (web)." />
@@ -54,12 +55,11 @@
       <item value="Create a file using java.io API failed" />
       <item value="Operation not permitted" />
       <item value="DDownloadWorker( 5643): Update too frequently!!!!, but it is the final update, we should sleep a second to ensure the update call can be processed" />
-      <item value="current Step" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="611" />
+        <entry key="ENGLISH" value="612" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="86" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="611" />
+        <entry key="VIETNAMESE" value="612" />
       </map>
     </option>
   </component>
