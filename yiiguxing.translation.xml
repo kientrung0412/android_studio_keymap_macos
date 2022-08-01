@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="420" />
     <histories>
+      <item value="ngủ" />
+      <item value="biệt danh" />
+      <item value="biee" />
       <item value="Register from start %s to %s" />
       <item value="Starting from %s to %s" />
       <item value="Edit registration" />
@@ -52,19 +55,16 @@
       <item value="which stores the cache metadata. On Android, iOS and macOS this defaults to [CacheObjectProvider], a sqflite implementation due to legacy. On web this defaults to" />
       <item value="[stalePeriod] is the time duration in which a cache object is considered 'stale'. When a file is cached but not being used for a certain time the file will be deleted." />
       <item value="defines how large the cache is allowed to be. If there are more files the files that haven't been used for the longest time will be removed." />
-      <item value="Generation not found" />
-      <item value="Failed to determine if the URL" />
-      <item value="&gt; Compilation failed; see the compiler error output for details." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="622" />
+        <entry key="ENGLISH" value="625" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="89" />
+        <entry key="LAO" value="92" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
         <entry key="VIETNAMESE" value="622" />
