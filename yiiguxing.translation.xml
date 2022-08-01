@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="420" />
     <histories>
+      <item value="Register from start %s to %s" />
+      <item value="Starting from %s to %s" />
+      <item value="Edit registration" />
       <item value="EXTRACURRICULAR REGISTER" />
       <item value="Please file a bug at https:feedbackassistant.apple.com with this warning message and any useful information you can provide." />
       <item value="unsupported file format 'public.heic'" />
@@ -52,22 +55,19 @@
       <item value="Generation not found" />
       <item value="Failed to determine if the URL" />
       <item value="&gt; Compilation failed; see the compiler error output for details." />
-      <item value="Script 'Userstrungnkfvmversions1.22.6packagesflutter_toolsgradleflutter.gradle' line: 904" />
-      <item value="Caused by: org.gradle.process.internal.ExecException: Process 'command 'Userstrungnkfvmversions1.22.6binflutter'' finished with non-zero exit value 1 at org.gradle.process.internal.DefaultExecHandleExecResultImpl.assertNormalExitValue(DefaultExecHandle.java:414) at org.gradle.process.internal.DefaultExecAction.execute(DefaultExecAction.java:38) at org.gradle.process.internal.DefaultExecActionFactory.exec(DefaultExecActionFactory.java:175) at org.gradle.api.internal.project.DefaultProject.exec(DefaultProject.java:1166) at org.gradle.api.internal.project.DefaultProject.exec(DefaultProject.java:1161) at org.gradle.api.Projectexec10.call(Unknown Source)" />
-      <item value="&gt; Plugin with id 'com.android.library' not found." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="619" />
+        <entry key="ENGLISH" value="622" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="86" />
+        <entry key="LAO" value="89" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="619" />
+        <entry key="VIETNAMESE" value="622" />
       </map>
     </option>
   </component>
