@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="420" />
     <histories>
+      <item value="get To Date" />
       <item value="unexpected" />
       <item value="btn retry sync member" />
       <item value="nhận xét" />
@@ -54,20 +55,19 @@
       <item value="Store helper for cached files" />
       <item value="The URL that was used to download the file" />
       <item value="defines where files are fetched, for example online." />
-      <item value="efines where the cached files are stored" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="629" />
+        <entry key="ENGLISH" value="630" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="96" />
+        <entry key="LAO" value="97" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="623" />
+        <entry key="VIETNAMESE" value="624" />
       </map>
     </option>
   </component>
