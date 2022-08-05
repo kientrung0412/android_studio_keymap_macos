@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="420" />
     <histories>
+      <item value="Application needs following permissions to work normally: %s. Allow application to use those permissions?" />
       <item value="album" />
       <item value="a" />
       <item value="equested internal only, but not enough space" />
@@ -54,20 +55,19 @@
       <item value="It is recommended to specify the [eTag] and the [maxAge]" />
       <item value="Put a file in the cache. It is recommended to specify the [eTag] and the" />
       <item value="The files are returned as stream. First the cached file if available, when the" />
-      <item value="Downloaded form [url], [headers] can be used for example for authentication." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="634" />
+        <entry key="ENGLISH" value="635" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="102" />
+        <entry key="LAO" value="103" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="629" />
+        <entry key="VIETNAMESE" value="630" />
       </map>
     </option>
   </component>
