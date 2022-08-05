@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="420" />
     <histories>
+      <item value="Called immediately after onCreateView(LayoutInflater, ViewGroup, Bundle) has returned, but before any saved state has been restored in to the view. This gives subclasses a chance to initialize themselves once they know their view hierarchy has been completely created. The fragment's view hierarchy is not however attached to its parent at this point. Params: view – The View returned by onCreateView(LayoutInflater, ViewGroup, Bundle). savedInstanceState – If non-null, this fragment is being re-constructed from a previous saved state as given here." />
+      <item value="Base class for activities that want to use the support-based Fragments." />
       <item value="init Delegate" />
       <item value="Application needs following permissions to work normally: %s. Allow application to use those permissions?" />
       <item value="album" />
@@ -53,21 +55,19 @@
       <item value="The returned [File] is saved on disk." />
       <item value="he [fileExtension] should be without a dot, for example &quot;jpg&quot;" />
       <item value="is passed and the eTag is not set the file will always be downloaded again" />
-      <item value="It is recommended to specify the [eTag] and the [maxAge]" />
-      <item value="Put a file in the cache. It is recommended to specify the [eTag] and the" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="636" />
+        <entry key="ENGLISH" value="639" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="104" />
+        <entry key="LAO" value="105" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="631" />
+        <entry key="VIETNAMESE" value="634" />
       </map>
     </option>
   </component>
@@ -77,7 +77,7 @@
   <component name="Settings">
     <option name="googleTranslateSettings">
       <google-translate>
-        <option name="primaryLanguage" value="LAO" />
+        <option name="primaryLanguage" value="VIETNAMESE" />
       </google-translate>
     </option>
   </component>
