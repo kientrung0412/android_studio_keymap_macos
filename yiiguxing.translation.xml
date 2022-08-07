@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="420" />
     <histories>
+      <item value="thành công" />
+      <item value="thành co" />
+      <item value="thành c" />
+      <item value="t" />
       <item value="WSystem.err: java.lang.IllegalArgumentException: method GET must not have a request body." />
       <item value="WSystem.err: java.lang.IllegalArgumentException: Non-body HTTP method cannot contain @Body." />
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.omt.app.baseprojectcom.omt.app.baseproject.ui.home.StudentsActivity}: java.lang.UnsupportedOperationException" />
@@ -51,15 +55,11 @@
       <item value="granted" />
       <item value="is Restricted" />
       <item value="[VERBOSE-2:ui_dart_state.cc(198)] Unhandled Exception: FileSystemException: Cannot copy file to 'varmobileContainersDataApplication174E06FB-CA87-4584-8349-8D31E1DB0404LibraryCachesSO-GV Test1658998622437_file_example_XLS_5000.xls', path = 'file:privatevarmobileContainersDataApplication174E06FB-CA87-4584-8349-8D31E1DB0404tmpomt.vn.TeacherSchoolOnline-Inboxfile_example_XLS_5000.xls' (OS Error: No such file or directory, errno = 2)" />
-      <item value="Couldn't save uncommitted changes Tried to save uncommitted changes in shelf before merge, but failed with an error. Shelving changes failed: Uncommitted changes before Merge at 28072022, 14:59 [Changes]" />
-      <item value="2022-07-28 10:44:31.363 xcodebuild[96590:3116451] Requested but did not find extension point with identifier Xcode.IDEKit.ExtensionSentinelHostApplications for extension Xcode.DebuggerFoundation.AppExtensionHosts.watchOS of plug-in com.apple.dt.IDEWatchSupportCore" />
-      <item value="remove Accent" />
-      <item value="Bạn có chắc đây là bạn %@ lớp %@ và người đưa đón %@ ?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="644" />
+        <entry key="ENGLISH" value="646" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="105" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="639" />
+        <entry key="VIETNAMESE" value="641" />
       </map>
     </option>
   </component>
