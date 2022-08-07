@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="420" />
     <histories>
+      <item value="WSystem.err: java.lang.IllegalArgumentException: method GET must not have a request body." />
+      <item value="WSystem.err: java.lang.IllegalArgumentException: Non-body HTTP method cannot contain @Body." />
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.omt.app.baseprojectcom.omt.app.baseproject.ui.home.StudentsActivity}: java.lang.UnsupportedOperationException" />
       <item value="set Negative Button" />
       <item value="Called immediately after onCreateView(LayoutInflater, ViewGroup, Bundle) has returned, but before any saved state has been restored in to the view. This gives subclasses a chance to initialize themselves once they know their view hierarchy has been completely created. The fragment's view hierarchy is not however attached to its parent at this point. Params: view – The View returned by onCreateView(LayoutInflater, ViewGroup, Bundle). savedInstanceState – If non-null, this fragment is being re-constructed from a previous saved state as given here." />
@@ -53,13 +55,11 @@
       <item value="2022-07-28 10:44:31.363 xcodebuild[96590:3116451] Requested but did not find extension point with identifier Xcode.IDEKit.ExtensionSentinelHostApplications for extension Xcode.DebuggerFoundation.AppExtensionHosts.watchOS of plug-in com.apple.dt.IDEWatchSupportCore" />
       <item value="remove Accent" />
       <item value="Bạn có chắc đây là bạn %@ lớp %@ và người đưa đón %@ ?" />
-      <item value="put If Absent" />
-      <item value="The returned [File] is saved on disk." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="642" />
+        <entry key="ENGLISH" value="644" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="105" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="637" />
+        <entry key="VIETNAMESE" value="639" />
       </map>
     </option>
   </component>
