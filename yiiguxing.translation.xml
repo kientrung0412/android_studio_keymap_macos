@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="420" />
     <histories>
+      <item value="IActivityManager: Displayed com.kidsonline.attendance.debugcom.sandrios.sandriosCamera.internal.ui.camera.Camera1Activity: +425ms (total +626ms)" />
+      <item value="Ememtrack: Couldn't load memtrack module" />
+      <item value="WContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:966 android.content.ContextWrapper.sendBroadcast:437 com.android.music.MediaPlaybackService.onDestroy:380 android.app.ActivityThread.handleStopService:3504 android.app.ActivityThread.-wrap26:0" />
       <item value="male" />
       <item value="giới tính" />
       <item value="thành công" />
@@ -52,14 +55,11 @@
       <item value="The [fileExtension] should be without a dot, for example &quot;jpg&quot;. When cache info is available for the url that path is re-used." />
       <item value="recursive" />
       <item value="[VERBOSE-2:ui_dart_state.cc(198)] Unhandled Exception: Null check operator used on a null value" />
-      <item value="No such file or directory" />
-      <item value="Because file_picker &gt;=5.0.0 depends on ffi ^2.0.1 and open_file 3.2.1 depends on ffi ^1.0.0, file_picker &gt;=5.0.0 is incompatible with open_file 3.2.1." />
-      <item value="granted" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="648" />
+        <entry key="ENGLISH" value="651" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="105" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="644" />
+        <entry key="VIETNAMESE" value="647" />
       </map>
     </option>
   </component>
