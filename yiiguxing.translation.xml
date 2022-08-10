@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="420" />
     <histories>
+      <item value="android.view.ViewRootImplCalledFromWrongThreadException: Only the original thread that created a view hierarchy can touch its views." />
       <item value="IActivityManager: Displayed com.kidsonline.attendance.debugcom.sandrios.sandriosCamera.internal.ui.camera.Camera1Activity: +425ms (total +626ms)" />
       <item value="Ememtrack: Couldn't load memtrack module" />
       <item value="WContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:966 android.content.ContextWrapper.sendBroadcast:437 com.android.music.MediaPlaybackService.onDestroy:380 android.app.ActivityThread.handleStopService:3504 android.app.ActivityThread.-wrap26:0" />
@@ -54,12 +55,11 @@
       <item value="Source from the file, can be cache or online (web)." />
       <item value="The [fileExtension] should be without a dot, for example &quot;jpg&quot;. When cache info is available for the url that path is re-used." />
       <item value="recursive" />
-      <item value="[VERBOSE-2:ui_dart_state.cc(198)] Unhandled Exception: Null check operator used on a null value" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="651" />
+        <entry key="ENGLISH" value="652" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="105" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="647" />
+        <entry key="VIETNAMESE" value="648" />
       </map>
     </option>
   </component>
