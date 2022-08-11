@@ -5,6 +5,14 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="420" />
     <histories>
+      <item value="not found user from token" />
+      <item value="token absent" />
+      <item value="TOKEN EXCEPTION" />
+      <item value="invalid token" />
+      <item value="token expired" />
+      <item value="UNDEFINED" />
+      <item value="NOT VALID ENCRYPTED VALUE" />
+      <item value="SHUTTLE COULD NOT FOUND" />
       <item value="compute MD 5" />
       <item value="视频的url" />
       <item value="android.view.ViewRootImplCalledFromWrongThreadException: Only the original thread that created a view hierarchy can touch its views." />
@@ -47,19 +55,11 @@
       <item value="EXTRACURRICULAR REGISTER" />
       <item value="Please file a bug at https:feedbackassistant.apple.com with this warning message and any useful information you can provide." />
       <item value="unsupported file format 'public.heic'" />
-      <item value="[Runner] findWriterForTypeAndAlternateType:119: unsupported file format 'public.heic'" />
-      <item value="Try correcting the name to the name of an existing getter, or defining a getter or field named 'ImageGallerySaver'." />
-      <item value="isn't defined for the class" />
-      <item value="....Libflutter_chat_modulelibscreenchatchat_detailimage_view_widget.dart:143:25: Error: The getter 'ImageGallerySaver' isn't defined for the class '_ImageViewFullScreenWidgetState'." />
-      <item value="WSystem.err(11231): java.lang.IllegalArgumentException: Couldn't find meta-data for provider with authority vn.omt.schoolonlineteacher.flutter_downloader.provider" />
-      <item value="retrieve Cache Data" />
-      <item value="relative Path" />
-      <item value="Source from the file, can be cache or online (web)." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="653" />
+        <entry key="ENGLISH" value="661" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="105" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="649" />
+        <entry key="VIETNAMESE" value="657" />
       </map>
     </option>
   </component>
