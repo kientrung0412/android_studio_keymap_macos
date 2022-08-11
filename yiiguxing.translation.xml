@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="420" />
     <histories>
+      <item value="If not null, cache keys will be stored encrypted on filesystem using AESCBC. The key must be 16 bytes long." />
+      <item value="Constructs the cache. The cache will delete any unrecognized files from the directory. Hence the directory cannot be used to store other files. Deprecated Use a constructor that takes a DatabaseProvider for improved performance. Params: cacheDir – A dedicated cache directory. evictor – The evictor to be used. For download use cases where cache eviction should not occur, use NoOpCacheEvictor" />
+      <item value="Constructs the cache. The cache will delete any unrecognized files from the directory. Hence the directory cannot be used to store other files. Deprecated Use a constructor that takes a DatabaseProvider for improved performance. Params: cacheDir – A dedicated cache directory. evictor – The evictor to be used. For download use cases where cache eviction should" />
+      <item value="Build data source factory with cache enabled, if data is available in cache it will return immediately, otherwise it will open a new connection to get the data." />
       <item value="WMessageQueue: Handler (android.os.Handler) {b07c38c} sending message to a Handler on a dead thread" />
       <item value="java.lang.SecurityException: Not allowed to access cell info" />
       <item value="Urls contain mutable parts (parameter 'sessionToken') and stable video's id (parameter 'videoId')." />
@@ -51,15 +55,11 @@
       <item value="nhaanj " />
       <item value="n" />
       <item value="nm" />
-      <item value="ngủ" />
-      <item value="biệt danh" />
-      <item value="biee" />
-      <item value="Register from start %s to %s" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="666" />
+        <entry key="ENGLISH" value="670" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="105" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="662" />
+        <entry key="VIETNAMESE" value="666" />
       </map>
     </option>
   </component>
