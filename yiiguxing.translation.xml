@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="420" />
     <histories>
+      <item value="播放状态改变监听器" />
+      <item value="保存了所有开发者设置的监听器" />
       <item value="If not null, cache keys will be stored encrypted on filesystem using AESCBC. The key must be 16 bytes long." />
       <item value="Constructs the cache. The cache will delete any unrecognized files from the directory. Hence the directory cannot be used to store other files. Deprecated Use a constructor that takes a DatabaseProvider for improved performance. Params: cacheDir – A dedicated cache directory. evictor – The evictor to be used. For download use cases where cache eviction should not occur, use NoOpCacheEvictor" />
       <item value="Constructs the cache. The cache will delete any unrecognized files from the directory. Hence the directory cannot be used to store other files. Deprecated Use a constructor that takes a DatabaseProvider for improved performance. Params: cacheDir – A dedicated cache directory. evictor – The evictor to be used. For download use cases where cache eviction should" />
@@ -53,12 +55,10 @@
       <item value="btn retry sync member" />
       <item value="nhận xét" />
       <item value="nhaanj " />
-      <item value="n" />
-      <item value="nm" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3" />
+        <entry key="CHINESE" value="5" />
         <entry key="ENGLISH" value="670" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="105" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="666" />
+        <entry key="VIETNAMESE" value="667" />
       </map>
     </option>
   </component>
