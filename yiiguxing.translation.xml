@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="420" />
     <histories>
+      <item value="WMessageQueue: Handler (android.os.Handler) {b07c38c} sending message to a Handler on a dead thread" />
+      <item value="java.lang.SecurityException: Not allowed to access cell info" />
       <item value="Urls contain mutable parts (parameter 'sessionToken') and stable video's id (parameter 'videoId')." />
       <item value="The user agent that will be used when requesting remote data, or null to us" />
       <item value="userAgent – The user agent that will be used when requesting remote data, or null to use" />
@@ -53,13 +55,11 @@
       <item value="biệt danh" />
       <item value="biee" />
       <item value="Register from start %s to %s" />
-      <item value="Starting from %s to %s" />
-      <item value="Edit registration" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="664" />
+        <entry key="ENGLISH" value="666" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="105" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="660" />
+        <entry key="VIETNAMESE" value="662" />
       </map>
     </option>
   </component>
