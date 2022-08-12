@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="420" />
     <histories>
+      <item value="java.lang.IllegalStateException: YouTubePlayerView: If you want to initialize this view manually, you need to set 'enableAutomaticInitialization' to false" />
       <item value="Hoàn thành" />
       <item value="Hoàn" />
       <item value="Hoanf thanhf" />
@@ -54,12 +55,11 @@
       <item value="Called immediately after onCreateView(LayoutInflater, ViewGroup, Bundle) has returned, but before any saved state has been restored in to the view. This gives subclasses a chance to initialize themselves once they know their view hierarchy has been completely created. The fragment's view hierarchy is not however attached to its parent at this point. Params: view – The View returned by onCreateView(LayoutInflater, ViewGroup, Bundle). savedInstanceState – If non-null, this fragment is being re-constructed from a previous saved state as given here." />
       <item value="Base class for activities that want to use the support-based Fragments." />
       <item value="init Delegate" />
-      <item value="Application needs following permissions to work normally: %s. Allow application to use those permissions?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="683" />
+        <entry key="ENGLISH" value="684" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="105" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="680" />
+        <entry key="VIETNAMESE" value="681" />
       </map>
     </option>
   </component>
