@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="420" />
     <histories>
+      <item value="Hoàn thành" />
+      <item value="Hoàn" />
+      <item value="Hoanf thanhf" />
+      <item value="STATE PLAYBACK COMPLETED" />
+      <item value="SCREEN SCALE CENTER CROP" />
       <item value="There is no single replacement for the Transform API—there are new, targeted" />
       <item value="It will be removed in version 8.0 of the Android Gradle plugin." />
       <item value="&gt; No matching configuration of project :youtube was found. The consumer was configured to find an API of a component, preferably optimized for Android, as well as attribute 'com.android.build.api.attributes.BuildTypeAttr' with value 'debug', attribute 'com.android.build.api.attributes.AgpVersionAttr' with value '7.2.2' but:" />
@@ -50,16 +55,11 @@
       <item value="Base class for activities that want to use the support-based Fragments." />
       <item value="init Delegate" />
       <item value="Application needs following permissions to work normally: %s. Allow application to use those permissions?" />
-      <item value="album" />
-      <item value="a" />
-      <item value="equested internal only, but not enough space" />
-      <item value="Unknown failure: Exception occurred while executing:" />
-      <item value="show Learns" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="677" />
+        <entry key="ENGLISH" value="683" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="105" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="674" />
+        <entry key="VIETNAMESE" value="680" />
       </map>
     </option>
   </component>
