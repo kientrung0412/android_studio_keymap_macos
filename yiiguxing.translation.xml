@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="420" />
     <histories>
+      <item value="Params: limit – How many pages will be kept offscreen on either side. Valid values are all values" />
       <item value="java.lang.IllegalStateException: This YouTubePlayerView has already been initialized." />
       <item value="EWindowManager: android.view.WindowLeaked: Activity com.omt.app.baseproject.ui.login.LoginActivity has leaked window DecorView@b073b51[LoginActivity] that was originally added here" />
       <item value="java.lang.IllegalStateException: YouTubePlayerView: If you want to initialize this view manually, you need to set 'enableAutomaticInitialization' to false" />
@@ -54,12 +55,11 @@
       <item value="WSystem.err: java.lang.IllegalArgumentException: Non-body HTTP method cannot contain @Body." />
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.omt.app.baseprojectcom.omt.app.baseproject.ui.home.StudentsActivity}: java.lang.UnsupportedOperationException" />
       <item value="set Negative Button" />
-      <item value="Called immediately after onCreateView(LayoutInflater, ViewGroup, Bundle) has returned, but before any saved state has been restored in to the view. This gives subclasses a chance to initialize themselves once they know their view hierarchy has been completely created. The fragment's view hierarchy is not however attached to its parent at this point. Params: view – The View returned by onCreateView(LayoutInflater, ViewGroup, Bundle). savedInstanceState – If non-null, this fragment is being re-constructed from a previous saved state as given here." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="686" />
+        <entry key="ENGLISH" value="687" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="105" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="683" />
+        <entry key="VIETNAMESE" value="684" />
       </map>
     </option>
   </component>
