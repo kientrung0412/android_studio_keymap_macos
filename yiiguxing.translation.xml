@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="420" />
     <histories>
+      <item value="compressPercent" />
       <item value="Deselect all" />
       <item value="action deselect all" />
       <item value="Select all" />
@@ -54,7 +55,6 @@
       <item value="IActivityManager: Displayed com.kidsonline.attendance.debugcom.sandrios.sandriosCamera.internal.ui.camera.Camera1Activity: +425ms (total +626ms)" />
       <item value="Ememtrack: Couldn't load memtrack module" />
       <item value="WContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:966 android.content.ContextWrapper.sendBroadcast:437 com.android.music.MediaPlaybackService.onDestroy:380 android.app.ActivityThread.handleStopService:3504 android.app.ActivityThread.-wrap26:0" />
-      <item value="male" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,7 +67,7 @@
         <entry key="LAO" value="107" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="693" />
+        <entry key="VIETNAMESE" value="694" />
       </map>
     </option>
   </component>
