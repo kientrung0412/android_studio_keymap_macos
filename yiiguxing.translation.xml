@@ -5,7 +5,11 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="420" />
     <histories>
-      <item value="&gt; Manifest merger failed : Apps targeting Android 12 and higher are required to specify an explicit value for `android:exported` when the corresponding component has an intent filter defined. See https:developer.android.comguidetopicsmanifestactivity-elementexported for details." />
+      <item value="period – time in milliseconds between successive task executions." />
+      <item value="period" />
+      <item value="&lt;!-- Shape appearance style reference to be used to construct a ShapeAppearanceModel. --&gt;" />
+      <item value="reference" />
+      <item value="shape Appearance" />
       <item value="Message: Content is not allowed in prolog." />
       <item value="Params: limit – How many pages will be kept offscreen on either side. Valid values are all values" />
       <item value="java.lang.IllegalStateException: This YouTubePlayerView has already been initialized." />
@@ -51,15 +55,11 @@
       <item value="giới tính" />
       <item value="thành công" />
       <item value="thành co" />
-      <item value="thành c" />
-      <item value="t" />
-      <item value="WSystem.err: java.lang.IllegalArgumentException: method GET must not have a request body." />
-      <item value="WSystem.err: java.lang.IllegalArgumentException: Non-body HTTP method cannot contain @Body." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="689" />
+        <entry key="ENGLISH" value="693" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,12 +67,12 @@
         <entry key="LAO" value="105" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="686" />
+        <entry key="VIETNAMESE" value="690" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1660365929257" />
+    <option name="lastTrimTime" value="1660379815260" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
