@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="420" />
     <histories>
+      <item value="The device needs more free storage to install the application (extra space is needed in addition to APK size)." />
       <item value="action deselect all" />
       <item value="Select all" />
       <item value="period – time in milliseconds between successive task executions." />
@@ -54,12 +55,11 @@
       <item value="Ememtrack: Couldn't load memtrack module" />
       <item value="WContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:966 android.content.ContextWrapper.sendBroadcast:437 com.android.music.MediaPlaybackService.onDestroy:380 android.app.ActivityThread.handleStopService:3504 android.app.ActivityThread.-wrap26:0" />
       <item value="male" />
-      <item value="giới tính" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="694" />
+        <entry key="ENGLISH" value="695" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="106" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="692" />
+        <entry key="VIETNAMESE" value="693" />
       </map>
     </option>
   </component>
