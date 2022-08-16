@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="653" />
     <histories>
+      <item value="large Heap" />
+      <item value="uses Cleartext Traffic" />
+      <item value="hardware Accelerated" />
       <item value="Eart: Throwing OutOfMemoryError &quot;Failed to allocate a 28 byte allocation with 0 free bytes and 0B until OOM&quot; (recursive case)" />
       <item value="Eart: Throwing OutOfMemoryError &quot;Failed to allocate a 8 byte allocation with 0 free bytes and 3GB until OOM&quot;" />
       <item value="(use -source 9 or higher to enable '&lt;&gt;' with anonymous inner classes)" />
@@ -52,14 +55,11 @@
       <item value="userAgent – The user agent that will be used when requesting remote data, or null to use" />
       <item value="not found user from token" />
       <item value="token absent" />
-      <item value="TOKEN EXCEPTION" />
-      <item value="invalid token" />
-      <item value="token expired" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="701" />
+        <entry key="ENGLISH" value="704" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="107" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="701" />
+        <entry key="VIETNAMESE" value="704" />
       </map>
     </option>
   </component>
