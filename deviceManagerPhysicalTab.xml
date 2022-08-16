@@ -16,6 +16,28 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="192.168.4.116:5555" />
+          </Key>
+        </key>
+        <name value="rockchip rk312x" />
+        <target value="Android 5.1" />
+        <api value="22" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.4.52:5555" />
+          </Key>
+        </key>
+        <name value="rockchip rk312x" />
+        <target value="Android 5.1" />
+        <api value="22" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="14cc25f0" />
           </Key>
         </key>
@@ -302,23 +324,12 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="192.168.4.116:5555" />
+            <value value="192.168.5.206:5555" />
           </Key>
         </key>
-        <name value="rockchip rk312x" />
-        <target value="Android 5.1" />
-        <api value="22" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="192.168.4.52:5555" />
-          </Key>
-        </key>
-        <name value="rockchip rk312x" />
-        <target value="Android 5.1" />
-        <api value="22" />
+        <name value="rockchip S8810P" />
+        <target value="Android 8.1" />
+        <api value="27" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
