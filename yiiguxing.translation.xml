@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="653" />
     <histories>
+      <item value="Iart: Explicit concurrent mark sweep GC freed 28193(2MB) AllocSpace objects, 56(894KB) LOS objects, 33% free, 8MB12MB, paused 2.126ms total 94.745ms" />
       <item value="DLeakCanary: Found 22 objects retained, dumping heap now (app is visible &amp; &gt;=5 threshold)" />
       <item value="Writes retrieved data directly to the disk cache before it's decoded." />
       <item value="Saves no data to cache." />
@@ -54,12 +55,11 @@
       <item value="播放状态改变监听器" />
       <item value="保存了所有开发者设置的监听器" />
       <item value="If not null, cache keys will be stored encrypted on filesystem using AESCBC. The key must be 16 bytes long." />
-      <item value="Constructs the cache. The cache will delete any unrecognized files from the directory. Hence the directory cannot be used to store other files. Deprecated Use a constructor that takes a DatabaseProvider for improved performance. Params: cacheDir – A dedicated cache directory. evictor – The evictor to be used. For download use cases where cache eviction should not occur, use NoOpCacheEvictor" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="712" />
+        <entry key="ENGLISH" value="713" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="107" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="712" />
+        <entry key="VIETNAMESE" value="713" />
       </map>
     </option>
   </component>
