@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="653" />
     <histories>
+      <item value="Flowable" />
       <item value="Creates and returns a Scheduler that queues work on the current thread to be executed after the current work completes. Returns: a Scheduler that queues work on the current thread" />
       <item value="Alibc: Fatal signal 6 (SIGABRT), code -6 in tid 9161 (app.baseproject)" />
       <item value="large Heap" />
@@ -54,7 +55,6 @@
       <item value="java.lang.SecurityException: Not allowed to access cell info" />
       <item value="Urls contain mutable parts (parameter 'sessionToken') and stable video's id (parameter 'videoId')." />
       <item value="The user agent that will be used when requesting remote data, or null to us" />
-      <item value="userAgent – The user agent that will be used when requesting remote data, or null to use" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,7 +67,7 @@
         <entry key="LAO" value="107" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="706" />
+        <entry key="VIETNAMESE" value="707" />
       </map>
     </option>
   </component>
