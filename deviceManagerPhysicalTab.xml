@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="14cc25f0" />
+          </Key>
+        </key>
+        <name value="OnePlus LE2101" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="192.168.4.236:5555" />
           </Key>
         </key>
@@ -33,17 +44,6 @@
         <name value="rockchip rk312x" />
         <target value="Android 5.1" />
         <api value="22" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="14cc25f0" />
-          </Key>
-        </key>
-        <name value="OnePlus LE2101" />
-        <target value="Android 12.0" />
-        <api value="31" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
