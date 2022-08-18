@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="653" />
     <histories>
+      <item value="ERockFFPlayerBase: network ExtendSubtitle isn't supported...." />
       <item value="Iart: Explicit concurrent mark sweep GC freed 28193(2MB) AllocSpace objects, 56(894KB) LOS objects, 33% free, 8MB12MB, paused 2.126ms total 94.745ms" />
       <item value="DLeakCanary: Found 22 objects retained, dumping heap now (app is visible &amp; &gt;=5 threshold)" />
       <item value="Writes retrieved data directly to the disk cache before it's decoded." />
@@ -54,12 +55,11 @@
       <item value="force Has Overlapping Rendering" />
       <item value="播放状态改变监听器" />
       <item value="保存了所有开发者设置的监听器" />
-      <item value="If not null, cache keys will be stored encrypted on filesystem using AESCBC. The key must be 16 bytes long." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="713" />
+        <entry key="ENGLISH" value="714" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,12 +67,12 @@
         <entry key="LAO" value="107" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="713" />
+        <entry key="VIETNAMESE" value="714" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1660379815260" />
+    <option name="lastTrimTime" value="1660817002793" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
