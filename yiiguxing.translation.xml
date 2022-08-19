@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="653" />
     <histories>
+      <item value="Type parameters: &lt;R&gt; – The type of the resource that will be transitioned into a view." />
       <item value="EConnectivityService: Exception in networkAddRouteParcel for gateway: android.os.ServiceSpecificException: Machine is not on the network (code 64)" />
       <item value="Ebepv: Trace gmscompliance-GmsDeviceComplianceChimeraService-IGmsDeviceComplianceService_0 timed out after 3645408 ms. Complete trace: beqg@1cde46d" />
       <item value="EGenericSource: initFromDataSource, cannot create extractor!" />
@@ -54,12 +55,11 @@
       <item value="Hoanf thanhf" />
       <item value="STATE PLAYBACK COMPLETED" />
       <item value="SCREEN SCALE CENTER CROP" />
-      <item value="There is no single replacement for the Transform API—there are new, targeted" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="721" />
+        <entry key="ENGLISH" value="722" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="107" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="721" />
+        <entry key="VIETNAMESE" value="722" />
       </map>
     </option>
   </component>
