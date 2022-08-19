@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="653" />
     <histories>
+      <item value="Tells the WebView to enable JavaScript execution. The default is false. Params: flag – true if the WebView should execute JavaScript" />
       <item value="Uncaught SyntaxError: Invalid or unexpected token" />
       <item value="Type parameters: &lt;R&gt; – The type of the resource that will be transitioned into a view." />
       <item value="EConnectivityService: Exception in networkAddRouteParcel for gateway: android.os.ServiceSpecificException: Machine is not on the network (code 64)" />
@@ -54,12 +55,11 @@
       <item value="Hoàn thành" />
       <item value="Hoàn" />
       <item value="Hoanf thanhf" />
-      <item value="STATE PLAYBACK COMPLETED" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="722" />
+        <entry key="ENGLISH" value="723" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
