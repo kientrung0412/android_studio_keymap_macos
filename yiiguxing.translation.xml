@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="653" />
     <histories>
+      <item value="WC2BqBuffer: last successful dequeue was 3942575 us ago, 0 consecutive failures" />
+      <item value="WAudioManager: See the documentation of requestAudioFocus() for what to use instead with android.media.AudioAttributes to qualify your playback use case" />
+      <item value="A WebView method was called on thread 'JavaBridge'" />
+      <item value="ll WebView methods must be called on the same thread" />
       <item value="Tells the WebView to enable JavaScript execution. The default is false. Params: flag – true if the WebView should execute JavaScript" />
       <item value="Uncaught SyntaxError: Invalid or unexpected token" />
       <item value="Type parameters: &lt;R&gt; – The type of the resource that will be transitioned into a view." />
@@ -51,15 +55,11 @@
       <item value="Params: limit – How many pages will be kept offscreen on either side. Valid values are all values" />
       <item value="java.lang.IllegalStateException: This YouTubePlayerView has already been initialized." />
       <item value="EWindowManager: android.view.WindowLeaked: Activity com.omt.app.baseproject.ui.login.LoginActivity has leaked window DecorView@b073b51[LoginActivity] that was originally added here" />
-      <item value="java.lang.IllegalStateException: YouTubePlayerView: If you want to initialize this view manually, you need to set 'enableAutomaticInitialization' to false" />
-      <item value="Hoàn thành" />
-      <item value="Hoàn" />
-      <item value="Hoanf thanhf" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="723" />
+        <entry key="ENGLISH" value="727" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="107" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="723" />
+        <entry key="VIETNAMESE" value="727" />
       </map>
     </option>
   </component>
