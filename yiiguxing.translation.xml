@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="653" />
     <histories>
+      <item value="Ebepv: Trace gmscompliance-GmsDeviceComplianceChimeraService-IGmsDeviceComplianceService_0 timed out after 3645408 ms. Complete trace: beqg@1cde46d" />
+      <item value="EGenericSource: initFromDataSource, cannot create extractor!" />
+      <item value="com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)" />
+      <item value="Dresolv: getanswer: asked for &quot;awsfiles.kidsonline.edu.vn&quot;, got &quot;static.vegadns.vn&quot;" />
+      <item value="class com.bumptech.glide.load.engine.GlideException: Failed to load resource There was 1 root cause: com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1) call GlideExceptionlogRootCauses(String) for more detail Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetching data failed, class java.io.InputStream, REMOTE" />
       <item value="Caused by: java.lang.IllegalStateException: You can't start or clear loads in RequestListener or Target callbacks. If you're trying to start a fallback request when a load fails, use RequestBuildererror(RequestBuilder). Otherwise consider posting your into() or clear() calls to the main thread using a Handler instead." />
       <item value="ERockFFPlayerBase: network ExtendSubtitle isn't supported...." />
       <item value="Iart: Explicit concurrent mark sweep GC freed 28193(2MB) AllocSpace objects, 56(894KB) LOS objects, 33% free, 8MB12MB, paused 2.126ms total 94.745ms" />
@@ -50,16 +55,11 @@
       <item value="SCREEN SCALE CENTER CROP" />
       <item value="There is no single replacement for the Transform API—there are new, targeted" />
       <item value="It will be removed in version 8.0 of the Android Gradle plugin." />
-      <item value="&gt; No matching configuration of project :youtube was found. The consumer was configured to find an API of a component, preferably optimized for Android, as well as attribute 'com.android.build.api.attributes.BuildTypeAttr' with value 'debug', attribute 'com.android.build.api.attributes.AgpVersionAttr' with value '7.2.2' but:" />
-      <item value="&gt; Build was configured to prefer settings repositories over project repositories but repository 'BintrayJCenter' was added by build file 'VolumesDataOmtLibandroid-inline-youtube-viewinline-youtube-viewbuild.gradle'" />
-      <item value="A problem occurred evaluating project ':youtube'." />
-      <item value="force Has Overlapping Rendering" />
-      <item value="播放状态改变监听器" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="715" />
+        <entry key="ENGLISH" value="720" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="107" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="715" />
+        <entry key="VIETNAMESE" value="720" />
       </map>
     </option>
   </component>
