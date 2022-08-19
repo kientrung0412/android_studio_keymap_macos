@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="653" />
     <histories>
+      <item value="1、在第一次load Url之前注入JS（在add Javascript Interface里面注入即可，set Web View Client和set Web Chrome Client要在add Javascript Interface之前执行）；" />
+      <item value="经过大量的测试，按照以下方式才能保证JS脚本100%注入成功：" />
       <item value="WC2BqBuffer: last successful dequeue was 3942575 us ago, 0 consecutive failures" />
       <item value="WAudioManager: See the documentation of requestAudioFocus() for what to use instead with android.media.AudioAttributes to qualify your playback use case" />
       <item value="A WebView method was called on thread 'JavaBridge'" />
@@ -53,21 +55,19 @@
       <item value="shape Appearance" />
       <item value="Message: Content is not allowed in prolog." />
       <item value="Params: limit – How many pages will be kept offscreen on either side. Valid values are all values" />
-      <item value="java.lang.IllegalStateException: This YouTubePlayerView has already been initialized." />
-      <item value="EWindowManager: android.view.WindowLeaked: Activity com.omt.app.baseproject.ui.login.LoginActivity has leaked window DecorView@b073b51[LoginActivity] that was originally added here" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="727" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="728" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="107" />
+        <entry key="LAO" value="108" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="727" />
+        <entry key="VIETNAMESE" value="729" />
       </map>
     </option>
   </component>
