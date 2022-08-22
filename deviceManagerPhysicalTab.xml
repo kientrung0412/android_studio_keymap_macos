@@ -353,6 +353,17 @@
         <target value="Android 1.0" />
         <api value="1" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="AGD00077491" />
+          </Key>
+        </key>
+        <name value="vsmart Joy 2+" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
