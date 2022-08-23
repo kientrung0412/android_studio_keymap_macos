@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="192.168.4.52:5555" />
+          </Key>
+        </key>
+        <name value="rockchip rk312x" />
+        <target value="Android 5.1" />
+        <api value="22" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="192.168.5.111:5555" />
           </Key>
         </key>
@@ -28,17 +39,6 @@
           <Key>
             <type value="SERIAL_NUMBER" />
             <value value="192.168.4.173:5555" />
-          </Key>
-        </key>
-        <name value="rockchip rk312x" />
-        <target value="Android 5.1" />
-        <api value="22" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="192.168.4.52:5555" />
           </Key>
         </key>
         <name value="rockchip rk312x" />
