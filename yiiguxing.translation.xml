@@ -2,19 +2,14 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="401" />
     <option name="newTranslationDialogWidth" value="1321" />
-    <option name="newTranslationDialogX" value="316" />
-    <option name="newTranslationDialogY" value="565" />
+    <option name="newTranslationDialogX" value="191" />
+    <option name="newTranslationDialogY" value="581" />
     <histories>
-      <item value="Thông tin" />
-      <item value="Thông " />
-      <item value="infor" />
-      <item value="info" />
-      <item value="infro" />
-      <item value="inf" />
-      <item value="ìn" />
-      <item value="ỉn" />
-      <item value="môn học" />
-      <item value="accept Attendance Result By Type" />
+      <item value="evaluate Javascript" />
+      <item value="Portrait" />
+      <item value="sPortrait" />
+      <item value="Landscape" />
+      <item value="Manifest merger failed : uses-sdk:minSdkVersion 16 cannot be smaller than version 17 declared in library [:flutter_inappwebview] VolumesDataProjectFlutterYOutubebuildflutter_inappwebviewintermediatesmerged_manifestdebugAndroidManifest.xml as the library might be using APIs not available in 16" />
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.example.youtubeplayercom.example.youtubeplayer.YoutubeActivity}: java.lang.SecurityException: Not allowed to bind to service Intent { act=com.google.android.youtube.api.service.START pkg=com.google.android.youtube }" />
       <item value="ngoại khóa" />
       <item value="ngoaij khoas" />
@@ -55,11 +50,16 @@
       <item value="hardware Accelerated" />
       <item value="Eart: Throwing OutOfMemoryError &quot;Failed to allocate a 28 byte allocation with 0 free bytes and 0B until OOM&quot; (recursive case)" />
       <item value="Eart: Throwing OutOfMemoryError &quot;Failed to allocate a 8 byte allocation with 0 free bytes and 3GB until OOM&quot;" />
+      <item value="(use -source 9 or higher to enable '&lt;&gt;' with anonymous inner classes)" />
+      <item value="reason: '&lt;&gt;' with anonymous inner classes is not supported in -source 8" />
+      <item value="private boolean mLogSwitch = true; The switch of log." />
+      <item value="observe" />
+      <item value="nhiều&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="741" />
+        <entry key="ENGLISH" value="734" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,12 +67,12 @@
         <entry key="LAO" value="108" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="741" />
+        <entry key="VIETNAMESE" value="735" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1661312976165" />
+    <option name="lastTrimTime" value="1661323961548" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">

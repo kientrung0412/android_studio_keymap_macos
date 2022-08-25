@@ -5,12 +5,12 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="192.168.4.52:5555" />
+            <value value="8ABX0PUWK" />
           </Key>
         </key>
-        <name value="rockchip rk312x" />
-        <target value="Android 5.1" />
-        <api value="22" />
+        <name value="Google Pixel 3" />
+        <target value="Android 12.0" />
+        <api value="31" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -39,6 +39,17 @@
           <Key>
             <type value="SERIAL_NUMBER" />
             <value value="192.168.4.173:5555" />
+          </Key>
+        </key>
+        <name value="rockchip rk312x" />
+        <target value="Android 5.1" />
+        <api value="22" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.4.52:5555" />
           </Key>
         </key>
         <name value="rockchip rk312x" />
@@ -110,17 +121,6 @@
         <name value="samsung SM-A605K" />
         <target value="Android 10.0" />
         <api value="29" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="8ABX0PUWK" />
-          </Key>
-        </key>
-        <name value="Google Pixel 3" />
-        <target value="Android 12.0" />
-        <api value="31" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -374,6 +374,17 @@
         <name value="rockchip S8810P" />
         <target value="Android 8.1" />
         <api value="27" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.5.241:5555" />
+          </Key>
+        </key>
+        <name value="rockchip rk312x" />
+        <target value="Android 5.1" />
+        <api value="22" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
