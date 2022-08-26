@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="191" />
     <option name="newTranslationDialogY" value="581" />
     <histories>
+      <item value="Make sure to register a handler via on&lt;SwitchLoading&gt;((event, emit) {...})" />
+      <item value="Bad state: add(SwitchLoading) was called without a registered event handler." />
       <item value="external Application" />
       <item value="Platform Exception" />
       <item value="Unhandled Exception" />
@@ -53,13 +55,11 @@
       <item value="hardware Accelerated" />
       <item value="Eart: Throwing OutOfMemoryError &quot;Failed to allocate a 28 byte allocation with 0 free bytes and 0B until OOM&quot; (recursive case)" />
       <item value="Eart: Throwing OutOfMemoryError &quot;Failed to allocate a 8 byte allocation with 0 free bytes and 3GB until OOM&quot;" />
-      <item value="(use -source 9 or higher to enable '&lt;&gt;' with anonymous inner classes)" />
-      <item value="reason: '&lt;&gt;' with anonymous inner classes is not supported in -source 8" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="737" />
+        <entry key="ENGLISH" value="739" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="108" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="737" />
+        <entry key="VIETNAMESE" value="739" />
       </map>
     </option>
   </component>
