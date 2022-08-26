@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="191" />
     <option name="newTranslationDialogY" value="581" />
     <histories>
+      <item value="external Application" />
+      <item value="Platform Exception" />
+      <item value="Unhandled Exception" />
       <item value="evaluate Javascript" />
       <item value="Portrait" />
       <item value="sPortrait" />
@@ -52,14 +55,11 @@
       <item value="Eart: Throwing OutOfMemoryError &quot;Failed to allocate a 8 byte allocation with 0 free bytes and 3GB until OOM&quot;" />
       <item value="(use -source 9 or higher to enable '&lt;&gt;' with anonymous inner classes)" />
       <item value="reason: '&lt;&gt;' with anonymous inner classes is not supported in -source 8" />
-      <item value="private boolean mLogSwitch = true; The switch of log." />
-      <item value="observe" />
-      <item value="nhiều&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="734" />
+        <entry key="ENGLISH" value="737" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="108" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="735" />
+        <entry key="VIETNAMESE" value="737" />
       </map>
     </option>
   </component>
