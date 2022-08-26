@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="191" />
     <option name="newTranslationDialogY" value="581" />
     <histories>
+      <item value="doesn't include the currently selected device" />
+      <item value="include" />
+      <item value="Error (Xcode): Provisioning profile &quot;iOS Team Provisioning Profile: com.olympia.schoolonlineparent&quot; doesn't include the currently selected device &quot;iPhone Của Tiến&quot; (identifier c9ce70c4553a309c6721804793c46d93aa7b5e30)." />
       <item value="Exception: You must specify a --flavor option to select one of the available schemes." />
       <item value="Make sure to register a handler via on&lt;SwitchLoading&gt;((event, emit) {...})" />
       <item value="Bad state: add(SwitchLoading) was called without a registered event handler." />
@@ -52,14 +55,11 @@
       <item value="Creates and returns a Scheduler that queues work on the current thread to be executed after the current work completes. Returns: a Scheduler that queues work on the current thread" />
       <item value="Alibc: Fatal signal 6 (SIGABRT), code -6 in tid 9161 (app.baseproject)" />
       <item value="large Heap" />
-      <item value="uses Cleartext Traffic" />
-      <item value="hardware Accelerated" />
-      <item value="Eart: Throwing OutOfMemoryError &quot;Failed to allocate a 28 byte allocation with 0 free bytes and 0B until OOM&quot; (recursive case)" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="740" />
+        <entry key="ENGLISH" value="743" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="108" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="740" />
+        <entry key="VIETNAMESE" value="742" />
       </map>
     </option>
   </component>
