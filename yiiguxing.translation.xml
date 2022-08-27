@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="191" />
     <option name="newTranslationDialogY" value="581" />
     <histories>
+      <item value="@Override protected void onMeasure(int widthMeasureSpec, int heightMeasureSpec) { LogUtils.d(&quot;onMeasure() called with: widthMeasureSpec = [&quot; + widthMeasureSpec + &quot;], heightMeasureSpec = [&quot; + heightMeasureSpec + &quot;]&quot;); if (targetAspectRatio &gt; 0) { int initialWidth = MeasureSpec.getSize(widthMeasureSpec); int initialHeight = MeasureSpec.getSize(heightMeasureSpec); padding int horizontalPadding = getPaddingLeft() + getPaddingRight(); int verticalPadding = getPaddingTop() + getPaddingBottom(); initialWidth -= horizontalPadding; initialHeight -= verticalPadding; double viewAspectRatio = (double) initialWidth initialHeight; double aspectDifference = targetAspectRatio viewAspectRatio - 1; if (Math.abs(aspectDifference) &lt; 0.01) { no changes } else { if (aspectDifference &gt; 0) { initialHeight = (int) (initialWidth targetAspectRatio); } else { initialWidth = (int) (initialHeight targetAspectRatio); } initialWidth += horizontalPadding; initialHeight += verticalPadding; widthMeasureSpec = MeasureSpec.makeMeasureSpec(initialWidth, MeasureSpec.EXACTLY); heightMeasureSpec = MeasureSpec.makeMeasureSpec(initialHeight, MeasureSpec.EXACTLY); } } super.onMeasure(widthMeasureSpec, heightMeasureSpec); }" />
       <item value="ddax" />
       <item value="evaluate Javascript" />
       <item value="Portrait" />
@@ -54,7 +55,6 @@
       <item value="(use -source 9 or higher to enable '&lt;&gt;' with anonymous inner classes)" />
       <item value="reason: '&lt;&gt;' with anonymous inner classes is not supported in -source 8" />
       <item value="private boolean mLogSwitch = true; The switch of log." />
-      <item value="observe" />
     </histories>
     <option name="languageScores">
       <map>
