@@ -11,6 +11,8 @@
   </template>
   <template name="read" value="context.read&lt;$Subject$&gt;()" description="context.read()" toReformat="false" toShortenFQNames="true">
     <variable name="Subject" expression="" defaultValue="&quot;Subject&quot;" alwaysStopAt="true" />
-    <context />
+    <context>
+      <option name="DART_TOPLEVEL" value="false" />
+    </context>
   </template>
 </templateSet>
