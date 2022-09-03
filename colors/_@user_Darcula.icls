@@ -4,7 +4,7 @@
     <property name="created">2021-02-28T09:04:00</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.1.2.0</property>
-    <property name="modified">2022-05-04T12:50:41</property>
+    <property name="modified">2022-08-31T13:29:47</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="MesloLGS NF" />
@@ -59,6 +59,33 @@
     <option name="LOGCAT_INFO_OUTPUT">
       <value>
         <option name="FOREGROUND" value="4caf50" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_LEVEL_DEBUG">
+      <value>
+        <option name="FOREGROUND" value="e9f5e6" />
+        <option name="BACKGROUND" value="48a528" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_LEVEL_INFO">
+      <value>
+        <option name="FOREGROUND" value="bbbbbb" />
+        <option name="BACKGROUND" value="4f92bd" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_MESSAGE_ASSERT">
+      <value>
+        <option name="FOREGROUND" value="8b3c3c" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_MESSAGE_DEBUG">
+      <value>
+        <option name="FOREGROUND" value="48a528" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_MESSAGE_INFO">
+      <value>
+        <option name="FOREGROUND" value="4f92bd" />
       </value>
     </option>
     <option name="LOGCAT_VERBOSE_OUTPUT">
