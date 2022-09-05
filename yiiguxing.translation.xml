@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="191" />
     <option name="newTranslationDialogY" value="581" />
     <histories>
+      <item value="Completes the future with a [FileSystemException] if the operation fails." />
+      <item value="recursive" />
       <item value="A representation of the runtime type of the object." />
       <item value="identical" />
       <item value="[ERROR:flutterruntimedart_vm_initializer.cc(41)] Unhandled Exception: MissingPluginException(No implementation found for method getApplicationDocumentsDirectory on channel plugins.flutter.iopath_provider)" />
@@ -53,13 +55,11 @@
       <item value="WC2BqBuffer: last successful dequeue was 3942575 us ago, 0 consecutive failures" />
       <item value="WAudioManager: See the documentation of requestAudioFocus() for what to use instead with android.media.AudioAttributes to qualify your playback use case" />
       <item value="A WebView method was called on thread 'JavaBridge'" />
-      <item value="ll WebView methods must be called on the same thread" />
-      <item value="Tells the WebView to enable JavaScript execution. The default is false. Params: flag – true if the WebView should execute JavaScript" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="758" />
+        <entry key="ENGLISH" value="760" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="109" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="758" />
+        <entry key="VIETNAMESE" value="760" />
       </map>
     </option>
   </component>
