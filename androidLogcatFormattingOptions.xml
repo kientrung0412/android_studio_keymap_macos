@@ -1,0 +1,5 @@
+<application>
+  <component name="AndroidLogcatFormattingOptions">
+    <option name="standardFormattingOptions" value="{'timestampFormat':{'style':'TIME','enabled':false},'processThreadFormat':{'style':'BOTH','enabled':true},'tagFormat':{'maxLength':20,'hideDuplicates':true,'enabled':true},'appNameFormat':{'maxLength':35,'hideDuplicates':false,'enabled':true}}" />
+  </component>
+</application>

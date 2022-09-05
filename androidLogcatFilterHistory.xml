@@ -1,0 +1,21 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="" />
+    <option name="nonFavorites">
+      <list>
+        <option value="package:com.example.democontentprovider tag:Trungnk " />
+        <option value="package:com.example.democontentprovider " />
+        <option value="tag:Trungnk level:debug " />
+        <option value="tag:Trungnk" />
+        <option value="onCreate() called with: cursor" />
+        <option value="onCreate" />
+        <option value="trungnk" />
+        <option value="tag:" />
+        <option value="tag:MainActivity" />
+        <option value="tag:onCreate" />
+        <option value="MainActivity" />
+        <option value="package:mine " />
+      </list>
+    </option>
+  </component>
+</application>
