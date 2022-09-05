@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="191" />
     <option name="newTranslationDialogY" value="581" />
     <histories>
+      <item value="Environment" />
+      <item value="Enviroment" />
+      <item value="STAG" />
       <item value="Phụ huynh chưa đăng nhập" />
       <item value="Phụ hu" />
       <item value="Phụ " />
@@ -52,14 +55,11 @@
       <item value="Ebepv: Trace gmscompliance-GmsDeviceComplianceChimeraService-IGmsDeviceComplianceService_0 timed out after 3645408 ms. Complete trace: beqg@1cde46d" />
       <item value="EGenericSource: initFromDataSource, cannot create extractor!" />
       <item value="com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)" />
-      <item value="Dresolv: getanswer: asked for &quot;awsfiles.kidsonline.edu.vn&quot;, got &quot;static.vegadns.vn&quot;" />
-      <item value="class com.bumptech.glide.load.engine.GlideException: Failed to load resource There was 1 root cause: com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1) call GlideExceptionlogRootCauses(String) for more detail Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetching data failed, class java.io.InputStream, REMOTE" />
-      <item value="Caused by: java.lang.IllegalStateException: You can't start or clear loads in RequestListener or Target callbacks. If you're trying to start a fallback request when a load fails, use RequestBuildererror(RequestBuilder). Otherwise consider posting your into() or clear() calls to the main thread using a Handler instead." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="748" />
+        <entry key="ENGLISH" value="750" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="109" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="749" />
+        <entry key="VIETNAMESE" value="751" />
       </map>
     </option>
   </component>
