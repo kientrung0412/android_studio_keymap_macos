@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="191" />
     <option name="newTranslationDialogY" value="581" />
     <histories>
+      <item value="Missing &lt;resources&gt; at 26:1" />
       <item value="objects for the directories, files, and links." />
       <item value="Operation not permitted" />
       <item value="Environment" />
@@ -54,12 +55,11 @@
       <item value="Uncaught SyntaxError: Invalid or unexpected token" />
       <item value="Type parameters: &lt;R&gt; – The type of the resource that will be transitioned into a view." />
       <item value="EConnectivityService: Exception in networkAddRouteParcel for gateway: android.os.ServiceSpecificException: Machine is not on the network (code 64)" />
-      <item value="Ebepv: Trace gmscompliance-GmsDeviceComplianceChimeraService-IGmsDeviceComplianceService_0 timed out after 3645408 ms. Complete trace: beqg@1cde46d" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="752" />
+        <entry key="ENGLISH" value="753" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="109" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="752" />
+        <entry key="VIETNAMESE" value="753" />
       </map>
     </option>
   </component>
