@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="191" />
     <option name="newTranslationDialogY" value="581" />
     <histories>
+      <item value="Unable to make field private final java.lang.String java.io.File.path accessible: module java.base does not &quot;opens java.io&quot; to unnamed module @6ff14115" />
+      <item value="java.io.File.path" />
       <item value="Message: Content is not allowed in prolog." />
       <item value="- None of the consumable configurations have attributes." />
       <item value="bổ xung thông tin&#10;" />
@@ -53,8 +55,6 @@
       <item value="INSTALL_FAILED_CONFLICTING_PROVIDER" />
       <item value="flavor Dimensions" />
       <item value="dimension" />
-      <item value="@Override protected void onMeasure(int widthMeasureSpec, int heightMeasureSpec) { LogUtils.d(&quot;onMeasure() called with: widthMeasureSpec = [&quot; + widthMeasureSpec + &quot;], heightMeasureSpec = [&quot; + heightMeasureSpec + &quot;]&quot;); if (targetAspectRatio &gt; 0) { int initialWidth = MeasureSpec.getSize(widthMeasureSpec); int initialHeight = MeasureSpec.getSize(heightMeasureSpec); padding int horizontalPadding = getPaddingLeft() + getPaddingRight(); int verticalPadding = getPaddingTop() + getPaddingBottom(); initialWidth -= horizontalPadding; initialHeight -= verticalPadding; double viewAspectRatio = (double) initialWidth initialHeight; double aspectDifference = targetAspectRatio viewAspectRatio - 1; if (Math.abs(aspectDifference) &lt; 0.01) { no changes } else { if (aspectDifference &gt; 0) { initialHeight = (int) (initialWidth targetAspectRatio); } else { initialWidth = (int) (initialHeight targetAspectRatio); } initialWidth += horizontalPadding; initialHeight += verticalPadding; widthMeasureSpec = MeasureSpec.makeMeasureSpec(initialWidth, MeasureSpec.EXACTLY); heightMeasureSpec = MeasureSpec.makeMeasureSpec(initialHeight, MeasureSpec.EXACTLY); } } super.onMeasure(widthMeasureSpec, heightMeasureSpec); }" />
-      <item value="ddax" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,7 +67,7 @@
         <entry key="LAO" value="109" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="774" />
+        <entry key="VIETNAMESE" value="776" />
       </map>
     </option>
   </component>
