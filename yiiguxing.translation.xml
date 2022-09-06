@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="191" />
     <option name="newTranslationDialogY" value="581" />
     <histories>
+      <item value="thất bại" />
+      <item value="thất bạik" />
+      <item value="thất bai" />
+      <item value="thất baihj" />
+      <item value="thaats b" />
+      <item value="handle Status Fall" />
       <item value="thanh toán bằng" />
       <item value="thanh toán " />
       <item value="thanh toán" />
@@ -49,17 +55,11 @@
       <item value="Landscape" />
       <item value="Manifest merger failed : uses-sdk:minSdkVersion 16 cannot be smaller than version 17 declared in library [:flutter_inappwebview] VolumesDataProjectFlutterYOutubebuildflutter_inappwebviewintermediatesmerged_manifestdebugAndroidManifest.xml as the library might be using APIs not available in 16" />
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.example.youtubeplayercom.example.youtubeplayer.YoutubeActivity}: java.lang.SecurityException: Not allowed to bind to service Intent { act=com.google.android.youtube.api.service.START pkg=com.google.android.youtube }" />
-      <item value="ngoại khóa" />
-      <item value="ngoaij khoas" />
-      <item value="INSTALL FAILED OLDER SDK" />
-      <item value="INSTALL FAILED_OLDER_SDK&#10;" />
-      <item value="INSTALL FAILE_OLDER_SDK&#10;" />
-      <item value="INSTALL_FAILED_OLDER_SDK&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="767" />
+        <entry key="ENGLISH" value="771" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="109" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="767" />
+        <entry key="VIETNAMESE" value="771" />
       </map>
     </option>
   </component>
