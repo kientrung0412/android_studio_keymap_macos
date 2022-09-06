@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="191" />
     <option name="newTranslationDialogY" value="581" />
     <histories>
+      <item value=" Content is not allowed in prolog.&#10;&#10;" />
+      <item value=" Content is not allowed in prolog.&#10;" />
       <item value="Unable to make field private final java.lang.String java.io.File.path accessible: module java.base does not &quot;opens java.io&quot; to unnamed module @6ff14115" />
       <item value="java.io.File.path" />
       <item value="Message: Content is not allowed in prolog." />
@@ -53,8 +55,6 @@
       <item value="KO MANAGER ENCRYPTION KEY" />
       <item value="INSTALL FAILED CONFLICTING PROVIDER" />
       <item value="INSTALL_FAILED_CONFLICTING_PROVIDER" />
-      <item value="flavor Dimensions" />
-      <item value="dimension" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,7 +67,7 @@
         <entry key="LAO" value="109" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="776" />
+        <entry key="VIETNAMESE" value="777" />
       </map>
     </option>
   </component>
