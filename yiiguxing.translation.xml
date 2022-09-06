@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="191" />
     <option name="newTranslationDialogY" value="581" />
     <histories>
+      <item value="thanh toán bằng" />
+      <item value="thanh toán " />
+      <item value="thanh toán" />
+      <item value="thanh t" />
+      <item value="thanh " />
+      <item value="thu hộ" />
       <item value="Completes the future with a [FileSystemException] if the operation fails." />
       <item value="recursive" />
       <item value="A representation of the runtime type of the object." />
@@ -49,17 +55,11 @@
       <item value="INSTALL FAILED_OLDER_SDK&#10;" />
       <item value="INSTALL FAILE_OLDER_SDK&#10;" />
       <item value="INSTALL_FAILED_OLDER_SDK&#10;" />
-      <item value="INSTALL_FAILED_OLDER_SDK" />
-      <item value="1、在第一次load Url之前注入JS（在add Javascript Interface里面注入即可，set Web View Client和set Web Chrome Client要在add Javascript Interface之前执行）；" />
-      <item value="经过大量的测试，按照以下方式才能保证JS脚本100%注入成功：" />
-      <item value="WC2BqBuffer: last successful dequeue was 3942575 us ago, 0 consecutive failures" />
-      <item value="WAudioManager: See the documentation of requestAudioFocus() for what to use instead with android.media.AudioAttributes to qualify your playback use case" />
-      <item value="A WebView method was called on thread 'JavaBridge'" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="760" />
+        <entry key="ENGLISH" value="767" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="109" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="760" />
+        <entry key="VIETNAMESE" value="767" />
       </map>
     </option>
   </component>
