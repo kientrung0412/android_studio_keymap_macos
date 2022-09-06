@@ -5,9 +5,10 @@
         <option value="tag:http " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value=" tag:http" />
+    <option name="mostRecentlyUsed" value=" tag:http | level:error " />
     <option name="nonFavorites">
       <list>
+        <option value=" tag:http | level:error " />
         <option value=" tag:http" />
         <option value="level:error tag:http" />
         <option value="level:error " />
