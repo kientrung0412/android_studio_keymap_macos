@@ -5,9 +5,12 @@
         <option value="tag:http " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value=" tag:Trungnk" />
+    <option name="mostRecentlyUsed" value=" level:error | tag:Trungnk | package:codepro.kidsonline.debug " />
     <option name="nonFavorites">
       <list>
+        <option value=" level:error | tag:Trungnk | package:codepro.kidsonline.debug " />
+        <option value=" level:error | tag:Trungnk " />
+        <option value=" level:error " />
         <option value=" tag:Trungnk" />
         <option value="level:error | tag:Trungnk | tag:http" />
         <option value="level:error tag:Trungnk tag:http" />
@@ -25,9 +28,6 @@
         <option value="onCreate() called with: cursor" />
         <option value="onCreate" />
         <option value="trungnk" />
-        <option value="tag:" />
-        <option value="tag:MainActivity" />
-        <option value="tag:onCreate" />
       </list>
     </option>
   </component>
