@@ -5,14 +5,14 @@
         <option value="tag:http " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value=" tag:http | level:error " />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
+        <option value="tag:http" />
         <option value=" tag:http | level:error " />
         <option value=" tag:http" />
         <option value="level:error tag:http" />
-        <option value="level:error " />
-        <option value="tag:http" />
         <option value="level: error " />
         <option value="message:http" />
         <option value="package:com.example.democontentprovider tag:Trungnk " />
