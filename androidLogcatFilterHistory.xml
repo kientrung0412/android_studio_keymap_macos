@@ -5,9 +5,10 @@
         <option value="tag:http " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:http" />
+    <option name="mostRecentlyUsed" value="tag:" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:" />
         <option value="tag:http" />
         <option value="level:error " />
         <option value=" tag:http | package:codepro.kidsonline.debug " />
@@ -27,7 +28,6 @@
         <option value="package:com.example.democontentprovider " />
         <option value="tag:Trungnk level:debug " />
         <option value="tag:Trungnk" />
-        <option value="onCreate() called with: cursor" />
       </list>
     </option>
   </component>
