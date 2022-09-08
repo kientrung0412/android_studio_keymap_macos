@@ -5,12 +5,12 @@
         <option value="tag:http " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
-        <option value="tag:" />
-        <option value="tag:http" />
         <option value="level:error " />
+        <option value="tag:http" />
+        <option value="tag:" />
         <option value=" tag:http | package:codepro.kidsonline.debug " />
         <option value=" level:error | tag:http | package:codepro.kidsonline.debug " />
         <option value=" level:error | tag:Trungnk | package:codepro.kidsonline.debug " />
