@@ -5,61 +5,61 @@
     <option name="newTranslationDialogX" value="191" />
     <option name="newTranslationDialogY" value="581" />
     <histories>
+      <item value="khoản thu" />
+      <item value="khoảb" />
+      <item value="kh" />
+      <item value="lỗi" />
+      <item value=" phiếu thu" />
+      <item value="biên lai" />
+      <item value="biên " />
+      <item value="chữ ký" />
+      <item value="chữ " />
+      <item value="xhuwx" />
+      <item value="thanh toán bằng" />
+      <item value="thanh toán" />
+      <item value="thanh tóa" />
+      <item value=" Content is not allowed in prolog.&#10;&#10;" />
+      <item value=" Content is not allowed in prolog.&#10;" />
+      <item value="Unable to make field private final java.lang.String java.io.File.path accessible: module java.base does not &quot;opens java.io&quot; to unnamed module @6ff14115" />
+      <item value="java.io.File.path" />
+      <item value="Message: Content is not allowed in prolog." />
+      <item value="- None of the consumable configurations have attributes." />
+      <item value="bổ xung thông tin&#10;" />
+      <item value="bổ xung thông tin" />
+      <item value="bổ xun" />
+      <item value="bổ xunng " />
+      <item value="thất bại" />
+      <item value="thất bạik" />
+      <item value="thất bai" />
+      <item value="thất baihj" />
+      <item value="thaats b" />
+      <item value="handle Status Fall" />
+      <item value="thanh toán " />
+      <item value="thanh t" />
+      <item value="thanh " />
+      <item value="thu hộ" />
+      <item value="Completes the future with a [FileSystemException] if the operation fails." />
+      <item value="recursive" />
+      <item value="A representation of the runtime type of the object." />
+      <item value="identical" />
+      <item value="[ERROR:flutterruntimedart_vm_initializer.cc(41)] Unhandled Exception: MissingPluginException(No implementation found for method getApplicationDocumentsDirectory on channel plugins.flutter.iopath_provider)" />
+      <item value="Missing &lt;resources&gt; at 26:1" />
+      <item value="objects for the directories, files, and links." />
+      <item value="Operation not permitted" />
+      <item value="Environment" />
+      <item value="Enviroment" />
+      <item value="STAG" />
       <item value="Phụ huynh chưa đăng nhập" />
       <item value="Phụ hu" />
       <item value="Phụ " />
       <item value="phuj" />
       <item value="Chọn thời gian gửi" />
       <item value="Caused by: org.gradle.internal.component.NoMatchingConfigurationSelectionException: No matching configuration of project :imagePicker was found. The consumer was configured to find an API of a component, as well as attribute 'com.android.build.api.attributes.BuildTypeAttr' with value 'debug', attribute 'app' with value 'bg' but:" />
-      <item value="Caused by: org.gradle.internal.service.ServiceCreationException: Could not create service of type ResourceSnapshotterCacheService using GradleUserHomeServices.createResourceSnapshotterCacheService(). at org.gradle.internal.service.DefaultServiceRegistryFactoryMethodService.invokeMethod(DefaultServiceRegistry.java:848) at org.gradle.internal.service.DefaultServiceRegistryFactoryService.create(DefaultServiceRegistry.java:773) at org.gradle.internal.service.DefaultServiceRegistryManagedObjectServiceProvider.getInstance(DefaultServiceRegistry.java:563) at org.gradle.internal.service.DefaultServiceRegistrySingletonService.get(DefaultServiceRegistry.java:621) at org.gradle.internal.service.DefaultServiceRegistryFactoryService.assembleParameters(DefaultServiceRegistry.java:786) at org.gradle.internal.service.DefaultServiceRegistryFactoryService.create(DefaultServiceRegistry.java:772) at org.gradle.internal.service.DefaultServiceRegistryManagedObjectServiceProvider.getInstance(DefaultServiceRegistry.java:563) at org.gradle.internal.service.DefaultServiceRegistrySingletonService.get(DefaultServiceRegistry.java:621) at org.gradle.internal.service.DefaultServiceRegistryFactoryService.assembleParameters(DefaultServiceRegistry.java:786) at org.gradle.internal.service.DefaultServiceRegistryFactoryService.create(DefaultServiceRegistry.java:772) at org.gradle.internal.service.DefaultServiceRegistryManagedObjectServiceProvider.getInstance(DefaultServiceRegistry.java:563) at org.gradle.internal.service.DefaultServiceRegistrySingletonService.get(DefaultServiceRegistry.java:621) at org.gradle.internal.service.DefaultServiceRegistryFactoryService.assembleParameters(DefaultServiceRegistry.java:786) at org.gradle.internal.service.DefaultServiceRegistryFactoryService.create(DefaultServiceRegistry.java:772) at org.gradle.internal.service.DefaultServiceRegistryManagedObjectServiceProvider.getInstance(DefaultServiceRegistry.java:563) at org.gradle.internal.service.DefaultServiceRegistrySingletonService.get(DefaultServiceRegistry.java:621) at org.gradle.internal.service.DefaultServiceRegistryFactoryService.assembleParameters(DefaultServiceRegistry.java:786) at org.gradle.internal.service.DefaultServiceRegistryFactoryService.create(DefaultServiceRegistry.java:772) at org.gradle.internal.service.DefaultServiceRegistryManagedObjectServiceProvider.getInstance(DefaultServiceRegistry.java:563) at org.gradle.internal.service.DefaultServiceRegistrySingletonService.get(DefaultServiceRegistry.java:621) at org.gradle.internal.service.DefaultServiceRegistryFactoryService.assembleParameters(DefaultServiceRegistry.java:786) at org.gradle.internal.service.DefaultServiceRegistryFactoryService.create(DefaultServiceRegistry.java:772) at org.gradle.internal.service.DefaultServiceRegistryManagedObjectServiceProvider.getInstance(DefaultServiceRegistry.java:563) at org.gradle.internal.service.DefaultServiceRegistrySingletonService.get(DefaultServiceRegistry.java:621) at org.gradle.internal.service.DefaultServiceRegistryFactoryService.assembleParameters(DefaultServiceRegistry.java:786) at org.gradle.internal.service.DefaultServiceRegistryFactoryService.create(DefaultServiceRegistry.java:772) at org.gradle.internal.service.DefaultServiceRegistryManagedObjectServiceProvider.getInstance(DefaultServiceRegistry.java:563) at org.gradle.internal.service.DefaultServiceRegistrySingletonService.get(DefaultServiceRegistry.java:621) at org.gradle.internal.service.DefaultServiceRegistryFactoryService.assembleParameters(DefaultServiceRegistry.java:786) at org.gradle.internal.service.DefaultServiceRegistryFactoryService.create(DefaultServiceRegistry.java:772) at org.gradle.internal.service.DefaultServiceRegistryManagedObjectServiceProvider.getInstance(DefaultServiceRegistry.java:563) at org.gradle.internal.service.DefaultServiceRegistrySingletonService.get(DefaultServiceRegistry.java:621) at org.gradle.internal.service.DefaultServiceRegistryFactoryService.assembleParameters(DefaultServiceRegistry.java:786) at org.gradle.internal.service.DefaultServiceRegistryFactoryService.create(DefaultServiceRegistry.java:772) at org.gradle.internal.service.DefaultServiceRegistryManagedObjectServiceProvider.getInstance(DefaultServiceRegistry.java:563) at org.gradle.internal.service.DefaultServiceRegistrySingletonService.get(DefaultServiceRegistry.java:621) at org.gradle.internal.service.DefaultServiceRegistry.find(DefaultServiceRegistry.java:305) at org.gradle.internal.service.DefaultServiceRegistry.get(DefaultServiceRegistry.java:289) at org.gradle.internal.service.DefaultServiceRegistry.get(DefaultServiceRegistry.java:284) at org.gradle.launcher.exec.BuildTreeScopeLifecycleBuildActionExecuter.lambdaexecute0(BuildTreeScopeLifecycleBuildActionExecuter.java:33) at org.gradle.internal.buildtree.BuildTreeState.run(BuildTreeState.java:49) at org.gradle.launcher.exec.BuildTreeScopeLifecycleBuildActionExecuter.execute(BuildTreeScopeLifecycleBuildActionExecuter.java:32) at org.gradle.launcher.exec.BuildTreeScopeLifecycleBuildActionExecuter.execute(BuildTreeScopeLifecycleBuildActionExecuter.java:27) at org.gradle.tooling.internal.provider.ContinuousBuildActionExecuter.execute(ContinuousBuildActionExecuter.java:104) at org.gradle.tooling.internal.provider.ContinuousBuildActionExecuter.execute(ContinuousBuildActionExecuter.java:55) at org.gradle.tooling.internal.provider.SubscribableBuildActionExecuter.execute(SubscribableBuildActionExecuter.java:64) at org.gradle.tooling.internal.provider.SubscribableBuildActionExecuter.execute(SubscribableBuildActionExecuter.java:37) at org.gradle.tooling.internal.provider.SessionScopeLifecycleBuildActionExecuter.lambdaexecute0(SessionScopeLifecycleBuildActionExecuter.java:54) at org.gradle.internal.session.BuildSessionState.run(BuildSessionState.java:67) at org.gradle.tooling.internal.provider.SessionScopeLifecycleBuildActionExecuter.execute(SessionScopeLifecycleBuildActionExecuter.java:50) at org.gradle.tooling.internal.provider.SessionScopeLifecycleBuildActionExecuter.execute(SessionScopeLifecycleBuildActionExecuter.java:36) at org.gradle.tooling.internal.provider.GradleThreadBuildActionExecuter.execute(GradleThreadBuildActionExecuter.java:36) at org.gradle.tooling.internal.provider.GradleThreadBuildActionExecuter.execute(GradleThreadBuildActionExecuter.java:25) at org.gradle.tooling.internal.provider.StartParamsValidatingActionExecuter.execute(StartParamsValidatingActionExecuter.java:59) at org.gradle.tooling.internal.provider.StartParamsValidatingActionExecuter.execute(StartParamsValidatingActionExecuter.java:31) at org.gradle.tooling.internal.provider.SessionFailureReportingActionExecuter.execute(SessionFailureReportingActionExecuter.java:55)" />
-      <item value="published Group Id" />
-      <item value="USE GLOBAL" />
-      <item value="Global&#10;" />
-      <item value="Globalk" />
-      <item value="Glo" />
-      <item value="quoocs" />
-      <item value="q" />
-      <item value="KO MANAGER ENCRYPTION KEY" />
-      <item value="INSTALL FAILED CONFLICTING PROVIDER" />
-      <item value="INSTALL_FAILED_CONFLICTING_PROVIDER" />
-      <item value="flavor Dimensions" />
-      <item value="dimension" />
-      <item value="@Override protected void onMeasure(int widthMeasureSpec, int heightMeasureSpec) { LogUtils.d(&quot;onMeasure() called with: widthMeasureSpec = [&quot; + widthMeasureSpec + &quot;], heightMeasureSpec = [&quot; + heightMeasureSpec + &quot;]&quot;); if (targetAspectRatio &gt; 0) { int initialWidth = MeasureSpec.getSize(widthMeasureSpec); int initialHeight = MeasureSpec.getSize(heightMeasureSpec); padding int horizontalPadding = getPaddingLeft() + getPaddingRight(); int verticalPadding = getPaddingTop() + getPaddingBottom(); initialWidth -= horizontalPadding; initialHeight -= verticalPadding; double viewAspectRatio = (double) initialWidth initialHeight; double aspectDifference = targetAspectRatio viewAspectRatio - 1; if (Math.abs(aspectDifference) &lt; 0.01) { no changes } else { if (aspectDifference &gt; 0) { initialHeight = (int) (initialWidth targetAspectRatio); } else { initialWidth = (int) (initialHeight targetAspectRatio); } initialWidth += horizontalPadding; initialHeight += verticalPadding; widthMeasureSpec = MeasureSpec.makeMeasureSpec(initialWidth, MeasureSpec.EXACTLY); heightMeasureSpec = MeasureSpec.makeMeasureSpec(initialHeight, MeasureSpec.EXACTLY); } } super.onMeasure(widthMeasureSpec, heightMeasureSpec); }" />
-      <item value="ddax" />
-      <item value="evaluate Javascript" />
-      <item value="Portrait" />
-      <item value="sPortrait" />
-      <item value="Landscape" />
-      <item value="Manifest merger failed : uses-sdk:minSdkVersion 16 cannot be smaller than version 17 declared in library [:flutter_inappwebview] VolumesDataProjectFlutterYOutubebuildflutter_inappwebviewintermediatesmerged_manifestdebugAndroidManifest.xml as the library might be using APIs not available in 16" />
-      <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.example.youtubeplayercom.example.youtubeplayer.YoutubeActivity}: java.lang.SecurityException: Not allowed to bind to service Intent { act=com.google.android.youtube.api.service.START pkg=com.google.android.youtube }" />
-      <item value="ngoại khóa" />
-      <item value="ngoaij khoas" />
-      <item value="INSTALL FAILED OLDER SDK" />
-      <item value="INSTALL FAILED_OLDER_SDK&#10;" />
-      <item value="INSTALL FAILE_OLDER_SDK&#10;" />
-      <item value="INSTALL_FAILED_OLDER_SDK&#10;" />
-      <item value="INSTALL_FAILED_OLDER_SDK" />
-      <item value="1、在第一次load Url之前注入JS（在add Javascript Interface里面注入即可，set Web View Client和set Web Chrome Client要在add Javascript Interface之前执行）；" />
-      <item value="经过大量的测试，按照以下方式才能保证JS脚本100%注入成功：" />
-      <item value="WC2BqBuffer: last successful dequeue was 3942575 us ago, 0 consecutive failures" />
-      <item value="WAudioManager: See the documentation of requestAudioFocus() for what to use instead with android.media.AudioAttributes to qualify your playback use case" />
-      <item value="A WebView method was called on thread 'JavaBridge'" />
-      <item value="ll WebView methods must be called on the same thread" />
-      <item value="Tells the WebView to enable JavaScript execution. The default is false. Params: flag – true if the WebView should execute JavaScript" />
-      <item value="Uncaught SyntaxError: Invalid or unexpected token" />
-      <item value="Type parameters: &lt;R&gt; – The type of the resource that will be transitioned into a view." />
-      <item value="EConnectivityService: Exception in networkAddRouteParcel for gateway: android.os.ServiceSpecificException: Machine is not on the network (code 64)" />
-      <item value="Ebepv: Trace gmscompliance-GmsDeviceComplianceChimeraService-IGmsDeviceComplianceService_0 timed out after 3645408 ms. Complete trace: beqg@1cde46d" />
-      <item value="EGenericSource: initFromDataSource, cannot create extractor!" />
-      <item value="com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1)" />
-      <item value="Dresolv: getanswer: asked for &quot;awsfiles.kidsonline.edu.vn&quot;, got &quot;static.vegadns.vn&quot;" />
-      <item value="class com.bumptech.glide.load.engine.GlideException: Failed to load resource There was 1 root cause: com.bumptech.glide.load.HttpException(Failed to connect or obtain data, status code: -1) call GlideExceptionlogRootCauses(String) for more detail Cause (1 of 1): class com.bumptech.glide.load.engine.GlideException: Fetching data failed, class java.io.InputStream, REMOTE" />
-      <item value="Caused by: java.lang.IllegalStateException: You can't start or clear loads in RequestListener or Target callbacks. If you're trying to start a fallback request when a load fails, use RequestBuildererror(RequestBuilder). Otherwise consider posting your into() or clear() calls to the main thread using a Handler instead." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="748" />
+        <entry key="ENGLISH" value="808" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="109" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="749" />
+        <entry key="VIETNAMESE" value="811" />
       </map>
     </option>
   </component>

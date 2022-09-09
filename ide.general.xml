@@ -10,4 +10,11 @@
     <entry key="ide.text.editor.with.preview.show.floating.toolbar" value="false" />
     <entry key="debugger.watches.in.variables" value="false" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="com.codota.intellij.common.notifier.CodotaStatusWidget" value="false" />
+      </map>
+    </option>
+  </component>
 </application>
