@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="191" />
     <option name="newTranslationDialogY" value="581" />
     <histories>
+      <item value="Error: Installation of bazel from a GitHub commit URL is unsupported! `brew extract bazel` to a stable tap on GitHub instead.&#10;" />
+      <item value="It seems the App source '/Applications/Jumpcut.app' is not there." />
+      <item value="seems" />
+      <item value="extract&#10;" />
+      <item value="extract" />
       <item value="Load all native libraries needed by the app." />
       <item value="khoản thu" />
       <item value="khoảb" />
@@ -50,11 +55,6 @@
       <item value="Environment" />
       <item value="Enviroment" />
       <item value="STAG" />
-      <item value="Phụ huynh chưa đăng nhập" />
-      <item value="Phụ hu" />
-      <item value="Phụ " />
-      <item value="phuj" />
-      <item value="Chọn thời gian gửi" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,7 +67,7 @@
         <entry key="LAO" value="109" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="811" />
+        <entry key="VIETNAMESE" value="815" />
       </map>
     </option>
   </component>
