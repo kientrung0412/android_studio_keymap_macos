@@ -5,9 +5,10 @@
         <option value="tag:http " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package: codepro.kidsonline.debug " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine tag:Trungnk" />
         <option value="package: codepro.kidsonline.debug " />
         <option value="package: codepro.kidsonline.debug" />
         <option value="level:error " />
@@ -26,8 +27,6 @@
         <option value="level:error tag:http" />
         <option value="level: error " />
         <option value="message:http" />
-        <option value="package:com.example.democontentprovider tag:Trungnk " />
-        <option value="package:com.example.democontentprovider " />
       </list>
     </option>
   </component>
