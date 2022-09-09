@@ -5,16 +5,16 @@
         <option value="tag:http " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:MainActivity" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="package:mine tag:MainActivity" />
         <option value="package: codepro.kidsonline.debug" />
         <option value="package: codepro.kidsonline.debug tag:Trungnk" />
         <option value="package:mine " />
         <option value="package:mine tag:Trungnk" />
         <option value="package: codepro.kidsonline.debug " />
-        <option value="level:error " />
         <option value="tag:http" />
         <option value="tag:" />
         <option value=" tag:http | package:codepro.kidsonline.debug " />
