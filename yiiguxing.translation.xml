@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="191" />
     <option name="newTranslationDialogY" value="581" />
     <histories>
+      <item value="Provides the Observer with a new item to observe. The Observable may call this method 0 or more times. The Observable will not call this method again after it calls either onComplete or onError. Params: t – the item emitted by the Observable" />
+      <item value="subscribe On" />
+      <item value="observe On" />
       <item value="Run the pipeline and the model inference on GPU or CPU." />
       <item value="set Render Input Image" />
       <item value="nắm tay" />
@@ -52,14 +55,11 @@
       <item value="thanh toán " />
       <item value="thanh t" />
       <item value="thanh " />
-      <item value="thu hộ" />
-      <item value="Completes the future with a [FileSystemException] if the operation fails." />
-      <item value="recursive" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="827" />
+        <entry key="ENGLISH" value="830" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
