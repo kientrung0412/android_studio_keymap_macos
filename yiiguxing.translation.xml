@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="191" />
     <option name="newTranslationDialogY" value="581" />
     <histories>
+      <item value="Operation not permitted" />
       <item value="face Front Camera Orientation" />
       <item value="front Camera Characteristics" />
       <item value="get Presence" />
@@ -54,7 +55,6 @@
       <item value="bổ xun" />
       <item value="bổ xunng " />
       <item value="thất bại" />
-      <item value="thất bạik" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,7 +67,7 @@
         <entry key="LAO" value="109" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="828" />
+        <entry key="VIETNAMESE" value="829" />
       </map>
     </option>
   </component>
