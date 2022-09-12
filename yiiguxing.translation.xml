@@ -5,13 +5,24 @@
     <option name="newTranslationDialogX" value="191" />
     <option name="newTranslationDialogY" value="581" />
     <histories>
+      <item value="Đã sao chép số tài khoản" />
+      <item value="Đã sao chép số " />
+      <item value="sao chép số điệ" />
+      <item value="sao chép số điện thoại t" />
+      <item value="sao chép số điện thoại thà" />
+      <item value="sao chép số điện thoại" />
+      <item value="sao chép số điên" />
+      <item value="sao chép " />
+      <item value="sao chepo" />
+      <item value="sao c" />
+      <item value="sao cheps " />
+      <item value="sa" />
       <item value="prepare Camera Outputs" />
       <item value="Operation not permitted" />
       <item value="face Front Camera Orientation" />
       <item value="front Camera Characteristics" />
       <item value="get Presence" />
       <item value="sai số" />
-      <item value="sa" />
       <item value="sai soos" />
       <item value="Dumping all threads without mutator lock held" />
       <item value="decode B" />
@@ -44,22 +55,11 @@
       <item value="xhuwx" />
       <item value="thanh toán bằng" />
       <item value="thanh toán" />
-      <item value="thanh tóa" />
-      <item value=" Content is not allowed in prolog.&#10;&#10;" />
-      <item value=" Content is not allowed in prolog.&#10;" />
-      <item value="Unable to make field private final java.lang.String java.io.File.path accessible: module java.base does not &quot;opens java.io&quot; to unnamed module @6ff14115" />
-      <item value="java.io.File.path" />
-      <item value="Message: Content is not allowed in prolog." />
-      <item value="- None of the consumable configurations have attributes." />
-      <item value="bổ xung thông tin&#10;" />
-      <item value="bổ xung thông tin" />
-      <item value="bổ xun" />
-      <item value="bổ xunng " />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="830" />
+        <entry key="ENGLISH" value="837" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="109" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="830" />
+        <entry key="VIETNAMESE" value="837" />
       </map>
     </option>
   </component>
