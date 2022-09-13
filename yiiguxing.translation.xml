@@ -5,18 +5,46 @@
     <option name="newTranslationDialogX" value="191" />
     <option name="newTranslationDialogY" value="581" />
     <histories>
-      <item value="Provides the Observer with a new item to observe. The Observable may call this method 0 or more times. The Observable will not call this method again after it calls either onComplete or onError. Params: t – the item emitted by the Observable" />
-      <item value="subscribe On" />
-      <item value="observe On" />
-      <item value="Run the pipeline and the model inference on GPU or CPU." />
-      <item value="set Render Input Image" />
-      <item value="nắm tay" />
-      <item value="nắm " />
-      <item value="Subtraction" />
-      <item value="phép trừ" />
-      <item value="phé" />
-      <item value="trừ" />
-      <item value="truwf" />
+      <item value="nguồn" />
+      <item value="ngu" />
+      <item value="nguoonf" />
+      <item value="Sourest" />
+      <item value="bàn tay" />
+      <item value="bàn " />
+      <item value="get Parser For Type" />
+      <item value="has Presence" />
+      <item value="Đã sao chép số tài khoản" />
+      <item value="Đã sao chép số " />
+      <item value="sao chép số điệ" />
+      <item value="sao chép số điện thoại t" />
+      <item value="sao chép số điện thoại thà" />
+      <item value="sao chép số điện thoại" />
+      <item value="sao chép số điên" />
+      <item value="sao chép " />
+      <item value="sao chepo" />
+      <item value="sao c" />
+      <item value="sao cheps " />
+      <item value="sa" />
+      <item value="prepare Camera Outputs" />
+      <item value="Operation not permitted" />
+      <item value="face Front Camera Orientation" />
+      <item value="front Camera Characteristics" />
+      <item value="get Presence" />
+      <item value="sai số" />
+      <item value="sai soos" />
+      <item value="Dumping all threads without mutator lock held" />
+      <item value="decode B" />
+      <item value="the contents of the preview frame in the format defined by ImageFormat, which can be queried with Camera.Parameters.getPreviewFormat()" />
+      <item value="If using the ImageFormat.YV12 format, refer to the equations in Camera.Parameters.setPreviewFormat for the arrangement of the pixel data in the preview callback buffers." />
+      <item value="Called as preview frames are displayed. This callback is invoked on the event thread open(int) was called from." />
+      <item value="interval" />
+      <item value="Installs a callback to be invoked for every preview frame in addition to displaying them on the screen. The callback will be repeatedly called for as long as preview is active. This method can be called at any time, even while preview is live. Any other preview callbacks are overridden. If you are using the preview data to create video or still images, strongly consider using android.media.MediaActionSound to properly indicate image capture or recording startstop to the user. Params: cb – a callback object that receives a copy of each preview frame, or null to stop receiving callbacks. Throws: RuntimeException – if release() has been called on this Camera instance." />
+      <item value="Already taking a picture" />
+      <item value="Cannot take picture without preview enabled" />
+      <item value="shutter" />
+      <item value="safe To Take Picture" />
+      <item value="distinct" />
+      <item value="For video input source, videoInput.start() will be called when the video uri is available." />
       <item value="Error: Installation of bazel from a GitHub commit URL is unsupported! `brew extract bazel` to a stable tap on GitHub instead.&#10;" />
       <item value="It seems the App source '/Applications/Jumpcut.app' is not there." />
       <item value="seems" />
@@ -27,39 +55,11 @@
       <item value="khoảb" />
       <item value="kh" />
       <item value="lỗi" />
-      <item value=" phiếu thu" />
-      <item value="biên lai" />
-      <item value="biên " />
-      <item value="chữ ký" />
-      <item value="chữ " />
-      <item value="xhuwx" />
-      <item value="thanh toán bằng" />
-      <item value="thanh toán" />
-      <item value="thanh tóa" />
-      <item value=" Content is not allowed in prolog.&#10;&#10;" />
-      <item value=" Content is not allowed in prolog.&#10;" />
-      <item value="Unable to make field private final java.lang.String java.io.File.path accessible: module java.base does not &quot;opens java.io&quot; to unnamed module @6ff14115" />
-      <item value="java.io.File.path" />
-      <item value="Message: Content is not allowed in prolog." />
-      <item value="- None of the consumable configurations have attributes." />
-      <item value="bổ xung thông tin&#10;" />
-      <item value="bổ xung thông tin" />
-      <item value="bổ xun" />
-      <item value="bổ xunng " />
-      <item value="thất bại" />
-      <item value="thất bạik" />
-      <item value="thất bai" />
-      <item value="thất baihj" />
-      <item value="thaats b" />
-      <item value="handle Status Fall" />
-      <item value="thanh toán " />
-      <item value="thanh t" />
-      <item value="thanh " />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="830" />
+        <entry key="ENGLISH" value="842" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="109" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="831" />
+        <entry key="VIETNAMESE" value="843" />
       </map>
     </option>
   </component>

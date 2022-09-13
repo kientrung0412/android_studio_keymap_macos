@@ -386,6 +386,17 @@
         <target value="Android 5.1" />
         <api value="22" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.4.125:5555" />
+          </Key>
+        </key>
+        <name value="rockchip S8810P" />
+        <target value="Android 8.1" />
+        <api value="27" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
