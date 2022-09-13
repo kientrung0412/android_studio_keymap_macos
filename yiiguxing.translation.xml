@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="191" />
     <option name="newTranslationDialogY" value="581" />
     <histories>
+      <item value="nguồn" />
+      <item value="ngu" />
+      <item value="nguoonf" />
+      <item value="Sourest" />
+      <item value="bàn tay" />
+      <item value="bàn " />
       <item value="get Parser For Type" />
       <item value="has Presence" />
       <item value="Đã sao chép số tài khoản" />
@@ -49,17 +55,11 @@
       <item value="khoảb" />
       <item value="kh" />
       <item value="lỗi" />
-      <item value=" phiếu thu" />
-      <item value="biên lai" />
-      <item value="biên " />
-      <item value="chữ ký" />
-      <item value="chữ " />
-      <item value="xhuwx" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="839" />
+        <entry key="ENGLISH" value="842" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="109" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="839" />
+        <entry key="VIETNAMESE" value="843" />
       </map>
     </option>
   </component>
