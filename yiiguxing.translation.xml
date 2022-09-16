@@ -5,8 +5,8 @@
     <option name="newTranslationDialogX" value="191" />
     <option name="newTranslationDialogY" value="581" />
     <histories>
-      <item value="horizontal" />
       <item value="Either the assertion indicates an error in the framework itself, or we should provide substantially more information in this error message to help you determine and fix the underlying cause." />
+      <item value="horizontal" />
       <item value="FormatException: Unexpected character (at line 415, character 3)" />
       <item value="nguồn" />
       <item value="ngu" />
@@ -59,7 +59,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="845" />
+        <entry key="ENGLISH" value="846" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="109" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="845" />
+        <entry key="VIETNAMESE" value="846" />
       </map>
     </option>
   </component>
