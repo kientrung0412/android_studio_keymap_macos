@@ -118,9 +118,9 @@
             <value value="adb-bb434dde-8uR0UP._adb-tls-connect._tcp." />
           </Key>
         </key>
-        <name value="OnePlus LE2101" />
-        <target value="Android 12.0" />
-        <api value="31" />
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
