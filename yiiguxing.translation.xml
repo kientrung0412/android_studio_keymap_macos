@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="191" />
     <option name="newTranslationDialogY" value="581" />
     <histories>
+      <item value="Topic assessment" />
+      <item value="Debts of previous collection" />
+      <item value="Surcharge" />
+      <item value="Phụ thu" />
       <item value="The App needs the following permissions to work properly:\n%s.\nAgree to grant the App permissions?" />
       <item value="Ứng dụng cần các quyền sau để hoạt động bình thường:\n%s.\nĐồng ý cấp quyền cho Ứng dụng?" />
       <item value="Either the assertion indicates an error in the framework itself, or we should provide substantially more information in this error message to help you determine and fix the underlying cause." />
@@ -51,23 +55,19 @@
       <item value="For video input source, videoInput.start() will be called when the video uri is available." />
       <item value="Error: Installation of bazel from a GitHub commit URL is unsupported! `brew extract bazel` to a stable tap on GitHub instead.&#10;" />
       <item value="It seems the App source '/Applications/Jumpcut.app' is not there." />
-      <item value="seems" />
-      <item value="extract&#10;" />
-      <item value="extract" />
-      <item value="Load all native libraries needed by the app." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="844" />
+        <entry key="ENGLISH" value="846" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="110" />
+        <entry key="LAO" value="113" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="845" />
+        <entry key="VIETNAMESE" value="848" />
       </map>
     </option>
   </component>
