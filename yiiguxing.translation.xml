@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="191" />
     <option name="newTranslationDialogY" value="581" />
     <histories>
+      <item value=" Transaction failed on small parcel; remote process probably died, but this could also be caused by running out of binder buffe&#10;W/GmsClient(10100):     at android.os.BinderProxy.transactNative(Native Method)&#10;W/GmsClient(10100):     at android.os.BinderProxy.transact(BinderProxy.java:584)&#10;W/GmsClient(10100):     at rF.b(chromium-TrichromeWebViewGoogle6432.apk-stable-495157434:288)&#10;" />
       <item value="tên món ăn" />
       <item value="tê" />
       <item value="Error (Xcode): Signing for &quot;DKPhotoGallery-DKPhotoGallery&quot; requires a development team. Select a development team in the Signing &amp; Capabilities editor.&#10;" />
@@ -54,7 +55,6 @@
       <item value="Cannot take picture without preview enabled" />
       <item value="shutter" />
       <item value="safe To Take Picture" />
-      <item value="distinct" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,7 +67,7 @@
         <entry key="LAO" value="113" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="851" />
+        <entry key="VIETNAMESE" value="852" />
       </map>
     </option>
   </component>
