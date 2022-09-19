@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="191" />
     <option name="newTranslationDialogY" value="581" />
     <histories>
+      <item value="tên món ăn" />
+      <item value="tê" />
       <item value="Error (Xcode): Signing for &quot;DKPhotoGallery-DKPhotoGallery&quot; requires a development team. Select a development team in the Signing &amp; Capabilities editor.&#10;" />
       <item value="Topic assessment" />
       <item value="Debts of previous collection" />
@@ -53,13 +55,11 @@
       <item value="shutter" />
       <item value="safe To Take Picture" />
       <item value="distinct" />
-      <item value="For video input source, videoInput.start() will be called when the video uri is available." />
-      <item value="Error: Installation of bazel from a GitHub commit URL is unsupported! `brew extract bazel` to a stable tap on GitHub instead.&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="846" />
+        <entry key="ENGLISH" value="848" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="113" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="849" />
+        <entry key="VIETNAMESE" value="851" />
       </map>
     </option>
   </component>
