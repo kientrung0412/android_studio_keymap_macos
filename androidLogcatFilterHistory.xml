@@ -5,9 +5,10 @@
         <option value="tag:http " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:com.kidsonline.attendance.debug  tag:http" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.kidsonline.attendance.debug  tag:http" />
         <option value="package:mine level:error " />
         <option value="ttp" />
         <option value="Action stopped by some action with message" />
@@ -27,7 +28,6 @@
         <option value="tag:http" />
         <option value="tag:" />
         <option value=" tag:http | package:codepro.kidsonline.debug " />
-        <option value=" level:error | tag:http | package:codepro.kidsonline.debug " />
       </list>
     </option>
   </component>
