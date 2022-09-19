@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="191" />
     <option name="newTranslationDialogY" value="581" />
     <histories>
+      <item value="type 'String' is not a subtype of type 'int' of 'index'" />
+      <item value="Unhandled Exception: type 'String' is not a subtype of type 'int' of 'index'" />
       <item value="LateInitializationError: Field '_key@329036077' has not been initialized." />
       <item value=" Transaction failed on small parcel; remote process probably died, but this could also be caused by running out of binder buffe&#10;W/GmsClient(10100):     at android.os.BinderProxy.transactNative(Native Method)&#10;W/GmsClient(10100):     at android.os.BinderProxy.transact(BinderProxy.java:584)&#10;W/GmsClient(10100):     at rF.b(chromium-TrichromeWebViewGoogle6432.apk-stable-495157434:288)&#10;" />
       <item value="tên món ăn" />
@@ -53,13 +55,11 @@
       <item value="interval" />
       <item value="Installs a callback to be invoked for every preview frame in addition to displaying them on the screen. The callback will be repeatedly called for as long as preview is active. This method can be called at any time, even while preview is live. Any other preview callbacks are overridden. If you are using the preview data to create video or still images, strongly consider using android.media.MediaActionSound to properly indicate image capture or recording startstop to the user. Params: cb – a callback object that receives a copy of each preview frame, or null to stop receiving callbacks. Throws: RuntimeException – if release() has been called on this Camera instance." />
       <item value="Already taking a picture" />
-      <item value="Cannot take picture without preview enabled" />
-      <item value="shutter" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="849" />
+        <entry key="ENGLISH" value="851" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
