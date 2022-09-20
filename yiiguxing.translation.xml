@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="191" />
     <option name="newTranslationDialogY" value="581" />
     <histories>
+      <item value="nhấn phím" />
+      <item value="nhaans" />
       <item value="dropdown Elevation" />
       <item value="type 'String' is not a subtype of type 'int' of 'index'" />
       <item value="Unhandled Exception: type 'String' is not a subtype of type 'int' of 'index'" />
@@ -53,13 +55,11 @@
       <item value="the contents of the preview frame in the format defined by ImageFormat, which can be queried with Camera.Parameters.getPreviewFormat()" />
       <item value="If using the ImageFormat.YV12 format, refer to the equations in Camera.Parameters.setPreviewFormat for the arrangement of the pixel data in the preview callback buffers." />
       <item value="Called as preview frames are displayed. This callback is invoked on the event thread open(int) was called from." />
-      <item value="interval" />
-      <item value="Installs a callback to be invoked for every preview frame in addition to displaying them on the screen. The callback will be repeatedly called for as long as preview is active. This method can be called at any time, even while preview is live. Any other preview callbacks are overridden. If you are using the preview data to create video or still images, strongly consider using android.media.MediaActionSound to properly indicate image capture or recording startstop to the user. Params: cb – a callback object that receives a copy of each preview frame, or null to stop receiving callbacks. Throws: RuntimeException – if release() has been called on this Camera instance." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="852" />
+        <entry key="ENGLISH" value="853" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="LAO" value="113" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="852" />
+        <entry key="VIETNAMESE" value="853" />
       </map>
     </option>
   </component>
