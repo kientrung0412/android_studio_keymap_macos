@@ -10,6 +10,10 @@
   <action id="Editor TranslateAndReplaceAction">
     <keyboard-shortcut first-keystroke="ctrl meta x" />
   </action>
+  <action id="EditorScrollToCenter" />
+  <action id="EditorSelectSingleLineAtCaret">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
