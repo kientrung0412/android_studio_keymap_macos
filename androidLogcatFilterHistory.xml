@@ -5,12 +5,12 @@
         <option value="tag:http " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="http" />
+    <option name="mostRecentlyUsed" value="tag:http" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:http" />
         <option value="http" />
         <option value="\" />
-        <option value="tag:http" />
         <option value="package:com.kidsonline.attendance.debug  tag:Ωz" />
         <option value="package:com.kidsonline.attendance.debug  tag:http" />
         <option value="package:mine level:error " />
