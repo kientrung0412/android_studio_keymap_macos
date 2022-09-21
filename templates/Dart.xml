@@ -16,5 +16,6 @@
   </template>
   <template name="soutm" value="print('$CLASS_NAME_METHOD_NAME$ $END$');" description="prints the current class and method name to standard out" toReformat="true" toShortenFQNames="true">
     <variable name="CLASS_NAME_METHOD_NAME" expression="" defaultValue="dartClassNameMethodName" alwaysStopAt="false" />
+    <context />
   </template>
 </templateSet>
