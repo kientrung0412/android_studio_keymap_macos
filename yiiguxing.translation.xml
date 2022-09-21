@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="581" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="instantiated" />
       <item value="look good to me" />
       <item value="look goo" />
       <item value="loo" />
@@ -55,7 +56,6 @@
       <item value="front Camera Characteristics" />
       <item value="get Presence" />
       <item value="sai số" />
-      <item value="sai soos" />
     </histories>
     <option name="languageScores">
       <map>
@@ -68,7 +68,7 @@
         <entry key="LAO" value="113" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="856" />
+        <entry key="VIETNAMESE" value="857" />
       </map>
     </option>
   </component>
