@@ -4,75 +4,76 @@
     <option name="newTranslationDialogWidth" value="1321" />
     <option name="newTranslationDialogX" value="191" />
     <option name="newTranslationDialogY" value="581" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value=" Content is not allowed in prolog.&#10;&#10;" />
-      <item value=" Content is not allowed in prolog.&#10;" />
-      <item value="Unable to make field private final java.lang.String java.io.File.path accessible: module java.base does not &quot;opens java.io&quot; to unnamed module @6ff14115" />
-      <item value="java.io.File.path" />
-      <item value="Message: Content is not allowed in prolog." />
-      <item value="- None of the consumable configurations have attributes." />
-      <item value="bổ xung thông tin&#10;" />
-      <item value="bổ xung thông tin" />
-      <item value="bổ xun" />
-      <item value="bổ xunng " />
-      <item value="thất bại" />
-      <item value="thất bạik" />
-      <item value="thất bai" />
-      <item value="thất baihj" />
-      <item value="thaats b" />
-      <item value="handle Status Fall" />
-      <item value="thanh toán bằng" />
-      <item value="thanh toán " />
-      <item value="thanh toán" />
-      <item value="thanh t" />
-      <item value="thanh " />
-      <item value="thu hộ" />
-      <item value="Completes the future with a [FileSystemException] if the operation fails." />
-      <item value="recursive" />
-      <item value="A representation of the runtime type of the object." />
-      <item value="identical" />
-      <item value="[ERROR:flutterruntimedart_vm_initializer.cc(41)] Unhandled Exception: MissingPluginException(No implementation found for method getApplicationDocumentsDirectory on channel plugins.flutter.iopath_provider)" />
-      <item value="Missing &lt;resources&gt; at 26:1" />
-      <item value="objects for the directories, files, and links." />
+      <item value="instantiated" />
+      <item value="look good to me" />
+      <item value="look goo" />
+      <item value="loo" />
+      <item value="registered" />
+      <item value="Registered" />
+      <item value="nhấn phím" />
+      <item value="nhaans" />
+      <item value="dropdown Elevation" />
+      <item value="type 'String' is not a subtype of type 'int' of 'index'" />
+      <item value="Unhandled Exception: type 'String' is not a subtype of type 'int' of 'index'" />
+      <item value="LateInitializationError: Field '_key@329036077' has not been initialized." />
+      <item value=" Transaction failed on small parcel; remote process probably died, but this could also be caused by running out of binder buffe&#10;W/GmsClient(10100):     at android.os.BinderProxy.transactNative(Native Method)&#10;W/GmsClient(10100):     at android.os.BinderProxy.transact(BinderProxy.java:584)&#10;W/GmsClient(10100):     at rF.b(chromium-TrichromeWebViewGoogle6432.apk-stable-495157434:288)&#10;" />
+      <item value="tên món ăn" />
+      <item value="tê" />
+      <item value="Error (Xcode): Signing for &quot;DKPhotoGallery-DKPhotoGallery&quot; requires a development team. Select a development team in the Signing &amp; Capabilities editor.&#10;" />
+      <item value="Topic assessment" />
+      <item value="Debts of previous collection" />
+      <item value="Surcharge" />
+      <item value="Phụ thu" />
+      <item value="The App needs the following permissions to work properly:\n%s.\nAgree to grant the App permissions?" />
+      <item value="Ứng dụng cần các quyền sau để hoạt động bình thường:\n%s.\nĐồng ý cấp quyền cho Ứng dụng?" />
+      <item value="Either the assertion indicates an error in the framework itself, or we should provide substantially more information in this error message to help you determine and fix the underlying cause." />
+      <item value="FormatException: Unexpected character (at line 415, character 3)" />
+      <item value="nguồn" />
+      <item value="ngu" />
+      <item value="nguoonf" />
+      <item value="Sourest" />
+      <item value="bàn tay" />
+      <item value="bàn " />
+      <item value="get Parser For Type" />
+      <item value="has Presence" />
+      <item value="Đã sao chép số tài khoản" />
+      <item value="Đã sao chép số " />
+      <item value="sao chép số điệ" />
+      <item value="sao chép số điện thoại t" />
+      <item value="sao chép số điện thoại thà" />
+      <item value="sao chép số điện thoại" />
+      <item value="sao chép số điên" />
+      <item value="sao chép " />
+      <item value="sao chepo" />
+      <item value="sao c" />
+      <item value="sao cheps " />
+      <item value="sa" />
+      <item value="prepare Camera Outputs" />
       <item value="Operation not permitted" />
-      <item value="Environment" />
-      <item value="Enviroment" />
-      <item value="STAG" />
-      <item value="Phụ huynh chưa đăng nhập" />
-      <item value="Phụ hu" />
-      <item value="Phụ " />
-      <item value="phuj" />
-      <item value="Chọn thời gian gửi" />
-      <item value="Caused by: org.gradle.internal.component.NoMatchingConfigurationSelectionException: No matching configuration of project :imagePicker was found. The consumer was configured to find an API of a component, as well as attribute 'com.android.build.api.attributes.BuildTypeAttr' with value 'debug', attribute 'app' with value 'bg' but:" />
-      <item value="Caused by: org.gradle.internal.service.ServiceCreationException: Could not create service of type ResourceSnapshotterCacheService using GradleUserHomeServices.createResourceSnapshotterCacheService(). at org.gradle.internal.service.DefaultServiceRegistryFactoryMethodService.invokeMethod(DefaultServiceRegistry.java:848) at org.gradle.internal.service.DefaultServiceRegistryFactoryService.create(DefaultServiceRegistry.java:773) at org.gradle.internal.service.DefaultServiceRegistryManagedObjectServiceProvider.getInstance(DefaultServiceRegistry.java:563) at org.gradle.internal.service.DefaultServiceRegistrySingletonService.get(DefaultServiceRegistry.java:621) at org.gradle.internal.service.DefaultServiceRegistryFactoryService.assembleParameters(DefaultServiceRegistry.java:786) at org.gradle.internal.service.DefaultServiceRegistryFactoryService.create(DefaultServiceRegistry.java:772) at org.gradle.internal.service.DefaultServiceRegistryManagedObjectServiceProvider.getInstance(DefaultServiceRegistry.java:563) at org.gradle.internal.service.DefaultServiceRegistrySingletonService.get(DefaultServiceRegistry.java:621) at org.gradle.internal.service.DefaultServiceRegistryFactoryService.assembleParameters(DefaultServiceRegistry.java:786) at org.gradle.internal.service.DefaultServiceRegistryFactoryService.create(DefaultServiceRegistry.java:772) at org.gradle.internal.service.DefaultServiceRegistryManagedObjectServiceProvider.getInstance(DefaultServiceRegistry.java:563) at org.gradle.internal.service.DefaultServiceRegistrySingletonService.get(DefaultServiceRegistry.java:621) at org.gradle.internal.service.DefaultServiceRegistryFactoryService.assembleParameters(DefaultServiceRegistry.java:786) at org.gradle.internal.service.DefaultServiceRegistryFactoryService.create(DefaultServiceRegistry.java:772) at org.gradle.internal.service.DefaultServiceRegistryManagedObjectServiceProvider.getInstance(DefaultServiceRegistry.java:563) at org.gradle.internal.service.DefaultServiceRegistrySingletonService.get(DefaultServiceRegistry.java:621) at org.gradle.internal.service.DefaultServiceRegistryFactoryService.assembleParameters(DefaultServiceRegistry.java:786) at org.gradle.internal.service.DefaultServiceRegistryFactoryService.create(DefaultServiceRegistry.java:772) at org.gradle.internal.service.DefaultServiceRegistryManagedObjectServiceProvider.getInstance(DefaultServiceRegistry.java:563) at org.gradle.internal.service.DefaultServiceRegistrySingletonService.get(DefaultServiceRegistry.java:621) at org.gradle.internal.service.DefaultServiceRegistryFactoryService.assembleParameters(DefaultServiceRegistry.java:786) at org.gradle.internal.service.DefaultServiceRegistryFactoryService.create(DefaultServiceRegistry.java:772) at org.gradle.internal.service.DefaultServiceRegistryManagedObjectServiceProvider.getInstance(DefaultServiceRegistry.java:563) at org.gradle.internal.service.DefaultServiceRegistrySingletonService.get(DefaultServiceRegistry.java:621) at org.gradle.internal.service.DefaultServiceRegistryFactoryService.assembleParameters(DefaultServiceRegistry.java:786) at org.gradle.internal.service.DefaultServiceRegistryFactoryService.create(DefaultServiceRegistry.java:772) at org.gradle.internal.service.DefaultServiceRegistryManagedObjectServiceProvider.getInstance(DefaultServiceRegistry.java:563) at org.gradle.internal.service.DefaultServiceRegistrySingletonService.get(DefaultServiceRegistry.java:621) at org.gradle.internal.service.DefaultServiceRegistryFactoryService.assembleParameters(DefaultServiceRegistry.java:786) at org.gradle.internal.service.DefaultServiceRegistryFactoryService.create(DefaultServiceRegistry.java:772) at org.gradle.internal.service.DefaultServiceRegistryManagedObjectServiceProvider.getInstance(DefaultServiceRegistry.java:563) at org.gradle.internal.service.DefaultServiceRegistrySingletonService.get(DefaultServiceRegistry.java:621) at org.gradle.internal.service.DefaultServiceRegistryFactoryService.assembleParameters(DefaultServiceRegistry.java:786) at org.gradle.internal.service.DefaultServiceRegistryFactoryService.create(DefaultServiceRegistry.java:772) at org.gradle.internal.service.DefaultServiceRegistryManagedObjectServiceProvider.getInstance(DefaultServiceRegistry.java:563) at org.gradle.internal.service.DefaultServiceRegistrySingletonService.get(DefaultServiceRegistry.java:621) at org.gradle.internal.service.DefaultServiceRegistry.find(DefaultServiceRegistry.java:305) at org.gradle.internal.service.DefaultServiceRegistry.get(DefaultServiceRegistry.java:289) at org.gradle.internal.service.DefaultServiceRegistry.get(DefaultServiceRegistry.java:284) at org.gradle.launcher.exec.BuildTreeScopeLifecycleBuildActionExecuter.lambdaexecute0(BuildTreeScopeLifecycleBuildActionExecuter.java:33) at org.gradle.internal.buildtree.BuildTreeState.run(BuildTreeState.java:49) at org.gradle.launcher.exec.BuildTreeScopeLifecycleBuildActionExecuter.execute(BuildTreeScopeLifecycleBuildActionExecuter.java:32) at org.gradle.launcher.exec.BuildTreeScopeLifecycleBuildActionExecuter.execute(BuildTreeScopeLifecycleBuildActionExecuter.java:27) at org.gradle.tooling.internal.provider.ContinuousBuildActionExecuter.execute(ContinuousBuildActionExecuter.java:104) at org.gradle.tooling.internal.provider.ContinuousBuildActionExecuter.execute(ContinuousBuildActionExecuter.java:55) at org.gradle.tooling.internal.provider.SubscribableBuildActionExecuter.execute(SubscribableBuildActionExecuter.java:64) at org.gradle.tooling.internal.provider.SubscribableBuildActionExecuter.execute(SubscribableBuildActionExecuter.java:37) at org.gradle.tooling.internal.provider.SessionScopeLifecycleBuildActionExecuter.lambdaexecute0(SessionScopeLifecycleBuildActionExecuter.java:54) at org.gradle.internal.session.BuildSessionState.run(BuildSessionState.java:67) at org.gradle.tooling.internal.provider.SessionScopeLifecycleBuildActionExecuter.execute(SessionScopeLifecycleBuildActionExecuter.java:50) at org.gradle.tooling.internal.provider.SessionScopeLifecycleBuildActionExecuter.execute(SessionScopeLifecycleBuildActionExecuter.java:36) at org.gradle.tooling.internal.provider.GradleThreadBuildActionExecuter.execute(GradleThreadBuildActionExecuter.java:36) at org.gradle.tooling.internal.provider.GradleThreadBuildActionExecuter.execute(GradleThreadBuildActionExecuter.java:25) at org.gradle.tooling.internal.provider.StartParamsValidatingActionExecuter.execute(StartParamsValidatingActionExecuter.java:59) at org.gradle.tooling.internal.provider.StartParamsValidatingActionExecuter.execute(StartParamsValidatingActionExecuter.java:31) at org.gradle.tooling.internal.provider.SessionFailureReportingActionExecuter.execute(SessionFailureReportingActionExecuter.java:55)" />
-      <item value="published Group Id" />
-      <item value="USE GLOBAL" />
-      <item value="Global&#10;" />
-      <item value="Globalk" />
-      <item value="Glo" />
-      <item value="quoocs" />
-      <item value="q" />
-      <item value="KO MANAGER ENCRYPTION KEY" />
-      <item value="INSTALL FAILED CONFLICTING PROVIDER" />
-      <item value="INSTALL_FAILED_CONFLICTING_PROVIDER" />
+      <item value="face Front Camera Orientation" />
+      <item value="front Camera Characteristics" />
+      <item value="get Presence" />
+      <item value="sai số" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="774" />
+        <entry key="ENGLISH" value="855" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="109" />
+        <entry key="LAO" value="113" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="777" />
+        <entry key="VIETNAMESE" value="857" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1662195725172" />
+    <option name="lastTrimTime" value="1663751832227" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
