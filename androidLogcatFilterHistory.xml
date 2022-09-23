@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:EventCubit" />
+    <option name="mostRecentlyUsed" value="flutter" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter" />
         <option value="message:EventCubit" />
         <option value="tag:http" />
         <option value="message:_ItemEventWidget" />
@@ -22,7 +23,6 @@
         <option value="package:com.kidsonline.attendance.debug  tag:http" />
         <option value="package:mine level:error " />
         <option value="ttp" />
-        <option value="Action stopped by some action with message" />
       </list>
     </option>
   </component>
