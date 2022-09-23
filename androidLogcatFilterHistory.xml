@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:flutter " />
+    <option name="mostRecentlyUsed" value="tag:http" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:http" />
         <option value="tag:flutter " />
         <option value="package:mine" />
         <option value="package:mine t" />
@@ -10,7 +11,6 @@
         <option value="tag:http message:about" />
         <option value="tag:http message:a" />
         <option value="http" />
-        <option value="tag:http" />
         <option value="\" />
         <option value="package:com.kidsonline.attendance.debug  tag:Ωz" />
         <option value="package:com.kidsonline.attendance.debug  tag:http" />
