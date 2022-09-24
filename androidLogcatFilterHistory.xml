@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter" />
+    <option name="mostRecentlyUsed" value="tag:flutter " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:flutter " />
         <option value="flutter" />
         <option value="message:EventCubit" />
         <option value="tag:http" />
         <option value="message:_ItemEventWidget" />
-        <option value="tag:flutter " />
         <option value="package:vn.omt.kidsonline.teacher.bg.debug tag:activi" />
         <option value="package:vn.omt.kidsonline.teacher.bg.debug tag:http" />
         <option value="package:vn.omt.kidsonline.teacher.bg.debug " />
