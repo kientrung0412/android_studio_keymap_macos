@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="tag:flutter " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:flutter " />
         <option value="package:mine " />
         <option value="package:mine  message:fra" />
         <option value="package:mine  message:activity" />
         <option value="package:mine  messageactivity" />
         <option value="package:mine  " />
-        <option value="tag:flutter " />
         <option value="package:flutter" />
         <option value="tag:flutter message:DetailRegisterEatCubit" />
         <option value="tag:flutter" />
