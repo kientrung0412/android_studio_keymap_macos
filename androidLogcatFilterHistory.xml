@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="tag:http" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:http" />
+        <option value="tag:flutter" />
+        <option value="tag:Trungnk" />
         <option value="level:error " />
         <option value="tag:flutter " />
         <option value="package:vn.omt.kidsonline.teacher.bg.debug tag:activi" />
@@ -15,14 +18,11 @@
         <option value="tag:http message:a" />
         <option value="http" />
         <option value="package:mine" />
-        <option value="tag:http" />
         <option value="\" />
         <option value="package:com.kidsonline.attendance.debug  tag:Ωz" />
         <option value="package:com.kidsonline.attendance.debug  tag:http" />
         <option value="package:mine level:error " />
         <option value="ttp" />
-        <option value="Action stopped by some action with message" />
-        <option value="package: codepro.kidsonline.debug level:error " />
       </list>
     </option>
   </component>
