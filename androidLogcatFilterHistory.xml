@@ -4,6 +4,12 @@
     <option name="nonFavorites">
       <list>
         <option value="level:error " />
+        <option value="tag:Trungnk " />
+        <option value="tag:ATRecorder | tag:Trungnk | level:error " />
+        <option value="tag:ATRecorder" />
+        <option value="tag:Trungng | level:error | package:mine " />
+        <option value="tag:Trungnn | level:error " />
+        <option value="tag:Trungnk" />
         <option value="tag:flutter " />
         <option value="package:mine" />
         <option value="package:mine " />
@@ -17,12 +23,6 @@
         <option value="tag:http" />
         <option value="package:mine tag:Trungnk " />
         <option value="package:mine tag:Trungnk" />
-        <option value="package:mine tag:Trungnk message:toObserve" />
-        <option value="tag:Trungnk" />
-        <option value="package:vn.omt.kidsonline.teacher.bg.debug tag:activi" />
-        <option value="package:vn.omt.kidsonline.teacher.bg.debug tag:http" />
-        <option value="package:vn.omt.kidsonline.teacher.bg.debug " />
-        <option value="package:mine t" />
       </list>
     </option>
   </component>
