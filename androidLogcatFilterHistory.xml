@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="tag:flutter " />
+        <option value="package:mine" />
         <option value="package:mine " />
         <option value="package:mine  message:fra" />
         <option value="package:mine  message:activity" />
@@ -22,7 +23,6 @@
         <option value="package:vn.omt.kidsonline.teacher.bg.debug tag:http" />
         <option value="package:vn.omt.kidsonline.teacher.bg.debug " />
         <option value="package:mine t" />
-        <option value="tag:http " />
       </list>
     </option>
   </component>
