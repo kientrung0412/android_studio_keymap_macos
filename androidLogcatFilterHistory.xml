@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="tag:flutter " />
+        <option value="package:flutter" />
         <option value="tag:flutter message:DetailRegisterEatCubit" />
         <option value="tag:flutter" />
         <option value="tag:http" />
@@ -22,7 +23,6 @@
         <option value="tag:http message:a" />
         <option value="http" />
         <option value="package:mine" />
-        <option value="\" />
       </list>
     </option>
   </component>

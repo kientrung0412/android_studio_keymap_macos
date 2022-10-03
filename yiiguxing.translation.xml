@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="581" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="luôn đóng" />
+      <item value="luoon d" />
       <item value="expired At" />
       <item value="The following ParentDataWidgets are providing parent data to the same RenderObject:" />
       <item value="Usually, this indicates that at least one of the offending ParentDataWidgets listed above is not placed directly inside a compatible ancestor widget." />
@@ -54,13 +56,11 @@
       <item value="sao cheps " />
       <item value="sa" />
       <item value="prepare Camera Outputs" />
-      <item value="Operation not permitted" />
-      <item value="face Front Camera Orientation" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="858" />
+        <entry key="ENGLISH" value="860" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -68,12 +68,12 @@
         <entry key="LAO" value="113" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="858" />
+        <entry key="VIETNAMESE" value="860" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663751832227" />
+    <option name="lastTrimTime" value="1664768010545" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
