@@ -6,6 +6,17 @@
     <option name="newTranslationDialogY" value="581" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="bài giảng" />
+      <item value="bài thi" />
+      <item value="bài tập trong tuần" />
+      <item value="Chương trình học" />
+      <item value="Chương trình " />
+      <item value="Chuong" />
+      <item value="C" />
+      <item value="CHương" />
+      <item value="chuong" />
+      <item value="chuongw" />
+      <item value="chuon" />
       <item value="version solving failed" />
       <item value="luôn đóng" />
       <item value="luoon d" />
@@ -45,22 +56,11 @@
       <item value="get Parser For Type" />
       <item value="has Presence" />
       <item value="Đã sao chép số tài khoản" />
-      <item value="Đã sao chép số " />
-      <item value="sao chép số điệ" />
-      <item value="sao chép số điện thoại t" />
-      <item value="sao chép số điện thoại thà" />
-      <item value="sao chép số điện thoại" />
-      <item value="sao chép số điên" />
-      <item value="sao chép " />
-      <item value="sao chepo" />
-      <item value="sao c" />
-      <item value="sao cheps " />
-      <item value="sa" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="861" />
+        <entry key="ENGLISH" value="871" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -68,7 +68,7 @@
         <entry key="LAO" value="113" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="861" />
+        <entry key="VIETNAMESE" value="871" />
       </map>
     </option>
   </component>
