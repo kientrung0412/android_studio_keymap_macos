@@ -6,6 +6,23 @@
     <option name="newTranslationDialogY" value="581" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="property" />
+      <item value="propetry" />
+      <item value="propet" />
+      <item value="pro" />
+      <item value="pr" />
+      <item value="bài giảng" />
+      <item value="bài thi" />
+      <item value="bài tập trong tuần" />
+      <item value="Chương trình học" />
+      <item value="Chương trình " />
+      <item value="Chuong" />
+      <item value="C" />
+      <item value="CHương" />
+      <item value="chuong" />
+      <item value="chuongw" />
+      <item value="chuon" />
+      <item value="version solving failed" />
       <item value="luôn đóng" />
       <item value="luoon d" />
       <item value="expired At" />
@@ -39,28 +56,11 @@
       <item value="ngu" />
       <item value="nguoonf" />
       <item value="Sourest" />
-      <item value="bàn tay" />
-      <item value="bàn " />
-      <item value="get Parser For Type" />
-      <item value="has Presence" />
-      <item value="Đã sao chép số tài khoản" />
-      <item value="Đã sao chép số " />
-      <item value="sao chép số điệ" />
-      <item value="sao chép số điện thoại t" />
-      <item value="sao chép số điện thoại thà" />
-      <item value="sao chép số điện thoại" />
-      <item value="sao chép số điên" />
-      <item value="sao chép " />
-      <item value="sao chepo" />
-      <item value="sao c" />
-      <item value="sao cheps " />
-      <item value="sa" />
-      <item value="prepare Camera Outputs" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="860" />
+        <entry key="ENGLISH" value="872" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -68,7 +68,7 @@
         <entry key="LAO" value="113" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="860" />
+        <entry key="VIETNAMESE" value="873" />
       </map>
     </option>
   </component>

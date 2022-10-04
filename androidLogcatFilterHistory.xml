@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:flutter " />
+    <option name="mostRecentlyUsed" value="tag:http" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:http" />
+        <option value="tag:Trungnk" />
+        <option value="level:error " />
+        <option value="tag:Trungnk " />
+        <option value="tag:ATRecorder | tag:Trungnk | level:error " />
+        <option value="tag:ATRecorder" />
+        <option value="tag:Trungng | level:error | package:mine " />
+        <option value="tag:Trungnn | level:error " />
         <option value="tag:flutter " />
+        <option value="package:mine" />
+        <option value="package:mine " />
+        <option value="package:mine  message:fra" />
+        <option value="package:mine  message:activity" />
+        <option value="package:mine  messageactivity" />
+        <option value="package:mine  " />
         <option value="package:flutter" />
         <option value="tag:flutter message:DetailRegisterEatCubit" />
         <option value="tag:flutter" />
-        <option value="tag:http" />
         <option value="package:mine tag:Trungnk " />
         <option value="package:mine tag:Trungnk" />
-        <option value="package:mine tag:Trungnk message:toObserve" />
-        <option value="package:mine " />
-        <option value="tag:Trungnk" />
-        <option value="level:error " />
-        <option value="package:vn.omt.kidsonline.teacher.bg.debug tag:activi" />
-        <option value="package:vn.omt.kidsonline.teacher.bg.debug tag:http" />
-        <option value="package:vn.omt.kidsonline.teacher.bg.debug " />
-        <option value="package:mine t" />
-        <option value="tag:http " />
-        <option value="tag:http message:about" />
-        <option value="tag:http message:a" />
-        <option value="http" />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
