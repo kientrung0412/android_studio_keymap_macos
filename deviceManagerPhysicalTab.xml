@@ -5,23 +5,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="192.168.5.17:5555" />
-          </Key>
-        </key>
-        <name value="Xiaomi MI 8 Lite" />
-        <target value="Android 10.0" />
-        <api value="29" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="14cc25f0" />
           </Key>
         </key>
         <name value="OnePlus LE2101" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.5.17:5555" />
+          </Key>
+        </key>
+        <name value="Xiaomi MI 8 Lite" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -32,7 +32,7 @@
         </key>
         <name value="Google Pixel 3" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -43,7 +43,7 @@
         </key>
         <name value="rockchip rk312x" />
         <target value="Android 5.1" />
-        <api value="22" />
+        <api value="androidversion:22:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -54,7 +54,7 @@
         </key>
         <name value="rockchip rk312x" />
         <target value="Android 5.1" />
-        <api value="22" />
+        <api value="androidversion:22:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -65,7 +65,7 @@
         </key>
         <name value="rockchip rk312x" />
         <target value="Android 5.1" />
-        <api value="22" />
+        <api value="androidversion:22:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -76,7 +76,7 @@
         </key>
         <name value="rockchip rk312x" />
         <target value="Android 5.1" />
-        <api value="22" />
+        <api value="androidversion:22:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -87,7 +87,7 @@
         </key>
         <name value="rockchip rk312x" />
         <target value="Android 5.1" />
-        <api value="22" />
+        <api value="androidversion:22:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -98,7 +98,7 @@
         </key>
         <name value="rockchip rk312x" />
         <target value="Android 5.1" />
-        <api value="22" />
+        <api value="androidversion:22:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -109,7 +109,7 @@
         </key>
         <name value="rockchip S8810P" />
         <target value="Android 8.1" />
-        <api value="27" />
+        <api value="androidversion:27:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -120,7 +120,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -131,7 +130,7 @@
         </key>
         <name value="samsung SM-A605K" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -142,7 +141,7 @@
         </key>
         <name value="Xiaomi M2003J15SC" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -153,7 +152,7 @@
         </key>
         <name value="vsmart Active 3" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -164,7 +163,7 @@
         </key>
         <name value="OPPO A1601" />
         <target value="Android 5.1" />
-        <api value="22" />
+        <api value="androidversion:22:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -175,7 +174,7 @@
         </key>
         <name value="KTE TA-666" />
         <target value="Android 7.0" />
-        <api value="24" />
+        <api value="androidversion:24:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -186,7 +185,7 @@
         </key>
         <name value="vsmart Active 3" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -197,7 +196,7 @@
         </key>
         <name value="OPPO CPH1717" />
         <target value="Android 7.1.1" />
-        <api value="25" />
+        <api value="androidversion:25:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -208,7 +207,7 @@
         </key>
         <name value="Google Pixel 3" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -219,7 +218,7 @@
         </key>
         <name value="LENOVO Lenovo TB-8505X" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -230,7 +229,7 @@
         </key>
         <name value="LENOVO Lenovo TB-8505X" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -241,7 +240,7 @@
         </key>
         <name value="samsung SM-T875" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -252,7 +251,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -263,7 +261,7 @@
         </key>
         <name value="vsmart Active 3" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -274,7 +272,7 @@
         </key>
         <name value="HUAWEI COL-L29" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -285,7 +283,7 @@
         </key>
         <name value="OPPO CPH2073" />
         <target value="Android 9.0" />
-        <api value="28" />
+        <api value="androidversion:28:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -296,7 +294,7 @@
         </key>
         <name value="OnePlus LE2101" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -307,7 +305,7 @@
         </key>
         <name value="Sony SOV37" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -318,7 +316,7 @@
         </key>
         <name value="rockchip S8810P" />
         <target value="Android 8.1" />
-        <api value="27" />
+        <api value="androidversion:27:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -329,7 +327,7 @@
         </key>
         <name value="rockchip rk312x" />
         <target value="Android 5.1" />
-        <api value="22" />
+        <api value="androidversion:22:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -340,7 +338,7 @@
         </key>
         <name value="Xiaomi MI 8 Lite" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -351,7 +349,7 @@
         </key>
         <name value="rockchip S8810P" />
         <target value="Android 8.1" />
-        <api value="27" />
+        <api value="androidversion:27:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -362,7 +360,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -373,7 +370,7 @@
         </key>
         <name value="vsmart Joy 2+" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -384,7 +381,7 @@
         </key>
         <name value="rockchip S8810P" />
         <target value="Android 8.1" />
-        <api value="27" />
+        <api value="androidversion:27:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -395,7 +392,7 @@
         </key>
         <name value="rockchip rk312x" />
         <target value="Android 5.1" />
-        <api value="22" />
+        <api value="androidversion:22:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -406,7 +403,7 @@
         </key>
         <name value="rockchip S8810P" />
         <target value="Android 8.1" />
-        <api value="27" />
+        <api value="androidversion:27:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -417,7 +414,7 @@
         </key>
         <name value="Xiaomi M2101K9AG" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
