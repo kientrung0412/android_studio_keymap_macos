@@ -1,12 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:http" />
+    <option name="mostRecentlyUsed" value=" tag:flutter " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:flutter " />
         <option value=" tag:flutter " />
         <option value="tag:http" />
-        <option value="package:min" />
-        <option value="tag:flutter " />
         <option value="tag:Trungnk" />
         <option value="level:error " />
         <option value="tag:Trungnk " />
@@ -23,6 +22,7 @@
         <option value="package:flutter" />
         <option value="tag:flutter message:DetailRegisterEatCubit" />
         <option value="tag:flutter" />
+        <option value="package:mine tag:Trungnk " />
       </list>
     </option>
   </component>
