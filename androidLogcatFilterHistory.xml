@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:mine | tag:Trungnk" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine | tag:Trungnk" />
+        <option value="package:mine tag:Trungnk" />
+        <option value="package:mine " />
         <option value="package:mine level:error " />
         <option value="package:mine" />
         <option value="tag:flutter " />
@@ -15,14 +18,11 @@
         <option value="tag:ATRecorder" />
         <option value="tag:Trungng | level:error | package:mine " />
         <option value="tag:Trungnn | level:error " />
-        <option value="package:mine " />
         <option value="package:mine  message:fra" />
         <option value="package:mine  message:activity" />
         <option value="package:mine  messageactivity" />
         <option value="package:mine  " />
         <option value="package:flutter" />
-        <option value="tag:flutter message:DetailRegisterEatCubit" />
-        <option value="tag:flutter" />
       </list>
     </option>
   </component>
