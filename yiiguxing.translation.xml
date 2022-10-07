@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="581" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="transaction" />
       <item value="has assignment" />
       <item value="property" />
       <item value="propetry" />
@@ -55,12 +56,11 @@
       <item value="FormatException: Unexpected character (at line 415, character 3)" />
       <item value="nguồn" />
       <item value="ngu" />
-      <item value="nguoonf" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="873" />
+        <entry key="ENGLISH" value="874" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -68,7 +68,7 @@
         <entry key="LAO" value="113" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="873" />
+        <entry key="VIETNAMESE" value="874" />
       </map>
     </option>
   </component>
