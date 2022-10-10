@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="581" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="loading" />
+      <item value="loadding" />
+      <item value="Separated" />
       <item value="hoạt động nhận xét" />
       <item value="hoạt động nhâ" />
       <item value="hoatj" />
@@ -53,14 +56,11 @@
       <item value=" Transaction failed on small parcel; remote process probably died, but this could also be caused by running out of binder buffe&#10;W/GmsClient(10100):     at android.os.BinderProxy.transactNative(Native Method)&#10;W/GmsClient(10100):     at android.os.BinderProxy.transact(BinderProxy.java:584)&#10;W/GmsClient(10100):     at rF.b(chromium-TrichromeWebViewGoogle6432.apk-stable-495157434:288)&#10;" />
       <item value="tên món ăn" />
       <item value="tê" />
-      <item value="Error (Xcode): Signing for &quot;DKPhotoGallery-DKPhotoGallery&quot; requires a development team. Select a development team in the Signing &amp; Capabilities editor.&#10;" />
-      <item value="Topic assessment" />
-      <item value="Debts of previous collection" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="881" />
+        <entry key="ENGLISH" value="883" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -68,7 +68,7 @@
         <entry key="LAO" value="113" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="881" />
+        <entry key="VIETNAMESE" value="884" />
       </map>
     </option>
   </component>
