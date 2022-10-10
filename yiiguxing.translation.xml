@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="581" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="hoạt động nhận xét" />
+      <item value="hoạt động nhâ" />
+      <item value="hoatj" />
+      <item value="hotaj " />
       <item value="The following assertion was thrown building _InkResponseStateWidget(gestures: [tap], mouseCursor: null, clipped to BoxShape.rectangle, dirty, state: _InkResponseState03b0d):" />
       <item value="The following assertion was thrown building AppAsyncSnapshot(dirty, state: _AppAsyncSnapshotState5f505):" />
       <item value="Either zero or 2 or more [DropdownMenuItem]s were detected with the same value" />
@@ -52,15 +56,11 @@
       <item value="Error (Xcode): Signing for &quot;DKPhotoGallery-DKPhotoGallery&quot; requires a development team. Select a development team in the Signing &amp; Capabilities editor.&#10;" />
       <item value="Topic assessment" />
       <item value="Debts of previous collection" />
-      <item value="Surcharge" />
-      <item value="Phụ thu" />
-      <item value="The App needs the following permissions to work properly:\n%s.\nAgree to grant the App permissions?" />
-      <item value="Ứng dụng cần các quyền sau để hoạt động bình thường:\n%s.\nĐồng ý cấp quyền cho Ứng dụng?" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="878" />
+        <entry key="ENGLISH" value="881" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -68,7 +68,7 @@
         <entry key="LAO" value="113" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="878" />
+        <entry key="VIETNAMESE" value="881" />
       </map>
     </option>
   </component>
