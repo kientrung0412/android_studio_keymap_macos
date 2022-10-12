@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="581" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="so sanh" />
+      <item value="s" />
+      <item value="will fail because the difference is actually 16591 days and 23 hours, and" />
+      <item value="difference" />
       <item value="environment" />
       <item value="provider" />
       <item value="pro" />
@@ -52,15 +56,11 @@
       <item value="look goo" />
       <item value="loo" />
       <item value="registered" />
-      <item value="Registered" />
-      <item value="nhấn phím" />
-      <item value="nhaans" />
-      <item value="dropdown Elevation" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="886" />
+        <entry key="ENGLISH" value="889" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -68,7 +68,7 @@
         <entry key="LAO" value="113" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="887" />
+        <entry key="VIETNAMESE" value="889" />
       </map>
     </option>
   </component>
