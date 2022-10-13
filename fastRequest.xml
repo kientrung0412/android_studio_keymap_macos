@@ -1,5 +1,20 @@
 <application>
   <component name="fastRequest">
+    <option name="dataList">
+      <list>
+        <NameGroup>
+          <option name="hostGroup">
+            <list>
+              <HostGroup>
+                <option name="env" value="ver5_release" />
+                <option name="url" value="https://ver5.api.release.so.edu.vn/" />
+              </HostGroup>
+            </list>
+          </option>
+          <option name="name" value="so_parent" />
+        </NameGroup>
+      </list>
+    </option>
     <option name="defaultDataMappingList">
       <list>
         <DataMapping>
@@ -72,7 +87,48 @@
         </DataMapping>
       </list>
     </option>
+    <option name="domain" value="https://ver5.api.release.so.edu.vn/" />
+    <option name="enableEnv" value="ver5_release" />
+    <option name="enableProject" value="so_parent" />
+    <option name="envList">
+      <list>
+        <option value="ver5_release" />
+      </list>
+    </option>
+    <option name="eual" value="true" />
+    <option name="headerGroupList">
+      <list>
+        <HeaderGroup>
+          <option name="envMap">
+            <map>
+              <entry key="ver5_release">
+                <value>
+                  <map>
+                    <entry key="Authorization" value="BearereyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC92ZXI1LmFwaS5yZWxlYXNlLnNvLmVkdS52blwvYXBpXC92NVwvbG9naW4iLCJpYXQiOjE2NjU1Njc4OTAsImV4cCI6MTY2NTgyNzA5MCwibmJmIjoxNjY1NTY3ODkwLCJqdGkiOiJXWXV2UlZFT3Rra0V0M0Q3Iiwic3ViIjoyNDUxLCJwcnYiOiIyM2JkNWM4OTQ5ZjYwMGFkYjM5ZTcwMWM0MDA4NzJkYjdhNTk3NmY3In0.hiH78fRRqO1bbafLD9WvN_e7P95yqYAfLZcyNMTb4PE" />
+                  </map>
+                </value>
+              </entry>
+            </map>
+          </option>
+          <option name="projectName" value="so_parent" />
+        </HeaderGroup>
+      </list>
+    </option>
+    <option name="projectList">
+      <list>
+        <option value="so_parent" />
+      </list>
+    </option>
     <option name="randomStringLength" value="5" />
     <option name="statisticsDate" value="2022-10-13 11:27:12" />
+    <option name="statisticsList">
+      <list>
+        <YearStatistics>
+          <option name="totalActionCount" value="13" />
+          <option name="totalSuccessCount" value="1" />
+          <option name="year" value="2022" />
+        </YearStatistics>
+      </list>
+    </option>
   </component>
 </application>
