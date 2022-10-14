@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="401" />
     <option name="newTranslationDialogWidth" value="1321" />
-    <option name="newTranslationDialogX" value="191" />
-    <option name="newTranslationDialogY" value="581" />
+    <option name="newTranslationDialogX" value="858" />
+    <option name="newTranslationDialogY" value="584" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="ví điện tử" />
       <item value="handle Fake Of Fake Data" />
       <item value="so sanh" />
       <item value="s" />
@@ -55,12 +56,11 @@
       <item value="instantiated" />
       <item value="look good to me" />
       <item value="look goo" />
-      <item value="loo" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="890" />
+        <entry key="ENGLISH" value="891" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -68,12 +68,12 @@
         <entry key="LAO" value="113" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="890" />
+        <entry key="VIETNAMESE" value="891" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1665200759831" />
+    <option name="lastTrimTime" value="1665736972552" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
