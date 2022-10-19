@@ -2,10 +2,9 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="401" />
     <option name="newTranslationDialogWidth" value="1321" />
-    <option name="newTranslationDialogX" value="-1404" />
-    <option name="newTranslationDialogY" value="593" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Terminating app due to uncaught exception 'NSInvalidArgumentException', reason: 'Could not find a storyboard named 'Main' in bundle NSBundle &lt;/private/var/containers/Bundle/Application/79D748E5-83A1-4CD5-978F-BDDB72B152F4/Runner.app&gt; (loaded)'" />
       <item value="will have the value of: ``` 0.0 &lt;= value &lt;= 1.0: about to be stuck 0.0 == value: at top -1.0 &gt;= value &gt;= 0.0: past stuck" />
       <item value="Stack Overflow" />
       <item value="The following StackOverflowError was thrown building BlocBuilder&lt;HomeworkCubit, HomeworkState&gt;(dirty, dependencies: [_InheritedProviderScope&lt;HomeworkCubit?&gt;], state: _BlocBuilderBaseState&lt;HomeworkCubit, HomeworkState&gt;f37d7):" />
@@ -55,7 +54,6 @@
       <item value="pr" />
       <item value="bài giảng" />
       <item value="bài thi" />
-      <item value="bài tập trong tuần" />
     </histories>
     <option name="languageScores">
       <map>
@@ -68,12 +66,12 @@
         <entry key="LAO" value="113" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="913" />
+        <entry key="VIETNAMESE" value="914" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1665736972552" />
+    <option name="lastTrimTime" value="1666178893718" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
