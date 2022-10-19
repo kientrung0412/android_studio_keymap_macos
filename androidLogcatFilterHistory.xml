@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine &amp; message:readLineHandler" />
+    <option name="mostRecentlyUsed" value="level:error package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error package:mine " />
+        <option value="level:error " />
         <option value="package:mine &amp; message:readLineHandler" />
         <option value="package:mine &amp; message:K3ProThermometer &amp; -message:handleFakeOfFakeData " />
         <option value="package:mine &amp; message:K3ProThermometer &amp; -message:handleFakeOfFakeData &amp;-message:[[-125" />
@@ -16,13 +18,11 @@
         <option value="message:http" />
         <option value="http" />
         <option value="url_" />
-        <option value="level:error " />
         <option value="tag:error" />
         <option value="tag:flutter" />
         <option value="message:K3ProThermometer.java:246" />
         <option value=" tag:flutter " />
         <option value="package:mine | tag:Trungnk" />
-        <option value="package:mine tag:Trungnk" />
       </list>
     </option>
   </component>
