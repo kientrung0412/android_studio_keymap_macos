@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine  message:HandlerObserverApi | level:error  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  message:HandlerObserverApi | level:error  " />
+        <option value="level:error package:mine message:HandlerObserverApi" />
         <option value="level:error package:mine " />
         <option value="level:error " />
         <option value="package:mine &amp; message:readLineHandler" />
@@ -21,8 +23,6 @@
         <option value="tag:error" />
         <option value="tag:flutter" />
         <option value="message:K3ProThermometer.java:246" />
-        <option value=" tag:flutter " />
-        <option value="package:mine | tag:Trungnk" />
       </list>
     </option>
   </component>
