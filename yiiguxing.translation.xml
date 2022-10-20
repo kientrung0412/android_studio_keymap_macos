@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="443" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="When [close] is called, it will return the [done] [Future]." />
+      <item value="Returns a view of this object that only exposes the [StreamSink] interface." />
       <item value="Hủy thanh toán" />
       <item value="Hủy thanh " />
       <item value="huy" />
@@ -54,13 +56,11 @@
       <item value="Either zero or 2 or more [DropdownMenuItem]s were detected with the same value" />
       <item value="Avoid using unnecessary statements. (Documentation)" />
       <item value="transaction" />
-      <item value="has assignment" />
-      <item value="property" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="915" />
+        <entry key="ENGLISH" value="917" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
