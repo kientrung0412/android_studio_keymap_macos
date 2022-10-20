@@ -2,8 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="401" />
     <option name="newTranslationDialogWidth" value="1321" />
+    <option name="newTranslationDialogX" value="191" />
+    <option name="newTranslationDialogY" value="443" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Hủy thanh toán" />
+      <item value="Hủy thanh " />
+      <item value="huy" />
       <item value="Can not connect to redis&#10;" />
       <item value="Can not connect to redis" />
       <item value="Terminating app due to uncaught exception 'NSInvalidArgumentException', reason: 'Could not find a storyboard named 'Main' in bundle NSBundle &lt;/private/var/containers/Bundle/Application/79D748E5-83A1-4CD5-978F-BDDB72B152F4/Runner.app&gt; (loaded)'" />
@@ -51,14 +56,11 @@
       <item value="transaction" />
       <item value="has assignment" />
       <item value="property" />
-      <item value="propetry" />
-      <item value="propet" />
-      <item value="pr" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="913" />
+        <entry key="ENGLISH" value="915" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -66,7 +68,7 @@
         <entry key="LAO" value="113" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="915" />
+        <entry key="VIETNAMESE" value="917" />
       </map>
     </option>
   </component>
