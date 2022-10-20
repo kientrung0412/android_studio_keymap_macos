@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="443" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Close instances of `dart.core.Sink`. (Documentation)" />
       <item value="When [close] is called, it will return the [done] [Future]." />
       <item value="Returns a view of this object that only exposes the [StreamSink] interface." />
       <item value="Hủy thanh toán" />
@@ -55,7 +56,6 @@
       <item value="The following assertion was thrown building AppAsyncSnapshot(dirty, state: _AppAsyncSnapshotState5f505):" />
       <item value="Either zero or 2 or more [DropdownMenuItem]s were detected with the same value" />
       <item value="Avoid using unnecessary statements. (Documentation)" />
-      <item value="transaction" />
     </histories>
     <option name="languageScores">
       <map>
@@ -68,7 +68,7 @@
         <entry key="LAO" value="113" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="917" />
+        <entry key="VIETNAMESE" value="918" />
       </map>
     </option>
   </component>
