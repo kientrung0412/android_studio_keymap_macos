@@ -4,6 +4,8 @@
     <option name="newTranslationDialogWidth" value="1321" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Can not connect to redis&#10;" />
+      <item value="Can not connect to redis" />
       <item value="Terminating app due to uncaught exception 'NSInvalidArgumentException', reason: 'Could not find a storyboard named 'Main' in bundle NSBundle &lt;/private/var/containers/Bundle/Application/79D748E5-83A1-4CD5-978F-BDDB72B152F4/Runner.app&gt; (loaded)'" />
       <item value="will have the value of: ``` 0.0 &lt;= value &lt;= 1.0: about to be stuck 0.0 == value: at top -1.0 &gt;= value &gt;= 0.0: past stuck" />
       <item value="Stack Overflow" />
@@ -52,8 +54,6 @@
       <item value="propetry" />
       <item value="propet" />
       <item value="pr" />
-      <item value="bài giảng" />
-      <item value="bài thi" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,7 +66,7 @@
         <entry key="LAO" value="113" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="914" />
+        <entry key="VIETNAMESE" value="915" />
       </map>
     </option>
   </component>
