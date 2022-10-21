@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="443" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Return whether you have been granted the permissions." />
       <item value="thất bại" />
       <item value="To cancel the subscription, use [cancel]." />
       <item value="Close instances of `dart.core.Sink`. (Documentation)" />
@@ -55,12 +56,11 @@
       <item value="hoatj" />
       <item value="hotaj " />
       <item value="The following assertion was thrown building _InkResponseStateWidget(gestures: [tap], mouseCursor: null, clipped to BoxShape.rectangle, dirty, state: _InkResponseState03b0d):" />
-      <item value="The following assertion was thrown building AppAsyncSnapshot(dirty, state: _AppAsyncSnapshotState5f505):" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="919" />
+        <entry key="ENGLISH" value="920" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -68,7 +68,7 @@
         <entry key="LAO" value="113" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="919" />
+        <entry key="VIETNAMESE" value="920" />
       </map>
     </option>
   </component>
