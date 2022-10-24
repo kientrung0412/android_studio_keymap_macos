@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="443" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="load more success without error,but no data returned" />
+      <item value="for some special situation, you should call dispose() for safe,it may throw errors after parent widget dispose" />
       <item value="hardware Accelerated" />
       <item value="Return whether you have been granted the permissions." />
       <item value="thất bại" />
@@ -54,13 +56,11 @@
       <item value="Separated" />
       <item value="hoạt động nhận xét" />
       <item value="hoạt động nhâ" />
-      <item value="hoatj" />
-      <item value="hotaj " />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="921" />
+        <entry key="ENGLISH" value="923" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -68,7 +68,7 @@
         <entry key="LAO" value="113" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="921" />
+        <entry key="VIETNAMESE" value="923" />
       </map>
     </option>
   </component>
