@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="443" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Submission date&#10;" />
+      <item value="Submission date" />
       <item value="load more success without error,but no data returned" />
       <item value="for some special situation, you should call dispose() for safe,it may throw errors after parent widget dispose" />
       <item value="hardware Accelerated" />
@@ -54,8 +56,6 @@
       <item value="loading" />
       <item value="loadding" />
       <item value="Separated" />
-      <item value="hoạt động nhận xét" />
-      <item value="hoạt động nhâ" />
     </histories>
     <option name="languageScores">
       <map>
@@ -68,12 +68,12 @@
         <entry key="LAO" value="113" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="923" />
+        <entry key="VIETNAMESE" value="924" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1666178893718" />
+    <option name="lastTrimTime" value="1666668303643" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
