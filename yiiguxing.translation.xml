@@ -1,85 +1,16 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogHeight" value="401" />
-    <option name="newTranslationDialogWidth" value="1321" />
-    <option name="newTranslationDialogX" value="-1404" />
-    <option name="newTranslationDialogY" value="593" />
-    <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="{@link SurfaceTexture} where the camera-preview frames can be accessed." />
-      <item value="will have the value of: ``` 0.0 &lt;= value &lt;= 1.0: about to be stuck 0.0 == value: at top -1.0 &gt;= value &gt;= 0.0: past stuck" />
-      <item value="Stack Overflow" />
-      <item value="The following StackOverflowError was thrown building BlocBuilder&lt;HomeworkCubit, HomeworkState&gt;(dirty, dependencies: [_InheritedProviderScope&lt;HomeworkCubit?&gt;], state: _BlocBuilderBaseState&lt;HomeworkCubit, HomeworkState&gt;f37d7):" />
-      <item value="When the exception was thrown, this was the stack:" />
-      <item value="The [callback] function is invoked after the given [duration]." />
-      <item value="cancel" />
-      <item value="tanh toán thành công" />
-      <item value="tanh toán thành côn" />
-      <item value="tanh táon" />
-      <item value="t" />
-      <item value="tahnh" />
-      <item value="success" />
-      <item value="thành công" />
-      <item value="thành coong" />
-      <item value="thành c" />
-      <item value="tahnhf c" />
-      <item value="suscces&#10;" />
-      <item value="ví điện tử" />
-      <item value="handle Fake Of Fake Data" />
-      <item value="so sanh" />
-      <item value="s" />
-      <item value="will fail because the difference is actually 16591 days and 23 hours, and" />
-      <item value="difference" />
-      <item value="environment" />
-      <item value="provider" />
-      <item value="pro" />
-      <item value="proder&#10;" />
-      <item value="p" />
-      <item value="Try updating your pubspec.yaml to set the minimum SDK constraint to 2.17.0 or higher, and running 'pub get'." />
-      <item value="immutable" />
-      <item value="loading" />
-      <item value="loadding" />
-      <item value="Separated" />
-      <item value="hoạt động nhận xét" />
-      <item value="hoạt động nhâ" />
-      <item value="hoatj" />
-      <item value="hotaj " />
-      <item value="The following assertion was thrown building _InkResponseStateWidget(gestures: [tap], mouseCursor: null, clipped to BoxShape.rectangle, dirty, state: _InkResponseState03b0d):" />
-      <item value="The following assertion was thrown building AppAsyncSnapshot(dirty, state: _AppAsyncSnapshotState5f505):" />
-      <item value="Either zero or 2 or more [DropdownMenuItem]s were detected with the same value" />
-      <item value="Avoid using unnecessary statements. (Documentation)" />
-      <item value="transaction" />
-      <item value="has assignment" />
-      <item value="property" />
-      <item value="propetry" />
-      <item value="propet" />
-      <item value="pr" />
-      <item value="bài giảng" />
-      <item value="bài thi" />
+      <item value="iterator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="914" />
-        <entry key="DANISH" value="3" />
-        <entry key="FRENCH" value="3" />
-        <entry key="CORSICAN" value="1" />
-        <entry key="LATIN" value="1" />
-        <entry key="LAO" value="113" />
-        <entry key="HMONG" value="1" />
-        <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="914" />
+        <entry key="ENGLISH" value="2" />
+        <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1666247155324" />
-  </component>
-  <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="primaryLanguage" value="VIETNAMESE" />
-      </google-translate>
-    </option>
+    <option name="lastTrimTime" value="1666925648776" />
   </component>
 </application>
