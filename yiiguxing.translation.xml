@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="443" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="│ [!] Your project requires a higher compileSdkVersion. │" />
       <item value="Userstrung.pub-cachehostedpub.dartlang.orgfirebase_core-1.24.0libsrcfirebase_app.dart:18:25: Error: Member not found: 'FirebaseAppPlatform.verifyExtends'." />
       <item value="Firebase App Platform.verify Extends(_delegate);" />
       <item value="mặc định" />
@@ -55,12 +56,11 @@
       <item value="handle Fake Of Fake Data" />
       <item value="so sanh" />
       <item value="s" />
-      <item value="will fail because the difference is actually 16591 days and 23 hours, and" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="934" />
+        <entry key="ENGLISH" value="935" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -68,7 +68,7 @@
         <entry key="LAO" value="113" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="934" />
+        <entry key="VIETNAMESE" value="935" />
       </map>
     </option>
   </component>
