@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="http" />
     <option name="nonFavorites">
       <list>
+        <option value="http" />
         <option value="package:mine " />
         <option value="level:error " />
         <option value="tag:flutter" />
@@ -22,7 +23,6 @@
         <option value="package:mine &amp; message:readLineHandler" />
         <option value="package:mine &amp; message:K3ProThermometer &amp; -message:handleFakeOfFakeData " />
         <option value="package:mine &amp; message:K3ProThermometer &amp; -message:handleFakeOfFakeData &amp;-message:[[-125" />
-        <option value="package:mine &amp; message:K3ProThermometer &amp; -message:830b71008281" />
       </list>
     </option>
   </component>
