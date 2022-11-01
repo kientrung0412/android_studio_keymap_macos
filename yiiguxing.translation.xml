@@ -3,64 +3,64 @@
     <option name="newTranslationDialogHeight" value="401" />
     <option name="newTranslationDialogWidth" value="1321" />
     <option name="newTranslationDialogX" value="191" />
-    <option name="newTranslationDialogY" value="581" />
+    <option name="newTranslationDialogY" value="443" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="expired At" />
-      <item value="The following ParentDataWidgets are providing parent data to the same RenderObject:" />
-      <item value="Usually, this indicates that at least one of the offending ParentDataWidgets listed above is not placed directly inside a compatible ancestor widget." />
-      <item value="instantiated" />
-      <item value="look good to me" />
-      <item value="look goo" />
-      <item value="loo" />
-      <item value="registered" />
-      <item value="Registered" />
-      <item value="nhấn phím" />
-      <item value="nhaans" />
-      <item value="dropdown Elevation" />
-      <item value="type 'String' is not a subtype of type 'int' of 'index'" />
-      <item value="Unhandled Exception: type 'String' is not a subtype of type 'int' of 'index'" />
-      <item value="LateInitializationError: Field '_key@329036077' has not been initialized." />
-      <item value=" Transaction failed on small parcel; remote process probably died, but this could also be caused by running out of binder buffe&#10;W/GmsClient(10100):     at android.os.BinderProxy.transactNative(Native Method)&#10;W/GmsClient(10100):     at android.os.BinderProxy.transact(BinderProxy.java:584)&#10;W/GmsClient(10100):     at rF.b(chromium-TrichromeWebViewGoogle6432.apk-stable-495157434:288)&#10;" />
-      <item value="tên món ăn" />
-      <item value="tê" />
-      <item value="Error (Xcode): Signing for &quot;DKPhotoGallery-DKPhotoGallery&quot; requires a development team. Select a development team in the Signing &amp; Capabilities editor.&#10;" />
-      <item value="Topic assessment" />
-      <item value="Debts of previous collection" />
-      <item value="Surcharge" />
-      <item value="Phụ thu" />
-      <item value="The App needs the following permissions to work properly:\n%s.\nAgree to grant the App permissions?" />
-      <item value="Ứng dụng cần các quyền sau để hoạt động bình thường:\n%s.\nĐồng ý cấp quyền cho Ứng dụng?" />
-      <item value="Either the assertion indicates an error in the framework itself, or we should provide substantially more information in this error message to help you determine and fix the underlying cause." />
-      <item value="FormatException: Unexpected character (at line 415, character 3)" />
-      <item value="nguồn" />
-      <item value="ngu" />
-      <item value="nguoonf" />
-      <item value="Sourest" />
-      <item value="bàn tay" />
-      <item value="bàn " />
-      <item value="get Parser For Type" />
-      <item value="has Presence" />
-      <item value="Đã sao chép số tài khoản" />
-      <item value="Đã sao chép số " />
-      <item value="sao chép số điệ" />
-      <item value="sao chép số điện thoại t" />
-      <item value="sao chép số điện thoại thà" />
-      <item value="sao chép số điện thoại" />
-      <item value="sao chép số điên" />
-      <item value="sao chép " />
-      <item value="sao chepo" />
-      <item value="sao c" />
-      <item value="sao cheps " />
-      <item value="sa" />
-      <item value="prepare Camera Outputs" />
-      <item value="Operation not permitted" />
-      <item value="face Front Camera Orientation" />
+      <item value="│ [!] Your project requires a higher compileSdkVersion. │" />
+      <item value="Userstrung.pub-cachehostedpub.dartlang.orgfirebase_core-1.24.0libsrcfirebase_app.dart:18:25: Error: Member not found: 'FirebaseAppPlatform.verifyExtends'." />
+      <item value="Firebase App Platform.verify Extends(_delegate);" />
+      <item value="mặc định" />
+      <item value="mặc địn" />
+      <item value="MẠc định" />
+      <item value="macj ddi" />
+      <item value="Don't use one refreshController to multiple SmartRefresher,It will cause some unexpected bugs mostly in TabBarView" />
+      <item value="mô tả" />
+      <item value="moo" />
+      <item value="mo" />
+      <item value="Indexed Stack" />
+      <item value="Submission date&#10;" />
+      <item value="Submission date" />
+      <item value="load more success without error,but no data returned" />
+      <item value="for some special situation, you should call dispose() for safe,it may throw errors after parent widget dispose" />
+      <item value="hardware Accelerated" />
+      <item value="Return whether you have been granted the permissions." />
+      <item value="thất bại" />
+      <item value="To cancel the subscription, use [cancel]." />
+      <item value="Close instances of `dart.core.Sink`. (Documentation)" />
+      <item value="When [close] is called, it will return the [done] [Future]." />
+      <item value="Returns a view of this object that only exposes the [StreamSink] interface." />
+      <item value="Hủy thanh toán" />
+      <item value="Hủy thanh " />
+      <item value="huy" />
+      <item value="Can not connect to redis&#10;" />
+      <item value="Can not connect to redis" />
+      <item value="Terminating app due to uncaught exception 'NSInvalidArgumentException', reason: 'Could not find a storyboard named 'Main' in bundle NSBundle &lt;/private/var/containers/Bundle/Application/79D748E5-83A1-4CD5-978F-BDDB72B152F4/Runner.app&gt; (loaded)'" />
+      <item value="will have the value of: ``` 0.0 &lt;= value &lt;= 1.0: about to be stuck 0.0 == value: at top -1.0 &gt;= value &gt;= 0.0: past stuck" />
+      <item value="Stack Overflow" />
+      <item value="The following StackOverflowError was thrown building BlocBuilder&lt;HomeworkCubit, HomeworkState&gt;(dirty, dependencies: [_InheritedProviderScope&lt;HomeworkCubit?&gt;], state: _BlocBuilderBaseState&lt;HomeworkCubit, HomeworkState&gt;f37d7):" />
+      <item value="When the exception was thrown, this was the stack:" />
+      <item value="The [callback] function is invoked after the given [duration]." />
+      <item value="cancel" />
+      <item value="tanh toán thành công" />
+      <item value="tanh toán thành côn" />
+      <item value="tanh táon" />
+      <item value="t" />
+      <item value="tahnh" />
+      <item value="success" />
+      <item value="thành công" />
+      <item value="thành coong" />
+      <item value="thành c" />
+      <item value="tahnhf c" />
+      <item value="suscces&#10;" />
+      <item value="ví điện tử" />
+      <item value="handle Fake Of Fake Data" />
+      <item value="so sanh" />
+      <item value="s" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="858" />
+        <entry key="ENGLISH" value="935" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -68,12 +68,12 @@
         <entry key="LAO" value="113" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="858" />
+        <entry key="VIETNAMESE" value="935" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663751832227" />
+    <option name="lastTrimTime" value="1667199247433" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
