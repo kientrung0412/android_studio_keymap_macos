@@ -1,15 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:Trungnk" />
+    <option name="mostRecentlyUsed" value="tag:http package:mine " />
     <option name="nonFavorites">
       <list>
-        <option value="tag:Trungnk" />
-        <option value="tag:http" />
-        <option value="tag:Trungnk | tag:http" />
-        <option value="http" />
+        <option value="tag:http package:mine " />
+        <option value="tag:" />
         <option value="package:mine " />
         <option value="level:error " />
         <option value="tag:flutter" />
+        <option value="tag:http" />
         <option value="tag:trungn" />
         <option value="mobile_path" />
         <option value="package:mine level:error " />
@@ -23,6 +22,7 @@
         <option value="level:error package:mine message:HandlerObserverApi" />
         <option value="level:error package:mine " />
         <option value="package:mine &amp; message:readLineHandler" />
+        <option value="package:mine &amp; message:K3ProThermometer &amp; -message:handleFakeOfFakeData " />
       </list>
     </option>
   </component>
