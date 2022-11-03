@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="443" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="index Order" />
       <item value="Eflutter ( 7409): [ERROR:flutterruntimedart_vm_initializer.cc(41)] Unhandled Exception: PlatformException(channel-error, Unable to establish connection on channel., null, null)" />
       <item value="WFlutterActivityAndFragmentDelegate( 7409): A splash screen was provided to Flutter, but this is deprecated. See flutter.devgoandroid-splash-migration for migration steps." />
       <item value="Eflutter ( 6207): [ERROR:flutterruntimedart_vm_initializer.cc(41)] Unhandled Exception: PlatformException(channel-error, Unable to establish connection on channel., null, null)" />
@@ -55,12 +56,11 @@
       <item value="Return whether you have been granted the permissions." />
       <item value="thất bại" />
       <item value="To cancel the subscription, use [cancel]." />
-      <item value="Close instances of `dart.core.Sink`. (Documentation)" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="954" />
+        <entry key="ENGLISH" value="955" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -68,7 +68,7 @@
         <entry key="LAO" value="113" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="954" />
+        <entry key="VIETNAMESE" value="955" />
       </map>
     </option>
   </component>
