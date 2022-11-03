@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="443" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Eflutter ( 7409): [ERROR:flutterruntimedart_vm_initializer.cc(41)] Unhandled Exception: PlatformException(channel-error, Unable to establish connection on channel., null, null)" />
+      <item value="WFlutterActivityAndFragmentDelegate( 7409): A splash screen was provided to Flutter, but this is deprecated. See flutter.devgoandroid-splash-migration for migration steps." />
+      <item value="Eflutter ( 6207): [ERROR:flutterruntimedart_vm_initializer.cc(41)] Unhandled Exception: PlatformException(channel-error, Unable to establish connection on channel., null, null)" />
+      <item value="WFlutterActivityAndFragmentDelegate( 8765): A splash screen was provided to Flutter, but this is deprecated. See flutter.devgoandroid-splash-migration for migration steps." />
       <item value="def Style Attr" />
       <item value="reference" />
       <item value="Short label must be provided" />
@@ -52,15 +56,11 @@
       <item value="thất bại" />
       <item value="To cancel the subscription, use [cancel]." />
       <item value="Close instances of `dart.core.Sink`. (Documentation)" />
-      <item value="When [close] is called, it will return the [done] [Future]." />
-      <item value="Returns a view of this object that only exposes the [StreamSink] interface." />
-      <item value="Hủy thanh toán" />
-      <item value="Hủy thanh " />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="950" />
+        <entry key="ENGLISH" value="954" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -68,7 +68,7 @@
         <entry key="LAO" value="113" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="951" />
+        <entry key="VIETNAMESE" value="954" />
       </map>
     </option>
   </component>
