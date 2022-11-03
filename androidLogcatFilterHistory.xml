@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="http" />
     <option name="nonFavorites">
       <list>
+        <option value="http" />
         <option value="package:mine " />
         <option value="tag:http package:mine " />
         <option value="tag:" />
@@ -22,7 +23,6 @@
         <option value="level:error package:mine message:HandlerObserverApi" />
         <option value="level:error package:mine " />
         <option value="package:mine &amp; message:readLineHandler" />
-        <option value="package:mine &amp; message:K3ProThermometer &amp; -message:handleFakeOfFakeData " />
       </list>
     </option>
   </component>
