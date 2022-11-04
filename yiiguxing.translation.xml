@@ -6,6 +6,11 @@
     <option name="newTranslationDialogY" value="443" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="quá khứ" />
+      <item value="quá khui" />
+      <item value="quá " />
+      <item value="qua " />
+      <item value="Quá kh" />
       <item value="Quá khú" />
       <item value="Quá tệ" />
       <item value="Too bad" />
@@ -51,11 +56,6 @@
       <item value="s" />
       <item value="│ [!] Your project requires a higher compileSdkVersion. │" />
       <item value="Userstrung.pub-cachehostedpub.dartlang.orgfirebase_core-1.24.0libsrcfirebase_app.dart:18:25: Error: Member not found: 'FirebaseAppPlatform.verifyExtends'." />
-      <item value="Firebase App Platform.verify Extends(_delegate);" />
-      <item value="mặc định" />
-      <item value="mặc địn" />
-      <item value="MẠc định" />
-      <item value="macj ddi" />
     </histories>
     <option name="languageScores">
       <map>
