@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="443" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="decode" />
       <item value="String resource ID 0x0" />
       <item value="android.content.res.ResourcesNotFoundException: String resource ID 0x0" />
       <item value="quá khứ" />
@@ -55,7 +56,6 @@
       <item value="nghỉ lễ" />
       <item value="nghỉ ;" />
       <item value="sổ liên lạc" />
-      <item value="s" />
     </histories>
     <option name="languageScores">
       <map>
@@ -68,7 +68,7 @@
         <entry key="LAO" value="113" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="967" />
+        <entry key="VIETNAMESE" value="968" />
       </map>
     </option>
   </component>
