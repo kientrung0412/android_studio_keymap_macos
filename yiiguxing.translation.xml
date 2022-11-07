@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="443" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="rv corners" />
       <item value="Interaction Fragment" />
       <item value="java.lang.IllegalStateException: ViewHolder views must not be attached when created. Ensure that you are not passing 'true' to the attachToRoot parameter of LayoutInflater.inflate(..., boolean attachToRoot)" />
       <item value="decode" />
@@ -55,12 +56,11 @@
       <item value="đồng hồ" />
       <item value="dd" />
       <item value="d" />
-      <item value="nghỉ lễ" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="969" />
+        <entry key="ENGLISH" value="970" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -68,12 +68,12 @@
         <entry key="LAO" value="113" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="969" />
+        <entry key="VIETNAMESE" value="970" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1667199247433" />
+    <option name="lastTrimTime" value="1667793707296" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
