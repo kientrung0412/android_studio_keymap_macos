@@ -6,61 +6,61 @@
     <option name="newTranslationDialogY" value="443" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="│ [!] Your project requires a higher compileSdkVersion. │" />
-      <item value="Userstrung.pub-cachehostedpub.dartlang.orgfirebase_core-1.24.0libsrcfirebase_app.dart:18:25: Error: Member not found: 'FirebaseAppPlatform.verifyExtends'." />
-      <item value="Firebase App Platform.verify Extends(_delegate);" />
-      <item value="mặc định" />
-      <item value="mặc địn" />
-      <item value="MẠc định" />
-      <item value="macj ddi" />
-      <item value="Don't use one refreshController to multiple SmartRefresher,It will cause some unexpected bugs mostly in TabBarView" />
-      <item value="mô tả" />
-      <item value="moo" />
-      <item value="mo" />
-      <item value="Indexed Stack" />
-      <item value="Submission date&#10;" />
-      <item value="Submission date" />
-      <item value="load more success without error,but no data returned" />
-      <item value="for some special situation, you should call dispose() for safe,it may throw errors after parent widget dispose" />
-      <item value="hardware Accelerated" />
-      <item value="Return whether you have been granted the permissions." />
-      <item value="thất bại" />
-      <item value="To cancel the subscription, use [cancel]." />
-      <item value="Close instances of `dart.core.Sink`. (Documentation)" />
-      <item value="When [close] is called, it will return the [done] [Future]." />
-      <item value="Returns a view of this object that only exposes the [StreamSink] interface." />
-      <item value="Hủy thanh toán" />
-      <item value="Hủy thanh " />
-      <item value="huy" />
-      <item value="Can not connect to redis&#10;" />
-      <item value="Can not connect to redis" />
-      <item value="Terminating app due to uncaught exception 'NSInvalidArgumentException', reason: 'Could not find a storyboard named 'Main' in bundle NSBundle &lt;/private/var/containers/Bundle/Application/79D748E5-83A1-4CD5-978F-BDDB72B152F4/Runner.app&gt; (loaded)'" />
-      <item value="will have the value of: ``` 0.0 &lt;= value &lt;= 1.0: about to be stuck 0.0 == value: at top -1.0 &gt;= value &gt;= 0.0: past stuck" />
-      <item value="Stack Overflow" />
-      <item value="The following StackOverflowError was thrown building BlocBuilder&lt;HomeworkCubit, HomeworkState&gt;(dirty, dependencies: [_InheritedProviderScope&lt;HomeworkCubit?&gt;], state: _BlocBuilderBaseState&lt;HomeworkCubit, HomeworkState&gt;f37d7):" />
-      <item value="When the exception was thrown, this was the stack:" />
-      <item value="The [callback] function is invoked after the given [duration]." />
-      <item value="cancel" />
-      <item value="tanh toán thành công" />
-      <item value="tanh toán thành côn" />
-      <item value="tanh táon" />
-      <item value="t" />
-      <item value="tahnh" />
-      <item value="success" />
-      <item value="thành công" />
-      <item value="thành coong" />
-      <item value="thành c" />
-      <item value="tahnhf c" />
-      <item value="suscces&#10;" />
-      <item value="ví điện tử" />
-      <item value="handle Fake Of Fake Data" />
-      <item value="so sanh" />
-      <item value="s" />
+      <item value="corner id" />
+      <item value="rv corners" />
+      <item value="Interaction Fragment" />
+      <item value="java.lang.IllegalStateException: ViewHolder views must not be attached when created. Ensure that you are not passing 'true' to the attachToRoot parameter of LayoutInflater.inflate(..., boolean attachToRoot)" />
+      <item value="decode" />
+      <item value="String resource ID 0x0" />
+      <item value="android.content.res.ResourcesNotFoundException: String resource ID 0x0" />
+      <item value="quá khứ" />
+      <item value="quá khui" />
+      <item value="quá " />
+      <item value="qua " />
+      <item value="Quá kh" />
+      <item value="Quá khú" />
+      <item value="Quá tệ" />
+      <item value="Too bad" />
+      <item value="quas " />
+      <item value="q" />
+      <item value="Lớp học thêm" />
+      <item value="Lớp " />
+      <item value="Lớp bộ môn" />
+      <item value="Lớp b" />
+      <item value="Lớp bi" />
+      <item value="Lớp chủ nhiệm" />
+      <item value="Lớp chủ nghiệm" />
+      <item value="Lớp" />
+      <item value="index Order" />
+      <item value="Eflutter ( 7409): [ERROR:flutterruntimedart_vm_initializer.cc(41)] Unhandled Exception: PlatformException(channel-error, Unable to establish connection on channel., null, null)" />
+      <item value="WFlutterActivityAndFragmentDelegate( 7409): A splash screen was provided to Flutter, but this is deprecated. See flutter.devgoandroid-splash-migration for migration steps." />
+      <item value="Eflutter ( 6207): [ERROR:flutterruntimedart_vm_initializer.cc(41)] Unhandled Exception: PlatformException(channel-error, Unable to establish connection on channel., null, null)" />
+      <item value="WFlutterActivityAndFragmentDelegate( 8765): A splash screen was provided to Flutter, but this is deprecated. See flutter.devgoandroid-splash-migration for migration steps." />
+      <item value="def Style Attr" />
+      <item value="reference" />
+      <item value="Short label must be provided" />
+      <item value="Check's that the api version meets the requirements" />
+      <item value="akes care of activating the pinned shortcuts" />
+      <item value="`" />
+      <item value="&#10;Method setDynamicShortcuts must be called from the worker thread, currently inferred thread is main thread" />
+      <item value="&gt; Android Gradle plugin requires Java 11 to run. You are currently using Java 1.8." />
+      <item value="Cause: comandroidtoolsideagradlerunOutputBuildAction has been compiled by a more recent version of the Java Runtime (class file version 55.0), this version of the Java Runtime only recognizes class file versions up to 52.0" />
+      <item value="Nullable" />
+      <item value="Contents of collection 'listFragment' are queried, but never updated " />
+      <item value="Lịch nghỉ lễ đã qua " />
+      <item value="schedule" />
+      <item value="Lịch nghỉ lễ sắp tới " />
+      <item value="Khoảng thời gian" />
+      <item value="Khoảng thời gina" />
+      <item value="Khoảng thời " />
+      <item value="Khoảng " />
+      <item value="đồng hồ" />
+      <item value="dd" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="935" />
+        <entry key="ENGLISH" value="971" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -68,12 +68,12 @@
         <entry key="LAO" value="113" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="935" />
+        <entry key="VIETNAMESE" value="971" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1667199247433" />
+    <option name="lastTrimTime" value="1667793707296" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
