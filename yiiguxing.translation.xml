@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="443" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="unrestricted" />
       <item value="Nullable" />
       <item value="nguyên gốc" />
       <item value="nguyên " />
@@ -55,12 +56,11 @@
       <item value="Short label must be provided" />
       <item value="Check's that the api version meets the requirements" />
       <item value="akes care of activating the pinned shortcuts" />
-      <item value="`" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="979" />
+        <entry key="ENGLISH" value="980" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -68,7 +68,7 @@
         <entry key="LAO" value="113" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="979" />
+        <entry key="VIETNAMESE" value="980" />
       </map>
     </option>
   </component>
