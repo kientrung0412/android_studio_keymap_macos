@@ -6,6 +6,19 @@
     <option name="newTranslationDialogY" value="443" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="nhiều hơn một học sinh được chọn" />
+      <item value="nhiều hơn một học sinh được ch" />
+      <item value="nhiều hơn một học sinh được " />
+      <item value="nhiều hơn một học sinh đ" />
+      <item value="nhiều hơn một học sin" />
+      <item value="nhiều hơn một " />
+      <item value="nhiều hơn một h" />
+      <item value="nhiều hơn " />
+      <item value="nhiều hơn o" />
+      <item value="nhiều hơn one" />
+      <item value="nhiều hơn 1" />
+      <item value="nhiều " />
+      <item value="nhieeuf " />
       <item value="unrestricted" />
       <item value="Nullable" />
       <item value="nguyên gốc" />
@@ -43,24 +56,11 @@
       <item value="Lớp bộ môn" />
       <item value="Lớp b" />
       <item value="Lớp bi" />
-      <item value="Lớp chủ nhiệm" />
-      <item value="Lớp chủ nghiệm" />
-      <item value="Lớp" />
-      <item value="index Order" />
-      <item value="Eflutter ( 7409): [ERROR:flutterruntimedart_vm_initializer.cc(41)] Unhandled Exception: PlatformException(channel-error, Unable to establish connection on channel., null, null)" />
-      <item value="WFlutterActivityAndFragmentDelegate( 7409): A splash screen was provided to Flutter, but this is deprecated. See flutter.devgoandroid-splash-migration for migration steps." />
-      <item value="Eflutter ( 6207): [ERROR:flutterruntimedart_vm_initializer.cc(41)] Unhandled Exception: PlatformException(channel-error, Unable to establish connection on channel., null, null)" />
-      <item value="WFlutterActivityAndFragmentDelegate( 8765): A splash screen was provided to Flutter, but this is deprecated. See flutter.devgoandroid-splash-migration for migration steps." />
-      <item value="def Style Attr" />
-      <item value="reference" />
-      <item value="Short label must be provided" />
-      <item value="Check's that the api version meets the requirements" />
-      <item value="akes care of activating the pinned shortcuts" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="980" />
+        <entry key="ENGLISH" value="982" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -68,7 +68,7 @@
         <entry key="LAO" value="113" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="980" />
+        <entry key="VIETNAMESE" value="982" />
       </map>
     </option>
   </component>
