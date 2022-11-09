@@ -6,6 +6,36 @@
     <option name="newTranslationDialogY" value="443" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="có một bài tập" />
+      <item value="có mười bài tập" />
+      <item value="có mười bài " />
+      <item value="có mười ba" />
+      <item value="có mười baui" />
+      <item value="có mu" />
+      <item value="có mo" />
+      <item value="có " />
+      <item value="có 1 bài tập" />
+      <item value="có 10 bài tập" />
+      <item value="có 1" />
+      <item value="có 1 bài thi" />
+      <item value="có một bài thi" />
+      <item value="có 10 bài kiểm tra" />
+      <item value="có 10 bài " />
+      <item value="có 10 " />
+      <item value="có 10 kỳ thi" />
+      <item value="there are 10 exams" />
+      <item value="có 10 bài thi" />
+      <item value="cóp" />
+      <item value="cos 10 baif thi" />
+      <item value="cos 10 bi" />
+      <item value="c" />
+      <item value="bài tập" />
+      <item value="baif taapj" />
+      <item value="baif ta" />
+      <item value="Thịt bò Tabaj" />
+      <item value="Tuần học" />
+      <item value="exercises week" />
+      <item value="exercises_week" />
       <item value="Bài thi" />
       <item value="curriculum" />
       <item value="Since last hot reload/restart: 1" />
@@ -26,41 +56,12 @@
       <item value="nhieeuf " />
       <item value="unrestricted" />
       <item value="Nullable" />
-      <item value="nguyên gốc" />
-      <item value="nguyên " />
-      <item value="nguyên ốc" />
-      <item value="nguyên g" />
-      <item value="nguyeen Nguyê" />
-      <item value="nguyeen " />
-      <item value="layout from end to start" />
-      <item value="layout from end to stae" />
-      <item value="layout from end to sat" />
-      <item value="layout from end to s" />
-      <item value="layout from eb" />
-      <item value="layout from " />
-      <item value="layout f" />
-      <item value="corner id" />
-      <item value="rv corners" />
-      <item value="Interaction Fragment" />
-      <item value="java.lang.IllegalStateException: ViewHolder views must not be attached when created. Ensure that you are not passing 'true' to the attachToRoot parameter of LayoutInflater.inflate(..., boolean attachToRoot)" />
-      <item value="decode" />
-      <item value="String resource ID 0x0" />
-      <item value="android.content.res.ResourcesNotFoundException: String resource ID 0x0" />
-      <item value="quá khứ" />
-      <item value="quá khui" />
-      <item value="quá " />
-      <item value="qua " />
-      <item value="Quá kh" />
-      <item value="Quá khú" />
-      <item value="Quá tệ" />
-      <item value="Too bad" />
-      <item value="quas " />
-      <item value="q" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="987" />
+        <entry key="ENGLISH" value="1008" />
+        <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
@@ -68,7 +69,7 @@
         <entry key="LAO" value="113" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="987" />
+        <entry key="VIETNAMESE" value="1010" />
       </map>
     </option>
   </component>
