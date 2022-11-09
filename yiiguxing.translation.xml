@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="443" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Since last hot reload/restart: 1" />
       <item value="Invoked when a page is loading." />
       <item value="When [onPageFinished] is invoked on Android, the page being rendered may not be updated yet." />
       <item value="nhiều hơn một học sinh được chọn" />
@@ -55,7 +56,6 @@
       <item value="q" />
       <item value="Lớp học thêm" />
       <item value="Lớp " />
-      <item value="Lớp bộ môn" />
     </histories>
     <option name="languageScores">
       <map>
@@ -68,7 +68,7 @@
         <entry key="LAO" value="113" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="984" />
+        <entry key="VIETNAMESE" value="985" />
       </map>
     </option>
   </component>
