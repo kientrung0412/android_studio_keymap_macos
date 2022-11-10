@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="http" />
+    <option name="mostRecentlyUsed" value="tag:http" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:http" />
         <option value="http" />
         <option value="package:" />
         <option value=" level:error package:mine " />
         <option value="glide" />
-        <option value="tag:http" />
         <option value=" package:mine " />
         <option value="activity package:mine " />
         <option value="tag:http p" />
