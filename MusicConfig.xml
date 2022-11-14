@@ -1,0 +1,5 @@
+<application>
+  <component name="MusicConfig">
+    <option name="onlyInEditor" value="true" />
+  </component>
+</application>
