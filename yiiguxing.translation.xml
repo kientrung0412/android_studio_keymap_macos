@@ -6,6 +6,11 @@
     <option name="newTranslationDialogY" value="443" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="_fix Luminence" />
+      <item value="The timeline content itself" />
+      <item value="scrubber Size" />
+      <item value="Text Height Behavior" />
+      <item value="Determine min and max size of the timeline based on the size available to this widget" />
       <item value="The following NoSuchMethodError was thrown while handling a gesture:" />
       <item value="When the exception was thrown, this was the stack:" />
       <item value="Tried calling: [](&quot;user_id&quot;)" />
@@ -51,16 +56,11 @@
       <item value="When [onPageFinished] is invoked on Android, the page being rendered may not be updated yet." />
       <item value="nhiều hơn một học sinh được chọn" />
       <item value="nhiều hơn một học sinh được ch" />
-      <item value="nhiều hơn một học sinh được " />
-      <item value="nhiều hơn một học sinh đ" />
-      <item value="nhiều hơn một học sin" />
-      <item value="nhiều hơn một " />
-      <item value="nhiều hơn một h" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="1016" />
+        <entry key="ENGLISH" value="1021" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
@@ -69,12 +69,12 @@
         <entry key="LAO" value="113" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="1016" />
+        <entry key="VIETNAMESE" value="1021" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1667793707296" />
+    <option name="lastTrimTime" value="1668393733030" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
