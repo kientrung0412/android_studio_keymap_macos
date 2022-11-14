@@ -1,5 +1,5 @@
 <application>
   <component name="MusicConfig">
-    <option name="onlyInEditor" value="true" />
+    <option name="algorithmType" value="SEQUENTIAL" />
   </component>
 </application>
