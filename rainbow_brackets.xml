@@ -7,6 +7,7 @@
     <option name="rainbowifyTagNameInXML" value="true" />
     <option name="showRainbowIndentGuides" value="false" />
     <option name="suppressBigFileCheck" value="true" />
+    <option name="useColorGenerator" value="true" />
     <option name="version" value="2022.3.4-ij" />
   </component>
 </application>
