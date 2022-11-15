@@ -4,8 +4,8 @@
     <option name="nonFavorites">
       <list>
         <option value="tag:http" />
-        <option value="tag:flutter " />
         <option value="tag:flutter" />
+        <option value="tag:flutter " />
         <option value="package:mine tag:http" />
         <option value="package:mine tag:Trungnk" />
         <option value="package:mine " />
