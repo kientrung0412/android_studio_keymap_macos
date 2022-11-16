@@ -4,9 +4,10 @@
     <option name="nonFavorites">
       <list>
         <option value="tag:http" />
-        <option value="tag:flutter" />
-        <option value="tag:flutter " />
+        <option value="Trungn" />
+        <option value="activity" />
         <option value="package:mine tag:http" />
+        <option value="tag:flutter" />
         <option value="package:mine tag:Trungnk" />
         <option value="package:mine " />
         <option value="http" />
@@ -16,13 +17,12 @@
         <option value=" package:mine " />
         <option value="activity package:mine " />
         <option value="tag:http p" />
+        <option value="tag:flutter " />
         <option value="package:mine tag:Trungnk " />
         <option value="tag:Trungnk" />
         <option value="level:error " />
         <option value="message:http" />
         <option value="tag:http package:mine " />
-        <option value="tag:" />
-        <option value="tag:trungn" />
       </list>
     </option>
   </component>

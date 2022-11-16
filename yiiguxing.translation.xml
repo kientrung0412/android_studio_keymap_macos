@@ -6,17 +6,7 @@
     <option name="newTranslationDialogY" value="443" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="tiến trinh" />
-      <item value="tiến tri" />
-      <item value="tiến tringf" />
-      <item value="tieens tr" />
-      <item value="layout below" />
-      <item value="gambar" />
-      <item value="The provider you are trying to read is in a different route. Providers are &quot;scoped&quot;. So if you insert of provider inside a route, then other routes will not be able to access that provider." />
-      <item value="- You used a `BuildContext` that is an ancestor of the provider you are trying to read." />
-      <item value="Error: Could not find the correct Provider&lt;CounterBloc&gt; above this MyHomePage Widget" />
-      <item value="request Hide Fill Ui" />
-      <item value="Subjects for further study:" />
+      <item value="error: Class &quot;Record&quot; must declare a public constructor with no arguments if it contains custom constructors." />
       <item value="_fix Luminence" />
       <item value="The timeline content itself" />
       <item value="scrubber Size" />
@@ -56,11 +46,21 @@
       <item value="bài tập" />
       <item value="baif taapj" />
       <item value="baif ta" />
+      <item value="Thịt bò Tabaj" />
+      <item value="Tuần học" />
+      <item value="exercises week" />
+      <item value="exercises_week" />
+      <item value="Bài thi" />
+      <item value="curriculum" />
+      <item value="Since last hot reload/restart: 1" />
+      <item value="Invoked when a page is loading." />
+      <item value="When [onPageFinished] is invoked on Android, the page being rendered may not be updated yet." />
+      <item value="nhiều hơn một học sinh được chọn" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="1028" />
+        <entry key="ENGLISH" value="1022" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
@@ -69,8 +69,7 @@
         <entry key="LAO" value="113" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="INDONESIAN" value="1" />
-        <entry key="VIETNAMESE" value="1028" />
+        <entry key="VIETNAMESE" value="1022" />
       </map>
     </option>
   </component>
