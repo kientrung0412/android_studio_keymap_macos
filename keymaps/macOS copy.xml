@@ -11,6 +11,9 @@
     <keyboard-shortcut first-keystroke="ctrl meta x" />
   </action>
   <action id="EditorScrollToCenter" />
+  <action id="EditorSelectLine">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
   <action id="EditorSelectSingleLineAtCaret">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
