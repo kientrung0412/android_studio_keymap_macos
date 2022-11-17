@@ -1,16 +1,21 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine tag:okhttp.OkHttpClient | tag:Trungnk " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:okhttp.OkHttpClient | tag:Trungnk " />
+        <option value="package:mine tag:OkHttpClient | level:error | tag:Trungnk" />
+        <option value="package:mine tag:OkHttpClient | level:error | tag:" />
+        <option value="package:mine tag:OkHttpClient | level:error " />
+        <option value="package:mine tag:OkHttpClient" />
+        <option value="package:mine " />
+        <option value="package:mine tag:Trungnk " />
         <option value="tag:Trungnk" />
         <option value="tag:http" />
         <option value="package:mine message:syncImageAttendanceSuccess" />
-        <option value="package:mine " />
         <option value="package:mine level:error " />
         <option value="package:mine message:vn.omt.kidsonline.parent.ui.attendanceCome.autoDetect.attendanceWithFaces.AttendanceWithFaceActivity" />
         <option value="package:mine tag:Trungnk" />
-        <option value="package:mine tag:Trungnk " />
         <option value="package:mine tag:http" />
         <option value="package:mine tag:http | tag:Trungnk" />
         <option value="Trungnk" />
@@ -18,11 +23,6 @@
         <option value=" args[1] " />
         <option value="package:mine tag:Trungnk | tag:http" />
         <option value="t" />
-        <option value="package:com.kidsonline.teacher.debug tag:http" />
-        <option value="Trungn" />
-        <option value="activity" />
-        <option value="tag:flutter" />
-        <option value="http" />
       </list>
     </option>
   </component>
