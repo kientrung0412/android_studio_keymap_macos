@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:http" />
+    <option name="mostRecentlyUsed" value="tag:Trungnk" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Trungnk" />
         <option value="tag:http" />
         <option value="package:mine message:syncImageAttendanceSuccess" />
         <option value="package:mine " />
         <option value="package:mine level:error " />
         <option value="package:mine message:vn.omt.kidsonline.parent.ui.attendanceCome.autoDetect.attendanceWithFaces.AttendanceWithFaceActivity" />
-        <option value="tag:Trungnk" />
         <option value="package:mine tag:Trungnk" />
         <option value="package:mine tag:Trungnk " />
         <option value="package:mine tag:http" />
