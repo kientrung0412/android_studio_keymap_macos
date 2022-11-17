@@ -4,9 +4,10 @@
     <option name="nonFavorites">
       <list>
         <option value="tag:http" />
+        <option value="package:mine message:syncImageAttendanceSuccess" />
+        <option value="package:mine " />
         <option value="package:mine level:error " />
         <option value="package:mine message:vn.omt.kidsonline.parent.ui.attendanceCome.autoDetect.attendanceWithFaces.AttendanceWithFaceActivity" />
-        <option value="package:mine " />
         <option value="tag:Trungnk" />
         <option value="package:mine tag:Trungnk" />
         <option value="package:mine tag:Trungnk " />
@@ -22,7 +23,6 @@
         <option value="activity" />
         <option value="tag:flutter" />
         <option value="http" />
-        <option value="package:" />
       </list>
     </option>
   </component>
