@@ -2,10 +2,21 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="401" />
     <option name="newTranslationDialogWidth" value="1321" />
-    <option name="newTranslationDialogX" value="-21" />
-    <option name="newTranslationDialogY" value="946" />
+    <option name="newTranslationDialogX" value="879" />
+    <option name="newTranslationDialogY" value="889" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Default Progressbar:" />
+      <item value="Here\'s a message!" />
+      <item value="Built-in Progress Bar:" />
+      <item value="Bilah Kemajuan Bawaan:" />
+      <item value="No" />
+      <item value="Not" />
+      <item value="Tidak" />
+      <item value="Yes" />
+      <item value="Cancel" />
+      <item value="Membatalkan" />
+      <item value="OK" />
       <item value="bảy lần" />
       <item value="kali" />
       <item value="bertahun-tahun" />
@@ -45,22 +56,11 @@
       <item value="có một bài tập" />
       <item value="có mười bài tập" />
       <item value="có mười bài " />
-      <item value="có mười ba" />
-      <item value="có mười baui" />
-      <item value="có mu" />
-      <item value="có mo" />
-      <item value="có " />
-      <item value="có 1 bài tập" />
-      <item value="có 10 bài tập" />
-      <item value="có 1" />
-      <item value="có 1 bài thi" />
-      <item value="có một bài thi" />
-      <item value="có 10 bài kiểm tra" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="1040" />
+        <entry key="ENGLISH" value="1047" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
@@ -69,8 +69,8 @@
         <entry key="LAO" value="114" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="INDONESIAN" value="11" />
-        <entry key="VIETNAMESE" value="1036" />
+        <entry key="INDONESIAN" value="18" />
+        <entry key="VIETNAMESE" value="1037" />
       </map>
     </option>
   </component>
