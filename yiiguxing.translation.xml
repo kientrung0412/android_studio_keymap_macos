@@ -2,10 +2,28 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="401" />
     <option name="newTranslationDialogWidth" value="1321" />
-    <option name="newTranslationDialogX" value="191" />
-    <option name="newTranslationDialogY" value="443" />
+    <option name="newTranslationDialogX" value="-21" />
+    <option name="newTranslationDialogY" value="946" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="bảy lần" />
+      <item value="kali" />
+      <item value="bertahun-tahun" />
+      <item value="years" />
+      <item value="yeasrs" />
+      <item value="yeasr" />
+      <item value="yeas" />
+      <item value="yea" />
+      <item value="Comment" />
+      <item value="Komentar" />
+      <item value="Profil siswa" />
+      <item value="Profile students" />
+      <item value="siswa Profil " />
+      <item value="Profil" />
+      <item value="Commen" />
+      <item value="LIke" />
+      <item value="indo" />
+      <item value="Umpan" />
       <item value="'This property is no longer used, please use toolbarTextStyle and titleTextStyle instead. '" />
       <item value="period number" />
       <item value="is Disposed" />
@@ -38,38 +56,21 @@
       <item value="có 1 bài thi" />
       <item value="có một bài thi" />
       <item value="có 10 bài kiểm tra" />
-      <item value="có 10 bài " />
-      <item value="có 10 " />
-      <item value="có 10 kỳ thi" />
-      <item value="there are 10 exams" />
-      <item value="có 10 bài thi" />
-      <item value="cóp" />
-      <item value="cos 10 baif thi" />
-      <item value="cos 10 bi" />
-      <item value="c" />
-      <item value="bài tập" />
-      <item value="baif taapj" />
-      <item value="baif ta" />
-      <item value="Thịt bò Tabaj" />
-      <item value="Tuần học" />
-      <item value="exercises week" />
-      <item value="exercises_week" />
-      <item value="Bài thi" />
-      <item value="curriculum" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="1025" />
+        <entry key="ENGLISH" value="1040" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="113" />
+        <entry key="LAO" value="114" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="1025" />
+        <entry key="INDONESIAN" value="11" />
+        <entry key="VIETNAMESE" value="1036" />
       </map>
     </option>
   </component>
