@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="443" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="'This property is no longer used, please use toolbarTextStyle and titleTextStyle instead. '" />
       <item value="period number" />
       <item value="is Disposed" />
       <item value="UnsupportedOperationException" />
@@ -55,12 +56,11 @@
       <item value="exercises_week" />
       <item value="Bài thi" />
       <item value="curriculum" />
-      <item value="Since last hot reload/restart: 1" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="1024" />
+        <entry key="ENGLISH" value="1025" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
@@ -69,7 +69,7 @@
         <entry key="LAO" value="113" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="1024" />
+        <entry key="VIETNAMESE" value="1025" />
       </map>
     </option>
   </component>
