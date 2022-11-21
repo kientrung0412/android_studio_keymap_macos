@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="tag:http" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:http" />
         <option value="level:error " />
         <option value="tag:Trungnk | tag:http" />
         <option value="tag:Trungnk" />
@@ -13,7 +14,6 @@
         <option value="tag:Trungnk " />
         <option value="package:mine tag:okhttp.OkHttpClient | level:error " />
         <option value="package:mine tag:okhttp.OkHttpClient | tag:Trungnk " />
-        <option value="tag:http" />
         <option value="package:mine tag:OkHttpClient | level:error | tag:Trungnk" />
         <option value="package:mine tag:OkHttpClient | level:error | tag:" />
         <option value="package:mine tag:OkHttpClient | level:error " />
