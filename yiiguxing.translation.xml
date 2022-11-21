@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="956" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="is Show At Interaction" />
       <item value="The page to show when first creating the [PdfView]." />
       <item value="Masukan" />
       <item value="Default Progressbar:" />
@@ -55,12 +56,11 @@
       <item value="preserve" />
       <item value="s" />
       <item value="Keep native splash screen up until app is finished bootstrapping" />
-      <item value="có một bài tập" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="1049" />
+        <entry key="ENGLISH" value="1050" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="3" />
@@ -69,8 +69,8 @@
         <entry key="LAO" value="114" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="INDONESIAN" value="21" />
-        <entry key="VIETNAMESE" value="1038" />
+        <entry key="INDONESIAN" value="22" />
+        <entry key="VIETNAMESE" value="1039" />
       </map>
     </option>
   </component>
