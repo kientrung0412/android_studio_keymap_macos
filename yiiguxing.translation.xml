@@ -2,10 +2,30 @@
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="608" />
     <option name="newTranslationDialogWidth" value="1321" />
-    <option name="newTranslationDialogX" value="-1321" />
+    <option name="newTranslationDialogX" value="-1345" />
     <option name="newTranslationDialogY" value="472" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Keterangan" />
+      <item value="Umur" />
+      <item value="bukukelas" />
+      <item value="point plus" />
+      <item value="point " />
+      <item value="oint" />
+      <item value="points added" />
+      <item value="poin ditambahkan" />
+      <item value="points are added" />
+      <item value="điểm được cộng thêm" />
+      <item value="điển được cộng thêm" />
+      <item value="điển đ" />
+      <item value="điển đyw" />
+      <item value="đi" />
+      <item value="plus point" />
+      <item value="Point" />
+      <item value="Edit" />
+      <item value="Nilai" />
+      <item value="Behaviour grading" />
+      <item value="Invalid email" />
       <item value="start scan monitor code" />
       <item value="Start scan monitor code" />
       <item value="General module" />
@@ -36,41 +56,21 @@
       <item value="OK" />
       <item value="bảy lần" />
       <item value="kali" />
-      <item value="bertahun-tahun" />
-      <item value="years" />
-      <item value="yeasrs" />
-      <item value="yeasr" />
-      <item value="yeas" />
-      <item value="yea" />
-      <item value="Comment" />
-      <item value="Komentar" />
-      <item value="Profil siswa" />
-      <item value="Profile students" />
-      <item value="siswa Profil " />
-      <item value="Profil" />
-      <item value="Commen" />
-      <item value="LIke" />
-      <item value="indo" />
-      <item value="Umpan" />
-      <item value="'This property is no longer used, please use toolbarTextStyle and titleTextStyle instead. '" />
-      <item value="period number" />
-      <item value="is Disposed" />
-      <item value="UnsupportedOperationException" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="1059" />
+        <entry key="ENGLISH" value="1074" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="3" />
-        <entry key="FRENCH" value="3" />
+        <entry key="FRENCH" value="4" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="126" />
+        <entry key="LAO" value="130" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="INDONESIAN" value="22" />
-        <entry key="VIETNAMESE" value="1048" />
+        <entry key="INDONESIAN" value="38" />
+        <entry key="VIETNAMESE" value="1049" />
       </map>
     </option>
   </component>
@@ -80,7 +80,7 @@
   <component name="Settings">
     <option name="googleTranslateSettings">
       <google-translate>
-        <option name="primaryLanguage" value="LAO" />
+        <option name="primaryLanguage" value="INDONESIAN" />
       </google-translate>
     </option>
   </component>
