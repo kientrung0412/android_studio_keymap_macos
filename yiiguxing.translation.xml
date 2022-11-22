@@ -6,6 +6,13 @@
     <option name="newTranslationDialogY" value="472" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="so now, we have to learn every language" />
+      <item value="jadi sekarang, kita kena belajar setiap bahasa" />
+      <item value="konten kuliah dan materi" />
+      <item value="All" />
+      <item value="Parents" />
+      <item value="phụ huynh" />
+      <item value="up" />
       <item value="Keterangan" />
       <item value="Umur" />
       <item value="bukukelas" />
@@ -49,28 +56,22 @@
       <item value="Bilah Kemajuan Bawaan:" />
       <item value="No" />
       <item value="Not" />
-      <item value="Tidak" />
-      <item value="Yes" />
-      <item value="Cancel" />
-      <item value="Membatalkan" />
-      <item value="OK" />
-      <item value="bảy lần" />
-      <item value="kali" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="1074" />
+        <entry key="ENGLISH" value="1082" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="4" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="LAO" value="130" />
+        <entry key="MALAY" value="3" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="INDONESIAN" value="38" />
-        <entry key="VIETNAMESE" value="1049" />
+        <entry key="INDONESIAN" value="46" />
+        <entry key="VIETNAMESE" value="1050" />
       </map>
     </option>
   </component>
