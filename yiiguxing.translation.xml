@@ -6,6 +6,11 @@
     <option name="newTranslationDialogY" value="472" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Indonesian" />
+      <item value="Tiếng indo" />
+      <item value="Tiếng " />
+      <item value="Tiê" />
+      <item value="Tieengs" />
       <item value="Either zero or 2 or more [DropdownMenuItem]s were detected with the same value" />
       <item value="tuesday" />
       <item value="so now, we have to learn every language" />
@@ -51,16 +56,11 @@
       <item value="reason" />
       <item value="is Show At Interaction" />
       <item value="The page to show when first creating the [PdfView]." />
-      <item value="Masukan" />
-      <item value="Default Progressbar:" />
-      <item value="Here\'s a message!" />
-      <item value="Built-in Progress Bar:" />
-      <item value="Bilah Kemajuan Bawaan:" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="1084" />
+        <entry key="ENGLISH" value="1086" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="4" />
@@ -70,8 +70,8 @@
         <entry key="MALAY" value="3" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="INDONESIAN" value="48" />
-        <entry key="VIETNAMESE" value="1051" />
+        <entry key="INDONESIAN" value="49" />
+        <entry key="VIETNAMESE" value="1054" />
       </map>
     </option>
   </component>
