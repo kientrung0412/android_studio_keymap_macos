@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="472" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="tuesday" />
       <item value="so now, we have to learn every language" />
       <item value="jadi sekarang, kita kena belajar setiap bahasa" />
       <item value="konten kuliah dan materi" />
@@ -55,12 +56,11 @@
       <item value="Built-in Progress Bar:" />
       <item value="Bilah Kemajuan Bawaan:" />
       <item value="No" />
-      <item value="Not" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="1082" />
+        <entry key="ENGLISH" value="1083" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="4" />
@@ -70,7 +70,7 @@
         <entry key="MALAY" value="3" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="INDONESIAN" value="46" />
+        <entry key="INDONESIAN" value="47" />
         <entry key="VIETNAMESE" value="1050" />
       </map>
     </option>
