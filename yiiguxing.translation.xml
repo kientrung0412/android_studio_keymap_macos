@@ -6,6 +6,13 @@
     <option name="newTranslationDialogY" value="472" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="só sánh các thuật toán sắp xếp" />
+      <item value="só sánh các thuật toán sa" />
+      <item value="só sánh cãc" />
+      <item value="só" />
+      <item value="só anh" />
+      <item value="so sanh" />
+      <item value="s" />
       <item value="The rules of school" />
       <item value="tăng dần" />
       <item value="tăngdần" />
@@ -49,18 +56,11 @@
       <item value="Point" />
       <item value="Edit" />
       <item value="Nilai" />
-      <item value="Behaviour grading" />
-      <item value="Invalid email" />
-      <item value="start scan monitor code" />
-      <item value="Start scan monitor code" />
-      <item value="General module" />
-      <item value="Trade" />
-      <item value="ການຄ້າ" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="1096" />
+        <entry key="ENGLISH" value="1100" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="4" />
@@ -71,7 +71,7 @@
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
         <entry key="INDONESIAN" value="51" />
-        <entry key="VIETNAMESE" value="1066" />
+        <entry key="VIETNAMESE" value="1070" />
       </map>
     </option>
   </component>
