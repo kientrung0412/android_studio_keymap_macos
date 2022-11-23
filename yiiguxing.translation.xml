@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="472" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Hotline" />
+      <item value="Login" />
       <item value="Indonesian" />
       <item value="Tiếng indo" />
       <item value="Tiếng " />
@@ -54,13 +56,11 @@
       <item value="Enter OTP code" />
       <item value="Enter otp warning" />
       <item value="reason" />
-      <item value="is Show At Interaction" />
-      <item value="The page to show when first creating the [PdfView]." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="1086" />
+        <entry key="ENGLISH" value="1087" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="4" />
@@ -70,8 +70,8 @@
         <entry key="MALAY" value="3" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="INDONESIAN" value="49" />
-        <entry key="VIETNAMESE" value="1054" />
+        <entry key="INDONESIAN" value="51" />
+        <entry key="VIETNAMESE" value="1057" />
       </map>
     </option>
   </component>
