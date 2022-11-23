@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="472" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="The rules of school" />
       <item value="tăng dần" />
       <item value="tăngdần" />
       <item value="tăng" />
@@ -55,23 +56,22 @@
       <item value="General module" />
       <item value="Trade" />
       <item value="ການຄ້າ" />
-      <item value="trade" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="1095" />
+        <entry key="ENGLISH" value="1096" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="4" />
         <entry key="CORSICAN" value="1" />
         <entry key="LATIN" value="1" />
-        <entry key="LAO" value="130" />
+        <entry key="LAO" value="131" />
         <entry key="MALAY" value="3" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
         <entry key="INDONESIAN" value="51" />
-        <entry key="VIETNAMESE" value="1065" />
+        <entry key="VIETNAMESE" value="1066" />
       </map>
     </option>
   </component>
