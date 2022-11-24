@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:http" />
+    <option name="mostRecentlyUsed" value="tag:flutter" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:flutter" />
+        <option value="tag:flutter message:HistoryEatCubit" />
         <option value="tag:http" />
         <option value="tag:Trungnk" />
         <option value="level:error " />
@@ -21,8 +23,6 @@
         <option value="package:mine tag:Trungnk " />
         <option value="package:mine message:syncImageAttendanceSuccess" />
         <option value="package:mine level:error " />
-        <option value="package:mine message:vn.omt.kidsonline.parent.ui.attendanceCome.autoDetect.attendanceWithFaces.AttendanceWithFaceActivity" />
-        <option value="package:mine tag:Trungnk" />
       </list>
     </option>
   </component>

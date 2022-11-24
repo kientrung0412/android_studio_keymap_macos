@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="472" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="which creates a nested scroll view." />
+      <item value="which returns the end position of scrolling." />
+      <item value="which returns the start position of scrolling." />
+      <item value="which describes the notification lifecycle." />
       <item value="[ScrollStartNotification] which returns the start position of scrolling." />
       <item value="[ScrollNotification] which describes the notification lifecycle." />
       <item value="viewport Dimension" />
@@ -52,15 +56,11 @@
       <item value="Umur" />
       <item value="bukukelas" />
       <item value="point plus" />
-      <item value="point " />
-      <item value="oint" />
-      <item value="points added" />
-      <item value="poin ditambahkan" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="1110" />
+        <entry key="ENGLISH" value="1114" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="4" />
@@ -71,7 +71,7 @@
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
         <entry key="INDONESIAN" value="51" />
-        <entry key="VIETNAMESE" value="1080" />
+        <entry key="VIETNAMESE" value="1084" />
       </map>
     </option>
   </component>
