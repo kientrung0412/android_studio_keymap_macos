@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="472" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="The exception occurred during the creation of type AppCubit." />
       <item value="Bad state: Tried to read a provider that threw during the creation of its value." />
       <item value="] Unhandled Exception: DatabaseException" />
       <item value="Time" />
@@ -55,12 +56,11 @@
       <item value="Tiê" />
       <item value="Tieengs" />
       <item value="Either zero or 2 or more [DropdownMenuItem]s were detected with the same value" />
-      <item value="tuesday" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="1123" />
+        <entry key="ENGLISH" value="1125" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="4" />
@@ -70,8 +70,8 @@
         <entry key="MALAY" value="3" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="INDONESIAN" value="53" />
-        <entry key="VIETNAMESE" value="1091" />
+        <entry key="INDONESIAN" value="55" />
+        <entry key="VIETNAMESE" value="1093" />
       </map>
     </option>
   </component>
