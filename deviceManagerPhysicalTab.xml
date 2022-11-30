@@ -427,6 +427,16 @@
         <target value="Android 12.0" />
         <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-14cc25f0-Bk8aA2._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="Device" />
+        <target value="Android 1.0" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
