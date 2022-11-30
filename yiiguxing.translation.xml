@@ -85,4 +85,25 @@
       </google-translate>
     </option>
   </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1669776526948" />
+  </component>
+  <component name="Translation.States">
+    <option name="newTranslationDialogX" value="-1125" />
+    <option name="newTranslationDialogY" value="485" />
+    <histories>
+      <item value="Giám sát xe bus" />
+      <item value="Giám Sát Viên" />
+      <item value="pemantauan bus" />
+      <item value="pemantauan_bus" />
+      <item value="monitoring_bus" />
+      <item value="Filter" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+        <entry key="INDONESIAN" value="2" />
+      </map>
+    </option>
+  </component>
 </application>
