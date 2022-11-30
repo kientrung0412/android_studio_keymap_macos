@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="472" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Waiting for another flutter command to release the startup lock..." />
+      <item value="......OMTLibflutter_chat_modulelibscreenchatchat_search_widget.dart:24:21: Error: The method 'S' isn't defined for the class 'ChatSearchWidget'." />
       <item value="mengambil" />
       <item value="take" />
       <item value="manager " />
@@ -54,13 +56,11 @@
       <item value="tăng dần" />
       <item value="tăngdần" />
       <item value="tăng" />
-      <item value="r" />
-      <item value="tawng " />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="1134" />
+        <entry key="ENGLISH" value="1136" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="3" />
         <entry key="FRENCH" value="4" />
@@ -70,8 +70,8 @@
         <entry key="MALAY" value="3" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="INDONESIAN" value="64" />
-        <entry key="VIETNAMESE" value="1099" />
+        <entry key="INDONESIAN" value="66" />
+        <entry key="VIETNAMESE" value="1101" />
       </map>
     </option>
   </component>
