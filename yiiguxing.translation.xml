@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="443" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="dance&#10;" />
+      <item value="da" />
       <item value="error: Class &quot;Record&quot; must declare a public constructor with no arguments if it contains custom constructors." />
       <item value="_fix Luminence" />
       <item value="The timeline content itself" />
@@ -54,8 +56,6 @@
       <item value="curriculum" />
       <item value="Since last hot reload/restart: 1" />
       <item value="Invoked when a page is loading." />
-      <item value="When [onPageFinished] is invoked on Android, the page being rendered may not be updated yet." />
-      <item value="nhiều hơn một học sinh được chọn" />
     </histories>
     <option name="languageScores">
       <map>
@@ -69,12 +69,12 @@
         <entry key="LAO" value="113" />
         <entry key="HMONG" value="1" />
         <entry key="CEBUANO" value="1" />
-        <entry key="VIETNAMESE" value="1022" />
+        <entry key="VIETNAMESE" value="1023" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1668393733030" />
+    <option name="lastTrimTime" value="1669891762680" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
