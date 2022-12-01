@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="com.kidsonline.teacher" />
+    <option name="mostRecentlyUsed" value="tag:http" />
     <option name="nonFavorites">
       <list>
-        <option value="com.kidsonline.teacher" />
         <option value="tag:http" />
+        <option value="http" />
+        <option value="com.kidsonline.teacher" />
         <option value="level:error " />
         <option value="t" />
         <option value="tag:flutter" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:OkHttpClient | level:error | tag:" />
         <option value="package:mine tag:OkHttpClient | level:error " />
         <option value="package:mine tag:OkHttpClient" />
-        <option value="package:mine tag:Trungnk " />
       </list>
     </option>
   </component>
