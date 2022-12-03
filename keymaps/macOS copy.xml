@@ -11,6 +11,9 @@
     <keyboard-shortcut first-keystroke="ctrl meta x" />
   </action>
   <action id="EditorScrollToCenter" />
+  <action id="EditorSelectLine">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
   <action id="EditorSelectSingleLineAtCaret">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
@@ -18,6 +21,7 @@
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
   <action id="Exit" />
+  <action id="FileChooser.TogglePathShowing" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <keyboard-shortcut first-keystroke="meta alt right" />
@@ -32,6 +36,7 @@
   </action>
   <action id="Images.Thumbnails.Hide" />
   <action id="MinimizeCurrentWindow" />
+  <action id="ParameterInfo" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
     <keyboard-shortcut first-keystroke="shift ctrl f" />
@@ -46,6 +51,9 @@
   </action>
   <action id="StringManipulation.ToCamelCase">
     <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+  <action id="StringManipulation.ToPascalCase">
+    <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="StringManipulation.ToSnakeCase">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
