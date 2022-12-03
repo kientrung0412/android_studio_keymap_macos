@@ -96,6 +96,10 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="equal" />
+      <item value="có" />
+      <item value="Khác nhau" />
+      <item value="Khacs" />
       <item value="demo&#10;" />
       <item value="de" />
       <item value="can accept" />
@@ -116,8 +120,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="10" />
-        <entry key="INDONESIAN" value="3" />
+        <entry key="ENGLISH" value="12" />
+        <entry key="INDONESIAN" value="7" />
         <entry key="VIETNAMESE" value="7" />
       </map>
     </option>
