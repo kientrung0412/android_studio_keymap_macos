@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="The &quot;instance&quot; getter on the ServicesBinding binding mixin is only available once that binding has been initialized." />
       <item value="equal" />
       <item value="có" />
       <item value="Khác nhau" />
@@ -107,7 +108,6 @@
       <item value="Initializes the shared preferences with mock values for testing. If the singleton instance has been initialized already, it is nullified." />
       <item value="Failed to load &quot;VolumesDataOmtKO_NEWkidsonline_teacher_v6testdatastrogatespf_test.dart&quot;: MissingPluginException(No implementation found for method getAll on channel plugins.flutter.ioshared_preferences_macos)" />
       <item value="Binding has not yet been initialized." />
-      <item value="The &quot;instance&quot; getter on the ServicesBinding binding mixin is only available once that binding has been initialized." />
       <item value="The backgroundHandler needs to be either a static function or a top" />
       <item value="Host platform returned null value for non-null return value." />
       <item value="Firebase App Platform" />
@@ -120,9 +120,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="12" />
-        <entry key="INDONESIAN" value="7" />
-        <entry key="VIETNAMESE" value="7" />
+        <entry key="ENGLISH" value="13" />
+        <entry key="INDONESIAN" value="8" />
+        <entry key="VIETNAMESE" value="8" />
       </map>
     </option>
   </component>
