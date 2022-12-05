@@ -86,7 +86,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1669776526948" />
+    <option name="lastTrimTime" value="1670253908231" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="INDONESIAN" />
@@ -96,6 +96,11 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="Member not found: 'UnicodeChar'. int get UnicodeChar =&gt; Char.UnicodeChar;" />
+      <item value="Other asset" />
+      <item value="duration" />
+      <item value="播放" />
+      <item value="export" />
       <item value="The &quot;instance&quot; getter on the ServicesBinding binding mixin is only available once that binding has been initialized." />
       <item value="equal" />
       <item value="có" />
@@ -120,9 +125,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="13" />
-        <entry key="INDONESIAN" value="8" />
-        <entry key="VIETNAMESE" value="8" />
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="16" />
+        <entry key="INDONESIAN" value="12" />
+        <entry key="VIETNAMESE" value="9" />
       </map>
     </option>
   </component>
