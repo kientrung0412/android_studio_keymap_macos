@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="&gt; Could not get unknown property 'ndkVersion' for extension 'flutter' of type FlutterExtension." />
       <item value="One or more plugins require a higher Android SDK version." />
       <item value="Member not found: 'UnicodeChar'. int get UnicodeChar =&gt; Char.UnicodeChar;" />
       <item value="Other asset" />
@@ -127,9 +128,9 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="18" />
-        <entry key="INDONESIAN" value="14" />
-        <entry key="VIETNAMESE" value="10" />
+        <entry key="ENGLISH" value="19" />
+        <entry key="INDONESIAN" value="15" />
+        <entry key="VIETNAMESE" value="11" />
       </map>
     </option>
   </component>
