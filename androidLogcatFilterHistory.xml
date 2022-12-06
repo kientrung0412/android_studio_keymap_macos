@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="message:MyFirebaseMessagingServiceV4" />
     <option name="nonFavorites">
       <list>
+        <option value="message:MyFirebaseMessagingServiceV4" />
+        <option value="tag:http | message:MyFirebaseMessagingServiceV4" />
+        <option value="tag:http | message:noti" />
         <option value="level:error " />
         <option value="tag:http" />
         <option value="tag:activity" />
@@ -20,9 +23,6 @@
         <option value="package:mine " />
         <option value="tag:Trungnk | level:error | tag:okhttp.OkHttpClient " />
         <option value="tag:Trungnk | level:error " />
-        <option value="tag:Trungnk " />
-        <option value="package:mine tag:okhttp.OkHttpClient | level:error " />
-        <option value="package:mine tag:okhttp.OkHttpClient | tag:Trungnk " />
       </list>
     </option>
   </component>
