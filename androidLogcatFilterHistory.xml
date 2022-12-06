@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="http" />
     <option name="nonFavorites">
       <list>
+        <option value="http" />
         <option value="level:error " />
         <option value="tag:http" />
         <option value="tag:activity" />
         <option value="tag:activ" />
         <option value="package:mine" />
         <option value="tag:ht" />
-        <option value="http" />
         <option value="com.kidsonline.teacher" />
         <option value="t" />
         <option value="tag:flutter" />
