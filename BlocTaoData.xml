@@ -1,5 +1,6 @@
 <application>
   <component name="BlocTaoData">
-    <option name="defaultMode" value="1" />
+    <option name="useFolder" value="false" />
+    <option name="usePrefix" value="true" />
   </component>
 </application>
