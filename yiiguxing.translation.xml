@@ -97,6 +97,8 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="lọc" />
+      <item value="locj" />
       <item value="With out&#10;" />
       <item value="Witout&#10;" />
       <item value="Whitout&#10;" />
@@ -136,9 +138,9 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="23" />
+        <entry key="ENGLISH" value="24" />
         <entry key="INDONESIAN" value="15" />
-        <entry key="VIETNAMESE" value="16" />
+        <entry key="VIETNAMESE" value="18" />
       </map>
     </option>
   </component>
