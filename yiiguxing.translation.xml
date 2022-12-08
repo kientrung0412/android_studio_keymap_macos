@@ -97,6 +97,7 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="Schedule" />
       <item value="Null check operator used on a null value" />
       <item value="'This field is now ignored. ' 'This feature was deprecated after v2.2.0-10.1.pre.'" />
       <item value="TODO(jacobr): consider nesting the failures object so it is collapsible." />
@@ -142,9 +143,9 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="28" />
+        <entry key="ENGLISH" value="29" />
         <entry key="INDONESIAN" value="15" />
-        <entry key="VIETNAMESE" value="22" />
+        <entry key="VIETNAMESE" value="23" />
       </map>
     </option>
   </component>
