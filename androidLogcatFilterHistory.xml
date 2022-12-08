@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="noti" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Trungnk" />
         <option value="noti" />
         <option value="package:mine " />
         <option value="package:mine tag:htt" />
@@ -20,7 +21,6 @@
         <option value="t" />
         <option value="tag:flutter" />
         <option value="tag:flutter message:HistoryEatCubit" />
-        <option value="tag:Trungnk" />
         <option value="tag:Trungnk | tag:http" />
         <option value="package:mine tag:http" />
       </list>
