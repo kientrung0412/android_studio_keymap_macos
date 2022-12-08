@@ -97,6 +97,11 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="With out&#10;" />
+      <item value="Witout&#10;" />
+      <item value="Whitout&#10;" />
+      <item value="bằng nhau" />
+      <item value="bằng" />
       <item value="HOÀN THÀNH" />
       <item value="HOAF" />
       <item value="&gt; Could not get unknown property 'ndkVersion' for extension 'flutter' of type FlutterExtension." />
@@ -131,9 +136,9 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="21" />
+        <entry key="ENGLISH" value="23" />
         <entry key="INDONESIAN" value="15" />
-        <entry key="VIETNAMESE" value="13" />
+        <entry key="VIETNAMESE" value="16" />
       </map>
     </option>
   </component>
