@@ -97,6 +97,8 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="emit was called after an event handler completed normally." />
+      <item value="Bad state: add(GetLearn) was called without a registered event handler." />
       <item value="giây" />
       <item value="giaay" />
       <item value="g" />
@@ -145,15 +147,13 @@
       <item value="equal" />
       <item value="có" />
       <item value="Khác nhau" />
-      <item value="Khacs" />
-      <item value="demo&#10;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="44" />
+        <entry key="ENGLISH" value="46" />
         <entry key="INDONESIAN" value="15" />
-        <entry key="VIETNAMESE" value="39" />
+        <entry key="VIETNAMESE" value="41" />
       </map>
     </option>
   </component>
