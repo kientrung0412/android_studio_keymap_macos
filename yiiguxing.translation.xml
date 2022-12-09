@@ -95,8 +95,18 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogX" value="769" />
-    <option name="newTranslationDialogY" value="485" />
+    <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Đã điểm danh" />
+      <item value="Đã " />
+      <item value="Đã" />
+      <item value="Tham dự" />
+      <item value="Attendanced" />
+      <item value="Attendance" />
+      <item value="Đăng ký" />
+      <item value="enrolled" />
+      <item value="đã điểm danh" />
+      <item value="ddax" />
       <item value="from Environment" />
       <item value="Trạng thái tính năng" />
       <item value="Chạng thái tính năng" />
@@ -137,23 +147,13 @@
       <item value="can accept" />
       <item value="is Class Extracurricular" />
       <item value="Initializes the shared preferences with mock values for testing. If the singleton instance has been initialized already, it is nullified." />
-      <item value="Failed to load &quot;VolumesDataOmtKO_NEWkidsonline_teacher_v6testdatastrogatespf_test.dart&quot;: MissingPluginException(No implementation found for method getAll on channel plugins.flutter.ioshared_preferences_macos)" />
-      <item value="Binding has not yet been initialized." />
-      <item value="The backgroundHandler needs to be either a static function or a top" />
-      <item value="Host platform returned null value for non-null return value." />
-      <item value="Firebase App Platform" />
-      <item value="Giám sát xe bus" />
-      <item value="Giám Sát Viên" />
-      <item value="pemantauan bus" />
-      <item value="pemantauan_bus" />
-      <item value="monitoring_bus" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="34" />
+        <entry key="ENGLISH" value="40" />
         <entry key="INDONESIAN" value="15" />
-        <entry key="VIETNAMESE" value="28" />
+        <entry key="VIETNAMESE" value="35" />
       </map>
     </option>
   </component>
