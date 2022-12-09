@@ -97,6 +97,14 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="485" />
     <histories>
+      <item value="from Environment" />
+      <item value="Trạng thái tính năng" />
+      <item value="Chạng thái tính năng" />
+      <item value="Chạng " />
+      <item value="Tran" />
+      <item value="Tra" />
+      <item value="Tea" />
+      <item value="tan" />
       <item value="Creates a box that will become as small as its parent allows." />
       <item value="Schedule" />
       <item value="Null check operator used on a null value" />
@@ -139,14 +147,13 @@
       <item value="pemantauan bus" />
       <item value="pemantauan_bus" />
       <item value="monitoring_bus" />
-      <item value="Filter" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="ENGLISH" value="34" />
         <entry key="INDONESIAN" value="15" />
-        <entry key="VIETNAMESE" value="24" />
+        <entry key="VIETNAMESE" value="28" />
       </map>
     </option>
   </component>
