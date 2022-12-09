@@ -97,6 +97,10 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="giây" />
+      <item value="giaay" />
+      <item value="g" />
+      <item value="is At Same Moment As" />
       <item value="Đã điểm danh" />
       <item value="Đã " />
       <item value="Đã" />
@@ -143,17 +147,13 @@
       <item value="Khác nhau" />
       <item value="Khacs" />
       <item value="demo&#10;" />
-      <item value="de" />
-      <item value="can accept" />
-      <item value="is Class Extracurricular" />
-      <item value="Initializes the shared preferences with mock values for testing. If the singleton instance has been initialized already, it is nullified." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="ENGLISH" value="44" />
         <entry key="INDONESIAN" value="15" />
-        <entry key="VIETNAMESE" value="35" />
+        <entry key="VIETNAMESE" value="39" />
       </map>
     </option>
   </component>
