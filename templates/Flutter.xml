@@ -5,4 +5,9 @@
       <option name="DART" value="true" />
     </context>
   </template>
+  <template name="pri" value="context.primaryColor" description="Primary color" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
 </templateSet>
