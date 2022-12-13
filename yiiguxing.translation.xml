@@ -86,7 +86,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1670253908231" />
+    <option name="lastTrimTime" value="1670902802407" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="VIETNAMESE" />
@@ -97,6 +97,7 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="mũi tên" />
       <item value="emit was called after an event handler completed normally." />
       <item value="Bad state: add(GetLearn) was called without a registered event handler." />
       <item value="giây" />
@@ -146,14 +147,13 @@
       <item value="The &quot;instance&quot; getter on the ServicesBinding binding mixin is only available once that binding has been initialized." />
       <item value="equal" />
       <item value="có" />
-      <item value="Khác nhau" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="ENGLISH" value="47" />
         <entry key="INDONESIAN" value="15" />
-        <entry key="VIETNAMESE" value="41" />
+        <entry key="VIETNAMESE" value="42" />
       </map>
     </option>
   </component>
