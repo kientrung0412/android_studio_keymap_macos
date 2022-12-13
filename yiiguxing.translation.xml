@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Checks whether any element of this iterable satisfies [test]." />
       <item value="Eflutter (11376): [ERROR:flutterruntimedart_vm_initializer.cc(41)] Unhandled Exception: Error: Context is null, Please call init(context) before showing toast." />
       <item value="nâng cao" />
       <item value="mẫu câu" />
@@ -145,14 +146,13 @@
       <item value="&gt; Could not get unknown property 'ndkVersion' for extension 'flutter' of type FlutterExtension." />
       <item value="One or more plugins require a higher Android SDK version." />
       <item value="Member not found: 'UnicodeChar'. int get UnicodeChar =&gt; Char.UnicodeChar;" />
-      <item value="Other asset" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="ENGLISH" value="53" />
         <entry key="INDONESIAN" value="15" />
-        <entry key="VIETNAMESE" value="47" />
+        <entry key="VIETNAMESE" value="48" />
       </map>
     </option>
   </component>
