@@ -10,4 +10,14 @@
       <option name="DART" value="true" />
     </context>
   </template>
+  <template name="stl" value="StatelessWidget" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+  <template name="stf" value="StatefulWidget" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
 </templateSet>
