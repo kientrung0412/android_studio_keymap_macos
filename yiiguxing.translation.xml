@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Nháp" />
+      <item value="nhaps" />
       <item value="PROMOTION" />
       <item value="is Already Assessment" />
       <item value="Checks whether any element of this iterable satisfies [test]." />
@@ -144,15 +146,13 @@
       <item value="bằng nhau" />
       <item value="bằng" />
       <item value="HOÀN THÀNH" />
-      <item value="HOAF" />
-      <item value="&gt; Could not get unknown property 'ndkVersion' for extension 'flutter' of type FlutterExtension." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="ENGLISH" value="57" />
         <entry key="INDONESIAN" value="15" />
-        <entry key="VIETNAMESE" value="50" />
+        <entry key="VIETNAMESE" value="52" />
       </map>
     </option>
   </component>
