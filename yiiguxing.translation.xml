@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="giây" />
       <item value="Associates the [value] with the n-th key. An exception is raised if the key does not exist." />
       <item value="Saves the [key] - [value] pair." />
       <item value="Nháp" />
@@ -112,7 +113,6 @@
       <item value="mũi tên" />
       <item value="emit was called after an event handler completed normally." />
       <item value="Bad state: add(GetLearn) was called without a registered event handler." />
-      <item value="giây" />
       <item value="giaay" />
       <item value="g" />
       <item value="is At Same Moment As" />
@@ -150,9 +150,9 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="59" />
+        <entry key="ENGLISH" value="60" />
         <entry key="INDONESIAN" value="15" />
-        <entry key="VIETNAMESE" value="54" />
+        <entry key="VIETNAMESE" value="55" />
       </map>
     </option>
   </component>
