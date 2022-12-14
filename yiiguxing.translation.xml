@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Associates the [value] with the n-th key. An exception is raised if the key does not exist." />
+      <item value="Saves the [key] - [value] pair." />
       <item value="Nháp" />
       <item value="nhaps" />
       <item value="PROMOTION" />
@@ -144,15 +146,13 @@
       <item value="Witout&#10;" />
       <item value="Whitout&#10;" />
       <item value="bằng nhau" />
-      <item value="bằng" />
-      <item value="HOÀN THÀNH" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="ENGLISH" value="59" />
         <entry key="INDONESIAN" value="15" />
-        <entry key="VIETNAMESE" value="52" />
+        <entry key="VIETNAMESE" value="54" />
       </map>
     </option>
   </component>
