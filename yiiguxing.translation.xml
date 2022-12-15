@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="This is usually due to an unawaited future in an event handler." />
+      <item value="emit was called after an event handler completed normally." />
       <item value="Write a 64-bit signed integer as eight bytes." />
       <item value="container Without Accent" />
       <item value="Set preferred refresh rate to the max possible (the OS may ignore this)" />
@@ -120,7 +122,6 @@
       <item value="mẫu câi" />
       <item value="maaux c" />
       <item value="mũi tên" />
-      <item value="emit was called after an event handler completed normally." />
       <item value="Bad state: add(GetLearn) was called without a registered event handler." />
       <item value="giaay" />
       <item value="g" />
@@ -145,14 +146,13 @@
       <item value="tan" />
       <item value="Creates a box that will become as small as its parent allows." />
       <item value="Schedule" />
-      <item value="Null check operator used on a null value" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="67" />
+        <entry key="ENGLISH" value="69" />
         <entry key="INDONESIAN" value="15" />
-        <entry key="VIETNAMESE" value="63" />
+        <entry key="VIETNAMESE" value="65" />
       </map>
     </option>
   </component>
