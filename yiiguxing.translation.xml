@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="container Without Accent" />
       <item value="Set preferred refresh rate to the max possible (the OS may ignore this)" />
       <item value="Blue container should match the height of the pink one below" />
       <item value="nguyên gốc" />
@@ -145,14 +146,13 @@
       <item value="Schedule" />
       <item value="Null check operator used on a null value" />
       <item value="'This field is now ignored. ' 'This feature was deprecated after v2.2.0-10.1.pre.'" />
-      <item value="TODO(jacobr): consider nesting the failures object so it is collapsible." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="65" />
+        <entry key="ENGLISH" value="66" />
         <entry key="INDONESIAN" value="15" />
-        <entry key="VIETNAMESE" value="61" />
+        <entry key="VIETNAMESE" value="62" />
       </map>
     </option>
   </component>
