@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Write a 64-bit signed integer as eight bytes." />
       <item value="container Without Accent" />
       <item value="Set preferred refresh rate to the max possible (the OS may ignore this)" />
       <item value="Blue container should match the height of the pink one below" />
@@ -145,14 +146,13 @@
       <item value="Creates a box that will become as small as its parent allows." />
       <item value="Schedule" />
       <item value="Null check operator used on a null value" />
-      <item value="'This field is now ignored. ' 'This feature was deprecated after v2.2.0-10.1.pre.'" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="ENGLISH" value="67" />
         <entry key="INDONESIAN" value="15" />
-        <entry key="VIETNAMESE" value="62" />
+        <entry key="VIETNAMESE" value="63" />
       </map>
     </option>
   </component>
