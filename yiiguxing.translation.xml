@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Iflutter (10264): When your heart's just like a drum." />
+      <item value="Iflutter (10264): Beating louder with no way to guard it." />
       <item value="This is usually due to an unawaited future in an event handler." />
       <item value="emit was called after an event handler completed normally." />
       <item value="Write a 64-bit signed integer as eight bytes." />
@@ -144,15 +146,13 @@
       <item value="Tra" />
       <item value="Tea" />
       <item value="tan" />
-      <item value="Creates a box that will become as small as its parent allows." />
-      <item value="Schedule" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="ENGLISH" value="71" />
         <entry key="INDONESIAN" value="15" />
-        <entry key="VIETNAMESE" value="65" />
+        <entry key="VIETNAMESE" value="67" />
       </map>
     </option>
   </component>
