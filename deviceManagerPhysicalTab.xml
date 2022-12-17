@@ -434,8 +434,9 @@
             <value value="adb-14cc25f0-Bk8aA2._adb-tls-connect._tcp." />
           </Key>
         </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
+        <name value="OnePlus LE2101" />
+        <target value="Android Tiramisu" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
