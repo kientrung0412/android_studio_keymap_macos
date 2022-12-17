@@ -13,4 +13,9 @@
     <variable name="Subject" expression="" defaultValue="&quot;Subject&quot;" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="st" value="state" description="state class" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="DART_TOPLEVEL" value="true" />
+    </context>
+  </template>
 </templateSet>
