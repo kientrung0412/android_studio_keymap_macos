@@ -438,6 +438,17 @@
         <target value="Android Tiramisu" />
         <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="1ee98055" />
+          </Key>
+        </key>
+        <name value="Xiaomi Redmi Note 9S" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
