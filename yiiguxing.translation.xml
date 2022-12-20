@@ -89,13 +89,16 @@
     <option name="lastTrimTime" value="1671358436208" />
   </component>
   <component name="Translation.Settings">
-    <option name="primaryLanguage" value="VIETNAMESE" />
+    <option name="primaryLanguage" value="LAO" />
     <option name="showWordsOnStartup" value="true" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Revenue generation failed" />
+      <item value="Do you want to cancel the receipt?" />
+      <item value="Phí thanh toán" />
       <item value="floating" />
       <item value="Placeholder" />
       <item value="ScrollController not attached to any scroll views" />
@@ -143,17 +146,14 @@
       <item value="g" />
       <item value="is At Same Moment As" />
       <item value="Đã điểm danh" />
-      <item value="Đã " />
-      <item value="Đã" />
-      <item value="Tham dự" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="82" />
-        <entry key="INDONESIAN" value="15" />
+        <entry key="ENGLISH" value="84" />
+        <entry key="INDONESIAN" value="17" />
         <entry key="IRISH" value="1" />
-        <entry key="VIETNAMESE" value="80" />
+        <entry key="VIETNAMESE" value="83" />
       </map>
     </option>
   </component>
