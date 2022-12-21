@@ -96,6 +96,10 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Không xác định" />
+      <item value="Không xác đn" />
+      <item value="Khoong " />
+      <item value="Collect to Delivery" />
       <item value="status classification" />
       <item value="00 c 1 f 1" />
       <item value="get Status Classification" />
@@ -142,10 +146,6 @@
       <item value="nhaps" />
       <item value="PROMOTION" />
       <item value="is Already Assessment" />
-      <item value="Checks whether any element of this iterable satisfies [test]." />
-      <item value="Eflutter (11376): [ERROR:flutterruntimedart_vm_initializer.cc(41)] Unhandled Exception: Error: Context is null, Please call init(context) before showing toast." />
-      <item value="nâng cao" />
-      <item value="mẫu câu" />
     </histories>
     <option name="languageScores">
       <map>
@@ -153,7 +153,7 @@
         <entry key="ENGLISH" value="91" />
         <entry key="INDONESIAN" value="19" />
         <entry key="IRISH" value="1" />
-        <entry key="VIETNAMESE" value="89" />
+        <entry key="VIETNAMESE" value="90" />
       </map>
     </option>
   </component>
