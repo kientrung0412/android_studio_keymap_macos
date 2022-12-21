@@ -96,6 +96,12 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="status classification" />
+      <item value="00 c 1 f 1" />
+      <item value="get Status Classification" />
+      <item value="Add student classification tag&#10;" />
+      <item value="Add student classification tag" />
+      <item value="tv classification" />
       <item value="Eflutter (10675): [ERROR:flutterruntimedart_vm_initializer.cc(41)] Unhandled Exception: Stack Overflow" />
       <item value="nama Bank" />
       <item value="Tên ngân hàng" />
@@ -140,20 +146,14 @@
       <item value="Eflutter (11376): [ERROR:flutterruntimedart_vm_initializer.cc(41)] Unhandled Exception: Error: Context is null, Please call init(context) before showing toast." />
       <item value="nâng cao" />
       <item value="mẫu câu" />
-      <item value="mẫu câ" />
-      <item value="mẫu câi" />
-      <item value="maaux c" />
-      <item value="mũi tên" />
-      <item value="Bad state: add(GetLearn) was called without a registered event handler." />
-      <item value="giaay" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="86" />
+        <entry key="ENGLISH" value="91" />
         <entry key="INDONESIAN" value="19" />
         <entry key="IRISH" value="1" />
-        <entry key="VIETNAMESE" value="84" />
+        <entry key="VIETNAMESE" value="89" />
       </map>
     </option>
   </component>
