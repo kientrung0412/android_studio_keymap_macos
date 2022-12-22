@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Vertical viewport was given unbounded height." />
       <item value="Không xác định" />
       <item value="Không xác đn" />
       <item value="Khoong " />
@@ -145,12 +146,11 @@
       <item value="Nháp" />
       <item value="nhaps" />
       <item value="PROMOTION" />
-      <item value="is Already Assessment" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="91" />
+        <entry key="ENGLISH" value="92" />
         <entry key="INDONESIAN" value="19" />
         <entry key="IRISH" value="1" />
         <entry key="VIETNAMESE" value="90" />
