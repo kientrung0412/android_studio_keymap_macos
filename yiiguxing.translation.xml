@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Eflutter ( 2100): [ERROR:flutterruntimedart_vm_initializer.cc(41)] Unhandled Exception: Invalid argument(s) (onError): The error handler of Future.catchError must return a value of the future's type" />
+      <item value="Eflutter (21482): [ERROR:flutterruntimedart_vm_initializer.cc(41)] Unhandled Exception: Bad state: add(ShowError) was called without a registered event handler." />
       <item value="trình duyệt" />
       <item value="trình duyê" />
       <item value="EFirebaseInstanceId(14526): Topic sync or token retrieval failed on hard failure exceptions: AUTHENTICATION_FAILED. Won't retry the operation." />
@@ -144,13 +146,11 @@
       <item value="origin" />
       <item value="ori" />
       <item value="giây" />
-      <item value="Associates the [value] with the n-th key. An exception is raised if the key does not exist." />
-      <item value="Saves the [key] - [value] pair." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="93" />
+        <entry key="ENGLISH" value="95" />
         <entry key="INDONESIAN" value="19" />
         <entry key="IRISH" value="1" />
         <entry key="VIETNAMESE" value="91" />
