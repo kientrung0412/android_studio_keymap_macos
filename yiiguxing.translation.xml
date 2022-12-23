@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="_status Classification" />
       <item value="isFinished" />
       <item value="Text(&#10;                          'Cập nhật',&#10;                          style: context.textTheme.bodyMedium?.copyWith(&#10;                            color: Colors.white,&#10;                          ),&#10;                        )," />
       <item value="Eflutter ( 2100): [ERROR:flutterruntimedart_vm_initializer.cc(41)] Unhandled Exception: Invalid argument(s) (onError): The error handler of Future.catchError must return a value of the future's type" />
@@ -145,15 +146,14 @@
       <item value="nguyên gốc" />
       <item value="nguyên " />
       <item value="origino" />
-      <item value="origin" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="95" />
+        <entry key="ENGLISH" value="96" />
         <entry key="INDONESIAN" value="19" />
         <entry key="IRISH" value="1" />
-        <entry key="VIETNAMESE" value="92" />
+        <entry key="VIETNAMESE" value="93" />
       </map>
     </option>
   </component>
