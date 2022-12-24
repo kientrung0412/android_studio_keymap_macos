@@ -86,7 +86,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1671358436208" />
+    <option name="lastTrimTime" value="1671896891216" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="ENGLISH" />
@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Bouncing Scroll Physics" />
       <item value="_status Classification" />
       <item value="isFinished" />
       <item value="Text(&#10;                          'Cập nhật',&#10;                          style: context.textTheme.bodyMedium?.copyWith(&#10;                            color: Colors.white,&#10;                          ),&#10;                        )," />
@@ -145,15 +146,14 @@
       <item value="Blue container should match the height of the pink one below" />
       <item value="nguyên gốc" />
       <item value="nguyên " />
-      <item value="origino" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="96" />
+        <entry key="ENGLISH" value="97" />
         <entry key="INDONESIAN" value="19" />
         <entry key="IRISH" value="1" />
-        <entry key="VIETNAMESE" value="93" />
+        <entry key="VIETNAMESE" value="94" />
       </map>
     </option>
   </component>
