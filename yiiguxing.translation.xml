@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="which" />
       <item value="Bouncing Scroll Physics" />
       <item value="_status Classification" />
       <item value="isFinished" />
@@ -145,12 +146,11 @@
       <item value="Set preferred refresh rate to the max possible (the OS may ignore this)" />
       <item value="Blue container should match the height of the pink one below" />
       <item value="nguyên gốc" />
-      <item value="nguyên " />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="97" />
+        <entry key="ENGLISH" value="98" />
         <entry key="INDONESIAN" value="19" />
         <entry key="IRISH" value="1" />
         <entry key="VIETNAMESE" value="94" />
