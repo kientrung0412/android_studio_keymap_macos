@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="&#10;It will always be more efficient to use more specific change events if you can. Rely on notifyDataSetChanged as a last resort." />
       <item value="trọng lượng" />
       <item value="khối lượng" />
       <item value="kh" />
@@ -145,7 +146,6 @@
       <item value="Iflutter (10264): Beating louder with no way to guard it." />
       <item value="This is usually due to an unawaited future in an event handler." />
       <item value="emit was called after an event handler completed normally." />
-      <item value="Write a 64-bit signed integer as eight bytes." />
     </histories>
     <option name="languageScores">
       <map>
@@ -153,7 +153,7 @@
         <entry key="ENGLISH" value="98" />
         <entry key="INDONESIAN" value="19" />
         <entry key="IRISH" value="1" />
-        <entry key="VIETNAMESE" value="94" />
+        <entry key="VIETNAMESE" value="95" />
       </map>
     </option>
   </component>
