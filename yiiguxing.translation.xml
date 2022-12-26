@@ -96,6 +96,10 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="trọng lượng" />
+      <item value="khối lượng" />
+      <item value="kh" />
+      <item value="khoois" />
       <item value="which" />
       <item value="Bouncing Scroll Physics" />
       <item value="_status Classification" />
@@ -142,10 +146,6 @@
       <item value="This is usually due to an unawaited future in an event handler." />
       <item value="emit was called after an event handler completed normally." />
       <item value="Write a 64-bit signed integer as eight bytes." />
-      <item value="container Without Accent" />
-      <item value="Set preferred refresh rate to the max possible (the OS may ignore this)" />
-      <item value="Blue container should match the height of the pink one below" />
-      <item value="nguyên gốc" />
     </histories>
     <option name="languageScores">
       <map>
