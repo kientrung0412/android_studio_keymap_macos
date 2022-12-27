@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="allergic Tv" />
       <item value="java.lang.IllegalArgumentException: The style on this component requires your app theme to be Theme.MaterialComponents (or a descendant)." />
       <item value="Material Components" />
       <item value="&#10;It will always be more efficient to use more specific change events if you can. Rely on notifyDataSetChanged as a last resort." />
@@ -145,15 +146,14 @@
       <item value="_Body With Tab View.build" />
       <item value="ádasdasd" />
       <item value="Iflutter (10264): When your heart's just like a drum." />
-      <item value="Iflutter (10264): Beating louder with no way to guard it." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="100" />
+        <entry key="ENGLISH" value="101" />
         <entry key="INDONESIAN" value="19" />
         <entry key="IRISH" value="1" />
-        <entry key="VIETNAMESE" value="95" />
+        <entry key="VIETNAMESE" value="96" />
       </map>
     </option>
   </component>
