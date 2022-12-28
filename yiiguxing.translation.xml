@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Iflutter ( 8434): If a State is used for multiple AnimationController objects, or if it is passed to other objects and those objects might use it more than one time in total, then instead of mixing in a SingleTickerProviderStateMixin, use a regular TickerProviderStateMixin." />
+      <item value="Eflutter ( 8434): [ERROR:flutterruntimedart_vm_initializer.cc(41)] Unhandled Exception: _EatScreenState is a SingleTickerProviderStateMixin but multiple tickers were created." />
       <item value="ăn sáng" />
       <item value="This mixin only supports vending a single ticker. If you might have multiple" />
       <item value="tạo" />
@@ -144,16 +146,14 @@
       <item value="Assessment" />
       <item value="Assement" />
       <item value="protected" />
-      <item value="payment By Gpay" />
-      <item value="collection Gpay" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="103" />
+        <entry key="ENGLISH" value="105" />
         <entry key="INDONESIAN" value="19" />
         <entry key="IRISH" value="1" />
-        <entry key="VIETNAMESE" value="97" />
+        <entry key="VIETNAMESE" value="99" />
       </map>
     </option>
   </component>
