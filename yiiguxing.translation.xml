@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="ăn sáng" />
       <item value="This mixin only supports vending a single ticker. If you might have multiple" />
       <item value="tạo" />
       <item value="taoj" />
@@ -145,15 +146,14 @@
       <item value="protected" />
       <item value="payment By Gpay" />
       <item value="collection Gpay" />
-      <item value="prepare Momo Payment" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="102" />
+        <entry key="ENGLISH" value="103" />
         <entry key="INDONESIAN" value="19" />
         <entry key="IRISH" value="1" />
-        <entry key="VIETNAMESE" value="96" />
+        <entry key="VIETNAMESE" value="97" />
       </map>
     </option>
   </component>
