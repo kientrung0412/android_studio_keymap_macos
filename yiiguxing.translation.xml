@@ -93,9 +93,12 @@
     <option name="showWordsOnStartup" value="true" />
   </component>
   <component name="Translation.States">
+    <option name="newTranslationDialogHeight" value="546" />
+    <option name="newTranslationDialogWidth" value="742" />
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="                         io.reactivex.exceptions.UndeliverableException: The exception could not be delivered to the consumer because it has already canceled/disposed the flow or the exception has nowhere to go to begin with. Further reading: https://github.com/ReactiveX/RxJava/wiki/What's-different-in-2.0#error-handling | java.lang.RuntimeException: java.io.FileNotFoundException: Failed to create image decoder with message 'unimplemented'Input contained an error.&#10;" />
       <item value="gap&#10;" />
       <item value="gap" />
       <item value="Reason" />
@@ -145,7 +148,6 @@
       <item value="tv classification" />
       <item value="Eflutter (10675): [ERROR:flutterruntimedart_vm_initializer.cc(41)] Unhandled Exception: Stack Overflow" />
       <item value="nama Bank" />
-      <item value="Tên ngân hàng" />
     </histories>
     <option name="languageScores">
       <map>
@@ -154,7 +156,7 @@
         <entry key="INDONESIAN" value="20" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="2" />
-        <entry key="VIETNAMESE" value="111" />
+        <entry key="VIETNAMESE" value="112" />
       </map>
     </option>
   </component>
