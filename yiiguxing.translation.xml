@@ -96,6 +96,7 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Reason" />
       <item value="Pick reason" />
       <item value="Pilih alasan" />
       <item value="A RenderFlex expected a child of type RenderBox but received a child of type RenderSliverList." />
@@ -145,7 +146,6 @@
       <item value="Tên ngân hàng" />
       <item value="Revenue generation failed" />
       <item value="Do you want to cancel the receipt?" />
-      <item value="Phí thanh toán" />
     </histories>
     <option name="languageScores">
       <map>
@@ -153,8 +153,8 @@
         <entry key="ENGLISH" value="113" />
         <entry key="INDONESIAN" value="20" />
         <entry key="IRISH" value="1" />
-        <entry key="LAO" value="1" />
-        <entry key="VIETNAMESE" value="109" />
+        <entry key="LAO" value="2" />
+        <entry key="VIETNAMESE" value="110" />
       </map>
     </option>
   </component>
