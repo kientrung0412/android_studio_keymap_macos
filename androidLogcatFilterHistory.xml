@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
         <option value="level:error " />
         <option value="tag:http" />
         <option value="package:mine tag:http" />
@@ -12,7 +13,6 @@
         <option value="http" />
         <option value="package:mine http" />
         <option value="Trungnk" />
-        <option value="package:mine level:error " />
         <option value="noti" />
         <option value="tag:flutter" />
         <option value="tag:Trungnk" />
