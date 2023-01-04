@@ -98,6 +98,8 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="set Allowed Over Roaming" />
+      <item value="set Allowed Over Metered" />
       <item value="FATAL EXCEPTION: main" />
       <item value="URI scheme is not &quot;file&quot;" />
       <item value="                         io.reactivex.exceptions.UndeliverableException: The exception could not be delivered to the consumer because it has already canceled/disposed the flow or the exception has nowhere to go to begin with. Further reading: https://github.com/ReactiveX/RxJava/wiki/What's-different-in-2.0#error-handling | java.lang.RuntimeException: java.io.FileNotFoundException: Failed to create image decoder with message 'unimplemented'Input contained an error.&#10;" />
@@ -146,17 +148,15 @@
       <item value="00 c 1 f 1" />
       <item value="get Status Classification" />
       <item value="Add student classification tag&#10;" />
-      <item value="Add student classification tag" />
-      <item value="tv classification" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="115" />
+        <entry key="ENGLISH" value="118" />
         <entry key="INDONESIAN" value="20" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="2" />
-        <entry key="VIETNAMESE" value="114" />
+        <entry key="VIETNAMESE" value="117" />
       </map>
     </option>
   </component>
