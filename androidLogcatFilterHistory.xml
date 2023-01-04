@@ -4,9 +4,9 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine level:error " />
+        <option value="package:mine tag:http" />
         <option value="level:error " />
         <option value="tag:http" />
-        <option value="package:mine tag:http" />
         <option value="package:mine tag:trungnk" />
         <option value="package:mine tag:Trungnk" />
         <option value="package:mine " />
