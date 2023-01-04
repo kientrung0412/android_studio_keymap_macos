@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Semantics" />
       <item value="vuông" />
       <item value="vuoong" />
       <item value="c" />
@@ -147,16 +148,15 @@
       <item value="Không xác đn" />
       <item value="Khoong " />
       <item value="Collect to Delivery" />
-      <item value="status classification" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="121" />
+        <entry key="ENGLISH" value="122" />
         <entry key="INDONESIAN" value="20" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="2" />
-        <entry key="VIETNAMESE" value="120" />
+        <entry key="VIETNAMESE" value="121" />
       </map>
     </option>
   </component>
