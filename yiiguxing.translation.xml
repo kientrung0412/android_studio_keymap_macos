@@ -96,6 +96,8 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="gap&#10;" />
+      <item value="gap" />
       <item value="Reason" />
       <item value="Pick reason" />
       <item value="Pilih alasan" />
@@ -144,8 +146,6 @@
       <item value="Eflutter (10675): [ERROR:flutterruntimedart_vm_initializer.cc(41)] Unhandled Exception: Stack Overflow" />
       <item value="nama Bank" />
       <item value="Tên ngân hàng" />
-      <item value="Revenue generation failed" />
-      <item value="Do you want to cancel the receipt?" />
     </histories>
     <option name="languageScores">
       <map>
@@ -154,7 +154,7 @@
         <entry key="INDONESIAN" value="20" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="2" />
-        <entry key="VIETNAMESE" value="110" />
+        <entry key="VIETNAMESE" value="111" />
       </map>
     </option>
   </component>
