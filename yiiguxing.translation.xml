@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="When the exception was thrown, this was the stack:" />
       <item value="The ParentDataWidget Expanded(flex: 1) wants to apply ParentData of type FlexParentData to a RenderObject, which has been set up to accept ParentData of incompatible type BoxParentData." />
       <item value="Incorrect use of ParentDataWidget." />
       <item value="Iterablet Exist Where" />
@@ -147,16 +148,15 @@
       <item value="which" />
       <item value="Bouncing Scroll Physics" />
       <item value="_status Classification" />
-      <item value="isFinished" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="133" />
+        <entry key="ENGLISH" value="136" />
         <entry key="INDONESIAN" value="20" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="2" />
-        <entry key="VIETNAMESE" value="132" />
+        <entry key="VIETNAMESE" value="135" />
       </map>
     </option>
   </component>
