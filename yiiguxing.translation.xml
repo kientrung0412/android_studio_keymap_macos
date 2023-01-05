@@ -98,6 +98,11 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Iterablet Exist Where" />
+      <item value="tồn tại" />
+      <item value="tồng" />
+      <item value="e" />
+      <item value="Exits" />
       <item value="Module" />
       <item value="other Home Module" />
       <item value="repeat" />
@@ -143,20 +148,15 @@
       <item value="isFinished" />
       <item value="Text(&#10;                          'Cập nhật',&#10;                          style: context.textTheme.bodyMedium?.copyWith(&#10;                            color: Colors.white,&#10;                          ),&#10;                        )," />
       <item value="Eflutter ( 2100): [ERROR:flutterruntimedart_vm_initializer.cc(41)] Unhandled Exception: Invalid argument(s) (onError): The error handler of Future.catchError must return a value of the future's type" />
-      <item value="Eflutter (21482): [ERROR:flutterruntimedart_vm_initializer.cc(41)] Unhandled Exception: Bad state: add(ShowError) was called without a registered event handler." />
-      <item value="trình duyệt" />
-      <item value="trình duyê" />
-      <item value="EFirebaseInstanceId(14526): Topic sync or token retrieval failed on hard failure exceptions: AUTHENTICATION_FAILED. Won't retry the operation." />
-      <item value="Vertical viewport was given unbounded height." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="127" />
+        <entry key="ENGLISH" value="131" />
         <entry key="INDONESIAN" value="20" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="2" />
-        <entry key="VIETNAMESE" value="126" />
+        <entry key="VIETNAMESE" value="130" />
       </map>
     </option>
   </component>
