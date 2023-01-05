@@ -1,16 +1,20 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
+        <option value="package:codepro.kidsonline " />
+        <option value="package:codepro.kidsonline.debug " />
+        <option value="level:error level:warn package:codepro.kidsonline.debug " />
+        <option value="level:error level:warn " />
+        <option value="http" />
         <option value="package:mine level:error " />
         <option value="package:mine tag:http" />
-        <option value="level:error " />
         <option value="tag:http" />
         <option value="package:mine tag:trungnk" />
         <option value="package:mine tag:Trungnk" />
         <option value="package:mine " />
-        <option value="http" />
         <option value="package:mine http" />
         <option value="Trungnk" />
         <option value="noti" />
@@ -19,10 +23,6 @@
         <option value="package:mine tag:htt" />
         <option value="message:noti" />
         <option value="message:MyFirebaseMessagingServiceV4" />
-        <option value="level:error | message:MyFirebaseMessagingServiceV4" />
-        <option value="tag:activity" />
-        <option value="tag:activ" />
-        <option value="package:mine" />
       </list>
     </option>
   </component>

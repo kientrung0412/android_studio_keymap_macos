@@ -98,6 +98,8 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Failed to instantiate extractor&#10;" />
+      <item value="Failed to instantiate extractor" />
       <item value="When the exception was thrown, this was the stack:" />
       <item value="The ParentDataWidget Expanded(flex: 1) wants to apply ParentData of type FlexParentData to a RenderObject, which has been set up to accept ParentData of incompatible type BoxParentData." />
       <item value="Incorrect use of ParentDataWidget." />
@@ -146,8 +148,6 @@
       <item value="kh" />
       <item value="khoois" />
       <item value="which" />
-      <item value="Bouncing Scroll Physics" />
-      <item value="_status Classification" />
     </histories>
     <option name="languageScores">
       <map>
@@ -156,7 +156,7 @@
         <entry key="INDONESIAN" value="20" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="2" />
-        <entry key="VIETNAMESE" value="135" />
+        <entry key="VIETNAMESE" value="136" />
       </map>
     </option>
   </component>
