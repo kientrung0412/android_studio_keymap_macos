@@ -1,0 +1,5 @@
+<application>
+  <component name="com.crzsc.plugin.setting.PluginSetting">
+    <option name="autoDetection" value="false" />
+  </component>
+</application>
