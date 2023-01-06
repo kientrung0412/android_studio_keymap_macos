@@ -98,6 +98,16 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Đã điểm danh" />
+      <item value="Đã " />
+      <item value=" Attendance" />
+      <item value="Attendance" />
+      <item value="Attendance hgjas" />
+      <item value="Attendanced" />
+      <item value="Attendancef" />
+      <item value="AttendanceAttendance" />
+      <item value="đã điểm danh" />
+      <item value="đã " />
       <item value="LateInitializationError: Field 'isScreen' has not been initialized." />
       <item value="The following LateError was thrown building LearnScreen(dirty):" />
       <item value="Failed to instantiate extractor&#10;" />
@@ -138,25 +148,15 @@
       <item value="Eflutter ( 8434): [ERROR:flutterruntimedart_vm_initializer.cc(41)] Unhandled Exception: _EatScreenState is a SingleTickerProviderStateMixin but multiple tickers were created." />
       <item value="ăn sáng" />
       <item value="This mixin only supports vending a single ticker. If you might have multiple" />
-      <item value="tạo" />
-      <item value="taoj" />
-      <item value="ta" />
-      <item value="allergic Tv" />
-      <item value="java.lang.IllegalArgumentException: The style on this component requires your app theme to be Theme.MaterialComponents (or a descendant)." />
-      <item value="Material Components" />
-      <item value="&#10;It will always be more efficient to use more specific change events if you can. Rely on notifyDataSetChanged as a last resort." />
-      <item value="trọng lượng" />
-      <item value="khối lượng" />
-      <item value="kh" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="138" />
+        <entry key="ENGLISH" value="141" />
         <entry key="INDONESIAN" value="20" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="2" />
-        <entry key="VIETNAMESE" value="138" />
+        <entry key="VIETNAMESE" value="141" />
       </map>
     </option>
   </component>
