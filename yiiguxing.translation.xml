@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="floating Label Behavior" />
       <item value="is Dense" />
       <item value="Cancellation of receipt successfully" />
       <item value="Amount to be paid" />
@@ -147,12 +148,11 @@
       <item value="set Allowed Over Roaming" />
       <item value="set Allowed Over Metered" />
       <item value="FATAL EXCEPTION: main" />
-      <item value="URI scheme is not &quot;file&quot;" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="146" />
+        <entry key="ENGLISH" value="147" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
