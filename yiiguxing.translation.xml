@@ -98,6 +98,8 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Cancellation of receipt successfully" />
+      <item value="Amount to be paid" />
       <item value="User information" />
       <item value="Cancellation of receipts" />
       <item value="initialize With" />
@@ -146,17 +148,15 @@
       <item value="FATAL EXCEPTION: main" />
       <item value="URI scheme is not &quot;file&quot;" />
       <item value="                         io.reactivex.exceptions.UndeliverableException: The exception could not be delivered to the consumer because it has already canceled/disposed the flow or the exception has nowhere to go to begin with. Further reading: https://github.com/ReactiveX/RxJava/wiki/What's-different-in-2.0#error-handling | java.lang.RuntimeException: java.io.FileNotFoundException: Failed to create image decoder with message 'unimplemented'Input contained an error.&#10;" />
-      <item value="gap&#10;" />
-      <item value="gap" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
         <entry key="ENGLISH" value="145" />
-        <entry key="INDONESIAN" value="29" />
+        <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="156" />
+        <entry key="VIETNAMESE" value="158" />
       </map>
     </option>
   </component>
