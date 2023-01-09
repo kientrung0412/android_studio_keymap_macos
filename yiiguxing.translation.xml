@@ -86,7 +86,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1672741843866" />
+    <option name="lastTrimTime" value="1673231669944" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="VIETNAMESE" />
@@ -98,6 +98,17 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="User information" />
+      <item value="Cancellation of receipts" />
+      <item value="initialize With" />
+      <item value="Date of injection" />
+      <item value="Ngày tiêm" />
+      <item value="Payment amount" />
+      <item value="You need to delete the pending transaction" />
+      <item value="User identifier not found" />
+      <item value="Type of vaccine" />
+      <item value="injection no" />
+      <item value="Transaction fee" />
       <item value="RangeError (index): Invalid value: Valid value range is empty: 0" />
       <item value="is Odd" />
       <item value="Đã điểm danh" />
@@ -137,26 +148,15 @@
       <item value="                         io.reactivex.exceptions.UndeliverableException: The exception could not be delivered to the consumer because it has already canceled/disposed the flow or the exception has nowhere to go to begin with. Further reading: https://github.com/ReactiveX/RxJava/wiki/What's-different-in-2.0#error-handling | java.lang.RuntimeException: java.io.FileNotFoundException: Failed to create image decoder with message 'unimplemented'Input contained an error.&#10;" />
       <item value="gap&#10;" />
       <item value="gap" />
-      <item value="Reason" />
-      <item value="Pick reason" />
-      <item value="Pilih alasan" />
-      <item value="A RenderFlex expected a child of type RenderBox but received a child of type RenderSliverList." />
-      <item value="use quantitative" />
-      <item value="use Quantitative" />
-      <item value="should Avoid Bottom" />
-      <item value="dependOnInheritedWidgetOfExactType&lt;_InheritedTheme&gt;() or dependOnInheritedElement() was called before _AttendanceEatTabState.initState() completed." />
-      <item value="Typically references to inherited widgets should occur in widget build() methods. Alternatively, initialization based on inherited widgets can be placed in the didChangeDependencies method, which is called after initState and whenever the dependencies change thereafter." />
-      <item value="Iflutter ( 8434): If a State is used for multiple AnimationController objects, or if it is passed to other objects and those objects might use it more than one time in total, then instead of mixing in a SingleTickerProviderStateMixin, use a regular TickerProviderStateMixin." />
-      <item value="Eflutter ( 8434): [ERROR:flutterruntimedart_vm_initializer.cc(41)] Unhandled Exception: _EatScreenState is a SingleTickerProviderStateMixin but multiple tickers were created." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="143" />
-        <entry key="INDONESIAN" value="20" />
+        <entry key="ENGLISH" value="145" />
+        <entry key="INDONESIAN" value="29" />
         <entry key="IRISH" value="1" />
-        <entry key="LAO" value="2" />
-        <entry key="VIETNAMESE" value="143" />
+        <entry key="LAO" value="4" />
+        <entry key="VIETNAMESE" value="156" />
       </map>
     </option>
   </component>
