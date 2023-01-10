@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="LateInitializationError: Field 'pageController' has not been initialized." />
       <item value="automatically Imply Leading" />
       <item value="stretch" />
       <item value="hide Divider" />
@@ -147,12 +148,11 @@
       <item value="Semantics" />
       <item value="vuông" />
       <item value="vuoong" />
-      <item value="c" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="150" />
+        <entry key="ENGLISH" value="151" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
