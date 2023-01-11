@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="attendance Taken" />
       <item value="https:komt.kidsonline.edu.vnapiv 4 teacherattendanceclass-attendance-breakfast-by-date-v 2" />
       <item value="Iflutter (12372): onError -- AttendanceEatBloc, Bad state: Cannot add new events after calling close" />
       <item value="No address associated with hostname" />
@@ -105,7 +106,6 @@
       <item value="TL;DR: Use this if you want speed, since it only measures one child." />
       <item value="TL;DR: Use this if you have text in a horizontal Flex." />
       <item value="intrinsics Behavior" />
-      <item value="attendance Taken" />
       <item value="Don't use one refreshController to multiple SmartRefresher,It will cause some unexpected bugs mostly in TabBarView" />
       <item value="LateInitializationError: Field 'pageController' has not been initialized." />
       <item value="automatically Imply Leading" />
@@ -152,11 +152,11 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="158" />
+        <entry key="ENGLISH" value="173" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="158" />
+        <entry key="VIETNAMESE" value="174" />
       </map>
     </option>
   </component>
