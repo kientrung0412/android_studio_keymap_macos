@@ -98,6 +98,8 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="an toàn" />
+      <item value="a" />
       <item value="RenderObjects expect specific types of children because they coordinate with their children during layout and paint. For example, a RenderSliver cannot be the child of a RenderBox because a RenderSliver does not understand the RenderBox layout protocol." />
       <item value="Either the assertion indicates an error in the framework itself, or we should provide substantially more information in this error message to help you determine and fix the underlying cause" />
       <item value="students Original" />
@@ -146,17 +148,15 @@
       <item value="Attendance hgjas" />
       <item value="Attendanced" />
       <item value="Attendancef" />
-      <item value="AttendanceAttendance" />
-      <item value="đã điểm danh" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="184" />
+        <entry key="ENGLISH" value="187" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="184" />
+        <entry key="VIETNAMESE" value="187" />
       </map>
     </option>
   </component>
