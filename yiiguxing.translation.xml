@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="students Original" />
       <item value="student Color Web" />
       <item value="student Color" />
       <item value="student Allergic" />
@@ -147,16 +148,15 @@
       <item value="đã điểm danh" />
       <item value="đã " />
       <item value="LateInitializationError: Field 'isScreen' has not been initialized." />
-      <item value="The following LateError was thrown building LearnScreen(dirty):" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="181" />
+        <entry key="ENGLISH" value="182" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="181" />
+        <entry key="VIETNAMESE" value="182" />
       </map>
     </option>
   </component>
