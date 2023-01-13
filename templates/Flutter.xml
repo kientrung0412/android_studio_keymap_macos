@@ -20,19 +20,19 @@
       <option name="DART" value="true" />
     </context>
   </template>
-  <template name="tt" value="context.textTheme.$style$" toReformat="false" toShortenFQNames="true">
+  <template name="tt" value="context.textTheme.$style$" description="" toReformat="false" toShortenFQNames="true">
     <variable name="style" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="DART" value="true" />
     </context>
   </template>
-  <template name="w" value="width$SIZE$view" toReformat="false" toShortenFQNames="true">
+  <template name="w" value="width$SIZE$view" description="" toReformat="false" toShortenFQNames="true">
     <variable name="SIZE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="DART" value="true" />
     </context>
   </template>
-  <template name="h" value="height$SIZE$view" toReformat="false" toShortenFQNames="true">
+  <template name="h" value="height$SIZE$view" description="" toReformat="false" toShortenFQNames="true">
     <variable name="SIZE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="DART" value="true" />
