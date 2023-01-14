@@ -98,12 +98,16 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="amount" />
+      <item value="định lượng" />
+      <item value="định " />
+      <item value="dịnh " />
+      <item value="dịnh ," />
       <item value="is Odd" />
       <item value="_Eat Screen State.build Child" />
       <item value="Condition" />
       <item value="push Named And Remove Until" />
       <item value="flutter: onError -- AttendanceEatBloc, Bad state: Cannot add new events after calling close" />
-      <item value="amount" />
       <item value="Bữa" />
       <item value="should Avoid Bottom" />
       <item value="comment Type" />
@@ -144,19 +148,15 @@
       <item value="initialize With" />
       <item value="Date of injection" />
       <item value="Ngày tiêm" />
-      <item value="Payment amount" />
-      <item value="You need to delete the pending transaction" />
-      <item value="User identifier not found" />
-      <item value="Type of vaccine" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="197" />
+        <entry key="ENGLISH" value="200" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="197" />
+        <entry key="VIETNAMESE" value="200" />
       </map>
     </option>
   </component>
