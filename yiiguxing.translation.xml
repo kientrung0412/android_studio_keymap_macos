@@ -98,6 +98,8 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="điều kiện" />
+      <item value="d" />
       <item value="should Await" />
       <item value="identical" />
       <item value="flutter: onError -- EatBloc, Bad state: Stream has already been listened to." />
@@ -146,17 +148,15 @@
       <item value="No address associated with hostname" />
       <item value="Iflutter (18154): DioError [DioErrorType.other]: SocketException: Failed host lookup: 'komt.kidsonline.edu.vn' (OS Error: No address associated with hostname, errno = 7)" />
       <item value="TL;DR: Use this if you want speed, since it only measures one child." />
-      <item value="TL;DR: Use this if you have text in a horizontal Flex." />
-      <item value="intrinsics Behavior" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="216" />
+        <entry key="ENGLISH" value="217" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="216" />
+        <entry key="VIETNAMESE" value="217" />
       </map>
     </option>
   </component>
