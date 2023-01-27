@@ -86,7 +86,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1673667318002" />
+    <option name="lastTrimTime" value="1674793500615" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="VIETNAMESE" />
@@ -98,6 +98,9 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="was Liked" />
+      <item value="publish date" />
+      <item value="label" />
       <item value="điều kiện" />
       <item value="d" />
       <item value="should Await" />
@@ -145,18 +148,15 @@
       <item value="attendance Taken" />
       <item value="https:komt.kidsonline.edu.vnapiv 4 teacherattendanceclass-attendance-breakfast-by-date-v 2" />
       <item value="Iflutter (12372): onError -- AttendanceEatBloc, Bad state: Cannot add new events after calling close" />
-      <item value="No address associated with hostname" />
-      <item value="Iflutter (18154): DioError [DioErrorType.other]: SocketException: Failed host lookup: 'komt.kidsonline.edu.vn' (OS Error: No address associated with hostname, errno = 7)" />
-      <item value="TL;DR: Use this if you want speed, since it only measures one child." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="217" />
+        <entry key="ENGLISH" value="220" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="217" />
+        <entry key="VIETNAMESE" value="220" />
       </map>
     </option>
   </component>
