@@ -98,6 +98,11 @@
     <option name="newTranslationDialogX" value="769" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Chái tim" />
+      <item value="Chái " />
+      <item value="chais " />
+      <item value="cha" />
+      <item value="c" />
       <item value="was accepted" />
       <item value="was Liked" />
       <item value="publish date" />
@@ -143,20 +148,15 @@
       <item value="student Allergic" />
       <item value="student Absent" />
       <item value="ElevatedButtonThemeData theme = ElevatedButtonTheme.of(context);" />
-      <item value="Userstrungfvmversionsstablepackagesflutterlibsrcmaterialelevated_button_theme.dart:115:30: Error: A value of type 'Diagnosticable?' can't be returned from a function with return type 'ElevatedButtonThemeData'." />
-      <item value="key: ValueKey(state.dateSelected)," />
-      <item value="Bad state: Cannot add new events after calling close" />
-      <item value="attendance Taken" />
-      <item value="https:komt.kidsonline.edu.vnapiv 4 teacherattendanceclass-attendance-breakfast-by-date-v 2" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="221" />
+        <entry key="ENGLISH" value="224" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="221" />
+        <entry key="VIETNAMESE" value="224" />
       </map>
     </option>
   </component>
