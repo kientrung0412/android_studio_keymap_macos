@@ -79,6 +79,11 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.azoft.json2dart">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
         <entry key="com.bloc.intellij_generator_plugin">
           <value>
             <PluginData>
