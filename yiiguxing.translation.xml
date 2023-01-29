@@ -95,10 +95,9 @@
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="546" />
     <option name="newTranslationDialogWidth" value="742" />
-    <option name="newTranslationDialogX" value="-1008" />
-    <option name="newTranslationDialogY" value="300" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Invalid constant value." />
       <item value="uncensored" />
       <item value="chưa được kiểm duyệt" />
       <item value="have not been censored" />
@@ -148,7 +147,6 @@
       <item value="amount" />
       <item value="định lượng" />
       <item value="định " />
-      <item value="dịnh " />
     </histories>
     <option name="languageScores">
       <map>
@@ -157,7 +155,7 @@
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="238" />
+        <entry key="VIETNAMESE" value="239" />
       </map>
     </option>
   </component>
