@@ -97,6 +97,8 @@
     <option name="newTranslationDialogWidth" value="742" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Iflutter (15231): to PostDetailState(Network connection not stable, please try again, ScreenStatus.error, Chi tiết bài viết, null)" />
+      <item value="746059" />
       <item value="forbidden" />
       <item value="Error (Xcode): libapp.dart:314:30: Error: Required named parameter 'postBloc' must be provided." />
       <item value="'This feature was deprecated after v3.3.0-0.6.pre.'," />
@@ -145,13 +147,11 @@
       <item value="xếp " />
       <item value="275951753" />
       <item value="NOT FOUND MEAL MENU" />
-      <item value="Change Option Students" />
-      <item value="Either zero or 2 or more [DropdownMenuItem]s were detected with the same value" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="243" />
+        <entry key="ENGLISH" value="244" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
