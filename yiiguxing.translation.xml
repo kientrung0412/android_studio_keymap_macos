@@ -86,7 +86,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1674793500615" />
+    <option name="lastTrimTime" value="1675225518834" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="VIETNAMESE" />
@@ -97,6 +97,7 @@
     <option name="newTranslationDialogWidth" value="742" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="invoke Method" />
       <item value="is Granted" />
       <item value="schedule Exact Alarm" />
       <item value="When running on Android T and above: Read video files from external storage" />
@@ -146,16 +147,15 @@
       <item value="was Liked" />
       <item value="publish date" />
       <item value="label" />
-      <item value="điều kiện" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="257" />
+        <entry key="ENGLISH" value="258" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="257" />
+        <entry key="VIETNAMESE" value="258" />
       </map>
     </option>
   </component>
