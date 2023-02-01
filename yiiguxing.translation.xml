@@ -97,6 +97,10 @@
     <option name="newTranslationDialogWidth" value="742" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="schedule Exact Alarm" />
+      <item value="When running on Android T and above: Read video files from external storage" />
+      <item value="Android: Allows an application a broad access to external storage in" />
+      <item value="When running on Android T and above: Read image files from external storage" />
       <item value="is Granted" />
       <item value="Typically, the Scaffold widget is introduced by the MaterialApp or WidgetsApp widget at the top of your application widget tree." />
       <item value="localId" />
@@ -143,19 +147,15 @@
       <item value="publish date" />
       <item value="label" />
       <item value="điều kiện" />
-      <item value="d" />
-      <item value="should Await" />
-      <item value="identical" />
-      <item value="flutter: onError -- EatBloc, Bad state: Stream has already been listened to." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="250" />
+        <entry key="ENGLISH" value="256" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="250" />
+        <entry key="VIETNAMESE" value="256" />
       </map>
     </option>
   </component>
