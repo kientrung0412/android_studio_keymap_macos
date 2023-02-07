@@ -99,6 +99,7 @@
     <option name="newTranslationDialogY" value="485" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="MEDIA MOUNTED" />
       <item value="Supertypes of the following classes cannot be resolved. Please make sure you have the required dependencies in the classpath:" />
       <item value="Duplicate character '|' inside character class " />
       <item value="Cannot access com.pr.commentmodule.data.network.ApiHelper" />
@@ -148,12 +149,11 @@
       <item value="chưa kiểm duyệt" />
       <item value="chưa kiểm " />
       <item value="chưa " />
-      <item value="c" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="288" />
+        <entry key="ENGLISH" value="289" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
