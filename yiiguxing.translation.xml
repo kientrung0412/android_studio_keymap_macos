@@ -99,6 +99,8 @@
     <option name="newTranslationDialogY" value="485" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="WSystem.err: io.reactivex.exceptions.UndeliverableException: The exception could not be delivered to the consumer because it has already canceleddisposed the flow or the exception has nowhere to go to begin with. Further reading: https:github.comReactiveXRxJavawikiWhat's-different-in-2.0error-handling | java.lang.RuntimeException: java.io.FileNotFoundException: Failed to create image decoder with message 'unimplemented'Input contained an error." />
+      <item value="Caused by: java.lang.RuntimeException: java.io.FileNotFoundException: Failed to create image decoder with message 'unimplemented'Input contained an error." />
       <item value="allow Scanning By Media Scanner" />
       <item value="set Allowed Over Roaming" />
       <item value="Error getting package info: com.omt.imagepicker.sample" />
@@ -147,17 +149,15 @@
       <item value="is At Same Moment As" />
       <item value="Invalid constant value." />
       <item value="uncensored" />
-      <item value="chưa được kiểm duyệt" />
-      <item value="have not been censored" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="291" />
+        <entry key="ENGLISH" value="293" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="291" />
+        <entry key="VIETNAMESE" value="293" />
       </map>
     </option>
   </component>
