@@ -99,6 +99,7 @@
     <option name="newTranslationDialogY" value="485" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Error getting package info: com.omt.imagepicker.sample" />
       <item value="MEDIA MOUNTED" />
       <item value="Supertypes of the following classes cannot be resolved. Please make sure you have the required dependencies in the classpath:" />
       <item value="Duplicate character '|' inside character class " />
@@ -148,7 +149,6 @@
       <item value="have not been censored" />
       <item value="chưa kiểm duyệt" />
       <item value="chưa kiểm " />
-      <item value="chưa " />
     </histories>
     <option name="languageScores">
       <map>
@@ -157,7 +157,7 @@
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="289" />
+        <entry key="VIETNAMESE" value="290" />
       </map>
     </option>
   </component>
