@@ -95,10 +95,13 @@
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="546" />
     <option name="newTranslationDialogWidth" value="742" />
-    <option name="newTranslationDialogX" value="-1125" />
-    <option name="newTranslationDialogY" value="485" />
+    <option name="newTranslationDialogX" value="-842" />
+    <option name="newTranslationDialogY" value="293" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Because every version of flutter_test from sdk depends on path 1.8.2 and ko_teacher_v5 depends on path 1.8.3, flutter_test from sdk is forbidden" />
+      <item value="Because every version of flutter_test from sdk depends on path 1.8.2 and ko_teacher_v5 depends on path 1.8.3, flutter_test from sdk is for" />
+      <item value="Because every version of flutter_test from sdk depends on path 1.8.2 and ko_teacher_v5 depends on path 1.8.3, flutter_test from sdk is fo" />
       <item value="enforced" />
       <item value="This 'onError' handler must return a value assignable to 'bool', but ends without returning a value." />
       <item value="mounted" />
@@ -146,9 +149,6 @@
       <item value="childs" />
       <item value="Do Login Event" />
       <item value="lazy" />
-      <item value="The argument type 'CommentBloc' can't be assigned to the parameter type 'StateStreamableSource&lt;Object?&gt; Function(BuildContext)'." />
-      <item value="Iflutter (15231): to PostDetailState(Network connection not stable, please try again, ScreenStatus.error, Chi tiết bài viết, null)" />
-      <item value="746059" />
     </histories>
     <option name="languageScores">
       <map>
@@ -157,7 +157,7 @@
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="300" />
+        <entry key="VIETNAMESE" value="301" />
       </map>
     </option>
   </component>
