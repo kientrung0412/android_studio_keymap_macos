@@ -100,6 +100,8 @@
     <option name="pinTranslationDialog" value="true" />
     <histories>
       <item value="mounted" />
+      <item value="otherwise, provide a function to check if it mounted" />
+      <item value="limited Permission Overlay Predicate" />
       <item value="Try defining the operator '[]'." />
       <item value="either user 10260 nor current process has android.permission.WRITE_EXTERNAL_STORAGE." />
       <item value="WSystem.err: io.reactivex.exceptions.UndeliverableException: The exception could not be delivered to the consumer because it has already canceleddisposed the flow or the exception has nowhere to go to begin with. Further reading: https:github.comReactiveXRxJavawikiWhat's-different-in-2.0error-handling | java.lang.RuntimeException: java.io.FileNotFoundException: Failed to create image decoder with message 'unimplemented'Input contained an error." />
@@ -147,17 +149,15 @@
       <item value="746059" />
       <item value="forbidden" />
       <item value="Error (Xcode): libapp.dart:314:30: Error: Required named parameter 'postBloc' must be provided." />
-      <item value="'This feature was deprecated after v3.3.0-0.6.pre.'," />
-      <item value="'Use BottomAppBarTheme.color instead. '" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="294" />
+        <entry key="ENGLISH" value="299" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="294" />
+        <entry key="VIETNAMESE" value="299" />
       </map>
     </option>
   </component>
