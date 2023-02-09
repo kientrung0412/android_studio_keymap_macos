@@ -99,6 +99,13 @@
     <option name="newTranslationDialogY" value="293" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="đã kích hoạt" />
+      <item value="đã kích " />
+      <item value="đã l" />
+      <item value="đã " />
+      <item value="ddax" />
+      <item value="Active" />
+      <item value="Chấp nhận" />
       <item value="INVALID" />
       <item value="VALID" />
       <item value="NOT USE" />
@@ -142,22 +149,15 @@
       <item value="hệ số" />
       <item value="duration Constraint" />
       <item value="need Title" />
-      <item value="contains Path Modified" />
-      <item value="BlocProvider.of() called with a context that does not contain a PostBloc." />
-      <item value="hero Attributes" />
-      <item value="initial Scale" />
-      <item value="BlocListener&lt;CommentBloc, CommentState&gt; used outside of MultiBlocListener must specify a child" />
-      <item value="MISSING PARAMETERS" />
-      <item value="dependOnInheritedWidgetOfExactType&lt;CommentData&gt;() or dependOnInheritedElement() was called before _DialogEditCommentState.initState() completed." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="311" />
+        <entry key="ENGLISH" value="314" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="311" />
+        <entry key="VIETNAMESE" value="314" />
       </map>
     </option>
   </component>
