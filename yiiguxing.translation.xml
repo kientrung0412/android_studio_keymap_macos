@@ -95,10 +95,17 @@
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="546" />
     <option name="newTranslationDialogWidth" value="742" />
-    <option name="newTranslationDialogX" value="-842" />
-    <option name="newTranslationDialogY" value="293" />
+    <option name="newTranslationDialogX" value="-644" />
+    <option name="newTranslationDialogY" value="271" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="thứ tự số" />
+      <item value="numerical order" />
+      <item value="số thứ tự" />
+      <item value="số " />
+      <item value="số thuws" />
+      <item value="số th" />
+      <item value="s" />
       <item value="đã kích hoạt" />
       <item value="đã kích " />
       <item value="đã l" />
@@ -142,22 +149,15 @@
       <item value="Boxy Flex Intrinsics Behavior" />
       <item value="intrinsics Behavior" />
       <item value="thành công" />
-      <item value="thành cồn" />
-      <item value="thanhf coon" />
-      <item value="tỉ lệ" />
-      <item value="tir leej" />
-      <item value="hệ số" />
-      <item value="duration Constraint" />
-      <item value="need Title" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="315" />
+        <entry key="ENGLISH" value="318" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="315" />
+        <entry key="VIETNAMESE" value="318" />
       </map>
     </option>
   </component>
