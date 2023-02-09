@@ -114,16 +114,6 @@
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="DOMAIN_NAME" />
-            <value value="adb-bb434dde-8uR0UP._adb-tls-connect._tcp." />
-          </Key>
-        </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
             <type value="SERIAL_NUMBER" />
             <value value="b8f7681d" />
           </Key>
@@ -246,16 +236,6 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="4f49d9d3" />
-          </Key>
-        </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="ARB00042772" />
           </Key>
         </key>
@@ -350,16 +330,6 @@
         <name value="rockchip S8810P" />
         <target value="Android 8.1" />
         <api value="androidversion:27:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="192.168.0.104:5555" />
-          </Key>
-        </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
