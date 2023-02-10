@@ -142,6 +142,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.herbert.george.flutter-snippets">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.hiyunhong.gradlekiller">
           <value>
             <PluginData>
@@ -200,7 +211,6 @@
                   <option value="org.jetbrains.plugins.yaml" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -235,6 +245,17 @@
                 <set>
                   <option value="Dart" />
                   <option value="com.intellij.modules.java" />
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.rhyme.flutter.plugin.jumptoassets">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
