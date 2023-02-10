@@ -99,6 +99,7 @@
     <option name="newTranslationDialogY" value="401" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="đã đăng nhập" />
       <item value="get Status Classification" />
       <item value="trạng thái cũ" />
       <item value="is Accepted" />
@@ -148,16 +149,15 @@
       <item value="Because every version of flutter_test from sdk depends on path 1.8.2 and ko_teacher_v5 depends on path 1.8.3, flutter_test from sdk is for" />
       <item value="Because every version of flutter_test from sdk depends on path 1.8.2 and ko_teacher_v5 depends on path 1.8.3, flutter_test from sdk is fo" />
       <item value="enforced" />
-      <item value="This 'onError' handler must return a value assignable to 'bool', but ends without returning a value." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="335" />
+        <entry key="ENGLISH" value="336" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="335" />
+        <entry key="VIETNAMESE" value="336" />
       </map>
     </option>
   </component>
