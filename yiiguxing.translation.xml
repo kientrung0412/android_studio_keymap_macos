@@ -93,12 +93,22 @@
     <option name="showWordsOnStartup" value="true" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogHeight" value="546" />
+    <option name="newTranslationDialogHeight" value="416" />
     <option name="newTranslationDialogWidth" value="742" />
-    <option name="newTranslationDialogX" value="-644" />
-    <option name="newTranslationDialogY" value="271" />
+    <option name="newTranslationDialogX" value="-742" />
+    <option name="newTranslationDialogY" value="401" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="A function body must be provided." />
+      <item value="đúng chính sách" />
+      <item value="chính sách" />
+      <item value="policy" />
+      <item value="quy định" />
+      <item value="Regulations" />
+      <item value="Đúng quy định" />
+      <item value="Đúng quy đin" />
+      <item value="dunsg" />
+      <item value="d" />
       <item value="we use `builder` to obtain a new `BuildContext` that has access to the provider" />
       <item value="Could not find a generator for route RouteSettings(&quot;detail_absent&quot;, {id: 1260495}) in the _CustomTabViewState." />
       <item value="to Date" />
@@ -123,7 +133,6 @@
       <item value="eraser" />
       <item value="is_active" />
       <item value="detail_policy" />
-      <item value="policy" />
       <item value="policy Status" />
       <item value="detail policy" />
       <item value="is Accepted" />
@@ -140,24 +149,15 @@
       <item value="either user 10260 nor current process has android.permission.WRITE_EXTERNAL_STORAGE." />
       <item value="WSystem.err: io.reactivex.exceptions.UndeliverableException: The exception could not be delivered to the consumer because it has already canceleddisposed the flow or the exception has nowhere to go to begin with. Further reading: https:github.comReactiveXRxJavawikiWhat's-different-in-2.0error-handling | java.lang.RuntimeException: java.io.FileNotFoundException: Failed to create image decoder with message 'unimplemented'Input contained an error." />
       <item value="Caused by: java.lang.RuntimeException: java.io.FileNotFoundException: Failed to create image decoder with message 'unimplemented'Input contained an error." />
-      <item value="allow Scanning By Media Scanner" />
-      <item value="set Allowed Over Roaming" />
-      <item value="Error getting package info: com.omt.imagepicker.sample" />
-      <item value="MEDIA MOUNTED" />
-      <item value="Supertypes of the following classes cannot be resolved. Please make sure you have the required dependencies in the classpath:" />
-      <item value="Duplicate character '|' inside character class " />
-      <item value="Cannot access com.pr.commentmodule.data.network.ApiHelper" />
-      <item value="decode File" />
-      <item value="&gt; Plugin request for plugin already on the classpath must not include a version" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="321" />
+        <entry key="ENGLISH" value="327" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="321" />
+        <entry key="VIETNAMESE" value="328" />
       </map>
     </option>
   </component>
