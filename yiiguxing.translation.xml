@@ -99,6 +99,10 @@
     <option name="newTranslationDialogY" value="401" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="trạng thái cũ" />
+      <item value="is Accepted" />
+      <item value="action" />
+      <item value="modified Time" />
       <item value="measure Cross" />
       <item value="measure Main" />
       <item value="Boxy Flex Intrinsics Behavior" />
@@ -138,7 +142,6 @@
       <item value="detail_policy" />
       <item value="policy Status" />
       <item value="detail policy" />
-      <item value="is Accepted" />
       <item value="sender&#10;" />
       <item value="Because every version of flutter_test from sdk depends on path 1.8.2 and ko_teacher_v5 depends on path 1.8.3, flutter_test from sdk is forbidden" />
       <item value="Because every version of flutter_test from sdk depends on path 1.8.2 and ko_teacher_v5 depends on path 1.8.3, flutter_test from sdk is for" />
@@ -146,18 +149,15 @@
       <item value="enforced" />
       <item value="This 'onError' handler must return a value assignable to 'bool', but ends without returning a value." />
       <item value="mounted" />
-      <item value="otherwise, provide a function to check if it mounted" />
-      <item value="limited Permission Overlay Predicate" />
-      <item value="Try defining the operator '[]'." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="330" />
+        <entry key="ENGLISH" value="334" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="330" />
+        <entry key="VIETNAMESE" value="334" />
       </map>
     </option>
   </component>
