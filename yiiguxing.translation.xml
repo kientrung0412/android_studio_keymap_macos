@@ -86,7 +86,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1675658418917" />
+    <option name="lastTrimTime" value="1676103652644" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="VIETNAMESE" />
@@ -99,6 +99,8 @@
     <option name="newTranslationDialogY" value="823" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Consider setting mainAxisSize to MainAxisSize.min and using FlexFit.loose fits for the flexible children (using Flexible rather than Expanded). This will allow the flexible children to size themselves to less than the infinite remaining space they would otherwise be forced to take, and then will cause the RenderFlex to shrink-wrap the children rather than expanding to fit the maximum constraints provided by the parent." />
+      <item value="RenderFlex children have non-zero flex but incoming height constraints are unbounded." />
       <item value="con số" />
       <item value="number" />
       <item value="sĩ số" />
@@ -147,17 +149,15 @@
       <item value="INVALID" />
       <item value="VALID" />
       <item value="NOT USE" />
-      <item value="eraser" />
-      <item value="is_active" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="343" />
+        <entry key="ENGLISH" value="345" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="343" />
+        <entry key="VIETNAMESE" value="345" />
       </map>
     </option>
   </component>
