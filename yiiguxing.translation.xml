@@ -95,10 +95,14 @@
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="416" />
     <option name="newTranslationDialogWidth" value="742" />
-    <option name="newTranslationDialogX" value="-1054" />
-    <option name="newTranslationDialogY" value="228" />
+    <option name="newTranslationDialogX" value="475" />
+    <option name="newTranslationDialogY" value="665" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="cái cân" />
+      <item value="THước kẻ" />
+      <item value="THước" />
+      <item value="thuwcs" />
       <item value="A RenderViewport expected a child of type RenderSliver but received a child of type RenderFlex." />
       <item value="thuộc tính" />
       <item value="slice" />
@@ -145,19 +149,15 @@
       <item value="numerical order" />
       <item value="số thứ tự" />
       <item value="số " />
-      <item value="số thuws" />
-      <item value="số th" />
-      <item value="đã kích hoạt" />
-      <item value="đã kích " />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="354" />
+        <entry key="ENGLISH" value="359" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="354" />
+        <entry key="VIETNAMESE" value="359" />
       </map>
     </option>
   </component>
