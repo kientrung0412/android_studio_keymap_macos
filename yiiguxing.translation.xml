@@ -95,10 +95,11 @@
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="416" />
     <option name="newTranslationDialogWidth" value="742" />
-    <option name="newTranslationDialogX" value="-953" />
-    <option name="newTranslationDialogY" value="823" />
+    <option name="newTranslationDialogX" value="-1054" />
+    <option name="newTranslationDialogY" value="228" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="lite mode" />
       <item value="Example Subject &amp; Symbols are allowed!" />
       <item value="Consider setting mainAxisSize to MainAxisSize.min and using FlexFit.loose fits for the flexible children (using Flexible rather than Expanded). This will allow the flexible children to size themselves to less than the infinite remaining space they would otherwise be forced to take, and then will cause the RenderFlex to shrink-wrap the children rather than expanding to fit the maximum constraints provided by the parent." />
       <item value="RenderFlex children have non-zero flex but incoming height constraints are unbounded." />
@@ -148,7 +149,6 @@
       <item value="Active" />
       <item value="Chấp nhận" />
       <item value="INVALID" />
-      <item value="VALID" />
     </histories>
     <option name="languageScores">
       <map>
@@ -157,7 +157,7 @@
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="346" />
+        <entry key="VIETNAMESE" value="347" />
       </map>
     </option>
   </component>
