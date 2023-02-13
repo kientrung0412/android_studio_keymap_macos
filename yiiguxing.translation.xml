@@ -99,6 +99,7 @@
     <option name="newTranslationDialogY" value="228" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="A RenderViewport expected a child of type RenderSliver but received a child of type RenderFlex." />
       <item value="thuộc tính" />
       <item value="slice" />
       <item value="nằm giữa" />
@@ -148,16 +149,15 @@
       <item value="số th" />
       <item value="đã kích hoạt" />
       <item value="đã kích " />
-      <item value="đã l" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="353" />
+        <entry key="ENGLISH" value="354" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="353" />
+        <entry key="VIETNAMESE" value="354" />
       </map>
     </option>
   </component>
