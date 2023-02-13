@@ -99,6 +99,7 @@
     <option name="newTranslationDialogY" value="228" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="slice" />
       <item value="nằm giữa" />
       <item value="nằm gi" />
       <item value="thuộc tính" />
@@ -148,12 +149,11 @@
       <item value="đã kích hoạt" />
       <item value="đã kích " />
       <item value="đã l" />
-      <item value="đã " />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="349" />
+        <entry key="ENGLISH" value="350" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
