@@ -99,10 +99,10 @@
     <option name="newTranslationDialogY" value="228" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="thuộc tính" />
       <item value="slice" />
       <item value="nằm giữa" />
       <item value="nằm gi" />
-      <item value="thuộc tính" />
       <item value="thuộc" />
       <item value="lite mode" />
       <item value="Example Subject &amp; Symbols are allowed!" />
@@ -153,11 +153,11 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="350" />
+        <entry key="ENGLISH" value="353" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="350" />
+        <entry key="VIETNAMESE" value="353" />
       </map>
     </option>
   </component>
