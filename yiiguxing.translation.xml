@@ -99,6 +99,7 @@
     <option name="newTranslationDialogY" value="664" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="reserved Size" />
       <item value="số thập phân" />
       <item value="s" />
       <item value="cái cân" />
@@ -148,16 +149,15 @@
       <item value="subtract" />
       <item value="thứ tự số" />
       <item value="numerical order" />
-      <item value="số thứ tự" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="360" />
+        <entry key="ENGLISH" value="361" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="360" />
+        <entry key="VIETNAMESE" value="361" />
       </map>
     </option>
   </component>
