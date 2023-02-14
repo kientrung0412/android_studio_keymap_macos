@@ -96,9 +96,11 @@
     <option name="newTranslationDialogHeight" value="416" />
     <option name="newTranslationDialogWidth" value="742" />
     <option name="newTranslationDialogX" value="475" />
-    <option name="newTranslationDialogY" value="665" />
+    <option name="newTranslationDialogY" value="664" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="số thập phân" />
+      <item value="s" />
       <item value="cái cân" />
       <item value="THước kẻ" />
       <item value="THước" />
@@ -118,7 +120,6 @@
       <item value="sĩ số" />
       <item value="si" />
       <item value="six soos" />
-      <item value="s" />
       <item value="cặp sachs" />
       <item value="cặp sach" />
       <item value="cặp" />
@@ -148,16 +149,15 @@
       <item value="thứ tự số" />
       <item value="numerical order" />
       <item value="số thứ tự" />
-      <item value="số " />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="359" />
+        <entry key="ENGLISH" value="360" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="359" />
+        <entry key="VIETNAMESE" value="360" />
       </map>
     </option>
   </component>
