@@ -95,10 +95,11 @@
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="416" />
     <option name="newTranslationDialogWidth" value="742" />
-    <option name="newTranslationDialogX" value="475" />
-    <option name="newTranslationDialogY" value="664" />
+    <option name="newTranslationDialogX" value="549" />
+    <option name="newTranslationDialogY" value="855" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Lịch sử đo " />
       <item value="Sf Cartesian Chart" />
       <item value="reserved Size" />
       <item value="số thập phân" />
@@ -148,7 +149,6 @@
       <item value="Could not find a generator for route RouteSettings(&quot;detail_absent&quot;, {id: 1260495}) in the _CustomTabViewState." />
       <item value="to Date" />
       <item value="subtract" />
-      <item value="thứ tự số" />
     </histories>
     <option name="languageScores">
       <map>
