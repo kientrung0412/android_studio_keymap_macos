@@ -99,6 +99,10 @@
     <option name="newTranslationDialogY" value="664" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Unhandled Exception:" />
+      <item value="anonymous closure" />
+      <item value="closure" />
+      <item value="anonymous" />
       <item value="subtract" />
       <item value="and attach listeners will see them already present" />
       <item value="Set the view tree owners before setting the content view so that the inflation process" />
@@ -145,19 +149,15 @@
       <item value="cặp sachs" />
       <item value="cặp sach" />
       <item value="cặp" />
-      <item value="đã đăng nhập" />
-      <item value="get Status Classification" />
-      <item value="trạng thái cũ" />
-      <item value="is Accepted" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="379" />
+        <entry key="ENGLISH" value="383" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="379" />
+        <entry key="VIETNAMESE" value="383" />
       </map>
     </option>
   </component>
