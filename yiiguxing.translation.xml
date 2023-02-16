@@ -99,6 +99,8 @@
     <option name="newTranslationDialogY" value="664" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="handle Tap" />
+      <item value="Among other uses, performance tools use this event to ensure that perf" />
       <item value="Nhiều info" />
       <item value="Nhiều " />
       <item value="nhieeuf" />
@@ -147,17 +149,15 @@
       <item value="lite mode" />
       <item value="Example Subject &amp; Symbols are allowed!" />
       <item value="Consider setting mainAxisSize to MainAxisSize.min and using FlexFit.loose fits for the flexible children (using Flexible rather than Expanded). This will allow the flexible children to size themselves to less than the infinite remaining space they would otherwise be forced to take, and then will cause the RenderFlex to shrink-wrap the children rather than expanding to fit the maximum constraints provided by the parent." />
-      <item value="RenderFlex children have non-zero flex but incoming height constraints are unbounded." />
-      <item value="con số" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="389" />
+        <entry key="ENGLISH" value="391" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="389" />
+        <entry key="VIETNAMESE" value="391" />
       </map>
     </option>
   </component>
