@@ -99,6 +99,13 @@
     <option name="newTranslationDialogY" value="664" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Nhiều info" />
+      <item value="Nhiều " />
+      <item value="nhieeuf" />
+      <item value="info" />
+      <item value="inges" />
+      <item value="infoes" />
+      <item value="infos" />
       <item value="Unhandled Exception:" />
       <item value="anonymous closure" />
       <item value="closure" />
@@ -142,22 +149,15 @@
       <item value="Consider setting mainAxisSize to MainAxisSize.min and using FlexFit.loose fits for the flexible children (using Flexible rather than Expanded). This will allow the flexible children to size themselves to less than the infinite remaining space they would otherwise be forced to take, and then will cause the RenderFlex to shrink-wrap the children rather than expanding to fit the maximum constraints provided by the parent." />
       <item value="RenderFlex children have non-zero flex but incoming height constraints are unbounded." />
       <item value="con số" />
-      <item value="number" />
-      <item value="sĩ số" />
-      <item value="si" />
-      <item value="six soos" />
-      <item value="cặp sachs" />
-      <item value="cặp sach" />
-      <item value="cặp" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="383" />
+        <entry key="ENGLISH" value="389" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="383" />
+        <entry key="VIETNAMESE" value="389" />
       </map>
     </option>
   </component>
