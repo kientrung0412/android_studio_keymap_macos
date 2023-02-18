@@ -99,6 +99,7 @@
     <option name="newTranslationDialogY" value="1024" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="not a valid identifier" />
       <item value="No such file or directory" />
       <item value="ambiguous redirect&#10;" />
       <item value="trình tạo export_file" />
@@ -148,7 +149,6 @@
       <item value="Category Axis" />
       <item value="primary X Axis" />
       <item value="annotations" />
-      <item value="palette" />
     </histories>
     <option name="languageScores">
       <map>
@@ -157,7 +157,7 @@
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="408" />
+        <entry key="VIETNAMESE" value="409" />
       </map>
     </option>
   </component>
