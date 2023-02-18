@@ -95,10 +95,15 @@
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="416" />
     <option name="newTranslationDialogWidth" value="742" />
-    <option name="newTranslationDialogX" value="549" />
-    <option name="newTranslationDialogY" value="664" />
+    <option name="newTranslationDialogX" value="234" />
+    <option name="newTranslationDialogY" value="1024" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="No such file or directory" />
+      <item value="ambiguous redirect&#10;" />
+      <item value="trình tạo export_file" />
+      <item value="generator export_file" />
+      <item value="generater_export_file" />
       <item value="Absent" />
       <item value="Absend" />
       <item value="dimension" />
@@ -144,20 +149,15 @@
       <item value="primary X Axis" />
       <item value="annotations" />
       <item value="palette" />
-      <item value="Lịch sử đo " />
-      <item value="Sf Cartesian Chart" />
-      <item value="reserved Size" />
-      <item value="số thập phân" />
-      <item value="s" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="402" />
+        <entry key="ENGLISH" value="404" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="403" />
+        <entry key="VIETNAMESE" value="408" />
       </map>
     </option>
   </component>
