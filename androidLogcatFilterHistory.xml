@@ -4,9 +4,9 @@
     <option name="nonFavorites">
       <list>
         <option value="tag:okhttp " />
+        <option value="level:error " />
         <option value="package:mine message:activity | tag:okhttp " />
         <option value="package:mine message:activity" />
-        <option value="level:error " />
         <option value="package:mine  level:error " />
         <option value="http" />
         <option value="tag:Trungnk " />
