@@ -99,6 +99,7 @@
     <option name="newTranslationDialogY" value="469" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="[VERBOSE-2:dart_vm_initializer.cc(41)] Unhandled Exception: DioError [DioErrorType.other]: HttpException: Connection closed while receiving data, uri = http:ko-teacher-api-v5.k8s-dev.omt.vnapiv4teacherlogin" />
       <item value="Because every version of flutter_test from sdk depends on path 1.8.2 and ko_teacher_v5 depends on path ^1.8.3, flutter_test from sdk is forbidden." />
       <item value="Eflutter (11370): [ERROR:flutterruntimedart_vm_initializer.cc(41)] Unhandled Exception: LateInitializationError: Field 'toDate' has not been initialized." />
       <item value="LateInitializationError: Field 'toDate' has already been initialized." />
@@ -148,12 +149,11 @@
       <item value="Chỉ sso" />
       <item value="C" />
       <item value="Chir s" />
-      <item value="A superclass for [RenderObjectWidget]s that configure [RenderObject] subclasses that have a single child slot. (This superclass only provides the storage for that child, it doesn't actually provide the updating logic.) Typically, the render object assigned to this widget will make use of [RenderObjectWithChildMixin] to implement a single-child model. The mixin exposes a [RenderObjectWithChildMixin.child] property that allows retrieving the render object belonging to the [child] widget." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="410" />
+        <entry key="ENGLISH" value="412" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
