@@ -95,10 +95,13 @@
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="416" />
     <option name="newTranslationDialogWidth" value="742" />
-    <option name="newTranslationDialogX" value="234" />
-    <option name="newTranslationDialogY" value="1024" />
+    <option name="newTranslationDialogX" value="178" />
+    <option name="newTranslationDialogY" value="469" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="kịch bản" />
+      <item value="kichj banr" />
+      <item value="kichj ban" />
       <item value="not a valid identifier" />
       <item value="No such file or directory" />
       <item value="ambiguous redirect&#10;" />
@@ -146,18 +149,15 @@
       <item value="Single Child Render Object Widget" />
       <item value="major Grid Lines" />
       <item value="plot Bands" />
-      <item value="Category Axis" />
-      <item value="primary X Axis" />
-      <item value="annotations" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="404" />
+        <entry key="ENGLISH" value="407" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="409" />
+        <entry key="VIETNAMESE" value="412" />
       </map>
     </option>
   </component>
