@@ -170,6 +170,18 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.guohanlin.JsonToAnyLanguage">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.herbert.george.flutter-snippets">
           <value>
             <PluginData>
