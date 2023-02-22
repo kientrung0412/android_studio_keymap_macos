@@ -86,7 +86,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1676573919823" />
+    <option name="lastTrimTime" value="1677036208772" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="VIETNAMESE" />
@@ -99,6 +99,10 @@
     <option name="newTranslationDialogY" value="469" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value=" E  Error getting package info: vn.omt.thermometerTest&#10;" />
+      <item value=" W  Can request only one set of permissions at a time&#10;" />
+      <item value="was disposed without first being removed with the input manager" />
+      <item value="has leaked window DecorView@615a035[CameraActivity] that was originally added here" />
       <item value="từ ngày 12 đến ngày 20" />
       <item value="từ ngày 12 đến n" />
       <item value="từ ngày 12" />
@@ -145,19 +149,15 @@
       <item value="inges" />
       <item value="infoes" />
       <item value="infos" />
-      <item value="Unhandled Exception:" />
-      <item value="anonymous closure" />
-      <item value="closure" />
-      <item value="anonymous" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="428" />
+        <entry key="ENGLISH" value="430" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="428" />
+        <entry key="VIETNAMESE" value="432" />
       </map>
     </option>
   </component>
