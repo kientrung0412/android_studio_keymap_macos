@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:okhttp   " />
+    <option name="mostRecentlyUsed" value="tag:okhttp " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:okhttp " />
         <option value="tag:okhttp   " />
         <option value="tag:Trungnk  " />
-        <option value="tag:okhttp " />
         <option value="tag:Trung" />
         <option value="bucket_name_photo" />
         <option value="tag:Trungnk " />
