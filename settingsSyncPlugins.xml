@@ -155,6 +155,7 @@
                   <option value="org.jetbrains.kotlin" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -298,6 +299,20 @@
                   <option value="Dart" />
                   <option value="com.intellij.modules.java" />
                   <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.mohn93.advanced.json2dart.plugin">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="Dart" />
+                  <option value="com.intellij.modules.json" />
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
                 </set>
               </option>
             </PluginData>
