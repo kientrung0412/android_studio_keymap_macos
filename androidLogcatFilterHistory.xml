@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="setCameraType" />
+    <option name="mostRecentlyUsed" value="tag:Trungnk" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Trungnk" />
         <option value="setCameraType" />
         <option value="Trungnk" />
         <option value="Here" />
@@ -20,7 +21,6 @@
         <option value="level:error " />
         <option value="tag:flutter " />
         <option value="tag:ok" />
-        <option value="tag:Trungnk" />
         <option value=" package:mine " />
         <option value="level:warn  &amp; package:mine " />
       </list>
