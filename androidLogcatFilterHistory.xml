@@ -1,19 +1,19 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="(level:error  | tag:okhttp ) &amp; package:mine " />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="(level:error  | tag:okhttp ) &amp; package:mine " />
+        <option value="package:mine " />
         <option value="level:error  " />
         <option value="tag:okhttp " />
-        <option value="level:error " />
         <option value="tag:Trungnk | tag:setCameraType" />
         <option value="tag:Trungnk" />
         <option value="setCameraType" />
         <option value="Trungnk" />
         <option value="Here" />
         <option value="onActivityResult" />
-        <option value="package:mine " />
         <option value="package:mine &amp; level:error " />
         <option value="onDeniedPermissions" />
         <option value="message~:activity" />
