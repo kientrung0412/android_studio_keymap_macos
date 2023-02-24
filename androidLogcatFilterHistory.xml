@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="(level:error  | tag:okhttp ) &amp; package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="(level:error  | tag:okhttp ) &amp; package:mine " />
+        <option value="level:error  " />
+        <option value="tag:okhttp " />
         <option value="level:error " />
         <option value="tag:Trungnk | tag:setCameraType" />
         <option value="tag:Trungnk" />
@@ -14,15 +17,12 @@
         <option value="package:mine &amp; level:error " />
         <option value="onDeniedPermissions" />
         <option value="message~:activity" />
-        <option value="tag:okhttp " />
         <option value="tag:okhttp   " />
         <option value="tag:Trungnk  " />
         <option value="tag:Trung" />
         <option value="bucket_name_photo" />
         <option value="tag:Trungnk " />
         <option value="tag:flutter " />
-        <option value="tag:ok" />
-        <option value=" package:mine " />
       </list>
     </option>
   </component>
