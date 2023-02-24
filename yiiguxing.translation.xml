@@ -99,6 +99,7 @@
     <option name="newTranslationDialogY" value="469" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="CAMERA TYPE FRONT" />
       <item value="date Added" />
       <item value="Attempt to recreate a fil" />
       <item value="đảo ngược" />
@@ -148,16 +149,15 @@
       <item value="ambiguous redirect&#10;" />
       <item value="trình tạo export_file" />
       <item value="generator export_file" />
-      <item value="generater_export_file" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="445" />
+        <entry key="ENGLISH" value="446" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="445" />
+        <entry key="VIETNAMESE" value="446" />
       </map>
     </option>
   </component>
