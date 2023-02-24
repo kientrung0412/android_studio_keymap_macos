@@ -1,10 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine &amp; level:error " />
+    <option name="mostRecentlyUsed" value="Trungnk" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine &amp; level:error " />
+        <option value="Trungnk" />
+        <option value="onActivityResult" />
         <option value="package:mine " />
+        <option value="package:mine &amp; level:error " />
         <option value="onDeniedPermissions" />
         <option value="message~:activity" />
         <option value="tag:okhttp " />
@@ -17,12 +19,10 @@
         <option value="tag:flutter " />
         <option value="tag:ok" />
         <option value="tag:Trungnk" />
-        <option value="Trungnk" />
         <option value=" package:mine " />
         <option value="level:warn  &amp; package:mine " />
         <option value="level:warn  " />
         <option value="level:error &amp; package:mine " />
-        <option value="ta" />
       </list>
     </option>
   </component>
