@@ -99,6 +99,7 @@
     <option name="newTranslationDialogY" value="469" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Null check operator used on a null value" />
       <item value="allow Half Rating" />
       <item value="Câu hỏi" />
       <item value="Câu " />
@@ -148,16 +149,15 @@
       <item value="When the exception was thrown, this was the stack:" />
       <item value="Error (Xcode): libscreenhomewidgethomecustom_bottom_bar.dart:181:17: Error: No named parameter with the name 'colorFilter'." />
       <item value="The following _Exception was thrown resolving an image codec:" />
-      <item value="The following assertion was thrown resolving a single-frame picture stream:" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="456" />
+        <entry key="ENGLISH" value="457" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="456" />
+        <entry key="VIETNAMESE" value="457" />
       </map>
     </option>
   </component>
