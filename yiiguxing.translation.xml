@@ -99,6 +99,7 @@
     <option name="newTranslationDialogY" value="469" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="allow Half Rating" />
       <item value="Câu hỏi" />
       <item value="Câu " />
       <item value="caau " />
@@ -148,16 +149,15 @@
       <item value="Error (Xcode): libscreenhomewidgethomecustom_bottom_bar.dart:181:17: Error: No named parameter with the name 'colorFilter'." />
       <item value="The following _Exception was thrown resolving an image codec:" />
       <item value="The following assertion was thrown resolving a single-frame picture stream:" />
-      <item value="[VERBOSE-2:dart_vm_initializer.cc(41)] Unhandled Exception: DioError [DioErrorType.other]: HttpException: Connection closed while receiving data, uri = http:ko-teacher-api-v5.k8s-dev.omt.vnapiv4teacherlogin" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="455" />
+        <entry key="ENGLISH" value="456" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="455" />
+        <entry key="VIETNAMESE" value="456" />
       </map>
     </option>
   </component>
