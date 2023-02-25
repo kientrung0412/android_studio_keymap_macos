@@ -99,6 +99,10 @@
     <option name="newTranslationDialogY" value="469" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Câu hỏi" />
+      <item value="Câu " />
+      <item value="caau " />
+      <item value="v" />
       <item value="Container" />
       <item value="_debug Doing This Layout" />
       <item value="Abstract classes can't be instantiated. (Documentation)" />
@@ -145,19 +149,15 @@
       <item value="The following _Exception was thrown resolving an image codec:" />
       <item value="The following assertion was thrown resolving a single-frame picture stream:" />
       <item value="[VERBOSE-2:dart_vm_initializer.cc(41)] Unhandled Exception: DioError [DioErrorType.other]: HttpException: Connection closed while receiving data, uri = http:ko-teacher-api-v5.k8s-dev.omt.vnapiv4teacherlogin" />
-      <item value="Because every version of flutter_test from sdk depends on path 1.8.2 and ko_teacher_v5 depends on path ^1.8.3, flutter_test from sdk is forbidden." />
-      <item value="Eflutter (11370): [ERROR:flutterruntimedart_vm_initializer.cc(41)] Unhandled Exception: LateInitializationError: Field 'toDate' has not been initialized." />
-      <item value="LateInitializationError: Field 'toDate' has already been initialized." />
-      <item value="kịch bản" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="451" />
+        <entry key="ENGLISH" value="455" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="451" />
+        <entry key="VIETNAMESE" value="455" />
       </map>
     </option>
   </component>
