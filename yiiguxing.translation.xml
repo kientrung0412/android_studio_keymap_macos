@@ -99,6 +99,7 @@
     <option name="newTranslationDialogY" value="469" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Because no versions of open_filex match &gt;3.4.0 &lt;4.0.0 and open_filex 3.4.0 depends on ffi ^1.0.0, open_filex ^3.4.0 requires ffi ^1.0.0." />
       <item value="interrupt" />
       <item value="Try removing the export of one of the libraries, or explicitly hiding the name in one of the export directives." />
       <item value="Null check operator used on a null value" />
@@ -148,16 +149,15 @@
       <item value="to Date" />
       <item value="The asset does not exist or has empty data." />
       <item value="Exception: Invalid image data" />
-      <item value="When the exception was thrown, this was the stack:" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="458" />
+        <entry key="ENGLISH" value="459" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="458" />
+        <entry key="VIETNAMESE" value="459" />
       </map>
     </option>
   </component>
