@@ -99,6 +99,7 @@
     <option name="newTranslationDialogY" value="469" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="STUDENT ABSENCE IN DATE" />
       <item value="Terminating app due to uncaught exception 'NSInvalidArgumentException', reason: 'Could not find a storyboard named 'Main' in bundle NSBundle &lt;privatevarcontainersBundleApplicationDCB7FC1F-1C5A-4948-8D13-6DF96B9E6A66Runner.app&gt; (loaded)'" />
       <item value="&gt; Cannot choose between the following variants of org.jetbrains.kotlin:kotlin-gradle-plugin:1.7.22:" />
       <item value="Because no versions of open_filex match &gt;3.4.0 &lt;4.0.0 and open_filex 3.4.0 depends on ffi ^1.0.0, open_filex ^3.4.0 requires ffi ^1.0.0." />
@@ -148,16 +149,15 @@
       <item value="từ ngày 12 đến n" />
       <item value="từ ngày 12" />
       <item value="tuwf " />
-      <item value="to Date" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="461" />
+        <entry key="ENGLISH" value="462" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="461" />
+        <entry key="VIETNAMESE" value="462" />
       </map>
     </option>
   </component>
