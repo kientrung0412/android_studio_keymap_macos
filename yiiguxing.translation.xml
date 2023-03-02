@@ -99,6 +99,7 @@
     <option name="newTranslationDialogY" value="469" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="The amount of space by which to inset the children." />
       <item value="OS Error: nodename nor servname provided, or not known, errno = 8)" />
       <item value="khảo mạnh" />
       <item value="khai" />
@@ -148,12 +149,11 @@
       <item value="d" />
       <item value="lớp đang theo học" />
       <item value="lớp hiện tại" />
-      <item value="lớp " />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="475" />
+        <entry key="ENGLISH" value="476" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
