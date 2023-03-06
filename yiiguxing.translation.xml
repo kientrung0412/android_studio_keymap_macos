@@ -99,6 +99,9 @@
     <option name="newTranslationDialogY" value="469" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="leading Width" />
+      <item value="Error: Could not find the correct Provider&lt;StudentsFollowSurveyState&gt; above this _ItemStudentFollowSurvey Widget" />
+      <item value="his expression has a type of 'void' so its value can't be used. (Documentation)  Try checking to see if you're using the correct API; there might be a function or call that returns void you didn't expect. Also check type parameters and variables which might also be void." />
       <item value="text Direction" />
       <item value="vertical Direction" />
       <item value="super.textBaseline, NO DEFAULT: we don't know what the text's baseline should be" />
@@ -146,18 +149,15 @@
       <item value="Try removing the export of one of the libraries, or explicitly hiding the name in one of the export directives." />
       <item value="Null check operator used on a null value" />
       <item value="allow Half Rating" />
-      <item value="Câu hỏi" />
-      <item value="Câu " />
-      <item value="caau " />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="493" />
+        <entry key="ENGLISH" value="495" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="493" />
+        <entry key="VIETNAMESE" value="495" />
       </map>
     </option>
   </component>
