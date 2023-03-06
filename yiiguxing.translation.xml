@@ -99,6 +99,8 @@
     <option name="newTranslationDialogY" value="469" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="snap" />
+      <item value="stretch" />
       <item value="leading Width" />
       <item value="Error: Could not find the correct Provider&lt;StudentsFollowSurveyState&gt; above this _ItemStudentFollowSurvey Widget" />
       <item value="his expression has a type of 'void' so its value can't be used. (Documentation)  Try checking to see if you're using the correct API; there might be a function or call that returns void you didn't expect. Also check type parameters and variables which might also be void." />
@@ -147,17 +149,15 @@
       <item value="Because no versions of open_filex match &gt;3.4.0 &lt;4.0.0 and open_filex 3.4.0 depends on ffi ^1.0.0, open_filex ^3.4.0 requires ffi ^1.0.0." />
       <item value="interrupt" />
       <item value="Try removing the export of one of the libraries, or explicitly hiding the name in one of the export directives." />
-      <item value="Null check operator used on a null value" />
-      <item value="allow Half Rating" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="495" />
+        <entry key="ENGLISH" value="497" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="495" />
+        <entry key="VIETNAMESE" value="497" />
       </map>
     </option>
   </component>
