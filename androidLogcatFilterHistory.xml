@@ -3,6 +3,8 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.kidsonline.teacher " />
+        <option value="Handling a background message" />
         <option value="flutter" />
         <option value="package:mine " />
         <option value="activity &amp; package:mine " />
@@ -21,8 +23,6 @@
         <option value="Trungnk" />
         <option value="Here" />
         <option value="package:mine &amp; level:error " />
-        <option value="onDeniedPermissions" />
-        <option value="message~:activity" />
       </list>
     </option>
   </component>
