@@ -99,6 +99,8 @@
     <option name="newTranslationDialogY" value="469" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="The notification response type." />
+      <item value="The notification's payload." />
       <item value="match As Prefix" />
       <item value="Eflutter ( 5380): [ERROR:flutterruntimedart_vm_initializer.cc(41)] Unhandled Exception: FormatException: Unexpected character (at character 2)" />
       <item value="Notification Utils" />
@@ -147,17 +149,15 @@
       <item value="Error (Xcode): libscreenpostpost_detailpost_detail_screen.dart:92:15: Error: The method 'WebView' isn't defined for the class '_BodyPostDetail'." />
       <item value="FLAG ACTIVITY NEW TASK" />
       <item value="can Attach" />
-      <item value="_Calender Rating Screen State" />
-      <item value="The amount of space by which to inset the children." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="521" />
+        <entry key="ENGLISH" value="523" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="521" />
+        <entry key="VIETNAMESE" value="523" />
       </map>
     </option>
   </component>
