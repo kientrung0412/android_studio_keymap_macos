@@ -99,6 +99,7 @@
     <option name="newTranslationDialogY" value="469" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Specifies the &quot;ticker&quot; text which is sent to accessibility services." />
       <item value="Plugin initialization settings for Android." />
       <item value="Specifies the default icon for notifications." />
       <item value="Constructs an instance of [AndroidInitializationSettings]." />
@@ -148,16 +149,15 @@
       <item value="khảo mạnh" />
       <item value="khai" />
       <item value="khô" />
-      <item value="learning Area" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="515" />
+        <entry key="ENGLISH" value="516" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="515" />
+        <entry key="VIETNAMESE" value="516" />
       </map>
     </option>
   </component>
