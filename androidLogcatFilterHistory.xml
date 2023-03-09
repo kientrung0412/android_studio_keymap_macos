@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="flutter" />
     <option name="nonFavorites">
       <list>
+        <option value="flutter" />
         <option value="package:com.kidsonline.teacher " />
         <option value="Handling a background message" />
-        <option value="flutter" />
         <option value="package:mine " />
         <option value="activity &amp; package:mine " />
         <option value="activity" />
