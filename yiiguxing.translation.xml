@@ -99,6 +99,9 @@
     <option name="newTranslationDialogY" value="469" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Eflutter (13485): 1 _ChunkedJsonParser.parseNumber (dart:convert-patchconvert_patch.dart:1250:9)" />
+      <item value="Eflutter (13485): ...15189, &quot;date&quot;: 1670324769, &quot;title&quot;: Hôm nay bé Nguyễn Kiên Trung về lúc ..." />
+      <item value="Eflutter (13485): [ERROR:flutterruntimedart_vm_initializer.cc(41)] Unhandled Exception: FormatException: Unexpected character (at character 309)" />
       <item value="The notification response type." />
       <item value="The notification's payload." />
       <item value="match As Prefix" />
@@ -146,18 +149,15 @@
       <item value="can Backward" />
       <item value="for a specific platform." />
       <item value="Constructs a [WebViewController] from a specific platform implementation." />
-      <item value="Error (Xcode): libscreenpostpost_detailpost_detail_screen.dart:92:15: Error: The method 'WebView' isn't defined for the class '_BodyPostDetail'." />
-      <item value="FLAG ACTIVITY NEW TASK" />
-      <item value="can Attach" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="523" />
+        <entry key="ENGLISH" value="525" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="523" />
+        <entry key="VIETNAMESE" value="525" />
       </map>
     </option>
   </component>
