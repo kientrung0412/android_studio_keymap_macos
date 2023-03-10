@@ -99,6 +99,9 @@
     <option name="newTranslationDialogY" value="469" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Sets up [MessageHandler] for incoming messages." />
+      <item value="on Launch" />
+      <item value="on Message" />
       <item value="Request permission to update the application badge. Defaults to `true`." />
       <item value="Request permission to display alerts. Defaults to `true`." />
       <item value="alert" />
@@ -146,18 +149,15 @@
       <item value="Survey Attempt Activity" />
       <item value="statistic" />
       <item value="format Elapsed Time" />
-      <item value="Formats an elapsed time in the form &quot;MM:SS&quot; or &quot;H:MM:SS&quot; for display on the call-in-progress" />
-      <item value="initial Refresh" />
-      <item value="on Page Finished" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="528" />
+        <entry key="ENGLISH" value="531" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="528" />
+        <entry key="VIETNAMESE" value="531" />
       </map>
     </option>
   </component>
