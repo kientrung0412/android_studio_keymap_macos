@@ -99,9 +99,10 @@
     <option name="newTranslationDialogY" value="469" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="Sets up [MessageHandler] for incoming messages." />
+      <item value="on Background Message" />
       <item value="on Launch" />
       <item value="on Message" />
+      <item value="Sets up [MessageHandler] for incoming messages." />
       <item value="Request permission to update the application badge. Defaults to `true`." />
       <item value="Request permission to display alerts. Defaults to `true`." />
       <item value="alert" />
@@ -148,16 +149,15 @@
       <item value="another Name" />
       <item value="Survey Attempt Activity" />
       <item value="statistic" />
-      <item value="format Elapsed Time" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="531" />
+        <entry key="ENGLISH" value="534" />
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="531" />
+        <entry key="VIETNAMESE" value="534" />
       </map>
     </option>
   </component>
