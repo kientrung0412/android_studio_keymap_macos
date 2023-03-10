@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="flutter" />
+    <option name="mostRecentlyUsed" value="http" />
     <option name="nonFavorites">
       <list>
+        <option value="http" />
         <option value="flutter" />
         <option value="package:com.kidsonline.teacher " />
         <option value="Handling a background message" />
@@ -12,7 +13,6 @@
         <option value="tag:okhttp " />
         <option value="package:mine &amp; tag:http" />
         <option value="package:mine | tag:http" />
-        <option value="http" />
         <option value="onActivityResult" />
         <option value="tag:Trungnk" />
         <option value="level:error " />
