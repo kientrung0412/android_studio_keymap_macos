@@ -86,7 +86,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1678069834147" />
+    <option name="lastTrimTime" value="1678503893816" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="VIETNAMESE" />
@@ -99,6 +99,10 @@
     <option name="newTranslationDialogY" value="469" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="forgot " />
+      <item value="forgot pasw" />
+      <item value="forg" />
+      <item value="for" />
       <item value="on Background Message" />
       <item value="on Launch" />
       <item value="on Message" />
@@ -145,10 +149,6 @@
       <item value="his expression has a type of 'void' so its value can't be used. (Documentation)  Try checking to see if you're using the correct API; there might be a function or call that returns void you didn't expect. Also check type parameters and variables which might also be void." />
       <item value="text Direction" />
       <item value="vertical Direction" />
-      <item value="super.textBaseline, NO DEFAULT: we don't know what the text's baseline should be" />
-      <item value="another Name" />
-      <item value="Survey Attempt Activity" />
-      <item value="statistic" />
     </histories>
     <option name="languageScores">
       <map>
@@ -157,7 +157,7 @@
         <entry key="INDONESIAN" value="31" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="534" />
+        <entry key="VIETNAMESE" value="535" />
       </map>
     </option>
   </component>
