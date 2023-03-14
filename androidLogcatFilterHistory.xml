@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="http" />
+    <option name="mostRecentlyUsed" value="package:codepro.kidsonline.debug " />
     <option name="nonFavorites">
       <list>
+        <option value="package:codepro.kidsonline.debug " />
         <option value="http" />
         <option value="flutter" />
         <option value="package:com.kidsonline.teacher " />
@@ -22,7 +23,6 @@
         <option value="setCameraType" />
         <option value="Trungnk" />
         <option value="Here" />
-        <option value="package:mine &amp; level:error " />
       </list>
     </option>
   </component>
