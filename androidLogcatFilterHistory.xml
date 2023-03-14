@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:codepro.kidsonline.debug " />
+    <option name="mostRecentlyUsed" value="tag:okhttp " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:okhttp " />
         <option value="package:codepro.kidsonline.debug " />
         <option value="http" />
         <option value="flutter" />
@@ -11,7 +12,6 @@
         <option value="package:mine " />
         <option value="activity &amp; package:mine " />
         <option value="activity" />
-        <option value="tag:okhttp " />
         <option value="package:mine &amp; tag:http" />
         <option value="package:mine | tag:http" />
         <option value="onActivityResult" />
