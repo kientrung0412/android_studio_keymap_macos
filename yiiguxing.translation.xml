@@ -91,7 +91,6 @@
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="VIETNAMESE" />
     <option name="showWordsOnStartup" value="true" />
-    <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="416" />
