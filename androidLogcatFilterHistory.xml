@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="http" />
     <option name="nonFavorites">
       <list>
+        <option value="http" />
         <option value="level:error " />
         <option value="Trungnk" />
-        <option value="http" />
         <option value="trungnk" />
         <option value="onPictureTaken" />
         <option value="≈" />
