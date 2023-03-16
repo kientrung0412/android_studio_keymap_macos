@@ -99,6 +99,8 @@
     <option name="newTranslationDialogY" value="75" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="sensor Position" />
+      <item value="degrees" />
       <item value="face Front Camera Orientation" />
       <item value="Method call expected" />
       <item value="INFO SUPPORTED HARDWARE LEVEL" />
@@ -147,18 +149,16 @@
       <item value="on Message" />
       <item value="Sets up [MessageHandler] for incoming messages." />
       <item value="Request permission to update the application badge. Defaults to `true`." />
-      <item value="Request permission to display alerts. Defaults to `true`." />
-      <item value="alert" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="550" />
+        <entry key="ENGLISH" value="552" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="32" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="5" />
-        <entry key="VIETNAMESE" value="550" />
+        <entry key="VIETNAMESE" value="552" />
       </map>
     </option>
   </component>
