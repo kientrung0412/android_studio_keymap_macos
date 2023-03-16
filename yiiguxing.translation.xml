@@ -99,6 +99,7 @@
     <option name="newTranslationDialogY" value="75" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="face Front Camera Orientation" />
       <item value="Method call expected" />
       <item value="INFO SUPPORTED HARDWARE LEVEL" />
       <item value="Return the list of currently connected camera devices by identifier, including cameras that may be in use by other camera API clients. Non-removable cameras use integers starting at 0 for their identifiers, while removable cameras have a unique identifier for each individual device, even if they are the same model. This list doesn't contain physical cameras that can only be used as part of a logical multi-camera device. Returns: The list of currently connected camera devices" />
@@ -148,12 +149,11 @@
       <item value="Request permission to update the application badge. Defaults to `true`." />
       <item value="Request permission to display alerts. Defaults to `true`." />
       <item value="alert" />
-      <item value="Eflutter (13485): 1 _ChunkedJsonParser.parseNumber (dart:convert-patchconvert_patch.dart:1250:9)" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="549" />
+        <entry key="ENGLISH" value="550" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="32" />
         <entry key="IRISH" value="1" />
