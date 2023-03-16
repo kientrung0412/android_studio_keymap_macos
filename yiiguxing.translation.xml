@@ -99,11 +99,11 @@
     <option name="newTranslationDialogY" value="75" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="sensor Position" />
       <item value="Surface" />
       <item value="back-facing" />
       <item value="result = (360 - result) % 360; compensate the mirror" />
       <item value="Orientation" />
-      <item value="sensor Position" />
       <item value="degrees" />
       <item value="face Front Camera Orientation" />
       <item value="Method call expected" />
@@ -153,12 +153,12 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="556" />
+        <entry key="ENGLISH" value="557" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="32" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="5" />
-        <entry key="VIETNAMESE" value="556" />
+        <entry key="VIETNAMESE" value="557" />
       </map>
     </option>
   </component>
