@@ -99,6 +99,8 @@
     <option name="newTranslationDialogY" value="75" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="final GlobalKey&lt;NavigatorState&gt; navigatorKey = GlobalKey&lt;NavigatorState&gt;();" />
+      <item value="Could not find a generator for route RouteSettings(&quot;detail_absent&quot;, {id: 3902, bloc: Instance of 'AbsentBloc'}) in the _CustomTabViewState." />
       <item value="point" />
       <item value="To safely refer to a widget's ancestor in its dispose() method, save a reference to the ancestor by calling dependOnInheritedWidgetOfExactType() in the widget's didChangeDependencies() method." />
       <item value="prepare Detect" />
@@ -147,18 +149,16 @@
       <item value="người" />
       <item value="Ba Tư" />
       <item value="persion" />
-      <item value="pers" />
-      <item value="per" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="563" />
+        <entry key="ENGLISH" value="565" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="32" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="5" />
-        <entry key="VIETNAMESE" value="563" />
+        <entry key="VIETNAMESE" value="565" />
       </map>
     </option>
   </component>
