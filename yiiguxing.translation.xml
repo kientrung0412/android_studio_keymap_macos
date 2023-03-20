@@ -99,11 +99,12 @@
     <option name="newTranslationDialogY" value="75" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="To safely refer to a widget's ancestor in its dispose() method, save a reference to the ancestor by calling dependOnInheritedWidgetOfExactType() in the widget's didChangeDependencies() method." />
+      <item value="Eflutter (12368): [ERROR:flutterruntimedart_vm_initializer.cc(41)] Unhandled Exception: Bad state: Cannot add new events after calling close" />
       <item value="detail Assessment Eat" />
       <item value="final GlobalKey&lt;NavigatorState&gt; navigatorKey = GlobalKey&lt;NavigatorState&gt;();" />
       <item value="Could not find a generator for route RouteSettings(&quot;detail_absent&quot;, {id: 3902, bloc: Instance of 'AbsentBloc'}) in the _CustomTabViewState." />
       <item value="point" />
-      <item value="To safely refer to a widget's ancestor in its dispose() method, save a reference to the ancestor by calling dependOnInheritedWidgetOfExactType() in the widget's didChangeDependencies() method." />
       <item value="prepare Detect" />
       <item value="reduce" />
       <item value="deprecation" />
@@ -148,17 +149,16 @@
       <item value="strategies" />
       <item value="Eflutter (10014): [ERROR:flutterruntimedart_vm_initializer.cc(41)] Unhandled Exception: MissingPluginException(No implementation found for method getAppSignature on channel otp_surfstudio)" />
       <item value="người" />
-      <item value="Ba Tư" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="566" />
+        <entry key="ENGLISH" value="569" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="32" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="5" />
-        <entry key="VIETNAMESE" value="566" />
+        <entry key="VIETNAMESE" value="569" />
       </map>
     </option>
   </component>
