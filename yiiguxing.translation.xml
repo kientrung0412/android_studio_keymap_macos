@@ -99,6 +99,7 @@
     <option name="newTranslationDialogY" value="75" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="detail Assessment Eat" />
       <item value="final GlobalKey&lt;NavigatorState&gt; navigatorKey = GlobalKey&lt;NavigatorState&gt;();" />
       <item value="Could not find a generator for route RouteSettings(&quot;detail_absent&quot;, {id: 3902, bloc: Instance of 'AbsentBloc'}) in the _CustomTabViewState." />
       <item value="point" />
@@ -148,17 +149,16 @@
       <item value="Eflutter (10014): [ERROR:flutterruntimedart_vm_initializer.cc(41)] Unhandled Exception: MissingPluginException(No implementation found for method getAppSignature on channel otp_surfstudio)" />
       <item value="người" />
       <item value="Ba Tư" />
-      <item value="persion" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="565" />
+        <entry key="ENGLISH" value="566" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="32" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="5" />
-        <entry key="VIETNAMESE" value="565" />
+        <entry key="VIETNAMESE" value="566" />
       </map>
     </option>
   </component>
