@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="603" />
     <option name="newTranslationDialogY" value="75" />
     <histories>
+      <item value="Don't use one refreshController to multiple SmartRefresher,It will cause some unexpected bugs mostly in TabBarView" />
       <item value="đã lấy dữ liệu" />
       <item value="đã lâ dữ liệu" />
       <item value="đã tải dữ liệu" />
@@ -130,7 +131,6 @@
       <item value="attendance Taken" />
       <item value="_check Attendance" />
       <item value="login Started" />
-      <item value="Don't use one refreshController to multiple SmartRefresher,It will cause some unexpected bugs mostly in TabBarView" />
       <item value="Syncing" />
       <item value="Syncing 10 attendance image" />
       <item value="Syncing  10 attendance image" />
@@ -152,12 +152,12 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="571" />
+        <entry key="ENGLISH" value="572" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="32" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="5" />
-        <entry key="VIETNAMESE" value="571" />
+        <entry key="VIETNAMESE" value="572" />
       </map>
     </option>
   </component>
