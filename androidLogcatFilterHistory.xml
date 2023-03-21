@@ -3,8 +3,8 @@
     <option name="mostRecentlyUsed" value="http" />
     <option name="nonFavorites">
       <list>
-        <option value="http" />
         <option value="package:mine " />
+        <option value="http" />
         <option value="package:mine &amp; tag:okhttp " />
         <option value="package:mine $ tag:okhttp " />
         <option value="Trungnk" />
