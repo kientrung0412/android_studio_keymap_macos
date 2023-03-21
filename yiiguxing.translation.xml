@@ -86,7 +86,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1678936009381" />
+    <option name="lastTrimTime" value="1679373120204" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="VIETNAMESE" />
@@ -97,8 +97,14 @@
     <option name="newTranslationDialogWidth" value="742" />
     <option name="newTranslationDialogX" value="603" />
     <option name="newTranslationDialogY" value="75" />
-    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="đã lấy dữ liệu" />
+      <item value="đã lâ dữ liệu" />
+      <item value="đã tải dữ liệu" />
+      <item value="đã tải dữ " />
+      <item value="đã " />
+      <item value="ddar" />
+      <item value="dda" />
       <item value="To safely refer to a widget's ancestor in its dispose() method, save a reference to the ancestor by calling dependOnInheritedWidgetOfExactType() in the widget's didChangeDependencies() method." />
       <item value="Eflutter (12368): [ERROR:flutterruntimedart_vm_initializer.cc(41)] Unhandled Exception: Bad state: Cannot add new events after calling close" />
       <item value="detail Assessment Eat" />
@@ -142,23 +148,16 @@
       <item value="Syncing 10 a" />
       <item value="Syncing " />
       <item value="is JSON Valid" />
-      <item value="INTERNATIONAL" />
-      <item value="obscure Text" />
-      <item value="hết hạn" />
-      <item value="hết " />
-      <item value="strategies" />
-      <item value="Eflutter (10014): [ERROR:flutterruntimedart_vm_initializer.cc(41)] Unhandled Exception: MissingPluginException(No implementation found for method getAppSignature on channel otp_surfstudio)" />
-      <item value="người" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="569" />
+        <entry key="ENGLISH" value="571" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="32" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="5" />
-        <entry key="VIETNAMESE" value="569" />
+        <entry key="VIETNAMESE" value="571" />
       </map>
     </option>
   </component>
