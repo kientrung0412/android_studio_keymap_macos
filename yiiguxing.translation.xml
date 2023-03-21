@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="603" />
     <option name="newTranslationDialogY" value="75" />
     <histories>
+      <item value="point" />
       <item value="Assessment Eat Viewpage" />
       <item value="Don't use one refreshController to multiple SmartRefresher,It will cause some unexpected bugs mostly in TabBarView" />
       <item value="đã lấy dữ liệu" />
@@ -112,7 +113,6 @@
       <item value="detail Assessment Eat" />
       <item value="final GlobalKey&lt;NavigatorState&gt; navigatorKey = GlobalKey&lt;NavigatorState&gt;();" />
       <item value="Could not find a generator for route RouteSettings(&quot;detail_absent&quot;, {id: 3902, bloc: Instance of 'AbsentBloc'}) in the _CustomTabViewState." />
-      <item value="point" />
       <item value="prepare Detect" />
       <item value="reduce" />
       <item value="deprecation" />
@@ -152,12 +152,12 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="573" />
+        <entry key="ENGLISH" value="574" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="32" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="5" />
-        <entry key="VIETNAMESE" value="573" />
+        <entry key="VIETNAMESE" value="574" />
       </map>
     </option>
   </component>
