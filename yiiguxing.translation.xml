@@ -1,163 +1,35 @@
 <application>
-  <component name="AppStorage">
-    <option name="newTranslationDialogHeight" value="608" />
-    <option name="newTranslationDialogWidth" value="1321" />
-    <option name="newTranslationDialogX" value="-1345" />
-    <option name="newTranslationDialogY" value="472" />
-    <option name="pinTranslationDialog" value="true" />
-    <histories>
-      <item value="Waiting for another flutter command to release the startup lock..." />
-      <item value="......OMTLibflutter_chat_modulelibscreenchatchat_search_widget.dart:24:21: Error: The method 'S' isn't defined for the class 'ChatSearchWidget'." />
-      <item value="mengambil" />
-      <item value="take" />
-      <item value="manager " />
-      <item value="manager ticket" />
-      <item value="manager_ticket" />
-      <item value="or in the default locale if none is specified" />
-      <item value="If [locale] does not exist in our set of supported locales then an" />
-      <item value="'No instance of S present in the widget tree. Did you add S.delegate in localizationsDelegates?');" />
-      <item value="No instance of S present in the widget tree. Did you add S.delegate in localizationsDelegates?" />
-      <item value="Requested the Locale of a context that does not include a Localizations ancestor.\n' 'To request the Locale, the context used to retrieve the Localizations widget must ' 'be that of a widget that is a descendant of a Localizations widget.'," />
-      <item value="equested the Locale of a context that does not include a Localizations ancestor." />
-      <item value="The exception occurred during the creation of type AppCubit." />
-      <item value="Bad state: Tried to read a provider that threw during the creation of its value." />
-      <item value="] Unhandled Exception: DatabaseException" />
-      <item value="Time" />
-      <item value="[Size], which represents a vector describing the size of a rectangle." />
-      <item value="Tính sự khác biệt giữa  2 ngày&#10;" />
-      <item value="Tính sự khác biệt g" />
-      <item value="Tính sự khác biệt gi" />
-      <item value="Ti" />
-      <item value="check that it really is our descendant" />
-      <item value="The following assertion was thrown building _FocusMarker(dirty):" />
-      <item value="Looking up a deactivated widget's ancestor is unsafe." />
-      <item value="which creates a nested scroll view." />
-      <item value="which returns the end position of scrolling." />
-      <item value="which returns the start position of scrolling." />
-      <item value="which describes the notification lifecycle." />
-      <item value="[ScrollStartNotification] which returns the start position of scrolling." />
-      <item value="[ScrollNotification] which describes the notification lifecycle." />
-      <item value="viewport Dimension" />
-      <item value="max Scroll Extent" />
-      <item value="min Scroll Extent" />
-      <item value="Custom builder for day cells that are currently marked as selected by `selectedDayPredicate`." />
-      <item value="[Feedback] for providing platform-specific feedback to certain actions." />
-      <item value="single Marker Builder" />
-      <item value="should Repaint" />
-      <item value="covariant" />
-      <item value="só sánh các thuật toán sắp xếp" />
-      <item value="só sánh các thuật toán sa" />
-      <item value="só sánh cãc" />
-      <item value="só" />
-      <item value="só anh" />
-      <item value="so sanh" />
-      <item value="s" />
-      <item value="The rules of school" />
-      <item value="tăng dần" />
-      <item value="tăngdần" />
-      <item value="tăng" />
-    </histories>
-    <option name="languageScores">
-      <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="1136" />
-        <entry key="ARABIC" value="1" />
-        <entry key="DANISH" value="3" />
-        <entry key="FRENCH" value="4" />
-        <entry key="CORSICAN" value="1" />
-        <entry key="LATIN" value="1" />
-        <entry key="LAO" value="131" />
-        <entry key="MALAY" value="3" />
-        <entry key="HMONG" value="1" />
-        <entry key="CEBUANO" value="1" />
-        <entry key="INDONESIAN" value="66" />
-        <entry key="VIETNAMESE" value="1101" />
-      </map>
-    </option>
-  </component>
-  <component name="Cache">
-    <option name="lastTrimTime" value="1669718007067" />
-  </component>
-  <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="primaryLanguage" value="INDONESIAN" />
-      </google-translate>
-    </option>
-  </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1675225518834" />
-  </component>
-  <component name="Translation.Settings">
-    <option name="primaryLanguage" value="VIETNAMESE" />
-    <option name="showWordsOnStartup" value="true" />
+    <option name="lastTrimTime" value="1679467199208" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogHeight" value="546" />
-    <option name="newTranslationDialogWidth" value="742" />
-    <option name="newTranslationDialogX" value="-1125" />
-    <option name="newTranslationDialogY" value="485" />
-    <option name="pinTranslationDialog" value="true" />
+    <option name="newTranslationDialogX" value="592" />
+    <option name="newTranslationDialogY" value="442" />
     <histories>
-      <item value="iOS: CoreLocation (Always and WhenInUse)" />
-      <item value="Android: Fine and Coarse Location" />
-      <item value="BlocProvider.of() called with a context that does not contain a PostBloc." />
-      <item value="hero Attributes" />
-      <item value="initial Scale" />
-      <item value="BlocListener&lt;CommentBloc, CommentState&gt; used outside of MultiBlocListener must specify a child" />
-      <item value="thành công" />
-      <item value="MISSING PARAMETERS" />
-      <item value="dependOnInheritedWidgetOfExactType&lt;CommentData&gt;() or dependOnInheritedElement() was called before _DialogEditCommentState.initState() completed." />
-      <item value="invoke Method" />
-      <item value="is Granted" />
-      <item value="schedule Exact Alarm" />
-      <item value="When running on Android T and above: Read video files from external storage" />
-      <item value="Android: Allows an application a broad access to external storage in" />
-      <item value="When running on Android T and above: Read image files from external storage" />
-      <item value="Typically, the Scaffold widget is introduced by the MaterialApp or WidgetsApp widget at the top of your application widget tree." />
-      <item value="localId" />
-      <item value="childs" />
-      <item value="Do Login Event" />
-      <item value="lazy" />
-      <item value="The argument type 'CommentBloc' can't be assigned to the parameter type 'StateStreamableSource&lt;Object?&gt; Function(BuildContext)'." />
-      <item value="Iflutter (15231): to PostDetailState(Network connection not stable, please try again, ScreenStatus.error, Chi tiết bài viết, null)" />
-      <item value="746059" />
-      <item value="forbidden" />
-      <item value="Error (Xcode): libapp.dart:314:30: Error: Required named parameter 'postBloc' must be provided." />
-      <item value="'This feature was deprecated after v3.3.0-0.6.pre.'," />
-      <item value="'Use BottomAppBarTheme.color instead. '" />
-      <item value="is At Same Moment As" />
-      <item value="Invalid constant value." />
-      <item value="uncensored" />
-      <item value="chưa được kiểm duyệt" />
-      <item value="have not been censored" />
-      <item value="chưa kiểm duyệt" />
-      <item value="chưa kiểm " />
-      <item value="chưa " />
-      <item value="c" />
-      <item value="ddax" />
-      <item value="date Published" />
-      <item value="date Publish" />
-      <item value="Bài viết" />
-      <item value="Baif Việt" />
-      <item value="Baif vieets" />
-      <item value="post" />
-      <item value="pos" />
-      <item value="liked" />
-      <item value="lik" />
-      <item value="ic_un_liked" />
-      <item value="documents" />
-      <item value="anchor Point" />
-      <item value="value" />
+      <item value="bản ghi cuối cùng" />
+      <item value="bản ghi cuối cuùng" />
+      <item value="bản ghi cuối" />
+      <item value="bản ghi cuuối" />
+      <item value="bản g" />
+      <item value="bản " />
+      <item value="traạng thái sau khi xoá bản ghi cuouối " />
+      <item value="traạng thái sau khi xoá" />
+      <item value="traạng thái sau khi xoóa" />
+      <item value="traạng thái sau khi " />
+      <item value="traạng thái sau khi s" />
+      <item value="trangj thai" />
+      <item value="t" />
+      <item value="charts" />
+      <item value="Appbar Info" />
+      <item value="Must provide image url or local image" />
+      <item value="Don't use one refreshController to multiple SmartRefresher,It will cause some unexpected bugs mostly in TabBarView" />
+      <item value="is Default Action" />
+      <item value="This list comes from Skia's SkXfermode.h and the values (order) should be" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="267" />
-        <entry key="INDONESIAN" value="31" />
-        <entry key="IRISH" value="1" />
-        <entry key="LAO" value="4" />
-        <entry key="VIETNAMESE" value="267" />
+        <entry key="ENGLISH" value="7" />
+        <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
   </component>
