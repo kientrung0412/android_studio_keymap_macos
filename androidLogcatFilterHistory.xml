@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="http" />
+    <option name="mostRecentlyUsed" value="level:warn " />
     <option name="nonFavorites">
       <list>
+        <option value="level:warn " />
         <option value="package:mine " />
         <option value="http" />
         <option value="package:mine &amp; tag:okhttp " />
@@ -22,7 +23,6 @@
         <option value="package:com.kidsonline.teacher " />
         <option value="Handling a background message" />
         <option value="activity &amp; package:mine " />
-        <option value="activity" />
       </list>
     </option>
   </component>
