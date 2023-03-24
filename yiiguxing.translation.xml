@@ -6,6 +6,8 @@
     <option name="newTranslationDialogX" value="592" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="2.5M: Invalid argument" />
+      <item value="[NULL @ 0x10162c420] Unable to find a suitable output format for '2.5M'" />
       <item value="If ServicesBinding is a custom binding mixin, there must also be a custom binding class, like WidgetsFlutterBinding, but that mixes in the selected binding, and that is the class that must be constructed before using the &quot;instance&quot; getter." />
       <item value="It appears that there was a problem signing your application prior to installation on the device." />
       <item value="Using `ARCHS` setting to build architectures of target `Pods-Runner`: (``)" />
@@ -31,7 +33,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="10" />
+        <entry key="ENGLISH" value="12" />
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
