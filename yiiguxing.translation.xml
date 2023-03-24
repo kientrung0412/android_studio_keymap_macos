@@ -1,40 +1,14 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1679467199208" />
+    <option name="lastTrimTime" value="1679654094228" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogX" value="592" />
-    <option name="newTranslationDialogY" value="442" />
     <histories>
-      <item value="[NULL @ 0x131026cd0] Unable to find a suitable output format for 'varmobileContainersDataApplicationFBBBBB82-BF21-4F42-8C94-DE5E4D2C9CBEDocuments1679646955558.mp4}'" />
-      <item value="2.5M: Invalid argument" />
-      <item value="[NULL @ 0x10162c420] Unable to find a suitable output format for '2.5M'" />
-      <item value="If ServicesBinding is a custom binding mixin, there must also be a custom binding class, like WidgetsFlutterBinding, but that mixes in the selected binding, and that is the class that must be constructed before using the &quot;instance&quot; getter." />
-      <item value="It appears that there was a problem signing your application prior to installation on the device." />
-      <item value="Using `ARCHS` setting to build architectures of target `Pods-Runner`: (``)" />
-      <item value="bản ghi cuối cùng" />
-      <item value="bản ghi cuối cuùng" />
-      <item value="bản ghi cuối" />
-      <item value="bản ghi cuuối" />
-      <item value="bản g" />
-      <item value="bản " />
-      <item value="traạng thái sau khi xoá bản ghi cuouối " />
-      <item value="traạng thái sau khi xoá" />
-      <item value="traạng thái sau khi xoóa" />
-      <item value="traạng thái sau khi " />
-      <item value="traạng thái sau khi s" />
-      <item value="trangj thai" />
-      <item value="t" />
-      <item value="charts" />
-      <item value="Appbar Info" />
-      <item value="Must provide image url or local image" />
-      <item value="Don't use one refreshController to multiple SmartRefresher,It will cause some unexpected bugs mostly in TabBarView" />
-      <item value="is Default Action" />
-      <item value="This list comes from Skia's SkXfermode.h and the values (order) should be" />
+      <item value="gesture Recognizers" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="13" />
+        <entry key="ENGLISH" value="2" />
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
