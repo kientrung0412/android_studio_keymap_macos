@@ -26,6 +26,18 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="IdeaVIM">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
         <entry key="InnerBuilder">
           <value>
             <PluginData>
@@ -63,6 +75,20 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="cn.dxy.app.DxyJsonToDart">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="Dart" />
+                  <option value="com.intellij.modules.platform" />
+                  <option value="com.jetbrains.sh" />
+                  <option value="org.jetbrains.plugins.terminal" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="cn.yiiguxing.plugin.translate">
           <value>
             <PluginData />
@@ -81,7 +107,9 @@
         </entry>
         <entry key="com.azoft.json2dart">
           <value>
-            <PluginData />
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
           </value>
         </entry>
         <entry key="com.bloc.intellij_generator_plugin">
@@ -127,6 +155,7 @@
                   <option value="org.jetbrains.kotlin" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -137,6 +166,29 @@
                 <set>
                   <option value="com.intellij.modules.platform" />
                   <option value="org.jetbrains.android" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.guohanlin.JsonToAnyLanguage">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.herbert.george.flutter-snippets">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
                 </set>
               </option>
             </PluginData>
@@ -188,6 +240,18 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.k.pmpstudy.RenameFilesRefactorBatch">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.localizely.flutter-intl">
           <value>
             <PluginData>
@@ -234,6 +298,31 @@
                 <set>
                   <option value="Dart" />
                   <option value="com.intellij.modules.java" />
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.mohn93.advanced.json2dart.plugin">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="Dart" />
+                  <option value="com.intellij.modules.json" />
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.rhyme.flutter.plugin.jumptoassets">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
@@ -334,6 +423,17 @@
               <option name="dependencies">
                 <set>
                   <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="nl.bryanderidder.regexrenamefiles">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
                 </set>
               </option>
             </PluginData>

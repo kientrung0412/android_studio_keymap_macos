@@ -38,4 +38,9 @@
       <option name="DART" value="true" />
     </context>
   </template>
+  <template name="ctn" value="context.containerColor" description="Container color" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
 </templateSet>
