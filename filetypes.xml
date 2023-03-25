@@ -5,8 +5,8 @@
       <mapping pattern="flag_id.svg" type="AUTO_DETECTED" />
       <mapping pattern="AttendanceEatType.dart" type="AUTO_DETECTED" />
       <mapping pattern="test_draft.dart" type="AUTO_DETECTED" />
-      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="news-wal" type="Native" />
       <mapping pattern=".flutter-plugins-dependencies" type="PLAIN_TEXT" />
