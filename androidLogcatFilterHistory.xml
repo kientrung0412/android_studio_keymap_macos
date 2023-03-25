@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine &amp; -message:Yuv420SpToJpeg &amp; -message:onFlyCompress &amp; tag:Trungnk" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="web" />
+        <option value="level:warn " />
+        <option value="package:com.kidsonline.teacher " />
         <option value="package:mine &amp; -message:Yuv420SpToJpeg &amp; -message:onFlyCompress &amp; tag:Trungnk" />
         <option value="package:mine &amp; -message:Yuv420SpToJpeg &amp; -message:onFlyCompress &amp;tag:Trungnk" />
         <option value="package:mine &amp; -message:Yuv420SpToJpeg &amp; -message:onFlyCompress" />
@@ -20,9 +23,6 @@
         <option value="package:mine &amp; message:Trungnk" />
         <option value="package:mine" />
         <option value="tag:flutter " />
-        <option value="package:mine &amp; tag:trungnk " />
-        <option value="tag:okhttp " />
-        <option value="package:codepro.kidsonline.debug " />
       </list>
     </option>
   </component>

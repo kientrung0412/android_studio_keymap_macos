@@ -4,13 +4,16 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="&lt;!-- Flutter needs it to communicate with the running application to allow setting breakpoints, to provide hot reload, etc. --&gt;" />
+      <item value="unrestricted" />
+      <item value="[Security] This method should not be called on the main thread as it may lead to UI unresponsiveness." />
       <item value="libscreenticketsabsentabsent_bloc.dart:160:18: Context: Previous declaration of 'openDetailAbsent'." />
       <item value="gesture Recognizers" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="3" />
-        <entry key="VIETNAMESE" value="2" />
+        <entry key="ENGLISH" value="6" />
+        <entry key="VIETNAMESE" value="5" />
       </map>
     </option>
   </component>
