@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine &amp; message:AttendanceWithFacePresenter$1" />
+    <option name="mostRecentlyUsed" value="package:mine &amp; tag:Trungnk " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine &amp; tag:Trungnk " />
         <option value="package:mine &amp; message:AttendanceWithFacePresenter$1" />
         <option value="package:mine " />
         <option value="package:mine &amp; message:findStudent" />
@@ -22,7 +23,6 @@
         <option value="trungnk" />
         <option value="onPictureTaken" />
         <option value="≈" />
-        <option value="package:mine &amp; message:Trungnk" />
       </list>
     </option>
   </component>
