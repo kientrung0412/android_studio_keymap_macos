@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine &amp; tag:Trungnk" />
+    <option name="mostRecentlyUsed" value="package:mine &amp; tag:trungnk " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine &amp; tag:trungnk " />
+        <option value="package:mine" />
         <option value="package:mine &amp; tag:Trungnk" />
         <option value="package:mine &amp; message:Camera1Manager" />
         <option value="package:mine &amp; tag:Camera1Manager" />
@@ -12,7 +14,6 @@
         <option value="package:mine &amp; tag:Trungnk " />
         <option value="package:mine &amp; message:AttendanceWithFacePresenter$1" />
         <option value="package:mine &amp; message:findStudent" />
-        <option value="package:mine" />
         <option value="package:mine &amp; message:http" />
         <option value="package:mine  &amp; tag:Trungnk" />
         <option value="package:mine &amp; -message:Yuv420SpToJpeg &amp; -message:onFlyCompress &amp; tag:Trungnk" />
@@ -22,7 +23,6 @@
         <option value="package:mine &amp; -message:Yuv420SpToJpeg" />
         <option value="http" />
         <option value="package:mine &amp; tag:okhttp " />
-        <option value="package:mine $ tag:okhttp " />
       </list>
     </option>
   </component>
