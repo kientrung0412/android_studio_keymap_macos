@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="603" />
     <option name="newTranslationDialogY" value="75" />
     <histories>
+      <item value="CAMERA FACE REAR" />
       <item value="SearchedFaceConfidence" />
       <item value=" D  Error starting camera preview: Camera is being used after Camera.release() was called&#10;&#10;" />
       <item value="file" />
@@ -147,12 +148,11 @@
       <item value="Syncing \n %s attendance image" />
       <item value="Remove select all" />
       <item value="Select all" />
-      <item value="You need to provide permissions to make phone calls" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="576" />
+        <entry key="ENGLISH" value="577" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="32" />
         <entry key="IRISH" value="1" />
