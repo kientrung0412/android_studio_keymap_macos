@@ -98,6 +98,10 @@
     <option name="newTranslationDialogX" value="603" />
     <option name="newTranslationDialogY" value="75" />
     <histories>
+      <item value="default To Https" />
+      <item value="remove Www" />
+      <item value="humanize" />
+      <item value="loose Url" />
       <item value="EGraphicBufferAllocator(31725): Failed to allocate (936 x 3333333) layerCount 1 format 1 usage 10000100: 3" />
       <item value="IQuality (31725): Skipped: true 1 cost 19.537313 refreshRate 16643882 bit true processName com.kidsonline.teacher" />
       <item value="is Confirm Negative" />
@@ -144,20 +148,16 @@
       <item value="Syncing" />
       <item value="Syncing 10 attendance image" />
       <item value="Syncing  10 attendance image" />
-      <item value="Syncing \n 10 attendance image" />
-      <item value="Syncing \n 1 attendance image" />
-      <item value="Syncing \n  attendance image" />
-      <item value="Syncing \n q0 attendance image" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="581" />
+        <entry key="ENGLISH" value="585" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="32" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="5" />
-        <entry key="VIETNAMESE" value="581" />
+        <entry key="VIETNAMESE" value="585" />
       </map>
     </option>
   </component>
