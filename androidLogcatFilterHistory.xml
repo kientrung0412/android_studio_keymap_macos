@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="`" />
     <option name="nonFavorites">
       <list>
+        <option value="`" />
         <option value="package:mine &amp; tag:okhttp " />
         <option value="package:mine " />
         <option value="package:mine &amp; tag:trungnk " />
@@ -22,7 +23,6 @@
         <option value="package:mine &amp; -message:Yuv420SpToJpeg &amp; -message:onFlyCompress" />
         <option value="package:mine &amp; -message:Yuv420SpToJpeg &amp; -message:Yuv420SpToJpeg" />
         <option value="package:mine &amp; -message:Yuv420SpToJpeg" />
-        <option value="http" />
       </list>
     </option>
   </component>
