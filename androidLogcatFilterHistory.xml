@@ -1,16 +1,20 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="trungnk" />
+    <option name="mostRecentlyUsed" value="Trungnk" />
     <option name="nonFavorites">
       <list>
+        <option value="Trungnk" />
+        <option value="package:mine " />
+        <option value="setCameraPreview" />
+        <option value="onCameraControllerReady1" />
+        <option value="tag:Trungnk" />
+        <option value="tag:" />
         <option value="trungnk" />
         <option value="updateCameraPreview" />
         <option value="trungnk " />
         <option value="package:mine &amp; tag:trungnk " />
-        <option value="Trungnk" />
         <option value="`" />
         <option value="package:mine &amp; tag:okhttp " />
-        <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine &amp; tag:Trungnk" />
         <option value="package:mine &amp; message:Camera1Manager" />
@@ -19,10 +23,6 @@
         <option value="hasCamera2" />
         <option value="package:mine &amp; tag:Trungnk " />
         <option value="package:mine &amp; message:AttendanceWithFacePresenter$1" />
-        <option value="package:mine &amp; message:findStudent" />
-        <option value="package:mine &amp; message:http" />
-        <option value="package:mine  &amp; tag:Trungnk" />
-        <option value="package:mine &amp; -message:Yuv420SpToJpeg &amp; -message:onFlyCompress &amp; tag:Trungnk" />
       </list>
     </option>
   </component>
