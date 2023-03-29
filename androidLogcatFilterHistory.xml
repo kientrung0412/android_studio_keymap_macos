@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="trungnk" />
     <option name="nonFavorites">
       <list>
+        <option value="trungnk" />
         <option value="Trungnk" />
         <option value="package:mine " />
         <option value="setCameraPreview" />
         <option value="onCameraControllerReady1" />
         <option value="tag:Trungnk" />
         <option value="tag:" />
-        <option value="trungnk" />
         <option value="updateCameraPreview" />
         <option value="trungnk " />
         <option value="package:mine &amp; tag:trungnk " />
