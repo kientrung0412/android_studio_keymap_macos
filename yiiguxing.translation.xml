@@ -98,6 +98,12 @@
     <option name="newTranslationDialogX" value="603" />
     <option name="newTranslationDialogY" value="75" />
     <histories>
+      <item value="Còn" />
+      <item value="conf" />
+      <item value="c" />
+      <item value="Xoá album thành công" />
+      <item value="ERROR: Failed to generate localization files." />
+      <item value="'Âm thanh" />
       <item value="ORIENTATION PORTRAIT" />
       <item value="ORIENTATION UNDEFINED" />
       <item value="is Landscape" />
@@ -142,22 +148,16 @@
       <item value="đã " />
       <item value="ddar" />
       <item value="dda" />
-      <item value="To safely refer to a widget's ancestor in its dispose() method, save a reference to the ancestor by calling dependOnInheritedWidgetOfExactType() in the widget's didChangeDependencies() method." />
-      <item value="Eflutter (12368): [ERROR:flutterruntimedart_vm_initializer.cc(41)] Unhandled Exception: Bad state: Cannot add new events after calling close" />
-      <item value="detail Assessment Eat" />
-      <item value="final GlobalKey&lt;NavigatorState&gt; navigatorKey = GlobalKey&lt;NavigatorState&gt;();" />
-      <item value="Could not find a generator for route RouteSettings(&quot;detail_absent&quot;, {id: 3902, bloc: Instance of 'AbsentBloc'}) in the _CustomTabViewState." />
-      <item value="prepare Detect" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="599" />
+        <entry key="ENGLISH" value="604" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="32" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="5" />
-        <entry key="VIETNAMESE" value="599" />
+        <entry key="VIETNAMESE" value="604" />
       </map>
     </option>
   </component>
