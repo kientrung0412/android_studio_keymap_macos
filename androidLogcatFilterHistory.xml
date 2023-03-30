@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onCreate" />
+    <option name="mostRecentlyUsed" value="onCreate" />
     <option name="nonFavorites">
       <list>
+        <option value="onCreate" />
         <option value="package:mine onCreate" />
         <option value="package:mine &amp; tag:Trungnk" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:mine" />
         <option value="package:mine &amp; message:Camera1Manager" />
         <option value="package:mine &amp; tag:Camera1Manager" />
-        <option value="package:mine &amp; message:openCamera" />
       </list>
     </option>
   </component>
