@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="603" />
     <option name="newTranslationDialogY" value="75" />
     <histories>
+      <item value="libscreenalbumupload_media_awsupload_media_screen.dart:96:25: Error: The getter 'isImage' isn't defined for the class 'S3File'." />
       <item value="Sĩ số" />
       <item value="six s" />
       <item value="siz" />
@@ -147,17 +148,16 @@
       <item value="Don't use one refreshController to multiple SmartRefresher,It will cause some unexpected bugs mostly in TabBarView" />
       <item value="đã lấy dữ liệu" />
       <item value="đã lâ dữ liệu" />
-      <item value="đã tải dữ liệu" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="606" />
+        <entry key="ENGLISH" value="608" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="32" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="5" />
-        <entry key="VIETNAMESE" value="606" />
+        <entry key="VIETNAMESE" value="608" />
       </map>
     </option>
   </component>
