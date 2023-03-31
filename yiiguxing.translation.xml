@@ -98,6 +98,10 @@
     <option name="newTranslationDialogX" value="603" />
     <option name="newTranslationDialogY" value="75" />
     <histories>
+      <item value="Sĩ số" />
+      <item value="six s" />
+      <item value="siz" />
+      <item value="s" />
       <item value="Còn" />
       <item value="conf" />
       <item value="c" />
@@ -144,20 +148,16 @@
       <item value="đã lấy dữ liệu" />
       <item value="đã lâ dữ liệu" />
       <item value="đã tải dữ liệu" />
-      <item value="đã tải dữ " />
-      <item value="đã " />
-      <item value="ddar" />
-      <item value="dda" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="604" />
+        <entry key="ENGLISH" value="606" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="32" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="5" />
-        <entry key="VIETNAMESE" value="604" />
+        <entry key="VIETNAMESE" value="606" />
       </map>
     </option>
   </component>
