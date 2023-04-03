@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="603" />
     <option name="newTranslationDialogY" value="75" />
     <histories>
+      <item value="hết hạn" />
       <item value="Time remaining" />
       <item value="thời gian còn lại" />
       <item value="thời " />
@@ -147,17 +148,16 @@
       <item value="SearchedFaceConfidence" />
       <item value=" D  Error starting camera preview: Camera is being used after Camera.release() was called&#10;&#10;" />
       <item value="file" />
-      <item value="type" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="613" />
+        <entry key="ENGLISH" value="615" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="32" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="5" />
-        <entry key="VIETNAMESE" value="613" />
+        <entry key="VIETNAMESE" value="615" />
       </map>
     </option>
   </component>
