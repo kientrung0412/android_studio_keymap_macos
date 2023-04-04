@@ -98,6 +98,9 @@
     <option name="newTranslationDialogX" value="603" />
     <option name="newTranslationDialogY" value="75" />
     <histories>
+      <item value=" pthread_mutex_lock called on a destroyed mutex (0x753ddff1c0)" />
+      <item value="Fflutter (23298): [FATAL:flutterfmlthread_local.cc(32)] Check failed: false. pthread_setspecific failed (22): Invalid argument" />
+      <item value="IBpBinder(23298): onLastStrongRef automatically unlinking death recipients: &lt;uncached descriptor&gt;" />
       <item value="IBpBinder(27614): onLastStrongRef automatically unlinking death recipients: &lt;uncached descriptor&gt;" />
       <item value="Flibc (27614): FORTIFY: pthread_mutex_lock called on a destroyed mutex (0x753ddbd298)" />
       <item value="Có quyền truy cập" />
@@ -145,19 +148,16 @@
       <item value="mảng không rỗng thỏa man" />
       <item value="mảng không " />
       <item value="mảng không" />
-      <item value="mảng " />
-      <item value="mảng" />
-      <item value="attendance Taken" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="630" />
+        <entry key="ENGLISH" value="632" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="32" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="5" />
-        <entry key="VIETNAMESE" value="630" />
+        <entry key="VIETNAMESE" value="633" />
       </map>
     </option>
   </component>
