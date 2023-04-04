@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="603" />
     <option name="newTranslationDialogY" value="75" />
     <histories>
+      <item value="prevent" />
       <item value="'InstanceManager does not contain an WebChromeClient with instanceId: instanceId'," />
       <item value="EXTRACURRICULAR CLASS POST" />
       <item value="REPLY CENSOR FEEDBACK POST" />
@@ -147,17 +148,16 @@
       <item value="default To Https" />
       <item value="remove Www" />
       <item value="humanize" />
-      <item value="loose Url" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="623" />
+        <entry key="ENGLISH" value="624" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="32" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="5" />
-        <entry key="VIETNAMESE" value="623" />
+        <entry key="VIETNAMESE" value="624" />
       </map>
     </option>
   </component>
