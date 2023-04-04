@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:warn" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="is:crash " />
         <option value="level:warn" />
         <option value="DownloadWorker" />
         <option value="com.kidsonline.teacher &amp; level:warn " />
@@ -22,7 +23,6 @@
         <option value="setCameraPreview" />
         <option value="onCameraControllerReady1" />
         <option value="tag:" />
-        <option value="updateCameraPreview" />
       </list>
     </option>
   </component>
