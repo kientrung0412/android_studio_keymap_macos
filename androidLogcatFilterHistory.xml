@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="http" />
+    <option name="mostRecentlyUsed" value="tag:okhttp " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:okhttp " />
         <option value="http" />
         <option value="onCreate" />
         <option value="package:mine onCreate" />
@@ -22,7 +23,6 @@
         <option value="`" />
         <option value="package:mine &amp; tag:okhttp " />
         <option value="package:mine" />
-        <option value="package:mine &amp; message:Camera1Manager" />
       </list>
     </option>
   </component>
