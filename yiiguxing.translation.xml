@@ -98,6 +98,13 @@
     <option name="newTranslationDialogX" value="603" />
     <option name="newTranslationDialogY" value="75" />
     <histories>
+      <item value="IBpBinder(27614): onLastStrongRef automatically unlinking death recipients: &lt;uncached descriptor&gt;" />
+      <item value="Flibc (27614): FORTIFY: pthread_mutex_lock called on a destroyed mutex (0x753ddbd298)" />
+      <item value="Có quyền truy cập" />
+      <item value="Having permission to access" />
+      <item value="Có quyền chuy cập" />
+      <item value="cos " />
+      <item value="c" />
       <item value="prevent" />
       <item value="'InstanceManager does not contain an WebChromeClient with instanceId: instanceId'," />
       <item value="EXTRACURRICULAR CLASS POST" />
@@ -120,7 +127,6 @@
       <item value="s" />
       <item value="Còn" />
       <item value="conf" />
-      <item value="c" />
       <item value="Xoá album thành công" />
       <item value="ERROR: Failed to generate localization files." />
       <item value="'Âm thanh" />
@@ -142,22 +148,16 @@
       <item value="mảng " />
       <item value="mảng" />
       <item value="attendance Taken" />
-      <item value="Eflutter (10876): [ERROR:flutterruntimedart_vm_initializer.cc(41)] Unhandled Exception: Bad state: Cannot add new events after calling close" />
-      <item value="Http status error [302]" />
-      <item value="Bad state: add(CloseDetailPost) was called without a registered event handler." />
-      <item value="default To Https" />
-      <item value="remove Www" />
-      <item value="humanize" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="624" />
+        <entry key="ENGLISH" value="630" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="32" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="5" />
-        <entry key="VIETNAMESE" value="624" />
+        <entry key="VIETNAMESE" value="630" />
       </map>
     </option>
   </component>
