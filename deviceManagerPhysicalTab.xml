@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="14cc25f0" />
+          </Key>
+        </key>
+        <name value="OnePlus LE2101" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:5:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="R58M968VBJA" />
           </Key>
         </key>
@@ -15,13 +26,24 @@
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="14cc25f0" />
+            <type value="DOMAIN_NAME" />
+            <value value="adb-14cc25f0-Bk8aA2._adb-tls-connect._tcp." />
           </Key>
         </key>
         <name value="OnePlus LE2101" />
         <target value="Android 13.0" />
-        <api value="androidversion:33:null:5:true" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="R52N90TK7TB" />
+          </Key>
+        </key>
+        <name value="samsung SM-T875" />
+        <target value="Android 12.0" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>

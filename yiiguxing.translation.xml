@@ -1,20 +1,15 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1679654094228" />
+    <option name="lastTrimTime" value="1680670845628" />
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="preset" />
-      <item value="&lt;!-- Flutter needs it to communicate with the running application to allow setting breakpoints, to provide hot reload, etc. --&gt;" />
-      <item value="unrestricted" />
-      <item value="[Security] This method should not be called on the main thread as it may lead to UI unresponsiveness." />
-      <item value="libscreenticketsabsentabsent_bloc.dart:160:18: Context: Previous declaration of 'openDetailAbsent'." />
-      <item value="gesture Recognizers" />
+      <item value="[errorMaxLines], the equivalent but for the [InputDecoration.errorText]." />
+      <item value="error Max Lines" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="7" />
-        <entry key="VIETNAMESE" value="6" />
+        <entry key="ENGLISH" value="3" />
       </map>
     </option>
   </component>
