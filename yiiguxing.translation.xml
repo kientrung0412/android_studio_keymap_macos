@@ -98,6 +98,7 @@
     <option name="newTranslationDialogX" value="603" />
     <option name="newTranslationDialogY" value="75" />
     <histories>
+      <item value="DDownloadWorker( 6113): Update too frequently!!!!, but it is the final update, we should sleep a second to ensure the update call can be processed" />
       <item value="notification" />
       <item value="has not been initialized." />
       <item value="LateInitializationError: Field '_port@713049822' has not been initialized." />
@@ -147,17 +148,16 @@
       <item value="mảng không rỗng thỏa mãn tất cả các điều" />
       <item value="mảng không rỗng thỏa mãn tất cả cs" />
       <item value="mảng không rỗng thỏa mãn tất ac" />
-      <item value="mảng không rỗng thỏa mãn " />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="635" />
+        <entry key="ENGLISH" value="636" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="32" />
         <entry key="IRISH" value="1" />
         <entry key="LAO" value="5" />
-        <entry key="VIETNAMESE" value="635" />
+        <entry key="VIETNAMESE" value="636" />
       </map>
     </option>
   </component>
