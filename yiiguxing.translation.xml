@@ -3,7 +3,10 @@
     <option name="lastTrimTime" value="1680670845628" />
   </component>
   <component name="Translation.States">
+    <option name="newTranslationDialogX" value="591" />
+    <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="Edit at" />
       <item value="http:ko-teacher-api-v 5.k 8 s-dev.omt.vnapiv 4 teacherattendanceclass-attendance-lunch-by-date-v 2" />
       <item value="Error (Xcode): libscreenloginenter_otpenter_otp_bloc.dart:139:7: Error: The argument type 'Future&lt;ForgotPasswordResponse&gt;? Function(ForgotPasswordResponse)' can't be assigned to the parameter type 'FutureOr&lt;ForgotPasswordResponse&gt; Function(ForgotPasswordResponse)' because 'Future&lt;ForgotPasswordResponse&gt;?' is nullable and 'Future&lt;ForgotPasswordResponse&gt;' isn't." />
       <item value="[errorMaxLines], the equivalent but for the [InputDecoration.errorText]." />
@@ -12,7 +15,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="5" />
-        <entry key="VIETNAMESE" value="1" />
+        <entry key="VIETNAMESE" value="2" />
       </map>
     </option>
   </component>
