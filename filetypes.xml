@@ -13,6 +13,7 @@
       <mapping pattern="fvm" type="PLAIN_TEXT" />
       <mapping ext="json" type="PLAIN_TEXT" />
       <mapping ext="news" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="json" approved="true" type="JSON" />
