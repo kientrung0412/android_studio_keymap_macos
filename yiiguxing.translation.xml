@@ -1,163 +1,16 @@
 <application>
-  <component name="AppStorage">
-    <option name="newTranslationDialogHeight" value="608" />
-    <option name="newTranslationDialogWidth" value="1321" />
-    <option name="newTranslationDialogX" value="-1345" />
-    <option name="newTranslationDialogY" value="472" />
-    <option name="pinTranslationDialog" value="true" />
-    <histories>
-      <item value="Waiting for another flutter command to release the startup lock..." />
-      <item value="......OMTLibflutter_chat_modulelibscreenchatchat_search_widget.dart:24:21: Error: The method 'S' isn't defined for the class 'ChatSearchWidget'." />
-      <item value="mengambil" />
-      <item value="take" />
-      <item value="manager " />
-      <item value="manager ticket" />
-      <item value="manager_ticket" />
-      <item value="or in the default locale if none is specified" />
-      <item value="If [locale] does not exist in our set of supported locales then an" />
-      <item value="'No instance of S present in the widget tree. Did you add S.delegate in localizationsDelegates?');" />
-      <item value="No instance of S present in the widget tree. Did you add S.delegate in localizationsDelegates?" />
-      <item value="Requested the Locale of a context that does not include a Localizations ancestor.\n' 'To request the Locale, the context used to retrieve the Localizations widget must ' 'be that of a widget that is a descendant of a Localizations widget.'," />
-      <item value="equested the Locale of a context that does not include a Localizations ancestor." />
-      <item value="The exception occurred during the creation of type AppCubit." />
-      <item value="Bad state: Tried to read a provider that threw during the creation of its value." />
-      <item value="] Unhandled Exception: DatabaseException" />
-      <item value="Time" />
-      <item value="[Size], which represents a vector describing the size of a rectangle." />
-      <item value="Tính sự khác biệt giữa  2 ngày&#10;" />
-      <item value="Tính sự khác biệt g" />
-      <item value="Tính sự khác biệt gi" />
-      <item value="Ti" />
-      <item value="check that it really is our descendant" />
-      <item value="The following assertion was thrown building _FocusMarker(dirty):" />
-      <item value="Looking up a deactivated widget's ancestor is unsafe." />
-      <item value="which creates a nested scroll view." />
-      <item value="which returns the end position of scrolling." />
-      <item value="which returns the start position of scrolling." />
-      <item value="which describes the notification lifecycle." />
-      <item value="[ScrollStartNotification] which returns the start position of scrolling." />
-      <item value="[ScrollNotification] which describes the notification lifecycle." />
-      <item value="viewport Dimension" />
-      <item value="max Scroll Extent" />
-      <item value="min Scroll Extent" />
-      <item value="Custom builder for day cells that are currently marked as selected by `selectedDayPredicate`." />
-      <item value="[Feedback] for providing platform-specific feedback to certain actions." />
-      <item value="single Marker Builder" />
-      <item value="should Repaint" />
-      <item value="covariant" />
-      <item value="só sánh các thuật toán sắp xếp" />
-      <item value="só sánh các thuật toán sa" />
-      <item value="só sánh cãc" />
-      <item value="só" />
-      <item value="só anh" />
-      <item value="so sanh" />
-      <item value="s" />
-      <item value="The rules of school" />
-      <item value="tăng dần" />
-      <item value="tăngdần" />
-      <item value="tăng" />
-    </histories>
-    <option name="languageScores">
-      <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="1136" />
-        <entry key="ARABIC" value="1" />
-        <entry key="DANISH" value="3" />
-        <entry key="FRENCH" value="4" />
-        <entry key="CORSICAN" value="1" />
-        <entry key="LATIN" value="1" />
-        <entry key="LAO" value="131" />
-        <entry key="MALAY" value="3" />
-        <entry key="HMONG" value="1" />
-        <entry key="CEBUANO" value="1" />
-        <entry key="INDONESIAN" value="66" />
-        <entry key="VIETNAMESE" value="1101" />
-      </map>
-    </option>
-  </component>
-  <component name="Cache">
-    <option name="lastTrimTime" value="1669718007067" />
-  </component>
-  <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="primaryLanguage" value="INDONESIAN" />
-      </google-translate>
-    </option>
-  </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1680488978678" />
-  </component>
-  <component name="Translation.Settings">
-    <option name="primaryLanguage" value="VIETNAMESE" />
-    <option name="showWordsOnStartup" value="true" />
+    <option name="lastTrimTime" value="1680722571590" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogHeight" value="416" />
-    <option name="newTranslationDialogWidth" value="742" />
-    <option name="newTranslationDialogX" value="603" />
-    <option name="newTranslationDialogY" value="75" />
+    <option name="newTranslationDialogX" value="592" />
+    <option name="newTranslationDialogY" value="442" />
     <histories>
-      <item value="reset Invalid Password" />
-      <item value="account Not Has Phone Number" />
-      <item value="creating Otp Was Limited" />
-      <item value="not found_account_by_username" />
-      <item value="not_found_account_by_username" />
-      <item value="DDownloadWorker( 6113): Update too frequently!!!!, but it is the final update, we should sleep a second to ensure the update call can be processed" />
-      <item value="notification" />
-      <item value="has not been initialized." />
-      <item value="LateInitializationError: Field '_port@713049822' has not been initialized." />
-      <item value=" pthread_mutex_lock called on a destroyed mutex (0x753ddff1c0)" />
-      <item value="Fflutter (23298): [FATAL:flutterfmlthread_local.cc(32)] Check failed: false. pthread_setspecific failed (22): Invalid argument" />
-      <item value="IBpBinder(23298): onLastStrongRef automatically unlinking death recipients: &lt;uncached descriptor&gt;" />
-      <item value="IBpBinder(27614): onLastStrongRef automatically unlinking death recipients: &lt;uncached descriptor&gt;" />
-      <item value="Flibc (27614): FORTIFY: pthread_mutex_lock called on a destroyed mutex (0x753ddbd298)" />
-      <item value="Có quyền truy cập" />
-      <item value="Having permission to access" />
-      <item value="Có quyền chuy cập" />
-      <item value="cos " />
-      <item value="c" />
-      <item value="prevent" />
-      <item value="'InstanceManager does not contain an WebChromeClient with instanceId: instanceId'," />
-      <item value="EXTRACURRICULAR CLASS POST" />
-      <item value="REPLY CENSOR FEEDBACK POST" />
-      <item value="ACCEPT CENSOR POST" />
-      <item value="NEW COMMENT POST" />
-      <item value="SCHOOL POST" />
-      <item value="INTERNAL POST" />
-      <item value="'The jpeg format name must end with jpg or jpeg.'," />
-      <item value="hết hạn" />
-      <item value="Time remaining" />
-      <item value="thời gian còn lại" />
-      <item value="thời " />
-      <item value="my Evaluation Teacher" />
-      <item value="teacher Corner Accept Member" />
-      <item value="libscreenalbumupload_media_awsupload_media_screen.dart:96:25: Error: The getter 'isImage' isn't defined for the class 'S3File'." />
-      <item value="Sĩ số" />
-      <item value="six s" />
-      <item value="siz" />
-      <item value="s" />
-      <item value="Còn" />
-      <item value="conf" />
-      <item value="Xoá album thành công" />
-      <item value="ERROR: Failed to generate localization files." />
-      <item value="'Âm thanh" />
-      <item value="ORIENTATION PORTRAIT" />
-      <item value="ORIENTATION UNDEFINED" />
-      <item value="is Landscape" />
-      <item value="screen Orientation" />
-      <item value="orientation" />
-      <item value="config Changes" />
+      <item value="Release date" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="639" />
-        <entry key="HINDI" value="1" />
-        <entry key="INDONESIAN" value="32" />
-        <entry key="IRISH" value="1" />
-        <entry key="LAO" value="5" />
-        <entry key="VIETNAMESE" value="639" />
+        <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
   </component>
