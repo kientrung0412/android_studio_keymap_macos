@@ -6,10 +6,12 @@
     <option name="newTranslationDialogX" value="592" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="attendance taken" />
       <item value="Release date" />
     </histories>
     <option name="languageScores">
       <map>
+        <entry key="ENGLISH" value="2" />
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
