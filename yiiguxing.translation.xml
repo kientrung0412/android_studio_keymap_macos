@@ -2,10 +2,20 @@
   <component name="Translation.Cache">
     <option name="lastTrimTime" value="1680722571590" />
   </component>
+  <component name="Translation.Settings">
+    <option name="primaryLanguage" value="VIETNAMESE" />
+  </component>
   <component name="Translation.States">
     <option name="newTranslationDialogX" value="592" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="giờ" />
+      <item value="gi" />
+      <item value="giowf" />
+      <item value="th" />
+      <item value="thoiwf" />
+      <item value="t" />
+      <item value="tời" />
       <item value="phút" />
       <item value="phuts" />
       <item value="login Started" />
@@ -15,8 +25,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="4" />
-        <entry key="VIETNAMESE" value="1" />
+        <entry key="ENGLISH" value="6" />
+        <entry key="VIETNAMESE" value="3" />
       </map>
     </option>
   </component>
