@@ -9,6 +9,8 @@
     <option name="newTranslationDialogX" value="592" />
     <option name="newTranslationDialogY" value="441" />
     <histories>
+      <item value="date not in compliance with rules" />
+      <item value="date in compliance with regulations" />
       <item value="the correct date" />
       <item value="previous" />
       <item value="previou" />
@@ -41,8 +43,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="10" />
-        <entry key="VIETNAMESE" value="9" />
+        <entry key="ENGLISH" value="12" />
+        <entry key="VIETNAMESE" value="11" />
       </map>
     </option>
   </component>
