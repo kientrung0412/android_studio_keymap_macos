@@ -7,8 +7,22 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogX" value="592" />
-    <option name="newTranslationDialogY" value="442" />
+    <option name="newTranslationDialogY" value="441" />
     <histories>
+      <item value="previous" />
+      <item value="previou" />
+      <item value="previo" />
+      <item value="preci" />
+      <item value="pre" />
+      <item value="prev" />
+      <item value="previus" />
+      <item value="previ" />
+      <item value="forward" />
+      <item value="forwerd" />
+      <item value="forwe" />
+      <item value="forw" />
+      <item value="fow" />
+      <item value="f" />
       <item value="autocorrect" />
       <item value="giờ" />
       <item value="gi" />
@@ -26,8 +40,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="7" />
-        <entry key="VIETNAMESE" value="4" />
+        <entry key="ENGLISH" value="9" />
+        <entry key="VIETNAMESE" value="8" />
       </map>
     </option>
   </component>
