@@ -2,10 +2,47 @@
   <component name="Translation.Cache">
     <option name="lastTrimTime" value="1680722571590" />
   </component>
+  <component name="Translation.Settings">
+    <option name="primaryLanguage" value="VIETNAMESE" />
+  </component>
   <component name="Translation.States">
     <option name="newTranslationDialogX" value="592" />
-    <option name="newTranslationDialogY" value="442" />
+    <option name="newTranslationDialogY" value="441" />
     <histories>
+      <item value="không xác định" />
+      <item value="koông xác định" />
+      <item value="koông" />
+      <item value="koôn" />
+      <item value="koô" />
+      <item value="kh" />
+      <item value="khoong dox" />
+      <item value="date not in compliance with rules" />
+      <item value="date in compliance with regulations" />
+      <item value="the correct date" />
+      <item value="previous" />
+      <item value="previou" />
+      <item value="previo" />
+      <item value="preci" />
+      <item value="pre" />
+      <item value="prev" />
+      <item value="previus" />
+      <item value="previ" />
+      <item value="forward" />
+      <item value="forwerd" />
+      <item value="forwe" />
+      <item value="forw" />
+      <item value="fow" />
+      <item value="f" />
+      <item value="autocorrect" />
+      <item value="giờ" />
+      <item value="gi" />
+      <item value="giowf" />
+      <item value="th" />
+      <item value="thoiwf" />
+      <item value="t" />
+      <item value="tời" />
+      <item value="phút" />
+      <item value="phuts" />
       <item value="login Started" />
       <item value="transformer" />
       <item value="attendance taken" />
@@ -13,8 +50,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="4" />
-        <entry key="VIETNAMESE" value="1" />
+        <entry key="ENGLISH" value="15" />
+        <entry key="VIETNAMESE" value="14" />
       </map>
     </option>
   </component>
