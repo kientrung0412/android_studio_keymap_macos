@@ -3,8 +3,8 @@
     <option name="mostRecentlyUsed" value="http" />
     <option name="nonFavorites">
       <list>
-        <option value="tag:okhttp " />
         <option value="http" />
+        <option value="tag:okhttp " />
       </list>
     </option>
   </component>
