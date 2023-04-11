@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine &amp; BluetoothLEThermometer$2" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine &amp; BluetoothLEThermometer$2" />
         <option value="package:mine " />
         <option value="is:crash " />
         <option value="http" />
