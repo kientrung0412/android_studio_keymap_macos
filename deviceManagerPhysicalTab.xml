@@ -4,6 +4,17 @@
       <PhysicalDevice>
         <key>
           <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="14cc25f0" />
+          </Key>
+        </key>
+        <name value="OnePlus LE2101" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
             <type value="DOMAIN_NAME" />
             <value value="adb-G2HSE001340-wD5X0m._adb-tls-connect._tcp." />
           </Key>
@@ -11,17 +22,6 @@
         <name value="HANET T432" />
         <target value="Android 11.0" />
         <api value="androidversion:30:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="14cc25f0" />
-          </Key>
-        </key>
-        <name value="OnePlus LE2101" />
-        <target value="Android 13.0" />
-        <api value="androidversion:33:null:5:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
