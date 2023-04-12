@@ -9,6 +9,11 @@
     <option name="newTranslationDialogX" value="592" />
     <option name="newTranslationDialogY" value="441" />
     <histories>
+      <item value="deactivate&#10;" />
+      <item value="deactivate" />
+      <item value="schedule Build For" />
+      <item value="defunct" />
+      <item value="mark Needs Build" />
       <item value="assert" />
       <item value="anchor Point" />
       <item value="không xác định" />
@@ -52,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="17" />
-        <entry key="VIETNAMESE" value="16" />
+        <entry key="ENGLISH" value="20" />
+        <entry key="VIETNAMESE" value="20" />
       </map>
     </option>
   </component>
