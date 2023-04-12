@@ -9,6 +9,7 @@
     <option name="newTranslationDialogX" value="592" />
     <option name="newTranslationDialogY" value="441" />
     <histories>
+      <item value="_Children State" />
       <item value="deactivate&#10;" />
       <item value="deactivate" />
       <item value="schedule Build For" />
@@ -57,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="20" />
-        <entry key="VIETNAMESE" value="20" />
+        <entry key="ENGLISH" value="21" />
+        <entry key="VIETNAMESE" value="21" />
       </map>
     </option>
   </component>
