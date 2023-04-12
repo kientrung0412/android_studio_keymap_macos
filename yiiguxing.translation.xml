@@ -9,6 +9,7 @@
     <option name="newTranslationDialogX" value="592" />
     <option name="newTranslationDialogY" value="441" />
     <histories>
+      <item value="assert" />
       <item value="anchor Point" />
       <item value="không xác định" />
       <item value="koông xác định" />
@@ -51,8 +52,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="16" />
-        <entry key="VIETNAMESE" value="15" />
+        <entry key="ENGLISH" value="17" />
+        <entry key="VIETNAMESE" value="16" />
       </map>
     </option>
   </component>
