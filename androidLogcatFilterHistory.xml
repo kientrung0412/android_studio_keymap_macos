@@ -1,15 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine &amp; -message~:rotateControls|onFlyCompress|fStrides" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="is:crash " />
         <option value="package:mine &amp; -message~:rotateControls|onFlyCompress|fStrides" />
         <option value="package:mine &amp; -message~:rotateControls|onFlyCompress" />
         <option value="package:mine &amp; -message~:rotateControls" />
         <option value="package:mine" />
         <option value="package:mine &amp; BluetoothLEThermometer$2" />
-        <option value="package:mine " />
-        <option value="is:crash " />
         <option value="http" />
         <option value="tag:okhttp " />
       </list>
