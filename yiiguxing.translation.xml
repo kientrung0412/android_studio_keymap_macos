@@ -6,6 +6,7 @@
     <option name="newTranslationDialogX" value="592" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="did Change Dependencies" />
       <item value="cao nhất" />
       <item value="heighted" />
       <item value="heightted" />
@@ -15,5 +16,10 @@
       <item value="he" />
       <item value="cao nhaats" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="2" />
+      </map>
+    </option>
   </component>
 </application>
