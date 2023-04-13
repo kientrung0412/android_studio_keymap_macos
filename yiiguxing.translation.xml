@@ -9,6 +9,7 @@
     <option name="newTranslationDialogX" value="592" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="SRC IMAGE ANCHOR TYPE" />
       <item value="A problem was found with the configuration of task ':app:uploadCrashlyticsMappingFileKoRelease' (type 'UploadMappingFileTask')." />
       <item value="&gt; No signature of method: build_ettaoa9k4bw5o8ws27foknd82.android() is applicable for argument types: (build_ettaoa9k4bw5o8ws27foknd82_run_closure2) values: [build_ettaoa9k4bw5o8ws27foknd82_run_closure2@63859e4f]" />
       <item value="signature" />
@@ -26,8 +27,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="6" />
-        <entry key="VIETNAMESE" value="3" />
+        <entry key="ENGLISH" value="7" />
+        <entry key="VIETNAMESE" value="4" />
       </map>
     </option>
   </component>
