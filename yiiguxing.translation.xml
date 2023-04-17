@@ -9,6 +9,7 @@
     <option name="newTranslationDialogX" value="592" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="show Alert" />
       <item value="rv contracts" />
       <item value="regulation V" />
       <item value="total debt" />
@@ -36,8 +37,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="15" />
-        <entry key="VIETNAMESE" value="13" />
+        <entry key="ENGLISH" value="16" />
+        <entry key="VIETNAMESE" value="14" />
       </map>
     </option>
   </component>
