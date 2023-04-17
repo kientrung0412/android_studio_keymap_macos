@@ -9,6 +9,7 @@
     <option name="newTranslationDialogX" value="592" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="System.err            W  com.amazonaws.AmazonClientException: Data read (1069876) has a different length than the expected (1827276)&#10;" />
       <item value="prepare Detect" />
       <item value="_Action Post" />
       <item value="'package:fluttersrcrenderingsliver_grid.dart': Failed assertion: line 320 pos 15: 'crossAxisCount != null &amp;&amp; crossAxisCount &gt; 0': is not true." />
@@ -31,7 +32,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="10" />
-        <entry key="VIETNAMESE" value="7" />
+        <entry key="VIETNAMESE" value="8" />
       </map>
     </option>
   </component>
