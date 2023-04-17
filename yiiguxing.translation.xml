@@ -9,6 +9,11 @@
     <option name="newTranslationDialogX" value="592" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="rv contracts" />
+      <item value="regulation V" />
+      <item value="total debt" />
+      <item value="total paid" />
+      <item value="get Tuition Fee" />
       <item value="System.err            W  com.amazonaws.AmazonClientException: Data read (1069876) has a different length than the expected (1827276)&#10;" />
       <item value="prepare Detect" />
       <item value="_Action Post" />
@@ -31,8 +36,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="10" />
-        <entry key="VIETNAMESE" value="8" />
+        <entry key="ENGLISH" value="15" />
+        <entry key="VIETNAMESE" value="13" />
       </map>
     </option>
   </component>
