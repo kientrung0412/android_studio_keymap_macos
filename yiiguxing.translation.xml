@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1681296134073" />
+    <option name="lastTrimTime" value="1681728182707" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="VIETNAMESE" />
@@ -9,6 +9,20 @@
     <option name="newTranslationDialogX" value="592" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="deduction policy" />
+      <item value="deduction_policy" />
+      <item value="price deduction" />
+      <item value="description" />
+      <item value="amount Deduction" />
+      <item value="deduction" />
+      <item value="fee" />
+      <item value="amount deduction" />
+      <item value="amount" />
+      <item value="get Debt Items" />
+      <item value="get Total Debt Fee" />
+      <item value="accepted Time" />
+      <item value="tv description" />
+      <item value="tv_description" />
       <item value="show Alert" />
       <item value="rv contracts" />
       <item value="regulation V" />
@@ -37,8 +51,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="16" />
-        <entry key="VIETNAMESE" value="14" />
+        <entry key="ENGLISH" value="30" />
+        <entry key="VIETNAMESE" value="30" />
       </map>
     </option>
   </component>
