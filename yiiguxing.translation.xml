@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1681296134073" />
+    <option name="lastTrimTime" value="1681728182707" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="VIETNAMESE" />
@@ -9,6 +9,27 @@
     <option name="newTranslationDialogX" value="592" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="Tuition Notice" />
+      <item value="deduction policy" />
+      <item value="deduction_policy" />
+      <item value="price deduction" />
+      <item value="description" />
+      <item value="amount Deduction" />
+      <item value="deduction" />
+      <item value="fee" />
+      <item value="amount deduction" />
+      <item value="amount" />
+      <item value="get Debt Items" />
+      <item value="get Total Debt Fee" />
+      <item value="accepted Time" />
+      <item value="tv description" />
+      <item value="tv_description" />
+      <item value="show Alert" />
+      <item value="rv contracts" />
+      <item value="regulation V" />
+      <item value="total debt" />
+      <item value="total paid" />
+      <item value="get Tuition Fee" />
       <item value="System.err            W  com.amazonaws.AmazonClientException: Data read (1069876) has a different length than the expected (1827276)&#10;" />
       <item value="prepare Detect" />
       <item value="_Action Post" />
@@ -31,8 +52,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="10" />
-        <entry key="VIETNAMESE" value="8" />
+        <entry key="ENGLISH" value="31" />
+        <entry key="VIETNAMESE" value="31" />
       </map>
     </option>
   </component>

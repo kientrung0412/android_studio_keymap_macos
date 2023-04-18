@@ -1,12 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine &amp; tag:okhttp " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine &amp; tag:okhttp " />
+        <option value="package:mine &amp; tag:okhttp debt" />
         <option value="package:mine " />
         <option value="package:mine &amp; http" />
         <option value="tag:flutter" />
         <option value="http" />
-        <option value="package:mine &amp; tag:okhttp " />
         <option value="package:mine &amp; level:warn " />
         <option value="package:mine" />
         <option value="flutter" />
