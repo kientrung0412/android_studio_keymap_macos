@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value=" package:mine &amp; level:warn " />
+    <option name="mostRecentlyUsed" value=" package:com.kidsonline.attendance" />
     <option name="nonFavorites">
       <list>
+        <option value=" package:com.kidsonline.attendance" />
+        <option value=" package:mine" />
         <option value=" package:mine &amp; level:warn " />
         <option value=" package:mine " />
         <option value="level:warn &amp; package:mine " />
@@ -21,8 +23,6 @@
         <option value="package:mine &amp; level:warn " />
         <option value="flutter" />
         <option value="is:crash " />
-        <option value="package:mine &amp; -message~:rotateControls|onFlyCompress|fStrides" />
-        <option value="package:mine &amp; -message~:rotateControls|onFlyCompress" />
       </list>
     </option>
   </component>
