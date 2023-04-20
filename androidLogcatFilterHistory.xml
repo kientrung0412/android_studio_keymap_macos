@@ -1,14 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value=" package:com.kidsonline.attendance" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="level:warn " />
+        <option value="level:error " />
         <option value=" package:com.kidsonline.attendance" />
         <option value=" package:mine" />
         <option value=" package:mine &amp; level:warn " />
         <option value=" package:mine " />
         <option value="level:warn &amp; package:mine " />
-        <option value="level:warn " />
         <option value="err" />
         <option value="Trungnk" />
         <option value="http" />
@@ -22,7 +23,6 @@
         <option value="tag:flutter" />
         <option value="package:mine &amp; level:warn " />
         <option value="flutter" />
-        <option value="is:crash " />
       </list>
     </option>
   </component>
