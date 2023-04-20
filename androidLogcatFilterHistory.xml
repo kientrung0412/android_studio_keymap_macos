@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine &amp; tag:okhttp " />
+    <option name="mostRecentlyUsed" value="package:mine &amp; tag:trungnk" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine &amp; tag:trungnk" />
+        <option value="package:mine" />
+        <option value="package:mine tag:trungnk" />
         <option value="package:mine &amp; tag:okhttp " />
         <option value="package:mine &amp; tag:okhttp debt" />
         <option value="package:mine " />
@@ -10,7 +13,6 @@
         <option value="tag:flutter" />
         <option value="http" />
         <option value="package:mine &amp; level:warn " />
-        <option value="package:mine" />
         <option value="flutter" />
         <option value="is:crash " />
         <option value="package:mine &amp; -message~:rotateControls|onFlyCompress|fStrides" />
