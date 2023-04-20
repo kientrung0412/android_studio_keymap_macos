@@ -1,7 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value=" package:mine &amp; level:warn " />
     <option name="nonFavorites">
       <list>
+        <option value=" package:mine &amp; level:warn " />
+        <option value=" package:mine " />
+        <option value="level:warn &amp; package:mine " />
+        <option value="level:warn " />
+        <option value="err" />
+        <option value="Trungnk" />
+        <option value="http" />
         <option value="package:mine" />
         <option value="package:mine &amp; tag:trungnk" />
         <option value="package:mine tag:trungnk" />
@@ -10,15 +18,11 @@
         <option value="package:mine " />
         <option value="package:mine &amp; http" />
         <option value="tag:flutter" />
-        <option value="http" />
         <option value="package:mine &amp; level:warn " />
         <option value="flutter" />
         <option value="is:crash " />
         <option value="package:mine &amp; -message~:rotateControls|onFlyCompress|fStrides" />
         <option value="package:mine &amp; -message~:rotateControls|onFlyCompress" />
-        <option value="package:mine &amp; -message~:rotateControls" />
-        <option value="package:mine &amp; BluetoothLEThermometer$2" />
-        <option value="tag:okhttp " />
       </list>
     </option>
   </component>
