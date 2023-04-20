@@ -53,7 +53,7 @@
     <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
   <action id="StringManipulation.ToPascalCase">
-    <keyboard-shortcut first-keystroke="meta p" />
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
   <action id="StringManipulation.ToSnakeCase">
     <keyboard-shortcut first-keystroke="shift ctrl s" />

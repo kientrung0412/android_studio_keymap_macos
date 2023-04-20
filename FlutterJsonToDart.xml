@@ -1,0 +1,6 @@
+<application>
+  <component name="FlutterJsonToDart">
+    <option name="createToJson" value="false" />
+    <option name="useJsonKeyName" value="false" />
+  </component>
+</application>

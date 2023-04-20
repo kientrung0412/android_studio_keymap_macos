@@ -18,4 +18,10 @@
       <option name="DART_TOPLEVEL" value="true" />
     </context>
   </template>
+  <template name="logd" value="LogUtils.d('Trungnk', $msg$);" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="msg" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="FLUTTER" value="true" />
+    </context>
+  </template>
 </templateSet>

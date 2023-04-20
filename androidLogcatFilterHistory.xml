@@ -1,28 +1,23 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:http" />
+    <option name="mostRecentlyUsed" value="package:mine &amp; tag:okhttp " />
     <option name="nonFavorites">
       <list>
-        <option value="noti" />
-        <option value="tag:http" />
-        <option value="Trungnk" />
-        <option value="level:error " />
-        <option value="tag:flutter" />
-        <option value="tag:Trungnk" />
+        <option value="package:mine &amp; tag:okhttp " />
+        <option value="package:mine &amp; tag:okhttp debt" />
         <option value="package:mine " />
-        <option value="package:mine tag:htt" />
-        <option value="message:noti" />
-        <option value="message:MyFirebaseMessagingServiceV4" />
-        <option value="level:error | message:MyFirebaseMessagingServiceV4" />
+        <option value="package:mine &amp; http" />
+        <option value="tag:flutter" />
         <option value="http" />
-        <option value="tag:activity" />
-        <option value="tag:activ" />
+        <option value="package:mine &amp; level:warn " />
         <option value="package:mine" />
-        <option value="tag:ht" />
-        <option value="com.kidsonline.teacher" />
-        <option value="t" />
-        <option value="tag:flutter message:HistoryEatCubit" />
-        <option value="tag:Trungnk | tag:http" />
+        <option value="flutter" />
+        <option value="is:crash " />
+        <option value="package:mine &amp; -message~:rotateControls|onFlyCompress|fStrides" />
+        <option value="package:mine &amp; -message~:rotateControls|onFlyCompress" />
+        <option value="package:mine &amp; -message~:rotateControls" />
+        <option value="package:mine &amp; BluetoothLEThermometer$2" />
+        <option value="tag:okhttp " />
       </list>
     </option>
   </component>
