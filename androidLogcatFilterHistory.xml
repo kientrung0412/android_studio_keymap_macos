@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine &amp; level:warn " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine &amp; level:warn " />
         <option value="package:mine " />
         <option value="http" />
         <option value="ok" />
         <option value=" tag:okhttp" />
         <option value="package:codepro.kidsonline.debug " />
-        <option value="package:mine &amp; level:warn " />
         <option value="level:warn " />
         <option value="level:error " />
         <option value=" package:com.kidsonline.attendance" />
