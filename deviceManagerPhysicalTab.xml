@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="192.168.5.246:5555" />
+          </Key>
+        </key>
+        <name value="LENOVO Lenovo TB-8505X" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="14cc25f0" />
           </Key>
         </key>
@@ -72,17 +83,6 @@
           <Key>
             <type value="SERIAL_NUMBER" />
             <value value="HA14SBD5" />
-          </Key>
-        </key>
-        <name value="LENOVO Lenovo TB-8505X" />
-        <target value="Android 10.0" />
-        <api value="androidversion:29:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="192.168.5.246:5555" />
           </Key>
         </key>
         <name value="LENOVO Lenovo TB-8505X" />
