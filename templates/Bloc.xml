@@ -10,4 +10,15 @@
   <template name="read" value="context.read&lt;$Subject$&gt;()" description="context.read()" toReformat="false" toShortenFQNames="true">
     <variable name="Subject" expression="" defaultValue="&quot;Subject&quot;" alwaysStopAt="true" />
   </template>
+  <template name="st" value="state" description="state class" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="DART_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="logd" value="LogUtils.d('Trungnk', $msg$);" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="msg" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="FLUTTER" value="true" />
+    </context>
+  </template>
 </templateSet>

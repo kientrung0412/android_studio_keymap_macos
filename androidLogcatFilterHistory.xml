@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:http package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine &amp; level:warn " />
     <option name="nonFavorites">
       <list>
-        <option value="tag:http package:mine " />
-        <option value="tag:" />
+        <option value="package:mine &amp; level:warn " />
         <option value="package:mine " />
+        <option value="level:warn " />
         <option value="level:error " />
+        <option value=" package:com.kidsonline.attendance" />
+        <option value=" package:mine" />
+        <option value=" package:mine &amp; level:warn " />
+        <option value=" package:mine " />
+        <option value="level:warn &amp; package:mine " />
+        <option value="err" />
+        <option value="Trungnk" />
+        <option value="http" />
+        <option value="package:mine" />
+        <option value="package:mine &amp; tag:trungnk" />
+        <option value="package:mine tag:trungnk" />
+        <option value="package:mine &amp; tag:okhttp " />
+        <option value="package:mine &amp; tag:okhttp debt" />
+        <option value="package:mine &amp; http" />
         <option value="tag:flutter" />
-        <option value="tag:http" />
-        <option value="tag:trungn" />
-        <option value="mobile_path" />
-        <option value="package:mine level:error " />
-        <option value="package:mine tag:http" />
-        <option value="package:mine ta" />
-        <option value="package:mine tag:Trungnk " />
-        <option value="package:mine tag:Trungnk | tag:http" />
-        <option value="package:mine tag:Trungnk" />
-        <option value="package:mine tag:http | tag:Trungnk" />
-        <option value="package:mine  message:HandlerObserverApi | level:error  " />
-        <option value="level:error package:mine message:HandlerObserverApi" />
-        <option value="level:error package:mine " />
-        <option value="package:mine &amp; message:readLineHandler" />
-        <option value="package:mine &amp; message:K3ProThermometer &amp; -message:handleFakeOfFakeData " />
+        <option value="flutter" />
       </list>
     </option>
   </component>

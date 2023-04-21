@@ -5,34 +5,5 @@
         <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.ToCamelCaseAction" />
       </UniversalActionModel>
     </option>
-    <option name="replaceHistory">
-      <list>
-        <ReplaceCompositeModel>
-          <option name="date" value="1641355676722" />
-          <option name="items">
-            <list>
-              <ReplaceItemModel>
-                <option name="caseSensitive" value="true" />
-                <option name="exclusiveGroup" value="1" />
-                <option name="from" value="onClickItemListener" />
-                <option name="wholeWords" value="true" />
-              </ReplaceItemModel>
-            </list>
-          </option>
-        </ReplaceCompositeModel>
-        <ReplaceCompositeModel>
-          <option name="date" value="1641355681320" />
-          <option name="items">
-            <list>
-              <ReplaceItemModel>
-                <option name="enabled" value="true" />
-                <option name="exclusiveGroup" value="1" />
-                <option name="from" value="onClickItemListener" />
-              </ReplaceItemModel>
-            </list>
-          </option>
-        </ReplaceCompositeModel>
-      </list>
-    </option>
   </component>
 </application>

@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="192.168.5.246:5555" />
+          </Key>
+        </key>
+        <name value="LENOVO Lenovo TB-8505X" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="14cc25f0" />
           </Key>
         </key>
@@ -15,131 +26,11 @@
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="192.168.5.17:5555" />
-          </Key>
-        </key>
-        <name value="Xiaomi MI 8 Lite" />
-        <target value="Android 10.0" />
-        <api value="androidversion:29:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="8ABX0PUWK" />
-          </Key>
-        </key>
-        <name value="Google Pixel 3" />
-        <target value="Android 12.0" />
-        <api value="androidversion:31:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="192.168.5.111:5555" />
-          </Key>
-        </key>
-        <name value="rockchip rk312x" />
-        <target value="Android 5.1" />
-        <api value="androidversion:22:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="192.168.4.243:5555" />
-          </Key>
-        </key>
-        <name value="rockchip rk312x" />
-        <target value="Android 5.1" />
-        <api value="androidversion:22:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="192.168.4.173:5555" />
-          </Key>
-        </key>
-        <name value="rockchip rk312x" />
-        <target value="Android 5.1" />
-        <api value="androidversion:22:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="192.168.4.52:5555" />
-          </Key>
-        </key>
-        <name value="rockchip rk312x" />
-        <target value="Android 5.1" />
-        <api value="androidversion:22:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="192.168.4.236:5555" />
-          </Key>
-        </key>
-        <name value="rockchip rk312x" />
-        <target value="Android 5.1" />
-        <api value="androidversion:22:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="192.168.4.116:5555" />
-          </Key>
-        </key>
-        <name value="rockchip rk312x" />
-        <target value="Android 5.1" />
-        <api value="androidversion:22:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="192.168.4.141:5555" />
-          </Key>
-        </key>
-        <name value="rockchip S8810P" />
-        <target value="Android 8.1" />
-        <api value="androidversion:27:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
             <type value="DOMAIN_NAME" />
-            <value value="adb-bb434dde-8uR0UP._adb-tls-connect._tcp." />
+            <value value="adb-G2HSE001340-wD5X0m._adb-tls-connect._tcp." />
           </Key>
         </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="b8f7681d" />
-          </Key>
-        </key>
-        <name value="samsung SM-A605K" />
-        <target value="Android 10.0" />
-        <api value="androidversion:29:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="08726eca0407" />
-          </Key>
-        </key>
-        <name value="Xiaomi M2003J15SC" />
+        <name value="HANET T432" />
         <target value="Android 11.0" />
         <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
@@ -147,89 +38,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="BAB00116311" />
+            <value value="R58M968VBJA" />
           </Key>
         </key>
-        <name value="vsmart Active 3" />
-        <target value="Android 10.0" />
-        <api value="androidversion:29:null:null:true" />
+        <name value="samsung SM-A705F" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="5TMBLN9P99999999" />
+            <type value="DOMAIN_NAME" />
+            <value value="adb-14cc25f0-Bk8aA2._adb-tls-connect._tcp." />
           </Key>
         </key>
-        <name value="OPPO A1601" />
-        <target value="Android 5.1" />
-        <api value="androidversion:22:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="0123456789ABCDEF" />
-          </Key>
-        </key>
-        <name value="KTE TA-666" />
-        <target value="Android 7.0" />
-        <api value="androidversion:24:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="192.168.2.142:5555" />
-          </Key>
-        </key>
-        <name value="vsmart Active 3" />
-        <target value="Android 10.0" />
-        <api value="androidversion:29:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="4L5T6DSC85UWMN4P" />
-          </Key>
-        </key>
-        <name value="OPPO CPH1717" />
-        <target value="Android 7.1.1" />
-        <api value="androidversion:25:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="192.168.4.135:5555" />
-          </Key>
-        </key>
-        <name value="Google Pixel 3" />
-        <target value="Android 12.0" />
-        <api value="androidversion:31:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="HA14SBD5" />
-          </Key>
-        </key>
-        <name value="LENOVO Lenovo TB-8505X" />
-        <target value="Android 10.0" />
-        <api value="androidversion:29:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="192.168.5.109:5555" />
-          </Key>
-        </key>
-        <name value="LENOVO Lenovo TB-8505X" />
-        <target value="Android 10.0" />
-        <api value="androidversion:29:null:null:true" />
+        <name value="OnePlus LE2101" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -246,186 +71,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="4f49d9d3" />
-          </Key>
-        </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="ARB00042772" />
-          </Key>
-        </key>
-        <name value="vsmart Active 3" />
-        <target value="Android 10.0" />
-        <api value="androidversion:29:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="UEEDU18413001432" />
-          </Key>
-        </key>
-        <name value="HUAWEI COL-L29" />
-        <target value="Android 10.0" />
-        <api value="androidversion:29:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="KZI7NVDQAUROCQ59" />
-          </Key>
-        </key>
-        <name value="OPPO CPH2073" />
-        <target value="Android 9.0" />
-        <api value="androidversion:28:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="192.168.4.79:23189" />
+            <value value="192.168.5.167:5555" />
           </Key>
         </key>
         <name value="OnePlus LE2101" />
-        <target value="Android 12.0" />
-        <api value="androidversion:31:null:null:true" />
+        <target value="Android Tiramisu" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="BH900SC8D0" />
+            <value value="HA14SBD5" />
           </Key>
         </key>
-        <name value="Sony SOV37" />
+        <name value="LENOVO Lenovo TB-8505X" />
         <target value="Android 10.0" />
         <api value="androidversion:29:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="192.168.4.194:5555" />
-          </Key>
-        </key>
-        <name value="rockchip S8810P" />
-        <target value="Android 8.1" />
-        <api value="androidversion:27:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="192.168.4.33:5555" />
-          </Key>
-        </key>
-        <name value="rockchip rk312x" />
-        <target value="Android 5.1" />
-        <api value="androidversion:22:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="21a2104f" />
-          </Key>
-        </key>
-        <name value="Xiaomi MI 8 Lite" />
-        <target value="Android 10.0" />
-        <api value="androidversion:29:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="192.168.5.206:5555" />
-          </Key>
-        </key>
-        <name value="rockchip S8810P" />
-        <target value="Android 8.1" />
-        <api value="androidversion:27:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="192.168.0.104:5555" />
-          </Key>
-        </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="AGD00077491" />
-          </Key>
-        </key>
-        <name value="vsmart Joy 2+" />
-        <target value="Android 10.0" />
-        <api value="androidversion:29:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="192.168.4.156:5555" />
-          </Key>
-        </key>
-        <name value="rockchip S8810P" />
-        <target value="Android 8.1" />
-        <api value="androidversion:27:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="192.168.5.241:5555" />
-          </Key>
-        </key>
-        <name value="rockchip rk312x" />
-        <target value="Android 5.1" />
-        <api value="androidversion:22:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="192.168.4.125:5555" />
-          </Key>
-        </key>
-        <name value="rockchip S8810P" />
-        <target value="Android 8.1" />
-        <api value="androidversion:27:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="2540e92c" />
-          </Key>
-        </key>
-        <name value="Xiaomi M2101K9AG" />
-        <target value="Android 12.0" />
-        <api value="androidversion:31:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="192.168.5.65:5555" />
-          </Key>
-        </key>
-        <name value="OnePlus LE2101" />
-        <target value="Android 12.0" />
-        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
