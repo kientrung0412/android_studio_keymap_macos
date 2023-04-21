@@ -9,6 +9,7 @@
     <option name="newTranslationDialogX" value="592" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="Returns: the source Publisher modified so that its Subscribers are notified on the specified" />
       <item value="computation" />
       <item value="max Dimen" />
       <item value="Tuition Notice" />
@@ -54,8 +55,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="33" />
-        <entry key="VIETNAMESE" value="33" />
+        <entry key="ENGLISH" value="34" />
+        <entry key="VIETNAMESE" value="34" />
       </map>
     </option>
   </component>
