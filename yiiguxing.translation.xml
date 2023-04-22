@@ -6,9 +6,14 @@
     <option name="primaryLanguage" value="VIETNAMESE" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogX" value="592" />
+    <option name="newTranslationDialogX" value="479" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="The exception was not handled due to missing onError handler in the subscribe() method call" />
+      <item value="Backpressure Strategy" />
+      <item value="Returns: the source Publisher modified so that its Subscribers are notified on the specified" />
+      <item value="computation" />
+      <item value="max Dimen" />
       <item value="Tuition Notice" />
       <item value="deduction policy" />
       <item value="deduction_policy" />
@@ -52,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="31" />
-        <entry key="VIETNAMESE" value="31" />
+        <entry key="ENGLISH" value="35" />
+        <entry key="VIETNAMESE" value="36" />
       </map>
     </option>
   </component>

@@ -3,8 +3,9 @@
     <option name="AUTOREPARSE_DELAY" value="0" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
+    <option name="ENABLE_RENDERED_DOC" value="true" />
     <option name="SHOW_INTENTION_PREVIEW" value="true" />
   </component>
   <component name="InlayHintsSettings">
