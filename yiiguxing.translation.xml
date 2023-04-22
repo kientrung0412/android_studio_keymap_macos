@@ -9,6 +9,7 @@
     <option name="newTranslationDialogX" value="479" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="GROUP SEP" />
       <item value="dimension" />
       <item value="The exception was not handled due to missing onError handler in the subscribe() method call" />
       <item value="Backpressure Strategy" />
@@ -58,8 +59,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="36" />
-        <entry key="VIETNAMESE" value="36" />
+        <entry key="ENGLISH" value="37" />
+        <entry key="VIETNAMESE" value="37" />
       </map>
     </option>
   </component>
