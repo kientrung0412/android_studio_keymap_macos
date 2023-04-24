@@ -2,11 +2,10 @@
   <component name="RainbowSettings">
     <option name="disableRainbowIndentsInZenMode" value="false" />
     <option name="numberOfColors" value="20" />
-    <option name="rainbowVariablesOptionShowed" value="true" />
     <option name="rainbowifyTagNameInXML" value="true" />
     <option name="showRainbowIndentGuides" value="false" />
     <option name="suppressBigFileCheck" value="true" />
     <option name="suppressDisabledCheck" value="true" />
-    <option name="version" value="2023.2.7-ij" />
+    <option name="version" value="6.26" />
   </component>
 </application>
