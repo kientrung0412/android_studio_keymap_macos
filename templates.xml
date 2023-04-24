@@ -3,14 +3,6 @@
     <option name="deletedKeys">
       <list>
         <TemplateKey>
-          <option name="groupName" value="Dart" />
-          <option name="key" value="iter" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Dart" />
-          <option name="key" value="itar" />
-        </TemplateKey>
-        <TemplateKey>
           <option name="groupName" value="Shell Script Hidden" />
           <option name="key" value="shell_if" />
         </TemplateKey>
@@ -125,6 +117,14 @@
         <TemplateKey>
           <option name="groupName" value="Shell Script Hidden" />
           <option name="key" value="shell_command exists" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Dart" />
+          <option name="key" value="iter" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Dart" />
+          <option name="key" value="itar" />
         </TemplateKey>
       </list>
     </option>

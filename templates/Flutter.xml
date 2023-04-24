@@ -5,4 +5,42 @@
       <option name="DART" value="true" />
     </context>
   </template>
+  <template name="pri" value="context.primaryColor" description="Primary color" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+  <template name="stl" value="StatelessWidget" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+  <template name="stf" value="StatefulWidget" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+  <template name="tt" value="context.textTheme.$style$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="style" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+  <template name="w" value="width$SIZE$view" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="SIZE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+  <template name="h" value="height$SIZE$view" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="SIZE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+  <template name="ctn" value="context.containerColor" description="Container color" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
 </templateSet>
