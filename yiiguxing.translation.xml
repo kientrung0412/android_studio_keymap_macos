@@ -82,12 +82,13 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1682332021528" />
+    <option name="lastTrimTime" value="1683192238906" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="allow Cellular" />
       <item value="contingency" />
       <item value="rotation Count" />
       <item value="Handle contingency" />
@@ -98,10 +99,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="5" />
+        <entry key="ENGLISH" value="6" />
         <entry key="INDONESIAN" value="2" />
         <entry key="LAO" value="2" />
-        <entry key="VIETNAMESE" value="2" />
+        <entry key="VIETNAMESE" value="3" />
       </map>
     </option>
   </component>
