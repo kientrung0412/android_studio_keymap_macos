@@ -88,6 +88,7 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="  ///Returns the file from memory if it has already been fetched&#10;" />
       <item value="Connection closed before full header was received" />
       <item value="Không có ứng dụng để mở loại tệp này" />
       <item value="Đang tải xuống tệp" />
@@ -105,7 +106,7 @@
         <entry key="ENGLISH" value="6" />
         <entry key="INDONESIAN" value="2" />
         <entry key="LAO" value="2" />
-        <entry key="VIETNAMESE" value="4" />
+        <entry key="VIETNAMESE" value="5" />
       </map>
     </option>
   </component>
