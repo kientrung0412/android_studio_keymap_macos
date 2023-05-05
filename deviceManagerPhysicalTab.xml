@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="QV723D8C54" />
+          </Key>
+        </key>
+        <name value="Sony SOG02" />
+        <target value="Android 12.0" />
+        <api value="androidversion:31:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="192.168.5.246:5555" />
           </Key>
         </key>
@@ -20,7 +31,7 @@
           </Key>
         </key>
         <name value="OnePlus LE2101" />
-        <target value="Android Tiramisu" />
+        <target value="Android 13.0" />
         <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
