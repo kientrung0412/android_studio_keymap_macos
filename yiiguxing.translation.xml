@@ -88,6 +88,7 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="extracurricular ids" />
       <item value="  ///Returns the file from memory if it has already been fetched&#10;" />
       <item value="Connection closed before full header was received" />
       <item value="Không có ứng dụng để mở loại tệp này" />
@@ -103,7 +104,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="6" />
+        <entry key="ENGLISH" value="7" />
         <entry key="INDONESIAN" value="2" />
         <entry key="LAO" value="2" />
         <entry key="VIETNAMESE" value="5" />
