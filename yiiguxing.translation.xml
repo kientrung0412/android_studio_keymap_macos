@@ -85,9 +85,13 @@
     <option name="lastTrimTime" value="1683192238906" />
   </component>
   <component name="Translation.States">
+    <option name="newTranslationDialogWidth" value="598" />
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Hie êiệu na ăng" />
+      <item value="Hie êiệu " />
+      <item value="hieeuj " />
       <item value="  ///Returns the file from memory if it has already been fetched&#10;" />
       <item value="Connection closed before full header was received" />
       <item value="Không có ứng dụng để mở loại tệp này" />
