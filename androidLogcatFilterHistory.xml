@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:Trungnk" />
+    <option name="mostRecentlyUsed" value="package:com.kidsonline.attendance.debug " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.kidsonline.attendance.debug " />
         <option value="tag:Trungnk" />
         <option value="t" />
         <option value="tag:trungnk" />
@@ -22,7 +23,6 @@
         <option value="ok" />
         <option value=" tag:okhttp" />
         <option value="package:codepro.kidsonline.debug " />
-        <option value="level:warn " />
       </list>
     </option>
   </component>
