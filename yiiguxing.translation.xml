@@ -82,14 +82,22 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1683192238906" />
+    <option name="lastTrimTime" value="1683711991288" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="primaryLanguage" value="VIETNAMESE" />
   </component>
   <component name="Translation.States">
+    <option name="newTranslationDialogWidth" value="598" />
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
-      <item value="request" />
-      <item value="extracurricular ids" />
+      <item value="Flutter expects a build configuration named Debug-ko or similar." />
+      <item value="the absolute paths to application-specific directories. Some individual paths may be null if that shared storage is not currently available." />
+      <item value="e collection directly, as any app can contribute new media to MediaStore with no pe" />
+      <item value="Hie êiệu na ăng" />
+      <item value="Hie êiệu " />
+      <item value="hieeuj " />
       <item value="  ///Returns the file from memory if it has already been fetched&#10;" />
       <item value="Connection closed before full header was received" />
       <item value="Không có ứng dụng để mở loại tệp này" />
@@ -105,10 +113,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="8" />
+        <entry key="ENGLISH" value="9" />
         <entry key="INDONESIAN" value="2" />
         <entry key="LAO" value="2" />
-        <entry key="VIETNAMESE" value="5" />
+        <entry key="VIETNAMESE" value="8" />
       </map>
     </option>
   </component>
