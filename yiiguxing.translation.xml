@@ -91,7 +91,20 @@
     <option name="newTranslationDialogWidth" value="598" />
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="484" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="get Current Identity Index" />
+      <item value="has Record Attendance" />
+      <item value="is_confirmed" />
+      <item value="set Is Feature Image" />
+      <item value="count Student Has Image" />
+      <item value="can Take Picture" />
+      <item value="is Confirmed" />
+      <item value="used Pickup Late" />
+      <item value="use Pick Up Late" />
+      <item value="is Already Attendance" />
+      <item value="is Use Face Recognition" />
+      <item value="update-students-attendance-appearance" />
       <item value="Flutter expects a build configuration named Debug-ko or similar." />
       <item value="the absolute paths to application-specific directories. Some individual paths may be null if that shared storage is not currently available." />
       <item value="e collection directly, as any app can contribute new media to MediaStore with no pe" />
@@ -113,10 +126,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="9" />
+        <entry key="ENGLISH" value="19" />
         <entry key="INDONESIAN" value="2" />
         <entry key="LAO" value="2" />
-        <entry key="VIETNAMESE" value="8" />
+        <entry key="VIETNAMESE" value="19" />
       </map>
     </option>
   </component>
