@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  &amp; tag:Camera2ControllerAPI24 | tag:Trungnk" />
+    <option name="mostRecentlyUsed" value="tag:trungnk " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:trungnk " />
+        <option value="is:crash " />
         <option value="package:mine  &amp; tag:Camera2ControllerAPI24 | tag:Trungnk" />
         <option value="package:mine  &amp; tag:Camera2ControllerAPI24" />
         <option value="package:mine  " />
@@ -21,8 +23,6 @@
         <option value="package:mine &amp; package:mine " />
         <option value="package:mine &amp; tag:okhttp " />
         <option value="package:mine &amp; level:warn " />
-        <option value="http" />
-        <option value="ok" />
       </list>
     </option>
   </component>

@@ -88,10 +88,9 @@
     <option name="primaryLanguage" value="VIETNAMESE" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogWidth" value="596" />
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="484" />
-    <option name="pinTranslationDialog" value="true" />
     <histories>
       <item value="MODE MULTI PROCESS" />
       <item value="MODE WORLD WRITEABLE" />
