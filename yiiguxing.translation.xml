@@ -93,6 +93,11 @@
     <option name="newTranslationDialogY" value="484" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="MODE MULTI PROCESS" />
+      <item value="MODE WORLD WRITEABLE" />
+      <item value="MODE WORLD READABLE" />
+      <item value="MODE PRIVATE" />
+      <item value="Preferences Mode" />
       <item value="get Current Identity Index" />
       <item value="has Record Attendance" />
       <item value="is_confirmed" />
@@ -126,10 +131,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="19" />
+        <entry key="ENGLISH" value="24" />
         <entry key="INDONESIAN" value="2" />
         <entry key="LAO" value="2" />
-        <entry key="VIETNAMESE" value="19" />
+        <entry key="VIETNAMESE" value="24" />
       </map>
     </option>
   </component>
