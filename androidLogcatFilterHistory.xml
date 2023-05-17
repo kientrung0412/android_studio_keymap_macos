@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:trungnk " />
+    <option name="mostRecentlyUsed" value=" tag:Trungnk " />
     <option name="nonFavorites">
       <list>
+        <option value=" tag:Trungnk " />
+        <option value="package:mine " />
+        <option value="(level:error &amp; package:mine) | tag:Trungnk" />
+        <option value="level:error &amp; package:mine " />
+        <option value="getCurrentCameraId" />
         <option value="tag:trungnk " />
         <option value="is:crash " />
         <option value="package:mine  &amp; tag:Camera2ControllerAPI24 | tag:Trungnk" />
@@ -17,12 +22,7 @@
         <option value=" " />
         <option value="package:mine &amp; tag:Trungnk" />
         <option value="tag:flutter " />
-        <option value="package:mine " />
         <option value="package:mine &amp; tag:Trungnk " />
-        <option value="package:mine" />
-        <option value="package:mine &amp; package:mine " />
-        <option value="package:mine &amp; tag:okhttp " />
-        <option value="package:mine &amp; level:warn " />
       </list>
     </option>
   </component>
