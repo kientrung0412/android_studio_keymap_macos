@@ -5,23 +5,34 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="14cc25f0" />
+          </Key>
+        </key>
+        <name value="OnePlus LE2101" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:5:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="QV723D8C54" />
+          </Key>
+        </key>
+        <name value="Sony SOG02" />
+        <target value="Android 12.0" />
+        <api value="androidversion:31:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="192.168.5.246:5555" />
           </Key>
         </key>
         <name value="LENOVO Lenovo TB-8505X" />
         <target value="Android 10.0" />
         <api value="androidversion:29:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="14cc25f0" />
-          </Key>
-        </key>
-        <name value="OnePlus LE2101" />
-        <target value="Android Tiramisu" />
-        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -52,9 +63,8 @@
             <value value="adb-14cc25f0-Bk8aA2._adb-tls-connect._tcp." />
           </Key>
         </key>
-        <name value="OnePlus LE2101" />
-        <target value="Android 13.0" />
-        <api value="androidversion:33:null:null:true" />
+        <name value="Device" />
+        <target value="Android 1.0" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -86,6 +96,17 @@
           </Key>
         </key>
         <name value="LENOVO Lenovo TB-8505X" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="4f49d9d3" />
+          </Key>
+        </key>
+        <name value="Xiaomi MI 8 SE" />
         <target value="Android 10.0" />
         <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
