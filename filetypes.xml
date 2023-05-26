@@ -5,15 +5,15 @@
       <mapping pattern="flag_id.svg" type="AUTO_DETECTED" />
       <mapping pattern="AttendanceEatType.dart" type="AUTO_DETECTED" />
       <mapping pattern="test_draft.dart" type="AUTO_DETECTED" />
-      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="news-wal" type="Native" />
-      <mapping pattern=".flutter-plugins-dependencies" type="PLAIN_TEXT" />
       <mapping pattern="fvm" type="PLAIN_TEXT" />
+      <mapping pattern=".flutter-plugins-dependencies" type="PLAIN_TEXT" />
       <mapping ext="json" type="PLAIN_TEXT" />
-      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="news" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="json" approved="true" type="JSON" />
