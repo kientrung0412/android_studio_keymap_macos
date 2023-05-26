@@ -1,20 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value=" tag:Trungnk " />
+    <option name="mostRecentlyUsed" value="package:codepro.kidsonline.debug  | tag:okhttp " />
     <option name="nonFavorites">
       <list>
-        <option value=" tag:Trungnk " />
-        <option value="package:mine " />
-        <option value="(level:error &amp; package:mine) | tag:Trungnk" />
-        <option value="level:error &amp; package:mine " />
-        <option value="getCurrentCameraId" />
-        <option value="tag:trungnk " />
-        <option value="is:crash " />
-        <option value="package:mine  &amp; tag:Camera2ControllerAPI24 | tag:Trungnk" />
-        <option value="package:mine  &amp; tag:Camera2ControllerAPI24" />
-        <option value="package:mine  " />
-        <option value="tag:okhttp " />
-        <option value="tag:Trungnk " />
+        <option value="package:codepro.kidsonline.debug  | tag:okhttp " />
         <option value="package:com.kidsonline.attendance.debug &amp; tag:Trungnk " />
         <option value="tag:trungnk" />
         <option value="package:mine &amp; tag:trungnk" />
@@ -22,7 +11,18 @@
         <option value=" " />
         <option value="package:mine &amp; tag:Trungnk" />
         <option value="tag:flutter " />
+        <option value="tag:okhttp " />
+        <option value="package:mine " />
         <option value="package:mine &amp; tag:Trungnk " />
+        <option value="package:mine" />
+        <option value="package:mine &amp; package:mine " />
+        <option value="package:mine &amp; tag:okhttp " />
+        <option value="package:mine &amp; level:warn " />
+        <option value="http" />
+        <option value="ok" />
+        <option value=" tag:okhttp" />
+        <option value="package:codepro.kidsonline.debug " />
+        <option value="level:warn " />
       </list>
     </option>
   </component>
