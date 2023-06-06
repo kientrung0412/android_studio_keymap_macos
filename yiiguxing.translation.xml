@@ -82,7 +82,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1684314476910" />
+    <option name="lastTrimTime" value="1685506589979" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="VIETNAMESE" />
@@ -92,6 +92,8 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Bad state: Future already completed" />
+      <item value="The following StateError was thrown during a platform message callback:" />
       <item value="MODE MULTI PROCESS" />
       <item value="MODE WORLD WRITEABLE" />
       <item value="MODE WORLD READABLE" />
@@ -130,10 +132,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="24" />
+        <entry key="ENGLISH" value="27" />
         <entry key="INDONESIAN" value="2" />
         <entry key="LAO" value="2" />
-        <entry key="VIETNAMESE" value="24" />
+        <entry key="VIETNAMESE" value="27" />
       </map>
     </option>
   </component>
