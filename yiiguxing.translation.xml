@@ -85,13 +85,16 @@
     <option name="lastTrimTime" value="1685506589979" />
   </component>
   <component name="Translation.Settings">
-    <option name="primaryLanguage" value="VIETNAMESE" />
+    <option name="primaryLanguage" value="ENGLISH" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogWidth" value="596" />
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="android" />
+      <item value="use Level" />
+      <item value="thickness" />
       <item value="Bad state: Future already completed" />
       <item value="The following StateError was thrown during a platform message callback:" />
       <item value="MODE MULTI PROCESS" />
