@@ -82,7 +82,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1685506589979" />
+    <option name="lastTrimTime" value="1688057532822" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="ENGLISH" />
@@ -92,6 +92,7 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="ascent" />
       <item value="android" />
       <item value="use Level" />
       <item value="thickness" />
@@ -135,10 +136,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="27" />
+        <entry key="ENGLISH" value="28" />
         <entry key="INDONESIAN" value="2" />
         <entry key="LAO" value="2" />
-        <entry key="VIETNAMESE" value="27" />
+        <entry key="VIETNAMESE" value="28" />
       </map>
     </option>
   </component>
