@@ -88,10 +88,20 @@
     <option name="primaryLanguage" value="ENGLISH" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="chiều dọc" />
+      <item value="chiều docọc" />
+      <item value="chiều" />
+      <item value="chiiều" />
+      <item value="chieiều" />
+      <item value="c" />
+      <item value="ch" />
+      <item value="Chiều ngang&#10;" />
+      <item value="Chii" />
+      <item value="chieeuf" />
       <item value="ascent" />
       <item value="android" />
       <item value="use Level" />
@@ -132,7 +142,6 @@
       <item value="VISIBILITY VISIBLE NOTIFY COMPLETED" />
       <item value="File saved to %s" />
       <item value="You need memory permission to download this file" />
-      <item value="&#10;The result of error is not used" />
     </histories>
     <option name="languageScores">
       <map>
