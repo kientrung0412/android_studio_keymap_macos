@@ -14,6 +14,7 @@
     <entry key="ide.images.show.chessboard" value="true" />
     <entry key="debugger.new.tool.window.layout" value="true" />
     <entry key="ide.experimental.ui.inter.font" value="false" />
+    <entry key="idea.plugins.compatible.build" value="" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
