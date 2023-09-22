@@ -19,6 +19,7 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
+        <entry key="ReadOnlyAttribute" value="false" />
         <entry key="com.codota.intellij.common.notifier.CodotaStatusWidget" value="false" />
       </map>
     </option>
