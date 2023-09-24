@@ -93,6 +93,7 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="suffix" />
       <item value="利用ポイント" />
       <item value="保有ポイント" />
       <item value="chiều dọc" />
@@ -142,14 +143,13 @@
       <item value="contingency" />
       <item value="rotation Count" />
       <item value="Handle contingency" />
-      <item value="VISIBILITY VISIBLE NOTIFY COMPLETED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="28" />
+        <entry key="ENGLISH" value="30" />
         <entry key="INDONESIAN" value="2" />
         <entry key="LAO" value="2" />
-        <entry key="VIETNAMESE" value="29" />
+        <entry key="VIETNAMESE" value="30" />
       </map>
     </option>
   </component>
