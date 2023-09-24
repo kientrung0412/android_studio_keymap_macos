@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is" />
+    <option name="mostRecentlyUsed" value="validateConfirmPayment" />
     <option name="nonFavorites">
       <list>
+        <option value="validateConfirmPayment" />
+        <option value="Trungnk" />
         <option value="is" />
         <option value="is:crash" />
         <option value="tag:flutter " />
@@ -21,8 +23,6 @@
         <option value="package:mine &amp; tag:Trungnk " />
         <option value="package:mine" />
         <option value="package:mine &amp; package:mine " />
-        <option value="package:mine &amp; tag:okhttp " />
-        <option value="package:mine &amp; level:warn " />
       </list>
     </option>
   </component>
