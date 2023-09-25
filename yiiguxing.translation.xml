@@ -89,10 +89,12 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="260" />
-    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogWidth" value="588" />
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="残高が不足しているため、支払選択に進みます。 よろしいですか？" />
+      <item value="残高不足" />
       <item value="suffix" />
       <item value="利用ポイント" />
       <item value="保有ポイント" />
@@ -141,13 +143,12 @@
       <item value="Đang tải xuống tệp" />
       <item value="allow Cellular" />
       <item value="contingency" />
-      <item value="rotation Count" />
-      <item value="Handle contingency" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="30" />
         <entry key="INDONESIAN" value="2" />
+        <entry key="JAPANESE" value="1" />
         <entry key="LAO" value="2" />
         <entry key="VIETNAMESE" value="30" />
       </map>
