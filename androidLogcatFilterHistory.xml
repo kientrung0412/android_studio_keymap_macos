@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="validateConfirmPayment" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="is:crash " />
         <option value="validateConfirmPayment" />
         <option value="Trungnk" />
         <option value="is" />
         <option value="is:crash" />
         <option value="tag:flutter " />
         <option value="package:mine " />
-        <option value="is:crash " />
         <option value="tag:Trungnk" />
         <option value="tag:okhttp" />
         <option value="package:codepro.kidsonline.debug  | tag:okhttp " />
