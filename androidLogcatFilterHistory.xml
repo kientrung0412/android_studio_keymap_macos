@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="TrungNK" />
+    <option name="mostRecentlyUsed" value="Trungnk" />
     <option name="nonFavorites">
       <list>
         <option value="Trungnk" />
-        <option value="TrungNK" />
         <option value="is:crash " />
+        <option value="TicketSelectFragment" />
+        <option value="TrungNK" />
         <option value="Trung" />
         <option value="caseE000" />
         <option value="case" />
@@ -22,7 +23,6 @@
         <option value="tag:trungnk" />
         <option value="package:mine &amp; tag:trungnk" />
         <option value=" http" />
-        <option value=" " />
       </list>
     </option>
   </component>
