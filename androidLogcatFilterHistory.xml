@@ -4,9 +4,13 @@
     <option name="nonFavorites">
       <list>
         <option value="is:crash " />
+        <option value="Trung" />
+        <option value="caseE000" />
+        <option value="case" />
+        <option value="Trungnk" />
+        <option value="trungnk" />
         <option value="is:crash" />
         <option value="validateConfirmPayment" />
-        <option value="Trungnk" />
         <option value="is" />
         <option value="tag:flutter " />
         <option value="package:mine " />
@@ -19,10 +23,6 @@
         <option value=" http" />
         <option value=" " />
         <option value="package:mine &amp; tag:Trungnk" />
-        <option value="tag:okhttp " />
-        <option value="package:mine &amp; tag:Trungnk " />
-        <option value="package:mine" />
-        <option value="package:mine &amp; package:mine " />
       </list>
     </option>
   </component>
