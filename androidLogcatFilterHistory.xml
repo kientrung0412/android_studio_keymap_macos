@@ -4,10 +4,10 @@
     <option name="nonFavorites">
       <list>
         <option value="is:crash " />
+        <option value="is:crash" />
         <option value="validateConfirmPayment" />
         <option value="Trungnk" />
         <option value="is" />
-        <option value="is:crash" />
         <option value="tag:flutter " />
         <option value="package:mine " />
         <option value="tag:Trungnk" />
