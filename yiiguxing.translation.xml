@@ -82,7 +82,7 @@
     </option>
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1695550975720" />
+    <option name="lastTrimTime" value="1696155314532" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="ENGLISH" />
@@ -93,6 +93,7 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="reversed Array" />
       <item value="残高が不足しているため、支払選択に進みます。 よろしいですか？" />
       <item value="残高不足" />
       <item value="suffix" />
@@ -142,15 +143,14 @@
       <item value="Không có ứng dụng để mở loại tệp này" />
       <item value="Đang tải xuống tệp" />
       <item value="allow Cellular" />
-      <item value="contingency" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="30" />
+        <entry key="ENGLISH" value="31" />
         <entry key="INDONESIAN" value="2" />
         <entry key="JAPANESE" value="1" />
         <entry key="LAO" value="2" />
-        <entry key="VIETNAMESE" value="30" />
+        <entry key="VIETNAMESE" value="31" />
       </map>
     </option>
   </component>
