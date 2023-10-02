@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="is:crash " />
+    <option name="mostRecentlyUsed" value="is:crash" />
     <option name="nonFavorites">
       <list>
+        <option value="is:crash" />
         <option value="is:crash " />
         <option value="TrungNK" />
         <option value="Trungnk" />
@@ -11,7 +12,6 @@
         <option value="caseE000" />
         <option value="case" />
         <option value="trungnk" />
-        <option value="is:crash" />
         <option value="validateConfirmPayment" />
         <option value="is" />
         <option value="tag:flutter " />
