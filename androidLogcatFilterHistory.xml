@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="is:crash " />
+        <option value="package:jp.aeon.credit" />
         <option value="is:crash" />
         <option value="TrungNK" />
         <option value="Trungnk" />
@@ -22,7 +23,6 @@
         <option value="package:com.kidsonline.attendance.debug &amp; tag:Trungnk " />
         <option value="tag:trungnk" />
         <option value="package:mine &amp; tag:trungnk" />
-        <option value=" http" />
       </list>
     </option>
   </component>
