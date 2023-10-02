@@ -89,10 +89,16 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="260" />
-    <option name="newTranslationDialogWidth" value="578" />
+    <option name="newTranslationDialogWidth" value="572" />
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="累計ポイント" />
+      <item value="買上總額" />
+      <item value="before Available Point" />
+      <item value="available Point" />
+      <item value="monthly Amount" />
+      <item value="デジタルお買物券利用" />
       <item value="カード会社控え&#10;" />
       <item value="取消" />
       <item value="company Name" />
@@ -137,20 +143,14 @@
       <item value="MODE WORLD WRITEABLE" />
       <item value="MODE WORLD READABLE" />
       <item value="MODE PRIVATE" />
-      <item value="Preferences Mode" />
-      <item value="get Current Identity Index" />
-      <item value="has Record Attendance" />
-      <item value="is_confirmed" />
-      <item value="set Is Feature Image" />
-      <item value="count Student Has Image" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="40" />
+        <entry key="ENGLISH" value="43" />
         <entry key="INDONESIAN" value="2" />
         <entry key="JAPANESE" value="2" />
         <entry key="LAO" value="2" />
-        <entry key="VIETNAMESE" value="44" />
+        <entry key="VIETNAMESE" value="46" />
       </map>
     </option>
   </component>
