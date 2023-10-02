@@ -89,10 +89,12 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="260" />
-    <option name="newTranslationDialogWidth" value="584" />
+    <option name="newTranslationDialogWidth" value="582" />
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Payment" />
+      <item value="Thanh toan" />
       <item value="Format specifier '%s'" />
       <item value="Biình thuường" />
       <item value="Biình th" />
@@ -141,16 +143,14 @@
       <item value="use Pick Up Late" />
       <item value="is Already Attendance" />
       <item value="is Use Face Recognition" />
-      <item value="update-students-attendance-appearance" />
-      <item value="Flutter expects a build configuration named Debug-ko or similar." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="38" />
+        <entry key="ENGLISH" value="39" />
         <entry key="INDONESIAN" value="2" />
-        <entry key="JAPANESE" value="1" />
+        <entry key="JAPANESE" value="2" />
         <entry key="LAO" value="2" />
-        <entry key="VIETNAMESE" value="41" />
+        <entry key="VIETNAMESE" value="43" />
       </map>
     </option>
   </component>
