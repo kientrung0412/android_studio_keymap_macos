@@ -93,6 +93,10 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="store" />
+      <item value="s" />
+      <item value="combine&#10;" />
+      <item value="c" />
       <item value="is Negative Number" />
       <item value="お買物券番号を入力してください。" />
       <item value="reversed Array" />
@@ -106,7 +110,6 @@
       <item value="chiều" />
       <item value="chiiều" />
       <item value="chieiều" />
-      <item value="c" />
       <item value="ch" />
       <item value="Chiều ngang&#10;" />
       <item value="Chii" />
@@ -140,9 +143,6 @@
       <item value="Hie êiệu na ăng" />
       <item value="Hie êiệu " />
       <item value="hieeuj " />
-      <item value="  ///Returns the file from memory if it has already been fetched&#10;" />
-      <item value="Connection closed before full header was received" />
-      <item value="Không có ứng dụng để mở loại tệp này" />
     </histories>
     <option name="languageScores">
       <map>
@@ -150,7 +150,7 @@
         <entry key="INDONESIAN" value="2" />
         <entry key="JAPANESE" value="1" />
         <entry key="LAO" value="2" />
-        <entry key="VIETNAMESE" value="32" />
+        <entry key="VIETNAMESE" value="34" />
       </map>
     </option>
   </component>
