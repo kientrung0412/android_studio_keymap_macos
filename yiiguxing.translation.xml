@@ -93,6 +93,7 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="Format specifier '%s'" />
       <item value="Biình thuường" />
       <item value="Biình th" />
       <item value="Binhf" />
@@ -142,7 +143,6 @@
       <item value="is Use Face Recognition" />
       <item value="update-students-attendance-appearance" />
       <item value="Flutter expects a build configuration named Debug-ko or similar." />
-      <item value="the absolute paths to application-specific directories. Some individual paths may be null if that shared storage is not currently available." />
     </histories>
     <option name="languageScores">
       <map>
@@ -150,7 +150,7 @@
         <entry key="INDONESIAN" value="2" />
         <entry key="JAPANESE" value="1" />
         <entry key="LAO" value="2" />
-        <entry key="VIETNAMESE" value="40" />
+        <entry key="VIETNAMESE" value="41" />
       </map>
     </option>
   </component>
