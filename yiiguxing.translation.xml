@@ -89,10 +89,11 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="260" />
-    <option name="newTranslationDialogWidth" value="582" />
+    <option name="newTranslationDialogWidth" value="580" />
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="取消" />
       <item value="company Name" />
       <item value="カード会社用" />
       <item value="お客様控え&#10;" />
@@ -142,7 +143,6 @@
       <item value="set Is Feature Image" />
       <item value="count Student Has Image" />
       <item value="can Take Picture" />
-      <item value="is Confirmed" />
     </histories>
     <option name="languageScores">
       <map>
