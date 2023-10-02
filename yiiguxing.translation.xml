@@ -93,6 +93,7 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="company Name" />
       <item value="カード会社用" />
       <item value="お客様控え&#10;" />
       <item value="お客様控え" />
@@ -142,11 +143,10 @@
       <item value="count Student Has Image" />
       <item value="can Take Picture" />
       <item value="is Confirmed" />
-      <item value="used Pickup Late" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="39" />
+        <entry key="ENGLISH" value="40" />
         <entry key="INDONESIAN" value="2" />
         <entry key="JAPANESE" value="2" />
         <entry key="LAO" value="2" />
