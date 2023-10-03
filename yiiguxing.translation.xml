@@ -89,10 +89,12 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="260" />
-    <option name="newTranslationDialogWidth" value="570" />
+    <option name="newTranslationDialogWidth" value="566" />
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="イオンカードお買物券支払" />
+      <item value="現金・金券支払" />
       <item value="決 済" />
       <item value="java.lang.IllegalStateException: Module entity with name: Apollo_QRcode should be available&#10;" />
       <item value="累計ポイント" />
@@ -141,8 +143,6 @@
       <item value="thickness" />
       <item value="Bad state: Future already completed" />
       <item value="The following StateError was thrown during a platform message callback:" />
-      <item value="MODE MULTI PROCESS" />
-      <item value="MODE WORLD WRITEABLE" />
     </histories>
     <option name="languageScores">
       <map>
