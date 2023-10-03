@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="printList" />
+    <option name="mostRecentlyUsed" value="is:crash " />
     <option name="nonFavorites">
       <list>
-        <option value="printList" />
         <option value="is:crash " />
+        <option value="printList" />
         <option value="is:crash" />
         <option value="package:mine " />
         <option value="package:jp.aeon.credit" />
