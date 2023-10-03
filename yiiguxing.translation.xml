@@ -93,6 +93,7 @@
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
+      <item value="java.lang.IllegalStateException: Module entity with name: Apollo_QRcode should be available&#10;" />
       <item value="累計ポイント" />
       <item value="買上總額" />
       <item value="before Available Point" />
@@ -142,7 +143,6 @@
       <item value="MODE MULTI PROCESS" />
       <item value="MODE WORLD WRITEABLE" />
       <item value="MODE WORLD READABLE" />
-      <item value="MODE PRIVATE" />
     </histories>
     <option name="languageScores">
       <map>
@@ -150,7 +150,7 @@
         <entry key="INDONESIAN" value="2" />
         <entry key="JAPANESE" value="2" />
         <entry key="LAO" value="2" />
-        <entry key="VIETNAMESE" value="46" />
+        <entry key="VIETNAMESE" value="47" />
       </map>
     </option>
   </component>
