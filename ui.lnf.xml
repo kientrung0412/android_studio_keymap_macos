@@ -2,7 +2,9 @@
   <component name="UISettings">
     <option name="MAX_LOOKUP_WIDTH2" value="791" />
     <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
+    <option name="OPEN_TABS_AT_THE_END" value="true" />
     <option name="PRESENTATION_MODE_FONT_SIZE" value="23" />
+    <option name="REUSE_NOT_MODIFIED_TABS" value="true" />
     <option name="SORT_LOOKUP_ELEMENTS_LEXICOGRAPHICALLY" value="true" />
     <option name="CONTRAST_SCROLLBARS" value="true" />
   </component>
