@@ -89,12 +89,12 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="260" />
-    <option name="newTranslationDialogWidth" value="564" />
+    <option name="newTranslationDialogWidth" value="562" />
     <option name="newTranslationDialogX" value="794" />
     <option name="newTranslationDialogY" value="484" />
     <histories>
-      <item value="detached" />
       <item value="tách ra" />
+      <item value="detached" />
       <item value="tách" />
       <item value="tac ách" />
       <item value="tachs" />
@@ -147,11 +147,11 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="50" />
+        <entry key="ENGLISH" value="57" />
         <entry key="INDONESIAN" value="2" />
         <entry key="JAPANESE" value="3" />
         <entry key="LAO" value="2" />
-        <entry key="VIETNAMESE" value="52" />
+        <entry key="VIETNAMESE" value="59" />
       </map>
     </option>
   </component>
